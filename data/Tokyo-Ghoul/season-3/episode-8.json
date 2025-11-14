@@ -1,0 +1,37 @@
+{
+  "series": "Tokyo Ghoul",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/y2roOFsew9nJKKVwwJCHSyzgpK9.jpg",
+  "season": 3,
+  "episode": 8,
+  "episode_title": "Episode 8",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/y2roOFsew9nJKKVwwJCHSyzgpK9.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/kXJPBPjleYY2jyBxjKSIjnfRLgy.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/kXJPBPjleYY2jyBxjKSIjnfRLgy.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://rubystm.com/e/opkkgmu8ymtf.html"
+    },
+    {
+      "option": 2,
+      "real_video": "https://cloudy.upns.one/#n35bda"
+    },
+    {
+      "option": 3,
+      "real_video": "https://strmup.to/3iNpCwGflKcvF"
+    },
+    {
+      "option": 4,
+      "real_video": "https://turbovidhls.com/t/6902455179719"
+    },
+    {
+      "option": 5,
+      "real_video": "https://vidmoly.net/embed-5zzgxwxze66k.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://short.icu/1oGjf5STh"
+    }
+  ]
+}

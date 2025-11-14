@@ -1,0 +1,17 @@
+{
+  "series": "Pokémon",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/rOuGm07PxBhEsK9TaGPRQVJQm1X.jpg",
+  "season": 3,
+  "episode": 22,
+  "episode_title": "Episode 22",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/rOuGm07PxBhEsK9TaGPRQVJQm1X.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/cp1WnZ00Cd68IrwsW4NVYgjiv1W.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/cp1WnZ00Cd68IrwsW4NVYgjiv1W.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/Z8EKz5ZECo5b/"
+    }
+  ]
+}

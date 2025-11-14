@@ -1,0 +1,21 @@
+{
+  "series": "Classroom of the Elite",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/8BtSk9DGIlS24otIB3qCagVCI6W.jpg",
+  "season": 2,
+  "episode": 13,
+  "episode_title": "Episode 13",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/8BtSk9DGIlS24otIB3qCagVCI6W.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/d3ML6HoEhX8n1BZWXs4TxdQ6gVj.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/d3ML6HoEhX8n1BZWXs4TxdQ6gVj.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/-AbWY94v8"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/DRHPtEOgLE3c/"
+    }
+  ]
+}

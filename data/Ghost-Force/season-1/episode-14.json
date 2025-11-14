@@ -1,0 +1,29 @@
+{
+  "series": "Ghost Force",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/u2GaUHtzwqUEoR9BYXdbFGwIUI7.jpg",
+  "season": 1,
+  "episode": 14,
+  "episode_title": "Episode 14",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/u2GaUHtzwqUEoR9BYXdbFGwIUI7.jpg",
+  "episode_card_thumbnail": "https://i.imgur.com/1QDXmV0.jpg",
+  "episode_list_thumbnail": "https://i.imgur.com/1QDXmV0.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://watchsb.com/e/n7rnpftzu7ti.html"
+    },
+    {
+      "option": 2,
+      "real_video": "https://filemoon.to/e/p3y1gpc99oex/_Toonhub4u__Ghostforce_Season_1_Episode_14_Multi_Audio_480p.mp4"
+    },
+    {
+      "option": 3,
+      "real_video": "https://filepress.lol/video/63b02a98bc2e53f25461c38d"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/LvZV3iZogAiV/"
+    }
+  ]
+}

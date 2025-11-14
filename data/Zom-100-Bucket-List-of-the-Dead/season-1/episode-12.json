@@ -1,0 +1,37 @@
+{
+  "series": "Zom 100: Bucket List of the Dead",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/XzOeAppGpnsSAiK82idkg0BoCt.jpg",
+  "season": 1,
+  "episode": 12,
+  "episode_title": "Episode 12",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/XzOeAppGpnsSAiK82idkg0BoCt.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/suSs5yDt4Qls6kLRdUdSEiSMs81.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/suSs5yDt4Qls6kLRdUdSEiSMs81.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/Fd4VcAx9ZirA/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/nHApZ4dGr"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/u7l4tr9"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/xl91g2z"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/woszfqv"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/4dbf29d90d5780cab50897fb955e4373"
+    }
+  ]
+}

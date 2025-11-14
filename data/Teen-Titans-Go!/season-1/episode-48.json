@@ -1,0 +1,33 @@
+{
+  "series": "Teen Titans Go!",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/mTMAxrRaDp0TFpdFVinD3grrqr9.jpg",
+  "season": 1,
+  "episode": 48,
+  "episode_title": "Episode 48",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/mTMAxrRaDp0TFpdFVinD3grrqr9.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/e2yZvrQ3N8ZQ88xNnkS1LsFHtYK.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/e2yZvrQ3N8ZQ88xNnkS1LsFHtYK.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/RFGFpJjX5"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/gb5n5yj"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/erkrn63"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/dlkqsmq"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/AfMJ6FEKJLf4/"
+    }
+  ]
+}

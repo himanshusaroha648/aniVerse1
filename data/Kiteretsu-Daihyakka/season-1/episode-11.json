@@ -1,0 +1,37 @@
+{
+  "series": "Kiteretsu Daihyakka",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/icTY9mQcyjzinblLnkdQR7CWgPa.jpg",
+  "season": 1,
+  "episode": 11,
+  "episode_title": "Episode 11",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/icTY9mQcyjzinblLnkdQR7CWgPa.jpg",
+  "episode_card_thumbnail": "https://toonstream.love/wp-content/themes/torofilm/public/img/cnt/noimg-episode.png",
+  "episode_list_thumbnail": "https://toonstream.love/wp-content/themes/torofilm/public/img/cnt/noimg-episode.png",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://rubystm.com/e/lmub3lo19d48.html"
+    },
+    {
+      "option": 2,
+      "real_video": "https://cloudy.upns.one/#j398u3"
+    },
+    {
+      "option": 3,
+      "real_video": "https://strmup.to/FjR1bc8yBmzvM"
+    },
+    {
+      "option": 4,
+      "real_video": "https://turbovidhls.com/t/68c00f4ccbfb5"
+    },
+    {
+      "option": 5,
+      "real_video": "https://vidmoly.net/embed-z8f2mvinu0dc.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://short.icu/d4B5q8a5W"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "series": "Regular Show",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/mS5SLxMYcKfUxA0utBSR5MOAWWr.jpg",
+  "season": 2,
+  "episode": 2,
+  "episode_title": "Episode 2",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/mS5SLxMYcKfUxA0utBSR5MOAWWr.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/oSWq1Qdplk8Bo8q33eHNfKdwx1C.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/oSWq1Qdplk8Bo8q33eHNfKdwx1C.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/0gPy6wjiV"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/pj2tegb"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/q11c0a2"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/jn200pj"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/2OzWtEu1dxgd/"
+    }
+  ]
+}

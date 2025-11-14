@@ -1,0 +1,33 @@
+{
+  "series": "Love, Death & Robots",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/vvRpJJxAw1sB4w4r0hsOdqa9eJc.jpg",
+  "season": 1,
+  "episode": 9,
+  "episode_title": "Episode 9",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/vvRpJJxAw1sB4w4r0hsOdqa9eJc.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/igeZxlYINielhtiqOLehdUbZlwL.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/igeZxlYINielhtiqOLehdUbZlwL.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/YtCKXNPaig5P/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/P9qoC6GFj"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/h5060ff"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/phu3j4s"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/36ef259d4d9967f3a81aa326160128c7"
+    }
+  ]
+}

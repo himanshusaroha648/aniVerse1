@@ -1,0 +1,45 @@
+{
+  "series": "Mission: Yozakura Family (Eng-Jap)",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/dTtXbR0DenriganfBidZxFLk4Xx.jpg",
+  "season": 1,
+  "episode": 19,
+  "episode_title": "Episode 19",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/dTtXbR0DenriganfBidZxFLk4Xx.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/dhXXnNnG0xCmqaNRUd2nOsIuBuk.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/dhXXnNnG0xCmqaNRUd2nOsIuBuk.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/ElVKDwTrw"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/btd1tk2jzzr6.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://strmup.to//k6opvOXuhPmRZ"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/y9cdxfp"
+    },
+    {
+      "option": 5,
+      "real_video": "https://turbovidhls.com/t/68a6b4c893f43"
+    },
+    {
+      "option": 6,
+      "real_video": "https://vidmoly.net/embed-u5528a83vkx5.html"
+    },
+    {
+      "option": 7,
+      "real_video": "https://cloudy.upns.one/#v1ki5f"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/f7u3lZGVYl6t/"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "series": "The Apothecary Diaries",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/oWiZZpg3LwY6WSnaE63Cc453lcw.jpg",
+  "season": 1,
+  "episode": 17,
+  "episode_title": "Episode 17",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/oWiZZpg3LwY6WSnaE63Cc453lcw.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/wahEWKAq9HFzMLVxBCexHFWLlWd.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/wahEWKAq9HFzMLVxBCexHFWLlWd.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/Ih0kbHT1gC4h/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/SOYGVEGG8Y"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/bsn0x09"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/swrzf59"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/ihttcq8"
+    },
+    {
+      "option": 6,
+      "real_video": "https://raretoonsindia.co/ex/PpDwpKxf5KTIlxO"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/2c463dfdde588f3bfc60d53118c10d6b"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "series": "Black Summoner",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/ie1zLLjtspacRfpcVkLvNt7mUx9.jpg",
+  "season": 1,
+  "episode": 3,
+  "episode_title": "Episode 3",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/ie1zLLjtspacRfpcVkLvNt7mUx9.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/c29UTlRLRkRRNNPNigtcaLZLb1M.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/c29UTlRLRkRRNNPNigtcaLZLb1M.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/hh-20T9hA"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/725eokm8zxjn.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#lucuoh"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/sedfr8c"
+    },
+    {
+      "option": 5,
+      "real_video": "https://emturbovid.com/t/67ee4edf15a2e"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/DOEXx4VR0tEa/"
+    }
+  ]
+}

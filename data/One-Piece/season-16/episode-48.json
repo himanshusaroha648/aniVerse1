@@ -1,0 +1,25 @@
+{
+  "series": "One Piece",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/dum1wnm6kJOUos0XJqjB8s2UWi9.jpg",
+  "season": 16,
+  "episode": 48,
+  "episode_title": "Episode 48",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/dum1wnm6kJOUos0XJqjB8s2UWi9.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/2OJGML9YMWv6jfIxLhTfOCZjIQd.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/2OJGML9YMWv6jfIxLhTfOCZjIQd.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://rubystm.com/e/3ytdw9aa942y.html"
+    },
+    {
+      "option": 2,
+      "real_video": "https://strmup.to/b3NnfKB4Fu64"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/ZvIM9OOPY0Xy/"
+    }
+  ]
+}

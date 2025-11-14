@@ -1,0 +1,37 @@
+{
+  "series": "Mob Psycho 100 English Dub",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/vR7hwaGQ0ySRoq1WobiNRaPs4WO.jpg",
+  "season": 3,
+  "episode": 8,
+  "episode_title": "Episode 8",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/vR7hwaGQ0ySRoq1WobiNRaPs4WO.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/hRDnMLOlATDfXM7T0Yp3niyIsoW.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/hRDnMLOlATDfXM7T0Yp3niyIsoW.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/q2LWXGGGk"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/tfm8dqh"
+    },
+    {
+      "option": 3,
+      "real_video": "https://vidstreaming.xyz/v/heqEIvFxlzV2/"
+    },
+    {
+      "option": 4,
+      "real_video": "https://short.icu/q2LWXGGGk"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/tfm8dqh"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/heqEIvFxlzV2/"
+    }
+  ]
+}

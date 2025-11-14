@@ -1,0 +1,41 @@
+{
+  "series": "Rurouni Kenshin",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/jCMbKOH4iootEBXNa5e4jKoeTSU.jpg",
+  "season": 1,
+  "episode": 10,
+  "episode_title": "Episode 10",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/jCMbKOH4iootEBXNa5e4jKoeTSU.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/22h9PGOesVYAgITAfXtjXWzJ7ct.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/22h9PGOesVYAgITAfXtjXWzJ7ct.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/XynT6cHMQPGI/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/afqeuw38xqcy.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://short.icu/E0YNKYuun"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/mgvm0la"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/jw1rq53"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/ti9azrq"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/a5e0ff62be0b08456fc7f1e88812af3d"
+    }
+  ]
+}

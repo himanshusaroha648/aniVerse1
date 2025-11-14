@@ -1,0 +1,29 @@
+{
+  "series": "Iron Man",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/zOTJT7JbzSrMBX2OCGPqUnkQA4y.jpg",
+  "season": 1,
+  "episode": 3,
+  "episode_title": "Episode 3",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/zOTJT7JbzSrMBX2OCGPqUnkQA4y.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/wZWYXzGfkr8pZb1O05aarqCpq2M.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/wZWYXzGfkr8pZb1O05aarqCpq2M.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://streamsb.net/e/v415b8yvr3co.html"
+    },
+    {
+      "option": 2,
+      "real_video": "https://filemoon.to/e/2f45yi248uir/_Toonhub4u__Marvel_Anime__Iron_Man_Episode_3_in_Multi_Audio_480p.mp4"
+    },
+    {
+      "option": 3,
+      "real_video": "https://filepress.lol/video/63a407631a0e0658b4f914fa"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/SLO1oUVgavFQ/"
+    }
+  ]
+}

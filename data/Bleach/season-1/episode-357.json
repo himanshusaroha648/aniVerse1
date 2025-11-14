@@ -1,0 +1,25 @@
+{
+  "series": "Bleach",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
+  "season": 1,
+  "episode": 357,
+  "episode_title": "Episode 357",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/9GZsOMWNnA8rMb7SPj9YIX8hZnX.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/9GZsOMWNnA8rMb7SPj9YIX8hZnX.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/4j9hyOj8c"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/einimox"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/ETD2aHn5rT8n/"
+    }
+  ]
+}

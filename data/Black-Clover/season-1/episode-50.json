@@ -1,0 +1,41 @@
+{
+  "series": "Black Clover",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/kZ3ZGOGrUvYKA1erts8ckynMduv.jpg",
+  "season": 1,
+  "episode": 50,
+  "episode_title": "Episode 50",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/kZ3ZGOGrUvYKA1erts8ckynMduv.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/7wD74CGeOkVvFkaCG9VnYNdqAH2.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/7wD74CGeOkVvFkaCG9VnYNdqAH2.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/yLTUpjLK4nk7/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/QcYdmYHMtN"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/ph01hhi"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/n0jq8sp"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/vgwvh6g"
+    },
+    {
+      "option": 6,
+      "real_video": "https://raretoonsindia.co/ex/Bxa0a4NvFHQKUJc"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/11f524c3fbfeeca4aa916edcb6b6392e"
+    }
+  ]
+}

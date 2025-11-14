@@ -1,0 +1,37 @@
+{
+  "series": "The Case Study of Vanitas",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/fvqoSfyfQG0hH9nJAvubq730ymR.jpg",
+  "season": 1,
+  "episode": 23,
+  "episode_title": "Episode 23",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/fvqoSfyfQG0hH9nJAvubq730ymR.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/v4GqUbwnaliDJ4ZJP9o4cF54xAO.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/v4GqUbwnaliDJ4ZJP9o4cF54xAO.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/ASeHaxo0cnOu/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/kQCQ01_NS"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/sqal0z0"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/p7ihm8z"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/s0f5fq4"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/281683d0650eb208fa2138978a675665"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "series": "Tokyo Revengers",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/arB3L9pZZBSzUPSC8BEv8c3X0bF.jpg",
+  "season": 1,
+  "episode": 20,
+  "episode_title": "Episode 20",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/arB3L9pZZBSzUPSC8BEv8c3X0bF.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/1BwUPV4RHuxUVeQC1ZzOLuYMs5C.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/1BwUPV4RHuxUVeQC1ZzOLuYMs5C.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://rubystm.com/e/x9fjiaqxx06x.html"
+    },
+    {
+      "option": 2,
+      "real_video": "https://strmup.to/fC48Zcrs0eJS"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#ncmfk6"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/2hnKraemChlE/"
+    }
+  ]
+}

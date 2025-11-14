@@ -1,0 +1,33 @@
+{
+  "series": "Bakugan Battle Brawlers",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/vptVwP1uej035bHzirMtEMSndn.jpg",
+  "season": 1,
+  "episode": 11,
+  "episode_title": "Episode 11",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/vptVwP1uej035bHzirMtEMSndn.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/3eKdhFZBwBTxSNCSOfQre5wO0xf.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/3eKdhFZBwBTxSNCSOfQre5wO0xf.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/5QycRgDZs"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/xuy3uvr"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/rc0j5wa"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/rm0g06m"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/0mQD4aJYaJ1A/"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "series": "Transformers: Prime",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/ilOKsGRHYc78R2tSMusAd3xGJWq.jpg",
+  "season": 2,
+  "episode": 22,
+  "episode_title": "Episode 22",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/ilOKsGRHYc78R2tSMusAd3xGJWq.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/3OPypCkGCtUgzIIebhvdj1sJi38.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/3OPypCkGCtUgzIIebhvdj1sJi38.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/qT6P9ZQjMAxj/"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/c4819d06b0ca810d38506453cfaae9d8"
+    }
+  ]
+}

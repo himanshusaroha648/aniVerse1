@@ -1,0 +1,33 @@
+{
+  "series": "Regular Show",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/mS5SLxMYcKfUxA0utBSR5MOAWWr.jpg",
+  "season": 2,
+  "episode": 19,
+  "episode_title": "Episode 19",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/mS5SLxMYcKfUxA0utBSR5MOAWWr.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/bRAHKQhCr7OrVmG9F996xKeehfB.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/bRAHKQhCr7OrVmG9F996xKeehfB.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/30NbqN7sb"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/rkdzuil"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/r5r8qgg"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/w5cwl6y"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/olBPdrThb5pU/"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "series": "Zatch Bell!",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/1JaCkXXU7gB8tHmvuzpu36CgGr1.jpg",
+  "season": 1,
+  "episode": 46,
+  "episode_title": "Episode 46",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/1JaCkXXU7gB8tHmvuzpu36CgGr1.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/4BBWF2FG3SU6xzLim4f5tEt2v7n.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/4BBWF2FG3SU6xzLim4f5tEt2v7n.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/J6xmDzvXZ"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/qd0icsy"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/ejYY7EFoWE1h/"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "series": "DuckTales",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/muplnM90daPCQ5Bn1olcwN1EO22.jpg",
+  "season": 1,
+  "episode": 38,
+  "episode_title": "Episode 38",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/muplnM90daPCQ5Bn1olcwN1EO22.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/sc7TnJBMwt4SehhWCGuj3h06gGa.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/sc7TnJBMwt4SehhWCGuj3h06gGa.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/BdVqS2kL2xIo/"
+    }
+  ]
+}

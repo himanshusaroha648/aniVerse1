@@ -1,0 +1,21 @@
+{
+  "series": "Akame ga Kill!",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/3c5BIEfAhTCWrIi4C8WMuwOl6bX.jpg",
+  "season": 1,
+  "episode": 8,
+  "episode_title": "Episode 8",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/3c5BIEfAhTCWrIi4C8WMuwOl6bX.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/ul4hedz67Z9gKboSB1mpP5M2LJC.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/ul4hedz67Z9gKboSB1mpP5M2LJC.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/IVitl61Rx"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/vtenlySnd36a/"
+    }
+  ]
+}

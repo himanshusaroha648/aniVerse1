@@ -1,0 +1,41 @@
+{
+  "series": "Dragon Ball Super",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/qEUrbXJ2qt4Rg84Btlx4STOhgte.jpg",
+  "season": 1,
+  "episode": 77,
+  "episode_title": "Episode 77",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/qEUrbXJ2qt4Rg84Btlx4STOhgte.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/w1qJLaGGOIdTKKjeAoXgvvWJXCb.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/w1qJLaGGOIdTKKjeAoXgvvWJXCb.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/HUfhLADwV"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/2mciyiq5gjml.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#ghvhmj"
+    },
+    {
+      "option": 4,
+      "real_video": "https://strmup.to/TKr3SniqBIsyN"
+    },
+    {
+      "option": 5,
+      "real_video": "https://turbovidhls.com/t/68b692c29b0e6"
+    },
+    {
+      "option": 6,
+      "real_video": "https://vidmoly.net/embed-ikpuvgqefo77.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/99f0e91e4f90ecc1c3bdee598eadca30"
+    }
+  ]
+}

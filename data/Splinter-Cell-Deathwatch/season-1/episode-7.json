@@ -1,0 +1,53 @@
+{
+  "series": "Splinter Cell: Deathwatch",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/33tYEOnFvy2jRm0Tm5u0WwDnPIs.jpg",
+  "season": 1,
+  "episode": 7,
+  "episode_title": "Episode 7",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/33tYEOnFvy2jRm0Tm5u0WwDnPIs.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/fBqjLwwGUzoGPnVjrjETAOeke1Z.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/fBqjLwwGUzoGPnVjrjETAOeke1Z.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/S2MsqHIUz"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/rn5a48lhsli6.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#q53zvs"
+    },
+    {
+      "option": 4,
+      "real_video": "https://strmup.to/ZnwslWi8LJmyA"
+    },
+    {
+      "option": 5,
+      "real_video": "https://turbovidhls.com/t/68ee5ed04d4e4"
+    },
+    {
+      "option": 6,
+      "real_video": "https://vidmoly.net/embed-43klucl130yb.html"
+    },
+    {
+      "option": 7,
+      "real_video": "https://gdmirrorbot.nl/embed/so9o585"
+    },
+    {
+      "option": 8,
+      "real_video": "https://gdmirrorbot.nl/embed/rehn50m"
+    },
+    {
+      "option": 9,
+      "real_video": "https://gdmirrorbot.nl/embed/fbh4v9w"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/5edbb88e4a0768a67fc6804f9d2b7944"
+    }
+  ]
+}

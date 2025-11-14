@@ -1,0 +1,41 @@
+{
+  "series": "Dragon Ball Super",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/qEUrbXJ2qt4Rg84Btlx4STOhgte.jpg",
+  "season": 1,
+  "episode": 67,
+  "episode_title": "Episode 67",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/qEUrbXJ2qt4Rg84Btlx4STOhgte.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/qM8oxQBpd5vbd5SewDLY7PHSY2p.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/qM8oxQBpd5vbd5SewDLY7PHSY2p.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/xVKxwurwq"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/zgopnp0fuemb.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#h91pca"
+    },
+    {
+      "option": 4,
+      "real_video": "https://strmup.to/UxnTelak7Gmi5"
+    },
+    {
+      "option": 5,
+      "real_video": "https://turbovidhls.com/t/68b691fc9633a"
+    },
+    {
+      "option": 6,
+      "real_video": "https://vidmoly.net/embed-qem6lmze15lu.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/f75b757d3459c3e93e98ddab7b903938"
+    }
+  ]
+}

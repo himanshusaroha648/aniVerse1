@@ -1,0 +1,41 @@
+{
+  "series": "Black Clover",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/kZ3ZGOGrUvYKA1erts8ckynMduv.jpg",
+  "season": 1,
+  "episode": 46,
+  "episode_title": "Episode 46",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/kZ3ZGOGrUvYKA1erts8ckynMduv.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/h5R65RxlaavHyINXrBLMCVhp4ZM.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/h5R65RxlaavHyINXrBLMCVhp4ZM.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/liuaYBNVlb8M/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/fGowQOKE9"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/j0s819j"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/pj4dvov"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/ky6tbvr"
+    },
+    {
+      "option": 6,
+      "real_video": "https://raretoonsindia.co/ex/r0ERsHqpGcxBf5B"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/5fa9e41bfec0725742cc9d15ef594120"
+    }
+  ]
+}

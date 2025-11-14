@@ -1,0 +1,53 @@
+{
+  "series": "Hunter x Hunter Hindi Dub",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/9dubj2UQ2xJkzT1AEng6DaGRvLa.jpg",
+  "season": 1,
+  "episode": 15,
+  "episode_title": "Episode 15",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/9dubj2UQ2xJkzT1AEng6DaGRvLa.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/vwQGJWECo9pcMNOiWcNfZZqYUyj.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/vwQGJWECo9pcMNOiWcNfZZqYUyj.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/hcvhibF0jjiV/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/pgRtd-2zk"
+    },
+    {
+      "option": 3,
+      "real_video": "https://rubystm.com/e/bbfyv7rllb70.html"
+    },
+    {
+      "option": 4,
+      "real_video": "https://cloudy.upns.one/#n8qxqa"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/gvy7jt6"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/axjo20o"
+    },
+    {
+      "option": 7,
+      "real_video": "https://gdmirrorbot.nl/embed/kk9zlo1"
+    },
+    {
+      "option": 8,
+      "real_video": "https://emturbovid.com/t/67bf3a5342eb5"
+    },
+    {
+      "option": 9,
+      "real_video": "https://raretoonsindia.co/ex/zZuPOmIlzX5oaJU"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/ebf9f48abbc1bf77558f22526b9a7238"
+    }
+  ]
+}

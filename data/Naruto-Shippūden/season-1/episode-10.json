@@ -1,0 +1,77 @@
+{
+  "series": "Naruto Shippūden",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/rXD6lcg6zhRE8NDRVlQPNkViC3s.jpg",
+  "season": 1,
+  "episode": 10,
+  "episode_title": "Episode 10",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/rXD6lcg6zhRE8NDRVlQPNkViC3s.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/7FdrgAHug8AKSWrCZPPw4VLcJPq.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/7FdrgAHug8AKSWrCZPPw4VLcJPq.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/Obq7j0vpq"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/y2iqkt3"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/ejytx7n"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/f3tsf46"
+    },
+    {
+      "option": 5,
+      "real_video": "https://short.icu/fswqScBaC"
+    },
+    {
+      "option": 6,
+      "real_video": "https://rubystm.com/e/q4s2ku8de626.html"
+    },
+    {
+      "option": 7,
+      "real_video": "https://gdmirrorbot.nl/embed/oajvrm0"
+    },
+    {
+      "option": 8,
+      "real_video": "https://animedekho.net/moly.php?url=yz15skbqybcw"
+    },
+    {
+      "option": 9,
+      "real_video": "https://cloudy.upns.one/#5jbmd"
+    },
+    {
+      "option": 10,
+      "real_video": "https://emturbovid.com/t/679715141ccef"
+    },
+    {
+      "option": 11,
+      "real_video": "https://rubystm.com/e/gbp24lrp6we3.html"
+    },
+    {
+      "option": 12,
+      "real_video": "https://cloudy.upns.one/#dquuf9"
+    },
+    {
+      "option": 13,
+      "real_video": "https://strmup.to/1YcrWiQ0R28PT"
+    },
+    {
+      "option": 14,
+      "real_video": "https://turbovidhls.com/t/68e514828e108"
+    },
+    {
+      "option": 15,
+      "real_video": "https://vidmoly.net/embed-sxlekc3nt8bd.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/16a5cdae362b8d27a1d8f8c7b78b4330"
+    }
+  ]
+}

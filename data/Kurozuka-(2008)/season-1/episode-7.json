@@ -1,0 +1,53 @@
+{
+  "series": "Kurozuka (2008)",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/hez6h5LZxedDfzHHPu3iqj2Gm82.jpg",
+  "season": 1,
+  "episode": 7,
+  "episode_title": "Episode 7",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/hez6h5LZxedDfzHHPu3iqj2Gm82.jpg",
+  "episode_card_thumbnail": "https://toonstream.love/wp-content/themes/torofilm/public/img/cnt/noimg-episode.png",
+  "episode_list_thumbnail": "https://toonstream.love/wp-content/themes/torofilm/public/img/cnt/noimg-episode.png",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/Qt0FhNtXE"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/ig5d4vmwogxm.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#sk3irl"
+    },
+    {
+      "option": 4,
+      "real_video": "https://strmup.to/SVBE0cLgwpX7"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/jn4vh7a"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/kg5x9cm"
+    },
+    {
+      "option": 7,
+      "real_video": "https://gdmirrorbot.nl/embed/en8c48v"
+    },
+    {
+      "option": 8,
+      "real_video": "https://emturbovid.com/t/68625c8128566"
+    },
+    {
+      "option": 9,
+      "real_video": "https://vidmoly.net/embed-qpazjq1yk1q3.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/d92d7ec47187a662aacda2d4b4c7628e"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "series": "Boruto: Naruto Next Generations",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/e0B6i48kxdRkMcK4tR4YNfXGWOc.jpg",
+  "season": 1,
+  "episode": 41,
+  "episode_title": "Episode 41",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/e0B6i48kxdRkMcK4tR4YNfXGWOc.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/ghuzeisyEk6xAxn75l0mdUfpQJp.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/ghuzeisyEk6xAxn75l0mdUfpQJp.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/vWQjrcIhu"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/GyDTd0311aMj/"
+    }
+  ]
+}

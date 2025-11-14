@@ -1,0 +1,21 @@
+{
+  "series": "Super Robot Monkey Team Hyperforce Go!",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/gcTY3iHLC1wm9wB4pKn2vvCxCfK.jpg",
+  "season": 2,
+  "episode": 6,
+  "episode_title": "Episode 6",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/gcTY3iHLC1wm9wB4pKn2vvCxCfK.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/4z187nSwDG0ze7Xa2H6Caseqt1k.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/4z187nSwDG0ze7Xa2H6Caseqt1k.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/kEUQvfdeuehO/"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/0DvtHdBkKOij/"
+    }
+  ]
+}

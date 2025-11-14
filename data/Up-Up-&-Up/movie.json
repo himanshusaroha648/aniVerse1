@@ -1,0 +1,36 @@
+{
+  "title": "Up Up & Up",
+  "description": "Watch Up Up & Up online for free in HD on ToonStream. Available in Hindi, Tamil, Telugu & More dubbed versions. Stream or Download now! Wings or no wings",
+  "release_year": 2019,
+  "genres": [
+    "Animation",
+    "Animation & Cartoon Movies",
+    "Comedy",
+    "Family",
+    "Kids"
+  ],
+  "thumbnail": "https://image.tmdb.org/t/p/w185/nBSAUZuCfKoB1n2GFjv8olj26na.jpg",
+  "movie_poster": "https://image.tmdb.org/t/p/w185/nBSAUZuCfKoB1n2GFjv8olj26na.jpg",
+  "tmdb_id": null,
+  "tvdb_id": null,
+  "languages": [],
+  "url": "https://toonstream.love/movies/up-up-up/",
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/GqGgZE1abJCt/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/embed-e31ict7l24oa.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://short.icu/JitonQAbH"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/xy94wt6"
+    }
+  ]
+}

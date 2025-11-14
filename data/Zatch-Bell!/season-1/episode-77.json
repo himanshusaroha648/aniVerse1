@@ -1,0 +1,25 @@
+{
+  "series": "Zatch Bell!",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/1JaCkXXU7gB8tHmvuzpu36CgGr1.jpg",
+  "season": 1,
+  "episode": 77,
+  "episode_title": "Episode 77",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/1JaCkXXU7gB8tHmvuzpu36CgGr1.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/4dpeQIq66FNeZ3K9sY35XkGEiH6.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/4dpeQIq66FNeZ3K9sY35XkGEiH6.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/S8Bm0aWJl"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/oc6caq4"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/jWFiqkZfQ6SW/"
+    }
+  ]
+}

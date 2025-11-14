@@ -1,0 +1,41 @@
+{
+  "series": "The Apothecary Diaries",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/oWiZZpg3LwY6WSnaE63Cc453lcw.jpg",
+  "season": 1,
+  "episode": 6,
+  "episode_title": "Episode 6",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/oWiZZpg3LwY6WSnaE63Cc453lcw.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/lk1dC3AFErQwPjaKlHHc6f7g7rz.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/lk1dC3AFErQwPjaKlHHc6f7g7rz.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/lHUhd6905ION/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/hG85Aox8a"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/h21s0hx"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/e71ufag"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/kvw80n2"
+    },
+    {
+      "option": 6,
+      "real_video": "https://raretoonsindia.co/ex/wp5gsh5ZnfQUAFC"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/653cd6f9efefe6d273e2c116d2a6b765"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "series": "Shoot! Goal to the Future",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/rSYSUKD5v6C1xjrO3TKl67klFb0.jpg",
+  "season": 1,
+  "episode": 2,
+  "episode_title": "Episode 2",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/rSYSUKD5v6C1xjrO3TKl67klFb0.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/xKqCSrB3mqz4bn1WaITkCXtNzx3.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/xKqCSrB3mqz4bn1WaITkCXtNzx3.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/tReg9O6n8"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/pklbotttjlq4.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#elxjwk"
+    },
+    {
+      "option": 4,
+      "real_video": "https://strmup.to/cLFsyWOiEzk05"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/rrmae6a"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/msalqyl"
+    },
+    {
+      "option": 7,
+      "real_video": "https://gdmirrorbot.nl/embed/mbfdj70"
+    },
+    {
+      "option": 8,
+      "real_video": "https://turbovidhls.com/t/68d407cdb6c7a"
+    },
+    {
+      "option": 9,
+      "real_video": "https://vidmoly.net/embed-c21q47s78yhl.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/960c30fa8429c4bedee945d0896d2351"
+    }
+  ]
+}

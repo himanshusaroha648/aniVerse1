@@ -1,0 +1,25 @@
+{
+  "series": "Transformers: Prime",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/ilOKsGRHYc78R2tSMusAd3xGJWq.jpg",
+  "season": 1,
+  "episode": 4,
+  "episode_title": "Episode 4",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/ilOKsGRHYc78R2tSMusAd3xGJWq.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/hDoEwHZsAPxJEXJdec1VHoXab1h.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/hDoEwHZsAPxJEXJdec1VHoXab1h.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/7TA09FNZuYLQ/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://vidstreaming.xyz/v/k2iEBcINFoHK/"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/bdf3fd65c81469f9b74cedd497f2f9ce"
+    }
+  ]
+}

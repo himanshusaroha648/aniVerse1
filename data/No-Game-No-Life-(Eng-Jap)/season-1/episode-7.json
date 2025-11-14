@@ -1,0 +1,25 @@
+{
+  "series": "No Game No Life (Eng-Jap)",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/kN4BhRDbP3b1nuxpYC443jVLEh5.jpg",
+  "season": 1,
+  "episode": 7,
+  "episode_title": "Episode 7",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/kN4BhRDbP3b1nuxpYC443jVLEh5.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/topi224FaO3Di8FQ9RfrTouMyUC.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/topi224FaO3Di8FQ9RfrTouMyUC.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/Ilp7Fi3Fx"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/ysw27aq"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/6jWwIXp89t1i/"
+    }
+  ]
+}

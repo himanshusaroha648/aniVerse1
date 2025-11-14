@@ -1,0 +1,25 @@
+{
+  "series": "The Strongest Sage With the Weakest Crest (Eng-Jap)",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/55IKEC0Q0w50iKlygeHCdldTMse.jpg",
+  "season": 1,
+  "episode": 12,
+  "episode_title": "Episode 12",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/55IKEC0Q0w50iKlygeHCdldTMse.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/6BYWqG7N7b0Fln0GIpSuJq4wcQD.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/6BYWqG7N7b0Fln0GIpSuJq4wcQD.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/IyNdtTffH"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/yju8ui2"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/cP0zYldHaxNn/"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "series": "Record of Grancrest War",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/tECUAfNnSrNp7IS1HwXboLvg1FQ.jpg",
+  "season": 1,
+  "episode": 13,
+  "episode_title": "Episode 13",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/tECUAfNnSrNp7IS1HwXboLvg1FQ.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/pdf5rqOBs4QObNpb8VJzVtbXWjG.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/pdf5rqOBs4QObNpb8VJzVtbXWjG.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/nH2H137uLm"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/ip7kyw0"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/l1t0kyPy2Gt7/"
+    }
+  ]
+}

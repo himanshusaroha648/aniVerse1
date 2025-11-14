@@ -1,0 +1,21 @@
+{
+  "series": "kimi ni todoke -From Me to You-",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/kka0aBfSmhxYopCW0FzDWzljRhG.jpg",
+  "season": 1,
+  "episode": 1,
+  "episode_title": "Episode 1",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/kka0aBfSmhxYopCW0FzDWzljRhG.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/l9ndSxkMlo0lYWmh0sqg6lzGq5y.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/l9ndSxkMlo0lYWmh0sqg6lzGq5y.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/kDRFpR8JD"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/jAllHCZzFLaG/"
+    }
+  ]
+}

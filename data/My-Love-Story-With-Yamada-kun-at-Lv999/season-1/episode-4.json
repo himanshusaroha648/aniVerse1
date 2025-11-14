@@ -1,0 +1,41 @@
+{
+  "series": "My Love Story With Yamada-kun at Lv999",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/6RTMDyXZpzACsSg5AcRSUHMO8m2.jpg",
+  "season": 1,
+  "episode": 4,
+  "episode_title": "Episode 4",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/6RTMDyXZpzACsSg5AcRSUHMO8m2.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/o9xZayHrpiansccX8qxDhaGOpvq.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/o9xZayHrpiansccX8qxDhaGOpvq.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/XEozyfAmgote/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://stmruby.com/e/mkr1kh178wtz.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://short.icu/dogTpJPKE"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/t35wvh0"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/v643k3z"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/b3o3kwu"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/ce840aa9583592e71f3db26ee6e41703"
+    }
+  ]
+}

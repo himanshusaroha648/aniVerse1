@@ -1,0 +1,33 @@
+{
+  "series": "Mechamato The Animated Series",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/1rkM4tLoNKC33sLVyAWgogZGo3B.jpg",
+  "season": 1,
+  "episode": 13,
+  "episode_title": "Episode 13",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/1rkM4tLoNKC33sLVyAWgogZGo3B.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/w5IS9MylqAV9Trkup8385CV6PSe.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/w5IS9MylqAV9Trkup8385CV6PSe.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/ciCwEzka0"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/bwn8pzk"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/vwzrw4w"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/wu73vrp"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/ptgUQUH6AD0e/"
+    }
+  ]
+}

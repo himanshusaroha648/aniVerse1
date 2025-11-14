@@ -1,0 +1,49 @@
+{
+  "series": "FAIRY TAIL 100 YEARS QUEST",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/wj5i6YgZj7LltRE3yE6VTgfdbK0.jpg",
+  "season": 1,
+  "episode": 19,
+  "episode_title": "Episode 19",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/wj5i6YgZj7LltRE3yE6VTgfdbK0.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/A2VHKhQT3CSBJPckovnNsqWcxoF.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/A2VHKhQT3CSBJPckovnNsqWcxoF.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/4RlM2Abl5ea8/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/rPFRky2QY"
+    },
+    {
+      "option": 3,
+      "real_video": "https://rubystm.com/e/qqetzvrm2d36.html"
+    },
+    {
+      "option": 4,
+      "real_video": "https://cloudy.upns.one/#gtgux"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/sk95v9s"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/hcbey8k"
+    },
+    {
+      "option": 7,
+      "real_video": "https://gdmirrorbot.nl/embed/j5ys6mf"
+    },
+    {
+      "option": 8,
+      "real_video": "https://emturbovid.com/t/67813ade58511"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/a2eab75e37ee14b3ed50bb2b74036617"
+    }
+  ]
+}

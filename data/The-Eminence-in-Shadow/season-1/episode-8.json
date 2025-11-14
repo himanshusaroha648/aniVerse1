@@ -1,0 +1,21 @@
+{
+  "series": "The Eminence in Shadow",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/7JKYmtLydAwo9ZsEmAknZiO4U8g.jpg",
+  "season": 1,
+  "episode": 8,
+  "episode_title": "Episode 8",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/7JKYmtLydAwo9ZsEmAknZiO4U8g.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/bZnKpqD9xpa7EQ2gYvDGviWp6Fa.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/bZnKpqD9xpa7EQ2gYvDGviWp6Fa.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/FW7jlQQk1"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/29AmXr7vZcJ5/"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "series": "One Piece",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/dum1wnm6kJOUos0XJqjB8s2UWi9.jpg",
+  "season": 22,
+  "episode": 34,
+  "episode_title": "Episode 34",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/dum1wnm6kJOUos0XJqjB8s2UWi9.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/sSeTlMDsf9M1o8Dql1S8F1nM6L4.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/sSeTlMDsf9M1o8Dql1S8F1nM6L4.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://cloudy.upns.one/#icr5b"
+    },
+    {
+      "option": 2,
+      "real_video": "https://emturbovid.com/t/6764e578b6b6d"
+    },
+    {
+      "option": 3,
+      "real_video": "https://short.icu/5sIiNy4dE_"
+    },
+    {
+      "option": 4,
+      "real_video": "https://vidstreaming.xyz/v/mMMa37EN76NR/"
+    },
+    {
+      "option": 5,
+      "real_video": "https://cloudy.upns.one/#vzjp3y"
+    },
+    {
+      "option": 6,
+      "real_video": "https://rubystm.com/e/wophoqhbmuq9.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/mgab28FgvMXJ/"
+    }
+  ]
+}

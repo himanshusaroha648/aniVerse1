@@ -1,0 +1,45 @@
+{
+  "series": "Murder Drones",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/ldUmo0NPUqEeTeJ6KdBkZudMtPu.jpg",
+  "season": 1,
+  "episode": 6,
+  "episode_title": "Episode 6",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/ldUmo0NPUqEeTeJ6KdBkZudMtPu.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/ry7YQJFPIun5jlYgDz6jUf8BNv.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/ry7YQJFPIun5jlYgDz6jUf8BNv.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/l4Q1tjCDS"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/zjovu8vqkf1x.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#5w9eby"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/fnu24b0"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/ly57hbs"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/lpir40c"
+    },
+    {
+      "option": 7,
+      "real_video": "https://emturbovid.com/t/682857f38243f"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/0dce20892f775d8953c42e4a49978e38"
+    }
+  ]
+}

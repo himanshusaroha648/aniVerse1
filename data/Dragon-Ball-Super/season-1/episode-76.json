@@ -1,0 +1,41 @@
+{
+  "series": "Dragon Ball Super",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/qEUrbXJ2qt4Rg84Btlx4STOhgte.jpg",
+  "season": 1,
+  "episode": 76,
+  "episode_title": "Episode 76",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/qEUrbXJ2qt4Rg84Btlx4STOhgte.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/5GuTqpG7tBbHbPXV8l1lnrvzegd.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/5GuTqpG7tBbHbPXV8l1lnrvzegd.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/fUoWZ0Yo3"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/tpkc5mlp1aed.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#me56rz"
+    },
+    {
+      "option": 4,
+      "real_video": "https://strmup.to/7i0w92LTsbI4m"
+    },
+    {
+      "option": 5,
+      "real_video": "https://turbovidhls.com/t/68b6920ee59c9"
+    },
+    {
+      "option": 6,
+      "real_video": "https://vidmoly.net/embed-dc6mcswx0gdz.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/f3be5eb7ff15f2013a3b65fbca4bf864"
+    }
+  ]
+}

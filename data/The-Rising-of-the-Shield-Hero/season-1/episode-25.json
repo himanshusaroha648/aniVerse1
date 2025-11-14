@@ -1,0 +1,37 @@
+{
+  "series": "The Rising of the Shield Hero",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/yjq2n0agGJfmZQ9NpbYIhuBofcq.jpg",
+  "season": 1,
+  "episode": 25,
+  "episode_title": "Episode 25",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/yjq2n0agGJfmZQ9NpbYIhuBofcq.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/pdKDwMpMp9B0tbPCpo6WDhXbxxA.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/pdKDwMpMp9B0tbPCpo6WDhXbxxA.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://rubystm.com/e/qb6vsso6lw55.html"
+    },
+    {
+      "option": 2,
+      "real_video": "https://cloudy.upns.one/#xe9cq3"
+    },
+    {
+      "option": 3,
+      "real_video": "https://strmup.to/oeWEwysaDYk0Q"
+    },
+    {
+      "option": 4,
+      "real_video": "https://turbovidhls.com/t/690efefcf3b93"
+    },
+    {
+      "option": 5,
+      "real_video": "https://vidmoly.net/embed-6086xz5l1lc9.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://short.icu/0q5PnHLou"
+    }
+  ]
+}

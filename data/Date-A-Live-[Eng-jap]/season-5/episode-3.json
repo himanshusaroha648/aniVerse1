@@ -1,0 +1,17 @@
+{
+  "series": "Date A Live [Eng-jap]",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/kD1Gu7dcELnUUnm3eMxZuG6jKtA.jpg",
+  "season": 5,
+  "episode": 3,
+  "episode_title": "Episode 3",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/kD1Gu7dcELnUUnm3eMxZuG6jKtA.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/olRLWEJ1k9PcNwpC2esrDHcXt1i.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/olRLWEJ1k9PcNwpC2esrDHcXt1i.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": null,
+      "real_video": "https://www.youtube.com/embed/gHTqQSW_g4k"
+    }
+  ]
+}

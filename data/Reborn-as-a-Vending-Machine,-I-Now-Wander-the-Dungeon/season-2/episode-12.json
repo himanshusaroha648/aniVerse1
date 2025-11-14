@@ -1,0 +1,53 @@
+{
+  "series": "Reborn as a Vending Machine, I Now Wander the Dungeon",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/902JIF49zAyUdDyh1DNH0ZhSdBj.jpg",
+  "season": 2,
+  "episode": 12,
+  "episode_title": "Episode 12",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/902JIF49zAyUdDyh1DNH0ZhSdBj.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/wazykNh1F59WbstFkBakbaXzZ96.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/wazykNh1F59WbstFkBakbaXzZ96.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/ywzudS4MK"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/4rrniy6g3zgj.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#b6bmju"
+    },
+    {
+      "option": 4,
+      "real_video": "https://strmup.to/cYId874yjpeR0"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/fit0c1a"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/ck1okgb"
+    },
+    {
+      "option": 7,
+      "real_video": "https://gdmirrorbot.nl/embed/bfsa7ed"
+    },
+    {
+      "option": 8,
+      "real_video": "https://emturbovid.com/t/68e72c941d6fb"
+    },
+    {
+      "option": 9,
+      "real_video": "https://vidmoly.net/embed-2y1p1azewe9g.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/2365a4db507862569752334234a29b50"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "title": "Star Wars: The Clone Wars",
+  "description": "Watch Star Wars: The Clone Wars online for free in HD on ToonStream. Available in Hindi, Tamil, Telugu & More dubbed versions. Stream or Download now! As",
+  "release_year": 2008,
+  "genres": [
+    "Action",
+    "Adventure",
+    "Animation",
+    "Animation & Cartoon Movies",
+    "Cartoon Network",
+    "English",
+    "Hindi",
+    "Science Fiction",
+    "Tamil",
+    "Telugu"
+  ],
+  "thumbnail": "https://image.tmdb.org/t/p/w185/kLr4etUqCinFUU9E87qDl3aTyaS.jpg",
+  "movie_poster": "https://image.tmdb.org/t/p/w185/kLr4etUqCinFUU9E87qDl3aTyaS.jpg",
+  "tmdb_id": null,
+  "tvdb_id": null,
+  "languages": [],
+  "url": "https://toonstream.love/movies/star-wars-the-clone-wars/",
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/RHHUlGVXKXqr/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/embed-arh68dukc2lp.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://short.icu/5EGFuBo5r"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/liky95b"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/hyj5mbv"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/yecoo7d"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "series": "My Happy Marriage",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/gPqp4ux7rPETtjmjkW8Q2wXT1va.jpg",
+  "season": 1,
+  "episode": 8,
+  "episode_title": "Episode 8",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/gPqp4ux7rPETtjmjkW8Q2wXT1va.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/nI2aLMCUNL7wad70Qn9NRGwTPU.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/nI2aLMCUNL7wad70Qn9NRGwTPU.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/tXFQtzZRA"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/kl4u2amohmj0.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#gj98w"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/glm3atf"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/vfzvel1"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/de9jub6"
+    },
+    {
+      "option": 7,
+      "real_video": "https://emturbovid.com/t/675a58e00fa41"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/4e681ae9d4a5e5698f08e852a0255702"
+    }
+  ]
+}

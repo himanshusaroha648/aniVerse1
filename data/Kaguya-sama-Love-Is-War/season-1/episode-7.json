@@ -1,0 +1,21 @@
+{
+  "series": "Kaguya-sama: Love Is War",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/5khbC6AuNgnvnoDbjIMKCOhEtIc.jpg",
+  "season": 1,
+  "episode": 7,
+  "episode_title": "Episode 7",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/5khbC6AuNgnvnoDbjIMKCOhEtIc.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/3iZOk8UqApftXkQm8gShyoH56R2.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/3iZOk8UqApftXkQm8gShyoH56R2.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/5vE21B6evM"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/bzVai9EiHJ5z/"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "series": "BLUE LOCK Multi Audio",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/sTDTy73OYmKY51EK94Mc6AxogzR.jpg",
+  "season": 1,
+  "episode": 9,
+  "episode_title": "Episode 9",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/sTDTy73OYmKY51EK94Mc6AxogzR.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/q0fZZIY5XKjd6GZma9CMJJwwOeo.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/q0fZZIY5XKjd6GZma9CMJJwwOeo.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/gh8Fg5DU4rjA/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/2oO6qQ-zR"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/y9c0spn"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/p6b4ch7"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/oh09tts"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/c9e1074f5b3f9fc8ea15d152add07294"
+    }
+  ]
+}

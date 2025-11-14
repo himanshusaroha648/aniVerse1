@@ -1,0 +1,33 @@
+{
+  "series": "Haikyu!!",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/ecQ84z2sR0XapZu435MnFuEBzD8.jpg",
+  "season": 2,
+  "episode": 13,
+  "episode_title": "Episode 13",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/ecQ84z2sR0XapZu435MnFuEBzD8.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/pBtPbd3oHM3oT94HkraEO7W97Xa.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/pBtPbd3oHM3oT94HkraEO7W97Xa.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/mZR5M-x4TT"
+    },
+    {
+      "option": 2,
+      "real_video": "https://vidmoly.net/embed-6s2gi4uotpef.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://vidstreaming.xyz/v/QG8F54gN0I9p/"
+    },
+    {
+      "option": 4,
+      "real_video": "https://short.icu/lhHV4TqGO"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/1KKWwdxCh4m7/"
+    }
+  ]
+}

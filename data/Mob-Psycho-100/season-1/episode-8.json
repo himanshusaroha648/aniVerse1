@@ -1,0 +1,49 @@
+{
+  "series": "Mob Psycho 100",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/vR7hwaGQ0ySRoq1WobiNRaPs4WO.jpg",
+  "season": 1,
+  "episode": 8,
+  "episode_title": "Episode 8",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/vR7hwaGQ0ySRoq1WobiNRaPs4WO.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/l4uYdqcP4uorUUNUGYvCraQzAZL.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/l4uYdqcP4uorUUNUGYvCraQzAZL.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/EBEqI7jSuZtx/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/vtdeKR6v9"
+    },
+    {
+      "option": 3,
+      "real_video": "https://rubystm.com/e/4o15pqtzjudp.html"
+    },
+    {
+      "option": 4,
+      "real_video": "https://cloudy.upns.one/#mi3y1u"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/e1zp3of"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/tx0t6mw"
+    },
+    {
+      "option": 7,
+      "real_video": "https://gdmirrorbot.nl/embed/zt3qcce"
+    },
+    {
+      "option": 8,
+      "real_video": "https://emturbovid.com/t/681b2094d47b3"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/29515bb9a5d5e558e2b3ba71e3b6e037"
+    }
+  ]
+}

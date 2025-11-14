@@ -1,0 +1,37 @@
+{
+  "series": "One Piece",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/dum1wnm6kJOUos0XJqjB8s2UWi9.jpg",
+  "season": 22,
+  "episode": 7,
+  "episode_title": "Episode 7",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/dum1wnm6kJOUos0XJqjB8s2UWi9.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/61mM6cjB2ml2Y87GS0R8y9JnD8c.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/61mM6cjB2ml2Y87GS0R8y9JnD8c.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/GSoS1ijUMbDT/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/iJhpmmLSP"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#mjucx"
+    },
+    {
+      "option": 4,
+      "real_video": "https://short.icu/4UJtaPlmD"
+    },
+    {
+      "option": 5,
+      "real_video": "https://emturbovid.com/t/676401aba7f1e"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/nY2lQCg3drRU/"
+    }
+  ]
+}

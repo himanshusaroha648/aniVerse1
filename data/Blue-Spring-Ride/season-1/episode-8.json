@@ -1,0 +1,21 @@
+{
+  "series": "Blue Spring Ride",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/dJbG3paFR4TeCENN7ognYyZ2Xhy.jpg",
+  "season": 1,
+  "episode": 8,
+  "episode_title": "Episode 8",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/dJbG3paFR4TeCENN7ognYyZ2Xhy.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/dNU1Rb7shwaG8rmgnAmWn9g28Wc.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/dNU1Rb7shwaG8rmgnAmWn9g28Wc.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/mrqdNHt6G"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/ey9iVidw45vw/"
+    }
+  ]
+}

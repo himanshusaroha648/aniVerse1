@@ -1,0 +1,37 @@
+{
+  "series": "Zom 100: Bucket List of the Dead",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/XzOeAppGpnsSAiK82idkg0BoCt.jpg",
+  "season": 1,
+  "episode": 7,
+  "episode_title": "Episode 7",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/XzOeAppGpnsSAiK82idkg0BoCt.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/h2SyhU89h1RaBafKRbeeR23Eyf4.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/h2SyhU89h1RaBafKRbeeR23Eyf4.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/vp5CpToTKVQq/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/bq_4rxRPT"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/bd878ki"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/ftx5j2x"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/azeljtm"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/9f6f2381bc56ef668e94f6d1fb4f6309"
+    }
+  ]
+}

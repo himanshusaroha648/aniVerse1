@@ -1,0 +1,21 @@
+{
+  "series": "Doraemon",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/bHMqPDsW7Lb71CVHXq4PuEvQ4NY.jpg",
+  "season": 1,
+  "episode": 2,
+  "episode_title": "Episode 2",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/bHMqPDsW7Lb71CVHXq4PuEvQ4NY.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/gheDIaMsooae4LrbY2Rsm0gxW0l.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/gheDIaMsooae4LrbY2Rsm0gxW0l.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/5d8FTDBX6GGK/"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/a6e4f250fb5c56aaf215a236c64e5b0a"
+    }
+  ]
+}

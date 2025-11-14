@@ -1,0 +1,29 @@
+{
+  "series": "The Cuphead Show!",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/l6nGUyxKCi7ODvyfc8qQShliVEd.jpg",
+  "season": 3,
+  "episode": 8,
+  "episode_title": "Episode 8",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/l6nGUyxKCi7ODvyfc8qQShliVEd.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/yVfXVq5Inw2nsEcG1yY8r4SOYiu.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/yVfXVq5Inw2nsEcG1yY8r4SOYiu.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://filemoon.to/e/j3mwyxs00dg2/_Toonhub4u__The_Cuphead_Show!_Season_3_Episode_8_in__Hindi_-_Eng__HD.mp4"
+    },
+    {
+      "option": 2,
+      "real_video": "https://watchsb.com/e/ingamxq4k296.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://filepress.lol/video/6398612b76e47edf7a73404d"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/vpZMtZlQNdTT/"
+    }
+  ]
+}

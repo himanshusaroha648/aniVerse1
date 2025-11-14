@@ -1,0 +1,29 @@
+{
+  "series": "My Dad the Bounty Hunter",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/cWSPHOTFFf5hs77gamKeLDhxNvm.jpg",
+  "season": 1,
+  "episode": 5,
+  "episode_title": "Episode 5",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/cWSPHOTFFf5hs77gamKeLDhxNvm.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/AtVhIQUoFvYijZ3NHRz1BqIlw0G.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/AtVhIQUoFvYijZ3NHRz1BqIlw0G.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://filemoon.to/e/cscvcd1u6fje/_Toonhub4u__My_Dad_the_Bounty_Hunter_S01E05_1080p_HEVC_10bit_NF_WEB-DL__Hindi-Eng__DD5_1_ESub"
+    },
+    {
+      "option": 2,
+      "real_video": "https://embedwish.com/e/hk9hqlepl5xh"
+    },
+    {
+      "option": 3,
+      "real_video": "https://filelions.online/v/djybx9l2edaf"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/7aJhy49v1tFm/"
+    }
+  ]
+}

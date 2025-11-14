@@ -1,0 +1,33 @@
+{
+  "series": "Scooby-Doo! Mystery Incorporated",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/mu8zU2jQfPbGO5bC6RHYrSypxUd.jpg",
+  "season": 1,
+  "episode": 22,
+  "episode_title": "Episode 22",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/mu8zU2jQfPbGO5bC6RHYrSypxUd.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/elSdyhUeUIuAPfOutlbG8QcGu2r.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/elSdyhUeUIuAPfOutlbG8QcGu2r.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/YHNB7tKM7"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/samxutw"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/ltnnxb7"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/wwi56fx"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/roDFXIloE815/"
+    }
+  ]
+}

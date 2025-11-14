@@ -1,0 +1,29 @@
+{
+  "series": "One Piece",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/dum1wnm6kJOUos0XJqjB8s2UWi9.jpg",
+  "season": 21,
+  "episode": 101,
+  "episode_title": "Episode 101",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/dum1wnm6kJOUos0XJqjB8s2UWi9.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/2RTep5h3y968rLqMm53I6deYC8m.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/2RTep5h3y968rLqMm53I6deYC8m.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/PYjm9X1jW76z/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/Z9kSkQn0I"
+    },
+    {
+      "option": 3,
+      "real_video": "https://rubystm.com/e/15uakcvzfll6.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/EydagKFat5fM/"
+    }
+  ]
+}

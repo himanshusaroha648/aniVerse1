@@ -1,0 +1,37 @@
+{
+  "series": "Black Summoner",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/ie1zLLjtspacRfpcVkLvNt7mUx9.jpg",
+  "season": 1,
+  "episode": 9,
+  "episode_title": "Episode 9",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/ie1zLLjtspacRfpcVkLvNt7mUx9.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/y4kK9rBiMkEtY3RdNO3zyPh2U5f.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/y4kK9rBiMkEtY3RdNO3zyPh2U5f.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/bp4spuE74"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/1omy5l70rgn5.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#6hdhph"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/it3u8la"
+    },
+    {
+      "option": 5,
+      "real_video": "https://emturbovid.com/t/67ee4eeb13611"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/61br1qYbLg0c/"
+    }
+  ]
+}

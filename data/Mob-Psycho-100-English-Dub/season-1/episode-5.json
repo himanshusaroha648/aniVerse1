@@ -1,0 +1,37 @@
+{
+  "series": "Mob Psycho 100 English Dub",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/vR7hwaGQ0ySRoq1WobiNRaPs4WO.jpg",
+  "season": 1,
+  "episode": 5,
+  "episode_title": "Episode 5",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/vR7hwaGQ0ySRoq1WobiNRaPs4WO.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/h7ts0QOUbragMxy6CacCnGVFETV.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/h7ts0QOUbragMxy6CacCnGVFETV.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/M5LFhMB2O"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/hdbckpv"
+    },
+    {
+      "option": 3,
+      "real_video": "https://vidstreaming.xyz/v/hevC1r4IEakr/"
+    },
+    {
+      "option": 4,
+      "real_video": "https://short.icu/M5LFhMB2O"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/hdbckpv"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/hevC1r4IEakr/"
+    }
+  ]
+}

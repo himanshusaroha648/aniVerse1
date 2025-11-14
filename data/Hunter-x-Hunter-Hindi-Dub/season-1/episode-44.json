@@ -1,0 +1,49 @@
+{
+  "series": "Hunter x Hunter Hindi Dub",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/9dubj2UQ2xJkzT1AEng6DaGRvLa.jpg",
+  "season": 1,
+  "episode": 44,
+  "episode_title": "Episode 44",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/9dubj2UQ2xJkzT1AEng6DaGRvLa.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/n2DWd1Lt80aqIFeMtFzSgpjn18X.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/n2DWd1Lt80aqIFeMtFzSgpjn18X.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/a9h2f405A"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/lc83aup18afp.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#kd3rmn"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/c3dezar"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/bpd16oq"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/x5qe87y"
+    },
+    {
+      "option": 7,
+      "real_video": "https://emturbovid.com/t/67e6db957fb6d"
+    },
+    {
+      "option": 8,
+      "real_video": "https://raretoonsindia.co/ex/mqKxFNnwZjbUPZk"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/l76f5OqDKlw9/"
+    }
+  ]
+}

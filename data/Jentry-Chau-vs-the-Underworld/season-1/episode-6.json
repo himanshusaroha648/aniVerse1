@@ -1,0 +1,45 @@
+{
+  "series": "Jentry Chau vs the Underworld",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/gCVwVPOajqfILlAUwKGmNwVZofb.jpg",
+  "season": 1,
+  "episode": 6,
+  "episode_title": "Episode 6",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/gCVwVPOajqfILlAUwKGmNwVZofb.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/6SJMqsjyD7ftUboYH7JvbwhRIGu.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/6SJMqsjyD7ftUboYH7JvbwhRIGu.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/k1QnelmkLYRa/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/kDi7X0lrJ"
+    },
+    {
+      "option": 3,
+      "real_video": "https://rubystm.com/e/1gstb0ajymou.html"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/fuxnasg"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/j0w74hi"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/cla7fdm"
+    },
+    {
+      "option": 7,
+      "real_video": "https://emturbovid.com/t/6753e18075d31"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/2462645f0c87948776ebc6c0d2163885"
+    }
+  ]
+}

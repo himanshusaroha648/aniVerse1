@@ -1,0 +1,25 @@
+{
+  "series": "Plastic Memories (Eng Sub)",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/omOgvHRgfdWku75Gd8YSk2n0pX1.jpg",
+  "season": 1,
+  "episode": 11,
+  "episode_title": "Episode 11",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/omOgvHRgfdWku75Gd8YSk2n0pX1.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/iiAA5ivc6nW9ihge7xZqj2MiMf5.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/iiAA5ivc6nW9ihge7xZqj2MiMf5.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/qNADI-Rk2"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/rsu36go"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/cBqja5ukGH8e/"
+    }
+  ]
+}

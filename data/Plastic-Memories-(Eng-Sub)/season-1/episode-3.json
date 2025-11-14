@@ -1,0 +1,25 @@
+{
+  "series": "Plastic Memories (Eng Sub)",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/omOgvHRgfdWku75Gd8YSk2n0pX1.jpg",
+  "season": 1,
+  "episode": 3,
+  "episode_title": "Episode 3",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/omOgvHRgfdWku75Gd8YSk2n0pX1.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/klyAFBhz4QQO3T0ekuE3hi8YMEk.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/klyAFBhz4QQO3T0ekuE3hi8YMEk.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/ztXOGqjEH"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/rumudrn"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/1UwLS4GNqnqO/"
+    }
+  ]
+}

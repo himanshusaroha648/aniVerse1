@@ -1,0 +1,53 @@
+{
+  "series": "Lord of Mysteries",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/c8fHePq3yTn3WvZd4hupkHwsjm5.jpg",
+  "season": 1,
+  "episode": 10,
+  "episode_title": "Episode 10",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/c8fHePq3yTn3WvZd4hupkHwsjm5.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/5G5621ZVJ5PrruUe8VU2oRlhPIa.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/5G5621ZVJ5PrruUe8VU2oRlhPIa.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/RMWYvskqK"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/dwxm0oowdcx4.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#uniaqc"
+    },
+    {
+      "option": 4,
+      "real_video": "https://strmup.to/tTnqopuL1WPfE"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/txndrvc"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/m85vagq"
+    },
+    {
+      "option": 7,
+      "real_video": "https://gdmirrorbot.nl/embed/rnpfz9j"
+    },
+    {
+      "option": 8,
+      "real_video": "https://emturbovid.com/t/68c4eaafb8a19"
+    },
+    {
+      "option": 9,
+      "real_video": "https://vidmoly.net/embed-x7ju7f3bonhf.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/bb7b76330e286eb5f158ff2fd3d82d5d"
+    }
+  ]
+}

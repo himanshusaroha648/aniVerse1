@@ -1,0 +1,25 @@
+{
+  "series": "Bleach",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
+  "season": 1,
+  "episode": 226,
+  "episode_title": "Episode 226",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/jW0nsb1c6Y1Ms8qRJIM0CpIah1v.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/jW0nsb1c6Y1Ms8qRJIM0CpIah1v.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/OBx4ltW3q"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/ztl3yds"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/jqFB8mvHkB7R/"
+    }
+  ]
+}

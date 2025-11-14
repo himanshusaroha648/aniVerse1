@@ -1,0 +1,37 @@
+{
+  "series": "The Dangers in My Heart",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/mKhMmREBOKXtp3tlv9rnLRxZec5.jpg",
+  "season": 1,
+  "episode": 20,
+  "episode_title": "Episode 20",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/mKhMmREBOKXtp3tlv9rnLRxZec5.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/9xObleHYdAna712PHcstreES3po.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/9xObleHYdAna712PHcstreES3po.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/93LxS4zK1"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/eqqm85g"
+    },
+    {
+      "option": 3,
+      "real_video": "https://vidstreaming.xyz/v/n0LIXQTLTuYK/"
+    },
+    {
+      "option": 4,
+      "real_video": "https://short.icu/uhAsIu1WF"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/qkuzp3p"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/rmNeDJzoGzSZ/"
+    }
+  ]
+}

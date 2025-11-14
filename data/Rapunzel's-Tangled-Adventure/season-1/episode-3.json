@@ -1,0 +1,33 @@
+{
+  "series": "Rapunzel's Tangled Adventure",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/s12Z2uGrvjj5sA7LsBStTtfTYjC.jpg",
+  "season": 1,
+  "episode": 3,
+  "episode_title": "Episode 3",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/s12Z2uGrvjj5sA7LsBStTtfTYjC.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/5DCrJN9mIVtaBqPFlrOksbYDlEs.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/5DCrJN9mIVtaBqPFlrOksbYDlEs.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/1o1-GesuE"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/z3a2vak5jkqa.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/tmex163"
+    },
+    {
+      "option": 4,
+      "real_video": "https://emturbovid.com/t/67176de4a2678"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/vyH8uYI3Vmn6/"
+    }
+  ]
+}

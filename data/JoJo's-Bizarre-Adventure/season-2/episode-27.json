@@ -1,0 +1,37 @@
+{
+  "series": "JoJo's Bizarre Adventure",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/kX9noqY0YpOPKwXpRXYg1hEIqmM.jpg",
+  "season": 2,
+  "episode": 27,
+  "episode_title": "Episode 27",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/kX9noqY0YpOPKwXpRXYg1hEIqmM.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/9lfYDhmJG3sGAXK13PoqHAGMB22.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/9lfYDhmJG3sGAXK13PoqHAGMB22.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/KeuWA9WkxFzW/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/Z2iNaeX_b"
+    },
+    {
+      "option": 3,
+      "real_video": "https://rubystm.com/e/4evz1dj6i2fy.html"
+    },
+    {
+      "option": 4,
+      "real_video": "https://cloudy.upns.one/#pkydmv"
+    },
+    {
+      "option": 5,
+      "real_video": "https://emturbovid.com/t/683eb839e0595"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/fffb8ef15de06d87e6ba6c830f3b6284"
+    }
+  ]
+}

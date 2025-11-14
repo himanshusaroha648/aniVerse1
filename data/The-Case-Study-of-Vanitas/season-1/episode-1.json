@@ -1,0 +1,41 @@
+{
+  "series": "The Case Study of Vanitas",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/fvqoSfyfQG0hH9nJAvubq730ymR.jpg",
+  "season": 1,
+  "episode": 1,
+  "episode_title": "Episode 1",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/fvqoSfyfQG0hH9nJAvubq730ymR.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/fxnc6WqwzexfVu33t0Fn12f8PFr.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/fxnc6WqwzexfVu33t0Fn12f8PFr.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/ncT4b3JgRLLY/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/44ogaBfPJ"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/h66q0rn"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/ef9b8j8"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/nck660o"
+    },
+    {
+      "option": 6,
+      "real_video": "https://test.blakiteanime.in/embed/121964/1-1"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/5fbb4eb0e7c2cedf731ec7c18e344141"
+    }
+  ]
+}

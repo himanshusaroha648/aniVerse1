@@ -1,0 +1,33 @@
+{
+  "series": "1001 Nights",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/yEr23ZTYkz5cv3aSdLvlzuI3thI.jpg",
+  "season": 2,
+  "episode": 11,
+  "episode_title": "Episode 11",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/yEr23ZTYkz5cv3aSdLvlzuI3thI.jpg",
+  "episode_card_thumbnail": "https://toonstream.love/wp-content/themes/torofilm/public/img/cnt/noimg-episode.png",
+  "episode_list_thumbnail": "https://toonstream.love/wp-content/themes/torofilm/public/img/cnt/noimg-episode.png",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/ZG0MMGLUA"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/vkhitd4"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/rmcambr"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/f46vycc"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/oc5KK5dZ39Jk/"
+    }
+  ]
+}

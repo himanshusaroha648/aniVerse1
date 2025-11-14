@@ -1,0 +1,41 @@
+{
+  "series": "Dragon Ball Super",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/qEUrbXJ2qt4Rg84Btlx4STOhgte.jpg",
+  "season": 1,
+  "episode": 29,
+  "episode_title": "Episode 29",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/qEUrbXJ2qt4Rg84Btlx4STOhgte.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/jhuz1PyGYM8BVwbOoUT8sG6NSfF.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/jhuz1PyGYM8BVwbOoUT8sG6NSfF.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/wA2U8_wOc"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/sm8qobc6g1ri.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#loylay"
+    },
+    {
+      "option": 4,
+      "real_video": "https://strmup.to/dUcVEQCeyStRJ"
+    },
+    {
+      "option": 5,
+      "real_video": "https://turbovidhls.com/t/68b58a9e1ce26"
+    },
+    {
+      "option": 6,
+      "real_video": "https://vidmoly.net/embed-liztho5p7gne.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/e2459ae2cf7921589685a6835ec08a7c"
+    }
+  ]
+}

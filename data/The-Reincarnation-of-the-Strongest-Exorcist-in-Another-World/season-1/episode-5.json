@@ -1,0 +1,41 @@
+{
+  "series": "The Reincarnation of the Strongest Exorcist in Another World",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/AvVe8mmY3FY3CJwbw5sCYubzaTj.jpg",
+  "season": 1,
+  "episode": 5,
+  "episode_title": "Episode 5",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/AvVe8mmY3FY3CJwbw5sCYubzaTj.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/c1Mz3MzWKntK8rvzVJE1zmGsBQu.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/c1Mz3MzWKntK8rvzVJE1zmGsBQu.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/zUeSzqv2lRet/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/jv0sa3luobxc.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://short.icu/3GtbRkLeq"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/pij6935"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/pt93t56"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/feag161"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/10fe8dc69a0964edc16fed1a1bd55716"
+    }
+  ]
+}

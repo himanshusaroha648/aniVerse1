@@ -1,0 +1,41 @@
+{
+  "series": "KamiKatsu: Working for God in a Godless World",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/d82CH1EMSoC2VvYSTxCZHPboJYq.jpg",
+  "season": 1,
+  "episode": 11,
+  "episode_title": "Episode 11",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/d82CH1EMSoC2VvYSTxCZHPboJYq.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/6Cia5uooxSuycjTJ8CXcZetF95m.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/6Cia5uooxSuycjTJ8CXcZetF95m.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/XCt6Z3mFmNt5/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/y4xo24haecn4.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://short.icu/cJOPFjtQ4"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/bzokorn"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/no2bn08"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/pvfszab"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/ebef22399dd37c14fcbe768327022889"
+    }
+  ]
+}

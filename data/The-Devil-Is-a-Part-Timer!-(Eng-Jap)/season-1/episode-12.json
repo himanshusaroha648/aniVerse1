@@ -1,0 +1,33 @@
+{
+  "series": "The Devil Is a Part-Timer! (Eng-Jap)",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/55jYHFT8iJuASF8Mzg0V8Dh3N3M.jpg",
+  "season": 1,
+  "episode": 12,
+  "episode_title": "Episode 12",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/55jYHFT8iJuASF8Mzg0V8Dh3N3M.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/sYfW8txJKVYwHyJPPa6Xb4yidPi.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/sYfW8txJKVYwHyJPPa6Xb4yidPi.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/_bPXT_Xrw"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/yu70wf5"
+    },
+    {
+      "option": 3,
+      "real_video": "https://vidstreaming.xyz/v/Mwa9HoodVfaR/"
+    },
+    {
+      "option": 4,
+      "real_video": "https://short.icu/dBiIFLIiW"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/mpLC7e9QBxf7/"
+    }
+  ]
+}

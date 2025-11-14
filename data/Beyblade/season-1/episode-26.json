@@ -1,0 +1,25 @@
+{
+  "series": "Beyblade",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/l6ZQhEHjtOd9t6lOvVGzs5YEHcG.jpg",
+  "season": 1,
+  "episode": 26,
+  "episode_title": "Episode 26",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/l6ZQhEHjtOd9t6lOvVGzs5YEHcG.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/716asjFp4VSanTgpF1qte7NIgZL.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/716asjFp4VSanTgpF1qte7NIgZL.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/XwOpHMRUIv"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/hddgdt4"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/gEaJ6ncWPS5O/"
+    }
+  ]
+}

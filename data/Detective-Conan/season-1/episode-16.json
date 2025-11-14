@@ -1,0 +1,25 @@
+{
+  "series": "Detective Conan",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/9ve6LW4ltMMpp9WjoR4MGViOp9V.jpg",
+  "season": 1,
+  "episode": 16,
+  "episode_title": "Episode 16",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/9ve6LW4ltMMpp9WjoR4MGViOp9V.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/1CZ0sIITNeeS9eLFDuilhRXyzHp.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/1CZ0sIITNeeS9eLFDuilhRXyzHp.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://sstreamsb.net/e/dta8rakkjo5d.html"
+    },
+    {
+      "option": 2,
+      "real_video": "https://filemoon.to/e/bdh1k4zwufto/_Toonhub4u__Detective_Conan_Episode_54_in_Multi_Audio_480p.mp4"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/83gEkjCUP3fw/"
+    }
+  ]
+}

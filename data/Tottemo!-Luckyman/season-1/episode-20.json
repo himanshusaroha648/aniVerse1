@@ -1,0 +1,41 @@
+{
+  "series": "Tottemo! Luckyman",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/ojOOavQH2rNWNhG5NAw2l76czQJ.jpg",
+  "season": 1,
+  "episode": 20,
+  "episode_title": "Episode 20",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/ojOOavQH2rNWNhG5NAw2l76czQJ.jpg",
+  "episode_card_thumbnail": "https://toonstream.love/wp-content/themes/torofilm/public/img/cnt/noimg-episode.png",
+  "episode_list_thumbnail": "https://toonstream.love/wp-content/themes/torofilm/public/img/cnt/noimg-episode.png",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/TX3cQ2EV0"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/l3cilaxo2gpl.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/fyi8es4"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/oivzlwy"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/ev6646r"
+    },
+    {
+      "option": 6,
+      "real_video": "https://emturbovid.com/t/671f650cbe6f6"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/RGdE1g8akQOU/"
+    }
+  ]
+}

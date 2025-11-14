@@ -1,0 +1,41 @@
+{
+  "series": "Dragon Ball Super",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/qEUrbXJ2qt4Rg84Btlx4STOhgte.jpg",
+  "season": 1,
+  "episode": 22,
+  "episode_title": "Episode 22",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/qEUrbXJ2qt4Rg84Btlx4STOhgte.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/HVxCcF8R1foZpCBX0NZp8Lit7.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/HVxCcF8R1foZpCBX0NZp8Lit7.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/Ji7--l0_7"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/i2dots71l4g9.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#3a936g"
+    },
+    {
+      "option": 4,
+      "real_video": "https://strmup.to/MwYPiVfsKClq0"
+    },
+    {
+      "option": 5,
+      "real_video": "https://turbovidhls.com/t/68b58a9028a22"
+    },
+    {
+      "option": 6,
+      "real_video": "https://vidmoly.net/embed-04uxdwyi4ety.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/7bcd91571fc1119e87d81e1054255e73"
+    }
+  ]
+}

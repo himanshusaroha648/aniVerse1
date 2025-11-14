@@ -1,0 +1,17 @@
+{
+  "series": "Naruto Shippūden [English-Jap Dub]",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/lufFEkkD5JMrDgiVYh4s1ksx4nv.jpg",
+  "season": 1,
+  "episode": 19,
+  "episode_title": "Episode 19",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/lufFEkkD5JMrDgiVYh4s1ksx4nv.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/jaa9sZMu8p5fZxH6EbF1Bc7hwSX.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/jaa9sZMu8p5fZxH6EbF1Bc7hwSX.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/rMagfOvWK9LQ/"
+    }
+  ]
+}

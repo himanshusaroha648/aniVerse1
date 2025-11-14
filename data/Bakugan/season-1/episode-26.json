@@ -1,0 +1,33 @@
+{
+  "series": "Bakugan",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/lg6QqCdvZOZM7EWf9zFJL12EsKv.jpg",
+  "season": 1,
+  "episode": 26,
+  "episode_title": "Episode 26",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/lg6QqCdvZOZM7EWf9zFJL12EsKv.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/qJGHDpqpMnPNbm2oRWRQztytFfy.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/qJGHDpqpMnPNbm2oRWRQztytFfy.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/7OGIMlnve"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/zu48y0s"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/t4aw850"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/mi30id7"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/9d2uCjcNRot2/"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "series": "One Piece",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/dum1wnm6kJOUos0XJqjB8s2UWi9.jpg",
+  "season": 4,
+  "episode": 29,
+  "episode_title": "Episode 29",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/dum1wnm6kJOUos0XJqjB8s2UWi9.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/bGcTjOZyTxTZCOFC4NWKv3TR0a7.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/bGcTjOZyTxTZCOFC4NWKv3TR0a7.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://rubystm.com/e/mu2qfk3c5w04.html"
+    },
+    {
+      "option": 2,
+      "real_video": "https://strmup.to/CPbin5kHOZRE"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/1Nh57OM6kaiz/"
+    }
+  ]
+}

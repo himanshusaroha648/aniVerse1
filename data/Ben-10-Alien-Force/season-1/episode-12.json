@@ -1,0 +1,29 @@
+{
+  "series": "Ben 10: Alien Force",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/pGhCUqPaXZ0Xp4dUCT7Q6hjJArf.jpg",
+  "season": 1,
+  "episode": 12,
+  "episode_title": "Episode 12",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/pGhCUqPaXZ0Xp4dUCT7Q6hjJArf.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/7ze1RoBUQN8UZbE4CtE7MLWP8Ki.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/7ze1RoBUQN8UZbE4CtE7MLWP8Ki.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/KdMY53N6Ljcm/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://vidstreaming.xyz/v/HeFR3FewlDhJ/"
+    },
+    {
+      "option": 3,
+      "real_video": "https://filemoon.to/d/5fecltb4mrt3/_Toonhub4u__Ben_10_Alien_Force_S1___Episode_12___Plumbers__Helpers___Hin_Eng_480p"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/u1LMNfJuXnnV/"
+    }
+  ]
+}

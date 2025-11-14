@@ -1,0 +1,49 @@
+{
+  "series": "JoJo's Bizarre Adventure",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/kX9noqY0YpOPKwXpRXYg1hEIqmM.jpg",
+  "season": 1,
+  "episode": 4,
+  "episode_title": "Episode 4",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/kX9noqY0YpOPKwXpRXYg1hEIqmM.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/yS2cIgNCIuYt0YNsKulLBXBDryi.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/yS2cIgNCIuYt0YNsKulLBXBDryi.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/wNLn2NzTgP7G/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/h_jTQBKBc"
+    },
+    {
+      "option": 3,
+      "real_video": "https://rubystm.com/e/ixcvwjbatgcb.html"
+    },
+    {
+      "option": 4,
+      "real_video": "https://cloudy.upns.one/#ta6ghu"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/bxly25w"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/hudofj9"
+    },
+    {
+      "option": 7,
+      "real_video": "https://gdmirrorbot.nl/embed/u361mqa"
+    },
+    {
+      "option": 8,
+      "real_video": "https://emturbovid.com/t/67fe85776beb9"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/2f3680790ac607007e3443a317871dd5"
+    }
+  ]
+}

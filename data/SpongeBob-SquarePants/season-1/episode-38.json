@@ -1,0 +1,33 @@
+{
+  "series": "SpongeBob SquarePants",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/amvtZgiTty0GHIgD56gpouBWrcy.jpg",
+  "season": 1,
+  "episode": 38,
+  "episode_title": "Episode 38",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/amvtZgiTty0GHIgD56gpouBWrcy.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/lcXAzpBXc8qsAFwA0PFV592mHbY.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/lcXAzpBXc8qsAFwA0PFV592mHbY.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/pWHg04l3i"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/hn9bxv5"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/qsbikuk"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/gjf7zp9"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/IWJiV7SXaiQv/"
+    }
+  ]
+}

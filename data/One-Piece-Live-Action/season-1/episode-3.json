@@ -1,0 +1,41 @@
+{
+  "series": "One Piece Live Action",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/eawGnXKgvsbvARqFre4rshFWLfH.jpg",
+  "season": 1,
+  "episode": 3,
+  "episode_title": "Episode 3",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/eawGnXKgvsbvARqFre4rshFWLfH.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/71U4bl7z63ZGF5n2stJ7paELeNQ.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/71U4bl7z63ZGF5n2stJ7paELeNQ.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/dYpfaFrmmA68/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/bpaj0vo8ohi7.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://rubystm.com/e/u3qlwyc75rbt.html"
+    },
+    {
+      "option": 4,
+      "real_video": "https://embedwish.com/e/efs53cvsw8y9"
+    },
+    {
+      "option": 5,
+      "real_video": "https://filemoon.to/d/dieqgdki4n0v/_Toonhub4u__One_Piece_S01E03_480p_NF_WEB-DL_Multi_Audio_MSubs"
+    },
+    {
+      "option": 6,
+      "real_video": "https://filelions.online/v/q8pv7b4mdyl8"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/Dn6eGmQb6ekl/"
+    }
+  ]
+}

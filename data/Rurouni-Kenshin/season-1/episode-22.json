@@ -1,0 +1,41 @@
+{
+  "series": "Rurouni Kenshin",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/jCMbKOH4iootEBXNa5e4jKoeTSU.jpg",
+  "season": 1,
+  "episode": 22,
+  "episode_title": "Episode 22",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/jCMbKOH4iootEBXNa5e4jKoeTSU.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/l2NnmBJvkpqrpQH9H44C0AcFJbD.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/l2NnmBJvkpqrpQH9H44C0AcFJbD.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/RoyWaPBvkySA/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/13n8z17dzoji.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://short.icu/LO3KVIuLx"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/scqtbzy"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/q72lzwc"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/b7y6qa5"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/d91d1b4d82419de8a614abce9cc0e6d4"
+    }
+  ]
+}

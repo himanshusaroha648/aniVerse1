@@ -1,0 +1,37 @@
+{
+  "series": "My Daemon",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/5bWTE3CwBM6z8lew9BPykujeNwG.jpg",
+  "season": 1,
+  "episode": 2,
+  "episode_title": "Episode 2",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/5bWTE3CwBM6z8lew9BPykujeNwG.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/3TkPsFO70ddRoBbpYF66mM6DBQk.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/3TkPsFO70ddRoBbpYF66mM6DBQk.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://rubystm.come/8kqlmn5bhwgv.html"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/HM3YruUfT"
+    },
+    {
+      "option": 3,
+      "real_video": "https://multimovies.cloud/e/hm2sre6v47rf"
+    },
+    {
+      "option": 4,
+      "real_video": "https://filemoon.to/e/t031f9o2ffaq/Toonhub4u_My_Daemon_S01E02_480p_NF_WEB-DL_Multi_Audio_ESub"
+    },
+    {
+      "option": 5,
+      "real_video": "https://filelions.online/v/g6uou8v7nh84"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/nX9a84jfep45/"
+    }
+  ]
+}

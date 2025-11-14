@@ -1,0 +1,25 @@
+{
+  "series": "Record of Grancrest War",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/tECUAfNnSrNp7IS1HwXboLvg1FQ.jpg",
+  "season": 1,
+  "episode": 3,
+  "episode_title": "Episode 3",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/tECUAfNnSrNp7IS1HwXboLvg1FQ.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/cHsYbEZ3HFDcQkpu3rFVpEGjJnD.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/cHsYbEZ3HFDcQkpu3rFVpEGjJnD.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/EgRddtmVm"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/pxmvfkc"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/B8BBP4taxGK0/"
+    }
+  ]
+}

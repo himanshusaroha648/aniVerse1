@@ -1,0 +1,37 @@
+{
+  "series": "One Piece",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/dum1wnm6kJOUos0XJqjB8s2UWi9.jpg",
+  "season": 21,
+  "episode": 189,
+  "episode_title": "Episode 189",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/dum1wnm6kJOUos0XJqjB8s2UWi9.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/pzpiha2E7INtQuo3jKSjKw6Opmc.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/pzpiha2E7INtQuo3jKSjKw6Opmc.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/j4nvLMOO9"
+    },
+    {
+      "option": 2,
+      "real_video": "https://vidstreaming.xyz/v/ZMI8gu0QimKL/"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#jm1ey"
+    },
+    {
+      "option": 4,
+      "real_video": "https://emturbovid.com/t/67640194e8a2d"
+    },
+    {
+      "option": 5,
+      "real_video": "https://short.icu/iT9rAM7dd"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/Iv622NuWBuUO/"
+    }
+  ]
+}

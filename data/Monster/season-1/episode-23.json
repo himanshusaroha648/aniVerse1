@@ -1,0 +1,21 @@
+{
+  "series": "Monster",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/n5XNKXnoXpoXyfiCtXHOf8q8PFM.jpg",
+  "season": 1,
+  "episode": 23,
+  "episode_title": "Episode 23",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/n5XNKXnoXpoXyfiCtXHOf8q8PFM.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/smpyendH3uITqcKHlacuUr9LIbo.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/smpyendH3uITqcKHlacuUr9LIbo.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/Y1deRK2e4"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/VrjOfKl5wSGa/"
+    }
+  ]
+}

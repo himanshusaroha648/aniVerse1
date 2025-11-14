@@ -1,0 +1,53 @@
+{
+  "series": "My Dress-Up Darling",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/A6mxBwvvv63JXZm3xXKv4SugE0L.jpg",
+  "season": 1,
+  "episode": 12,
+  "episode_title": "Episode 12",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/A6mxBwvvv63JXZm3xXKv4SugE0L.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/iDV1nJ1wBzchT4LgpMaZ7HfHtpQ.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/iDV1nJ1wBzchT4LgpMaZ7HfHtpQ.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/58sMBGxs_"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/mynbpv2joxr5.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#3axivy"
+    },
+    {
+      "option": 4,
+      "real_video": "https://strmup.to/jo1tSVG3riRkm"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/zsvhwr3"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/jgaovc1"
+    },
+    {
+      "option": 7,
+      "real_video": "https://gdmirrorbot.nl/embed/ixdeczl"
+    },
+    {
+      "option": 8,
+      "real_video": "https://emturbovid.com/t/6809049d42410"
+    },
+    {
+      "option": 9,
+      "real_video": "https://vidmoly.net/embed-3q6xxuczjcre.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/36e729ec173b94133d8fa552e4029f8b"
+    }
+  ]
+}

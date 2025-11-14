@@ -1,0 +1,25 @@
+{
+  "series": "ONI: Thunder God's Tale",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/b0WL7vIxEYWeDUnnUm2sDz21l5i.jpg",
+  "season": 1,
+  "episode": 4,
+  "episode_title": "Episode 4",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/b0WL7vIxEYWeDUnnUm2sDz21l5i.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/69WvEBzeAlOwmtlfuKFkXemVVN6.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/69WvEBzeAlOwmtlfuKFkXemVVN6.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://watchsb.com/e/y0blkhcsckni.html"
+    },
+    {
+      "option": 2,
+      "real_video": "https://filepress.online/video/63575d415839229c9d894c8f"
+    },
+    {
+      "option": null,
+      "real_video": "https://filemoon.to/e/pz2ulij17dlc/_Toonhub4u__ONI_Thunder_God_s_Tale_Season_1_Episode_4__40_Hindi-Eng_41__1080p.mp4"
+    }
+  ]
+}

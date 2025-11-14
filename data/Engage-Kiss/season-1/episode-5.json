@@ -1,0 +1,25 @@
+{
+  "series": "Engage Kiss",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/rDWpWlApRc37TejFkgmqutcDL6z.jpg",
+  "season": 1,
+  "episode": 5,
+  "episode_title": "Episode 5",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/rDWpWlApRc37TejFkgmqutcDL6z.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/kkNqHZBlPSBj5jt5HNNuAB5X3Xw.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/kkNqHZBlPSBj5jt5HNNuAB5X3Xw.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://rubystm.com/e/k1q797e6sld7.html"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/k1q797e6sld7.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/TjJL8GNkzhz0/"
+    }
+  ]
+}

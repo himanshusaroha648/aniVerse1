@@ -1,0 +1,33 @@
+{
+  "series": "Ben 10: Ultimate Alien",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/n4KwrlUKO9S4GvOdZzmnz4zOxx7.jpg",
+  "season": 1,
+  "episode": 10,
+  "episode_title": "Episode 10",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/n4KwrlUKO9S4GvOdZzmnz4zOxx7.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/9DW9o0KrT1OmFPy51oqvI17WYib.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/9DW9o0KrT1OmFPy51oqvI17WYib.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/GdKGjxJj7"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/embed-jptc7sbrr6y4.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/lkcnvr2"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/nh7xqzb"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/xPqb3lOhMyMh/"
+    }
+  ]
+}

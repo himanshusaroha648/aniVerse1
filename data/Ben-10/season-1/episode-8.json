@@ -1,0 +1,33 @@
+{
+  "series": "Ben 10",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/pT0NlYVIkwM2zAw9oUkePwrOlxW.jpg",
+  "season": 1,
+  "episode": 8,
+  "episode_title": "Episode 8",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/pT0NlYVIkwM2zAw9oUkePwrOlxW.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/7PAIpke6fpBbYOkuY6MQokIhNLz.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/7PAIpke6fpBbYOkuY6MQokIhNLz.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/TkPZPdULf"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/embed-qzt16yvsg0vt.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/gyvs9id"
+    },
+    {
+      "option": 4,
+      "real_video": "https://emturbovid.com/t/6741b0ce1f87f"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/Ju6aALKuayNo/"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "series": "DuckTales",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/muplnM90daPCQ5Bn1olcwN1EO22.jpg",
+  "season": 1,
+  "episode": 5,
+  "episode_title": "Episode 5",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/muplnM90daPCQ5Bn1olcwN1EO22.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/j2vuewIDsJSy0nh2sb8uBe04EdQ.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/j2vuewIDsJSy0nh2sb8uBe04EdQ.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/a1GwR8AT4aUJ/"
+    }
+  ]
+}

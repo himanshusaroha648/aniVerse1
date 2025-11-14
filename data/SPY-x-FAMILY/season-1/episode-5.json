@@ -1,0 +1,53 @@
+{
+  "series": "SPY x FAMILY",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/7NAvPYPAu7MeHwP8E9sn81PqsRh.jpg",
+  "season": 1,
+  "episode": 5,
+  "episode_title": "Episode 5",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/7NAvPYPAu7MeHwP8E9sn81PqsRh.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/t080dX4sxW22t1T2azAzxhDOKxr.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/t080dX4sxW22t1T2azAzxhDOKxr.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://rubystm.com/e/e4zrjpx878g3.html"
+    },
+    {
+      "option": 2,
+      "real_video": "https://cloudy.upns.one/#j3blxp"
+    },
+    {
+      "option": 3,
+      "real_video": "https://strmup.to/yAskuxp7BqHo0"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/fpbaidp"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/oljz4dl"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/b4ilfio"
+    },
+    {
+      "option": 7,
+      "real_video": "https://emturbovid.com/t/6887a88b21ee7"
+    },
+    {
+      "option": 8,
+      "real_video": "https://vidmoly.net/embed-2hfr0vm0mnb1.html"
+    },
+    {
+      "option": 9,
+      "real_video": "https://play.zephyrflick.top/video/d240e3d38a8882ecad8633c8f9c78c9b"
+    },
+    {
+      "option": null,
+      "real_video": "https://short.icu/gWZOEYAet"
+    }
+  ]
+}

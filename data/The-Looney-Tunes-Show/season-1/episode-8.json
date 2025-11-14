@@ -1,0 +1,33 @@
+{
+  "series": "The Looney Tunes Show",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/zZuQ4RHiy52r6EyXOT4AwmBroZQ.jpg",
+  "season": 1,
+  "episode": 8,
+  "episode_title": "Episode 8",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/zZuQ4RHiy52r6EyXOT4AwmBroZQ.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/lmyTIie7KuBuK4mD3q3FrKx0Yiq.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/lmyTIie7KuBuK4mD3q3FrKx0Yiq.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/PzznRRHN7"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/m2seiyp"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/ri4jib3"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/j3bwls3"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/mWrLjd6VRthG/"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "series": "One Piece",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/dum1wnm6kJOUos0XJqjB8s2UWi9.jpg",
+  "season": 4,
+  "episode": 38,
+  "episode_title": "Episode 38",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/dum1wnm6kJOUos0XJqjB8s2UWi9.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/oMKgxTRi3K7vAIHrf8SxIM5FqFV.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/oMKgxTRi3K7vAIHrf8SxIM5FqFV.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://rubystm.com/e/kec8m09mop3x.html"
+    },
+    {
+      "option": 2,
+      "real_video": "https://strmup.to/HSqrZc2g7aqp"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/S5O1rH30RLSS/"
+    }
+  ]
+}

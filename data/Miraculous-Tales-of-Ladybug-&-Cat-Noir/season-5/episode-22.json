@@ -1,0 +1,37 @@
+{
+  "series": "Miraculous: Tales of Ladybug & Cat Noir",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/psDcRgUX38cIeGeADwLRPyO7SYC.jpg",
+  "season": 5,
+  "episode": 22,
+  "episode_title": "Episode 22",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/psDcRgUX38cIeGeADwLRPyO7SYC.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/bgH7tOx2bcXgm9mH0NUrbpbMrO4.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/bgH7tOx2bcXgm9mH0NUrbpbMrO4.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://rubystm.com/e/g6jmz7bz43kq.html"
+    },
+    {
+      "option": 2,
+      "real_video": "https://cloudy.upns.one/#h95rtm"
+    },
+    {
+      "option": 3,
+      "real_video": "https://strmup.to/TjPBtXwsdCU8m"
+    },
+    {
+      "option": 4,
+      "real_video": "https://emturbovid.com/t/689a004eeb1ed"
+    },
+    {
+      "option": 5,
+      "real_video": "https://vidmoly.net/embed-smfiqdptgw3v.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://short.icu/lbjjcF0dw"
+    }
+  ]
+}

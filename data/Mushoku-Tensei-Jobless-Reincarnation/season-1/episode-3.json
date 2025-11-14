@@ -1,0 +1,41 @@
+{
+  "series": "Mushoku Tensei: Jobless Reincarnation",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/pAlsYh0zv4vkkD3tjfpCqh3BMXC.jpg",
+  "season": 1,
+  "episode": 3,
+  "episode_title": "Episode 3",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/pAlsYh0zv4vkkD3tjfpCqh3BMXC.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/d29kiiic7xbvsxCnJ4syiO3JxYy.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/d29kiiic7xbvsxCnJ4syiO3JxYy.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/k9czEAO0n6Lz/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/efm56n4kl283.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://short.icu/gplU_vBbZ"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/f65hqf1"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/sy6wat8"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/b0tbaml"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/2b38c2df6a49b97f706ec9148ce48d86"
+    }
+  ]
+}

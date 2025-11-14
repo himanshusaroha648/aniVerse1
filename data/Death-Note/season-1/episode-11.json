@@ -1,0 +1,53 @@
+{
+  "series": "Death Note",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/b1LDp0faskUOoORqg1U6A6F3OkI.jpg",
+  "season": 1,
+  "episode": 11,
+  "episode_title": "Episode 11",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/b1LDp0faskUOoORqg1U6A6F3OkI.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/lgNB5KSLGYHrNgZeb0dYkDseqZX.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/lgNB5KSLGYHrNgZeb0dYkDseqZX.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/ypgozEc1z0"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/f0hjkjt8x8ev.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#ojpmh1"
+    },
+    {
+      "option": 4,
+      "real_video": "https://strmup.to/Gr9pLwkBS5b7v"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/bflpqsg"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/kn48aya"
+    },
+    {
+      "option": 7,
+      "real_video": "https://gdmirrorbot.nl/embed/jty2w0j"
+    },
+    {
+      "option": 8,
+      "real_video": "https://emturbovid.com/t/68d5250753263"
+    },
+    {
+      "option": 9,
+      "real_video": "https://vidmoly.net/embed-n1sogfc70j31.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/3be4d3f098a8da78f521afe939a92f1c"
+    }
+  ]
+}

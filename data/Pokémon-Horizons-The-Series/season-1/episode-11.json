@@ -1,0 +1,37 @@
+{
+  "series": "Pokémon Horizons: The Series",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/amemXW39lMbNBJFRMJ5W7q9mLP2.jpg",
+  "season": 1,
+  "episode": 11,
+  "episode_title": "Episode 11",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/amemXW39lMbNBJFRMJ5W7q9mLP2.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/hdwEgtrSFtRKddpAnP6lnR9dHnp.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/hdwEgtrSFtRKddpAnP6lnR9dHnp.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://rubystm.com/e/wngk4i05p4yc.html"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/bG3KNbipi"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/boq5qtz"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/smp0x24"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/pm0umaa"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/MgHquhAnXZSH/"
+    }
+  ]
+}

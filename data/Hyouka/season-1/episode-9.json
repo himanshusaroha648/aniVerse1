@@ -1,0 +1,33 @@
+{
+  "series": "Hyouka",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/dnYx8jtn2JzAMkVYRG9mFZMJoDc.jpg",
+  "season": 1,
+  "episode": 9,
+  "episode_title": "Episode 9",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/dnYx8jtn2JzAMkVYRG9mFZMJoDc.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/uOuLmWacwrKgUaHJb8u8vqsqlin.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/uOuLmWacwrKgUaHJb8u8vqsqlin.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/AILzSzb7GD8"
+    },
+    {
+      "option": 2,
+      "real_video": "https://vidstreaming.xyz/v/TQvkRlDRJah0/"
+    },
+    {
+      "option": 3,
+      "real_video": "https://short.icu/4JvbeVRk6"
+    },
+    {
+      "option": 4,
+      "real_video": "https://vidstreaming.xyz/v/HaEGtwwIrJF6/"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/SapFkJKM5XDm/"
+    }
+  ]
+}

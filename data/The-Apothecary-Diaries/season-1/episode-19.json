@@ -1,0 +1,41 @@
+{
+  "series": "The Apothecary Diaries",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/oWiZZpg3LwY6WSnaE63Cc453lcw.jpg",
+  "season": 1,
+  "episode": 19,
+  "episode_title": "Episode 19",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/oWiZZpg3LwY6WSnaE63Cc453lcw.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/5Y1BHMhhCHwWwxAqNoQYGyZvMWk.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/5Y1BHMhhCHwWwxAqNoQYGyZvMWk.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/bACgax7YYlIX/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/8BoUsc2w0"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/peg42ua"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/m9s5nio"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/kflmy2b"
+    },
+    {
+      "option": 6,
+      "real_video": "https://raretoonsindia.co/ex/iFqwOYshIaNbbpw"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/9f655cc8884fda7ad6d8a6fb15cc001e"
+    }
+  ]
+}

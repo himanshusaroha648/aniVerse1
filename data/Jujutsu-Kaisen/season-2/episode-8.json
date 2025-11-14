@@ -1,0 +1,61 @@
+{
+  "series": "Jujutsu Kaisen",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/3yFHMtdhriig4sm1w8oMQfA2gFN.jpg",
+  "season": 2,
+  "episode": 8,
+  "episode_title": "Episode 8",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/3yFHMtdhriig4sm1w8oMQfA2gFN.jpg",
+  "episode_card_thumbnail": "https://www.themoviedb.org/t/p/original/4TKsaK3283WN94Bjsx44XmpkVgn.jpg",
+  "episode_list_thumbnail": "https://www.themoviedb.org/t/p/original/4TKsaK3283WN94Bjsx44XmpkVgn.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://rubystm.com/e/7l8vm425sx5m.html"
+    },
+    {
+      "option": 2,
+      "real_video": "https://vidmoly.me/w/5tkxi43l903l"
+    },
+    {
+      "option": 3,
+      "real_video": "https://multimovies.cloud/e/rxx6ya2uponq"
+    },
+    {
+      "option": 4,
+      "real_video": "https://filemoon.to/e/k5fzqj9stish/Toonhub4u_Jujutsu_Kaisen_S02E08_480p_WEB-DL_Multi_Audio_MSub"
+    },
+    {
+      "option": 5,
+      "real_video": "https://filelions.online/v/w0ms74a5j73c"
+    },
+    {
+      "option": 6,
+      "real_video": "https://vidstreaming.xyz/v/3JiaKBQINaGd/"
+    },
+    {
+      "option": 7,
+      "real_video": "https://rubystm.com/e/bjdm2exkcugl.html"
+    },
+    {
+      "option": 8,
+      "real_video": "https://vidstreaming.xyz/v/5NuCjWqKOgGN/"
+    },
+    {
+      "option": 9,
+      "real_video": "https://rubystm.com/e/ksq70xxylpyx.html"
+    },
+    {
+      "option": 10,
+      "real_video": "https://short.icu/Ftqz3KfBZ"
+    },
+    {
+      "option": 11,
+      "real_video": "https://gdmirrorbot.nl/embed/rm8mlcl"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/WYtoS8v4Jpz5/"
+    }
+  ]
+}

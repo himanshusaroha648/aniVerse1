@@ -1,0 +1,37 @@
+{
+  "series": "Ronja the Robber's Daughter",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/pTnFZlLettuek3T9nSDQv1MAfjL.jpg",
+  "season": 1,
+  "episode": 19,
+  "episode_title": "Episode 19",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/pTnFZlLettuek3T9nSDQv1MAfjL.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/2FOlPzqWi2Gd1i5823i2ivZGYqI.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/2FOlPzqWi2Gd1i5823i2ivZGYqI.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://rubystm.com/e/sdnjepg3cyht.html"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/VWpjbzsuR"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/jpc7cve"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/fmnnn7y"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/j2dtgyf"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/A53feaulxQav/"
+    }
+  ]
+}

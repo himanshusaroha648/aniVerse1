@@ -1,0 +1,41 @@
+{
+  "series": "Dragon Ball Super",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/qEUrbXJ2qt4Rg84Btlx4STOhgte.jpg",
+  "season": 1,
+  "episode": 50,
+  "episode_title": "Episode 50",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/qEUrbXJ2qt4Rg84Btlx4STOhgte.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/quMxZwTIfT1JG0OJ3FONJjFoHgx.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/quMxZwTIfT1JG0OJ3FONJjFoHgx.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/fJLQ_QOZ-"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/jr6uf4npagyj.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#ipwhjj"
+    },
+    {
+      "option": 4,
+      "real_video": "https://strmup.to/ACSptFvasm9zX"
+    },
+    {
+      "option": 5,
+      "real_video": "https://turbovidhls.com/t/68b691e229200"
+    },
+    {
+      "option": 6,
+      "real_video": "https://vidmoly.net/embed-8gwkwt5c0bo3.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/5cc3749a6e56ef6d656735dff9176074"
+    }
+  ]
+}

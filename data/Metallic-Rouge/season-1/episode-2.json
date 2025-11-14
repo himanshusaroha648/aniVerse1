@@ -1,0 +1,45 @@
+{
+  "series": "Metallic Rouge",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/dcUWxOeCiEM7n7KdIYk1O8Xzgzp.jpg",
+  "season": 1,
+  "episode": 2,
+  "episode_title": "Episode 2",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/dcUWxOeCiEM7n7KdIYk1O8Xzgzp.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/29enAKBpR0OuLdxw9LhjzgZW4Vt.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/29enAKBpR0OuLdxw9LhjzgZW4Vt.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/jMOPPliMo9DM/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/l8hymi8lwdyr.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://vidmoly.me/w/h256alq9ecez"
+    },
+    {
+      "option": 4,
+      "real_video": "https://short.icu/bDsyWc2pw"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/i05anvv"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/ouk6l9f"
+    },
+    {
+      "option": 7,
+      "real_video": "https://gdmirrorbot.nl/embed/wibw4ok"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/cbf4d310ea68b3933521ba359d33ed5e"
+    }
+  ]
+}

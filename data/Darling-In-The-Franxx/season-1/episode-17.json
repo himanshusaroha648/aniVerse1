@@ -1,0 +1,45 @@
+{
+  "series": "Darling In The Franxx",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/yyUxeNpQoD23XWEdPXLJRGQEtHT.jpg",
+  "season": 1,
+  "episode": 17,
+  "episode_title": "Episode 17",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/yyUxeNpQoD23XWEdPXLJRGQEtHT.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/yNJeG4uFjKKSVBB9z7oUDjGJiF9.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/yNJeG4uFjKKSVBB9z7oUDjGJiF9.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/xlgphZG3oG4t/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/bh85j3pdn9ao.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://short.icu/E1RIVGF1v"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/sv1j3fk"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/hovwfhd"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/tcz6mcz"
+    },
+    {
+      "option": 7,
+      "real_video": "https://animeworld.site/embed/76121/1-17"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/42d6c7d61481d1c21bd1635f59edae05"
+    }
+  ]
+}

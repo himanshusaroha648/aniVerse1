@@ -1,0 +1,17 @@
+{
+  "series": "Naruto Shippūden [English-Jap Dub]",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/lufFEkkD5JMrDgiVYh4s1ksx4nv.jpg",
+  "season": 1,
+  "episode": 26,
+  "episode_title": "Episode 26",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/lufFEkkD5JMrDgiVYh4s1ksx4nv.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/me1B0bG1l2FPF2iteE4RIrqbS2P.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/me1B0bG1l2FPF2iteE4RIrqbS2P.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/IlqSSXbzFTda/"
+    }
+  ]
+}

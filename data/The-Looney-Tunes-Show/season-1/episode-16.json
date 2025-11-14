@@ -1,0 +1,33 @@
+{
+  "series": "The Looney Tunes Show",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/zZuQ4RHiy52r6EyXOT4AwmBroZQ.jpg",
+  "season": 1,
+  "episode": 16,
+  "episode_title": "Episode 16",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/zZuQ4RHiy52r6EyXOT4AwmBroZQ.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/lGmqPfUqQkFbj4DRjaWOBHA0LIo.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/lGmqPfUqQkFbj4DRjaWOBHA0LIo.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/l-Nq1oRbB"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/a7bjmfr"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/x81trdk"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/mvnq56c"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/OMdavjxXTS7S/"
+    }
+  ]
+}

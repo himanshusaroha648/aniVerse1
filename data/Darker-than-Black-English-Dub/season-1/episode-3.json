@@ -1,0 +1,21 @@
+{
+  "series": "Darker than Black English Dub",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/i2jS5N0FK9o58Lxh5mnkOzEDZsd.jpg",
+  "season": 1,
+  "episode": 3,
+  "episode_title": "Episode 3",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/i2jS5N0FK9o58Lxh5mnkOzEDZsd.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/4ZSZGMLnVAJk6PtTr2k3ct3PpKm.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/4ZSZGMLnVAJk6PtTr2k3ct3PpKm.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/ZpTglKkk4"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/lMdfat2nuP4R/"
+    }
+  ]
+}

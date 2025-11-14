@@ -1,0 +1,29 @@
+{
+  "series": "One Piece",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/dum1wnm6kJOUos0XJqjB8s2UWi9.jpg",
+  "season": 22,
+  "episode": 35,
+  "episode_title": "Episode 35",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/dum1wnm6kJOUos0XJqjB8s2UWi9.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/5VFdmFzQdmpre1o9qtAqoLXOzsl.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/5VFdmFzQdmpre1o9qtAqoLXOzsl.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/s1MQKRNwj"
+    },
+    {
+      "option": 2,
+      "real_video": "https://cloudy.upns.one/#vzjpu3"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/vvdgacf"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/Jx3YJ0oN9Joq/"
+    }
+  ]
+}

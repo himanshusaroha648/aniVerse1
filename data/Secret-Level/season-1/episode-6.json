@@ -1,0 +1,49 @@
+{
+  "series": "Secret Level",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/yFPpkD7vRXh153arzlYnNmXyUWI.jpg",
+  "season": 1,
+  "episode": 6,
+  "episode_title": "Episode 6",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/yFPpkD7vRXh153arzlYnNmXyUWI.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/iGFxEE7a6z6960GcKAD2gdntjKq.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/iGFxEE7a6z6960GcKAD2gdntjKq.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/4HS2fP71LwvK/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/KFm2YYVhy"
+    },
+    {
+      "option": 3,
+      "real_video": "https://rubystm.com/e/w065udybh7li.html"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/m7vxc7i"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/zcedggg"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/i5mxh3m"
+    },
+    {
+      "option": 7,
+      "real_video": "https://najmin.upn.one/#h3lk1"
+    },
+    {
+      "option": 8,
+      "real_video": "https://emturbovid.com/t/675875b3601b7"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/bdba33c9c0089cabdd362693a28afd33"
+    }
+  ]
+}

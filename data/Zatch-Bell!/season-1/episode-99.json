@@ -1,0 +1,25 @@
+{
+  "series": "Zatch Bell!",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/1JaCkXXU7gB8tHmvuzpu36CgGr1.jpg",
+  "season": 1,
+  "episode": 99,
+  "episode_title": "Episode 99",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/1JaCkXXU7gB8tHmvuzpu36CgGr1.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/onYeIWuqMVvL7UxIFQlIWNwUQHn.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/onYeIWuqMVvL7UxIFQlIWNwUQHn.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/7vQUPNzpg"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/olgiyhi"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/d5UO1MX3EOXC/"
+    }
+  ]
+}

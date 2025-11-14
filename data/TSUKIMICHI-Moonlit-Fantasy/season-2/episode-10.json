@@ -1,0 +1,21 @@
+{
+  "series": "TSUKIMICHI -Moonlit Fantasy-",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/oGTihBVxHROSWa1WJnireCbl0KQ.jpg",
+  "season": 2,
+  "episode": 10,
+  "episode_title": "Episode 10",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/oGTihBVxHROSWa1WJnireCbl0KQ.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/mpPcZFgDPgs1WUY5qA8QvxWvFRJ.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/mpPcZFgDPgs1WUY5qA8QvxWvFRJ.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/4Cq5cMAQG"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/kAJI4ftAC9wm/"
+    }
+  ]
+}

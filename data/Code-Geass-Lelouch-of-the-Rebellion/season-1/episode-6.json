@@ -1,0 +1,37 @@
+{
+  "series": "Code Geass: Lelouch of the Rebellion",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/nF0qzl8jfQYxynra99WrC1zFq4C.jpg",
+  "season": 1,
+  "episode": 6,
+  "episode_title": "Episode 6",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/nF0qzl8jfQYxynra99WrC1zFq4C.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/hwEwE1lYHJdmuyDdo4L5CHFMgSd.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/hwEwE1lYHJdmuyDdo4L5CHFMgSd.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/r6hnXDGkDI2M/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/9ozs8k7cq1i5.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://multimovies.cloud/e/xm495y9abfc4"
+    },
+    {
+      "option": 4,
+      "real_video": "https://filemoon.to/e/v65soyz805cl/Toonhub4u_Code_Geass_S01E06_480p_BDRip_Multi_Audio_ESub"
+    },
+    {
+      "option": 5,
+      "real_video": "https://filelions.online/v/qv6k4wt2tk55"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/3850b1a23fec9e1b958601a27109d0d5"
+    }
+  ]
+}

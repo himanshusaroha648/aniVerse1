@@ -1,0 +1,33 @@
+{
+  "series": "Scooby-Doo! Mystery Incorporated",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/mu8zU2jQfPbGO5bC6RHYrSypxUd.jpg",
+  "season": 1,
+  "episode": 11,
+  "episode_title": "Episode 11",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/mu8zU2jQfPbGO5bC6RHYrSypxUd.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/noig7eRTfUSsgkvmNBaF1YCXhmR.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/noig7eRTfUSsgkvmNBaF1YCXhmR.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/1oJGXjlf8"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/ba2xbyc"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/egp17zp"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/gl8j457"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/bq55v8IohUkf/"
+    }
+  ]
+}

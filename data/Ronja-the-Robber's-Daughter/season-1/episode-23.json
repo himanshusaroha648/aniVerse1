@@ -1,0 +1,37 @@
+{
+  "series": "Ronja the Robber's Daughter",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/pTnFZlLettuek3T9nSDQv1MAfjL.jpg",
+  "season": 1,
+  "episode": 23,
+  "episode_title": "Episode 23",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/pTnFZlLettuek3T9nSDQv1MAfjL.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/f8jVRJJgc0oXncuqsr3XPxpBNYH.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/f8jVRJJgc0oXncuqsr3XPxpBNYH.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://rubystm.com/e/f45f1jlfu4zs.html"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/E3Qz9EYXp"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/kyk4nw5"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/i6v48an"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/bmawu2d"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/JS59q06p1k6e/"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "series": "Rascal Does Not Dream of Bunny Girl Senpai",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/aZqrrApjYUluz9QformO6lZdlO0.jpg",
+  "season": 1,
+  "episode": 8,
+  "episode_title": "Episode 8",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/aZqrrApjYUluz9QformO6lZdlO0.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/rWBazLMOLJZb8aTGIwwHZ0hn46x.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/rWBazLMOLJZb8aTGIwwHZ0hn46x.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidmoly.me/embed-pjaaw135j2iv.html"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/rqhHfwFLOV"
+    },
+    {
+      "option": 3,
+      "real_video": "https://vidstreaming.xyz/v/NcL2aljb6znU/"
+    },
+    {
+      "option": 4,
+      "real_video": "https://short.icu/udOnkQe84"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/AneVVdwYfziZ/"
+    }
+  ]
+}

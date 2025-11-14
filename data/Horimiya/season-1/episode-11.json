@@ -1,0 +1,53 @@
+{
+  "series": "Horimiya",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/iSOKGl5KIeOCAtigUDCfFZe2cOi.jpg",
+  "season": 1,
+  "episode": 11,
+  "episode_title": "Episode 11",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/iSOKGl5KIeOCAtigUDCfFZe2cOi.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/fjNZZfiJSNeGPVUey7voBGoorQw.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/fjNZZfiJSNeGPVUey7voBGoorQw.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/LIX31e6gl"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/qefuvsj9epc5.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#v16ekp"
+    },
+    {
+      "option": 4,
+      "real_video": "https://strmup.to/W0FxXCSRAVdqJ"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/yo9oznk"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/rpfw2jb"
+    },
+    {
+      "option": 7,
+      "real_video": "https://gdmirrorbot.nl/embed/j8rqxal"
+    },
+    {
+      "option": 8,
+      "real_video": "https://emturbovid.com/t/686e1d97a4b68"
+    },
+    {
+      "option": 9,
+      "real_video": "https://vidmoly.net/embed-cyj8j2tbnzci.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/0c95054981de037de06e544a52eb3613"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "series": "Garouden: The Way of the Lone Wolf",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/ozOjfhE6ADlWto0IKgVtniRvUOW.jpg",
+  "season": 1,
+  "episode": 4,
+  "episode_title": "Episode 4",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/ozOjfhE6ADlWto0IKgVtniRvUOW.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/g1gzOarhvtQeggE3bXRQMMrC4qx.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/g1gzOarhvtQeggE3bXRQMMrC4qx.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/UGHbvgM4l"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/8n5vyjzeoehl.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#medr1x"
+    },
+    {
+      "option": 4,
+      "real_video": "https://strmup.to/mcI4tsjiehkMC"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/kocjjcr"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/mpg8b5y"
+    },
+    {
+      "option": 7,
+      "real_video": "https://gdmirrorbot.nl/embed/iqco8lz"
+    },
+    {
+      "option": 8,
+      "real_video": "https://emturbovid.com/t/687ce18579df1"
+    },
+    {
+      "option": 9,
+      "real_video": "https://vidmoly.net/embed-cb1pyus9camt.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/11084aaf0a5fc9561425a254a219f6f6"
+    }
+  ]
+}

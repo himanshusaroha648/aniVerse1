@@ -1,0 +1,45 @@
+{
+  "series": "True Beauty",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/9gpc8kIhNEG7r0VTkyI9aVBxdO3.jpg",
+  "season": 1,
+  "episode": 11,
+  "episode_title": "Episode 11",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/9gpc8kIhNEG7r0VTkyI9aVBxdO3.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/zhdUheTopeI5ZTxQ3zZHFSH3ZJZ.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/zhdUheTopeI5ZTxQ3zZHFSH3ZJZ.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/b5hiM6HzGN5j/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/suiSh-MyA"
+    },
+    {
+      "option": 3,
+      "real_video": "https://rubystm.com/e/z5o7svmrlarb.html"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/xw3rvr1"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/x33sstt"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/xv36u4t"
+    },
+    {
+      "option": 7,
+      "real_video": "https://emturbovid.com/t/672c4ac5a363c"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/255ea887b8bca36797426dfb35a809cc"
+    }
+  ]
+}

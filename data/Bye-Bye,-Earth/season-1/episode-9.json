@@ -1,0 +1,45 @@
+{
+  "series": "Bye Bye, Earth",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/gAVZ6fl5Z0zievRf7CuhUogyEYf.jpg",
+  "season": 1,
+  "episode": 9,
+  "episode_title": "Episode 9",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/gAVZ6fl5Z0zievRf7CuhUogyEYf.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/oHIPNWMNJO7tQSb28Z7OF36E1AL.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/oHIPNWMNJO7tQSb28Z7OF36E1AL.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/MT0v75nvLIHN/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/GxuVeHPRb"
+    },
+    {
+      "option": 3,
+      "real_video": "https://rubystm.com/e/prs03zw3mv4c.html"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/xd4gz1x"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/jku6a3f"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/hcfj0ql"
+    },
+    {
+      "option": 7,
+      "real_video": "https://raretoonsindia.co/ex/Qj66iisaisYofcd"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/9185f3ec501c674c7c788464a36e7fb3"
+    }
+  ]
+}

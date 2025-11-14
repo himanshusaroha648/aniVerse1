@@ -1,0 +1,45 @@
+{
+  "series": "Yu-Gi-Oh! Zexal",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/hKsREcyiIx0rV50Yzvzzsnc1h85.jpg",
+  "season": 1,
+  "episode": 7,
+  "episode_title": "Episode 7",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/hKsREcyiIx0rV50Yzvzzsnc1h85.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/wNk7573rLllulc5wCu38bEYIFik.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/wNk7573rLllulc5wCu38bEYIFik.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/PmrosO5ig"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/zjl6lcjvxqkp.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#epdpxl"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/xo1417k"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/gstxf35"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/ahrluoo"
+    },
+    {
+      "option": 7,
+      "real_video": "https://emturbovid.com/t/67dfd2bc9855a"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/MXHKb5henVrI/"
+    }
+  ]
+}

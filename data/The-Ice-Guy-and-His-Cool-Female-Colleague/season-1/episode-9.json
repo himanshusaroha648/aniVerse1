@@ -1,0 +1,25 @@
+{
+  "series": "The Ice Guy and His Cool Female Colleague",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/2nZrmcyMgYCHmNGKPX9NXfWEybH.jpg",
+  "season": 1,
+  "episode": 9,
+  "episode_title": "Episode 9",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/2nZrmcyMgYCHmNGKPX9NXfWEybH.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/fXqSgCj4Zqb2n8y4VT7TISVzp6q.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/fXqSgCj4Zqb2n8y4VT7TISVzp6q.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/Pl7NSsm35"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/u1xsyy3"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/x6WugcG1qOJj/"
+    }
+  ]
+}

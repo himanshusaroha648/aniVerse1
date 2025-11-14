@@ -1,0 +1,41 @@
+{
+  "series": "Fire Force",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/GXPzNvuDGzWikMEduV99kocohn.jpg",
+  "season": 3,
+  "episode": 7,
+  "episode_title": "Episode 7",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/GXPzNvuDGzWikMEduV99kocohn.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/tgzRLRZ6usWWyUSC4Lc9xZ3wopg.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/tgzRLRZ6usWWyUSC4Lc9xZ3wopg.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/bzjpcqRoogVx/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/MSPilUsghA"
+    },
+    {
+      "option": 3,
+      "real_video": "https://rubystm.com/e/a9ugkq3j370m.html"
+    },
+    {
+      "option": 4,
+      "real_video": "https://cloudy.upns.one/#x65ge3"
+    },
+    {
+      "option": 5,
+      "real_video": "https://emturbovid.com/t/6844056dbf7e3"
+    },
+    {
+      "option": 6,
+      "real_video": "https://raretoonsindia.co/ex/sVuoEiO19YeCfNv"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/0780e8f5d5df0c219dcafae6e0f35043"
+    }
+  ]
+}

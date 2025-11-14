@@ -1,0 +1,25 @@
+{
+  "series": "In Another World with My Smartphone (Eng-Jap)",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/xlXdtc8QfwALtJW1o4UwRLt31Qy.jpg",
+  "season": 2,
+  "episode": 12,
+  "episode_title": "Episode 12",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/xlXdtc8QfwALtJW1o4UwRLt31Qy.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/vIR9VRmPENVxP2r09bfa9Q3LR2R.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/vIR9VRmPENVxP2r09bfa9Q3LR2R.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/VOoU6CWkK"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/wch98w9"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/oPGa2vi3Wbih/"
+    }
+  ]
+}

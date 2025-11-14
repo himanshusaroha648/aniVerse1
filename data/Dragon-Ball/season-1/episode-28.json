@@ -1,0 +1,61 @@
+{
+  "series": "Dragon Ball",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/vU50hlN4ZHeCSuyhpIfo52TxKR4.jpg",
+  "season": 1,
+  "episode": 28,
+  "episode_title": "Episode 28",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/vU50hlN4ZHeCSuyhpIfo52TxKR4.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/ohWHMpYRfUTc1s22GQYGJBCIV7O.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/ohWHMpYRfUTc1s22GQYGJBCIV7O.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/3g7aWZiMvrJc/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/oe6ofzjitsbj.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://short.icu/jNs-KZtkT"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/j52qwxk"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/sveo6xw"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/j5y6y7b"
+    },
+    {
+      "option": 7,
+      "real_video": "https://blakiteapi.xyz/embed/12609/2-15"
+    },
+    {
+      "option": 8,
+      "real_video": "https://cloudy.upns.one/#ungq69"
+    },
+    {
+      "option": 9,
+      "real_video": "https://strmup.to/tYHDyIEUGBT6R"
+    },
+    {
+      "option": 10,
+      "real_video": "https://turbovidhls.com/t/68b6b51d34d46"
+    },
+    {
+      "option": 11,
+      "real_video": "https://vidmoly.net/embed-df0fowynts0q.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/959ef477884b6ac2241b19ee4fb776ae"
+    }
+  ]
+}

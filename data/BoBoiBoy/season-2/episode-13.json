@@ -1,0 +1,37 @@
+{
+  "series": "BoBoiBoy",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/zRZ1Y90mhKXrLDYnnfJf4By8hca.jpg",
+  "season": 2,
+  "episode": 13,
+  "episode_title": "Episode 13",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/zRZ1Y90mhKXrLDYnnfJf4By8hca.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/zKhUewJTCvWsGmbxngCRZxzzg2w.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/zKhUewJTCvWsGmbxngCRZxzzg2w.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/me5ad7kObA8u/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/wtaKl2ft5"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/o2hptwf"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/wrjw6u5"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/mcxf8cf"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/2c89109d42178de8a367c0228f169bf8"
+    }
+  ]
+}

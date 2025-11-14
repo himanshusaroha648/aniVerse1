@@ -1,0 +1,49 @@
+{
+  "series": "Jujutsu Kaisen",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/3yFHMtdhriig4sm1w8oMQfA2gFN.jpg",
+  "season": 1,
+  "episode": 17,
+  "episode_title": "Episode 17",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/3yFHMtdhriig4sm1w8oMQfA2gFN.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/ikepTZxM3z2rs4DNXiNCACIn87j.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/ikepTZxM3z2rs4DNXiNCACIn87j.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://rubystm.com/e/34xf5hv1k5v6.html"
+    },
+    {
+      "option": 2,
+      "real_video": "https://embedwish.com/e/avg9hp26lxmo"
+    },
+    {
+      "option": 3,
+      "real_video": "https://filemoon.to/e/wjplctwnt32d/_Toonhub4u__Jujutsu_Kaisen_S01E17__BDRip_480p_x264___Multi_Audio__ESub"
+    },
+    {
+      "option": 4,
+      "real_video": "https://filelions.online/v/d4jd13urf16h"
+    },
+    {
+      "option": 5,
+      "real_video": "https://vidstreaming.xyz/v/6vimaBLyufrf/"
+    },
+    {
+      "option": 6,
+      "real_video": "https://vidstreaming.xyz/v/Ir0Gl3Df4SK6/"
+    },
+    {
+      "option": 7,
+      "real_video": "https://stmruby.com/e/30wuh95y7cit.html"
+    },
+    {
+      "option": 8,
+      "real_video": "https://short.icu/A7mX2_as0"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/WSQcH1ExSRIr/"
+    }
+  ]
+}

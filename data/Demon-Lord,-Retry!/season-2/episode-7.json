@@ -1,0 +1,45 @@
+{
+  "series": "Demon Lord, Retry!",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/yTCHcZ1x35KkqnAT5xSosRpbdaV.jpg",
+  "season": 2,
+  "episode": 7,
+  "episode_title": "Episode 7",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/yTCHcZ1x35KkqnAT5xSosRpbdaV.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/zKEbXvQc0YA2CxWE6ikWobhPOXL.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/zKEbXvQc0YA2CxWE6ikWobhPOXL.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/gKNoOrzlc03F/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/qIVRnGN4i"
+    },
+    {
+      "option": 3,
+      "real_video": "https://rubystm.com/e/rm4cd45tq7kb.html"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/k7o4haq"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/s8qofuu"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/ph9fc8p"
+    },
+    {
+      "option": 7,
+      "real_video": "https://emturbovid.com/t/674c7de9971ed"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/f2201f5191c4e92cc5af043eebfd0946"
+    }
+  ]
+}

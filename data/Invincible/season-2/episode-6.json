@@ -1,0 +1,17 @@
+{
+  "series": "Invincible",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/4UEfVAuI4Yn09nzJ16NFR1pv3ac.jpg",
+  "season": 2,
+  "episode": 6,
+  "episode_title": "Episode 6",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/4UEfVAuI4Yn09nzJ16NFR1pv3ac.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/aurifs5rSA2c71STG5VOw3OrBgR.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/aurifs5rSA2c71STG5VOw3OrBgR.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/2af1e9eaa807096a11b32ed26ecc2cbb"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "series": "SpongeBob SquarePants",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/amvtZgiTty0GHIgD56gpouBWrcy.jpg",
+  "season": 1,
+  "episode": 18,
+  "episode_title": "Episode 18",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/amvtZgiTty0GHIgD56gpouBWrcy.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/8pyJbx7r6QRpq9cl2bSNx6GESW1.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/8pyJbx7r6QRpq9cl2bSNx6GESW1.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/MZTT7NG3Q"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/btlijlq"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/lii7nhu"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/ckp633z"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/1WX8aQetGXC0/"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "series": "The Legend of Vox Machina",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/b5A0qkGrZJTyVv3gT6b8clFEz9R.jpg",
+  "season": 1,
+  "episode": 3,
+  "episode_title": "Episode 3",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/b5A0qkGrZJTyVv3gT6b8clFEz9R.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/7ww5ZnuYxTTV3ydjeIMTbyqwdNB.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/7ww5ZnuYxTTV3ydjeIMTbyqwdNB.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/3IzSf8SrRdrk/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/PI5_ftT96"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/mrdimym"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/hj8b026"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/uqfotox"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/fac9f8fdf66019365db95e4c1edef2bc"
+    }
+  ]
+}

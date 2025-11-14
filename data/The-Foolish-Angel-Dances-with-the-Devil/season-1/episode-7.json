@@ -1,0 +1,25 @@
+{
+  "series": "The Foolish Angel Dances with the Devil",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/tyay9L58bSNIxVUXIGNxkjKMRuD.jpg",
+  "season": 1,
+  "episode": 7,
+  "episode_title": "Episode 7",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/tyay9L58bSNIxVUXIGNxkjKMRuD.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/mJE9TxWmLQ8O9jmPfYHP267ctLK.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/mJE9TxWmLQ8O9jmPfYHP267ctLK.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/rReAP6XTh"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/brpg2v2"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/IFeRwUAPCvje/"
+    }
+  ]
+}

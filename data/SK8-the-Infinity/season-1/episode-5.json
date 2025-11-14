@@ -1,0 +1,49 @@
+{
+  "series": "SK8 the Infinity",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/kZHnqxP16mb2pVYthJfT4buYk4P.jpg",
+  "season": 1,
+  "episode": 5,
+  "episode_title": "Episode 5",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/kZHnqxP16mb2pVYthJfT4buYk4P.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/mmyxBrWD82EFIfEs5wfq5qL3CXf.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/mmyxBrWD82EFIfEs5wfq5qL3CXf.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/tp2PCVG5O3XU/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/RZ7rXd0nK"
+    },
+    {
+      "option": 3,
+      "real_video": "https://rubystm.com/e/4zcquz4f5v6r.html"
+    },
+    {
+      "option": 4,
+      "real_video": "https://cloudy.upns.one/#pkxqy8"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/jbnx7xl"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/gxmmv25"
+    },
+    {
+      "option": 7,
+      "real_video": "https://gdmirrorbot.nl/embed/lldlpsd"
+    },
+    {
+      "option": 8,
+      "real_video": "https://emturbovid.com/t/684d5a83bb42f"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/553c3741e8d893fe9789a3eb8a162821"
+    }
+  ]
+}

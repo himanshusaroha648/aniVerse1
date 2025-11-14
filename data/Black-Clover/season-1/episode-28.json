@@ -1,0 +1,41 @@
+{
+  "series": "Black Clover",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/kZ3ZGOGrUvYKA1erts8ckynMduv.jpg",
+  "season": 1,
+  "episode": 28,
+  "episode_title": "Episode 28",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/kZ3ZGOGrUvYKA1erts8ckynMduv.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/vnBti0nmWaecswtnSDj8wdfJzYa.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/vnBti0nmWaecswtnSDj8wdfJzYa.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/iwlmECkg8eZ0/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/ooX-QTKCON"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/i4rwto4"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/yvfxg2m"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/o77959q"
+    },
+    {
+      "option": 6,
+      "real_video": "https://raretoonsindia.co/ex/1ed8YLCFg9YqvyG"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/ba9a56ce0a9bfa26e8ed9e10b2cc8f46"
+    }
+  ]
+}

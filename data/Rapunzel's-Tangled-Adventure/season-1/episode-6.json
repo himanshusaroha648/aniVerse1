@@ -1,0 +1,33 @@
+{
+  "series": "Rapunzel's Tangled Adventure",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/s12Z2uGrvjj5sA7LsBStTtfTYjC.jpg",
+  "season": 1,
+  "episode": 6,
+  "episode_title": "Episode 6",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/s12Z2uGrvjj5sA7LsBStTtfTYjC.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/brrQ0SdxtBJZEnhQwtVvmhwYTNG.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/brrQ0SdxtBJZEnhQwtVvmhwYTNG.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/jHtPtkrtC"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/5n9jcltefwil.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/oepbpml"
+    },
+    {
+      "option": 4,
+      "real_video": "https://emturbovid.com/t/67176de91247e"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/KFvepof7Ed2n/"
+    }
+  ]
+}

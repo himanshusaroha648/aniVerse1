@@ -1,0 +1,37 @@
+{
+  "series": "The Legend of Vox Machina",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/b5A0qkGrZJTyVv3gT6b8clFEz9R.jpg",
+  "season": 1,
+  "episode": 12,
+  "episode_title": "Episode 12",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/b5A0qkGrZJTyVv3gT6b8clFEz9R.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/c1T5GvyGYDrVloexWJfxDJwOEBy.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/c1T5GvyGYDrVloexWJfxDJwOEBy.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/SlHfLoFwF6X5/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/OIGDiUUPu"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/e0mithr"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/sr7pbnu"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/uzkxgz0"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/e2d52448d36918c575fa79d88647ba66"
+    }
+  ]
+}

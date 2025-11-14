@@ -1,0 +1,45 @@
+{
+  "series": "One Piece Wano Arc",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/uiIB9ctqZFbfRXXimtpmZb5dusi.jpg",
+  "season": 1,
+  "episode": 55,
+  "episode_title": "Episode 55",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/uiIB9ctqZFbfRXXimtpmZb5dusi.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/2C82MuVvdvz1UUJL5y9m04COUmy.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/2C82MuVvdvz1UUJL5y9m04COUmy.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/Getu7JcMfc"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/rx2j8wmoy9vp.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#mihnwl"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/mru6zsq"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/qlwviyf"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/im9pbtm"
+    },
+    {
+      "option": 7,
+      "real_video": "https://emturbovid.com/t/67cdbe08ec255"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/rYQEQw7RPhPB/"
+    }
+  ]
+}

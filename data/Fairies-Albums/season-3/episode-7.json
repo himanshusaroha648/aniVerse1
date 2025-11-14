@@ -1,0 +1,17 @@
+{
+  "series": "Fairies Albums",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/uDACXQVgttpCbAdHeBGVk9nDwNq.jpg",
+  "season": 3,
+  "episode": 7,
+  "episode_title": "Episode 7",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/uDACXQVgttpCbAdHeBGVk9nDwNq.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/md2ZlvfB3GN30ZcyN2RjLi7rTXy.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/md2ZlvfB3GN30ZcyN2RjLi7rTXy.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/2wrEXVAV2cSg/"
+    }
+  ]
+}

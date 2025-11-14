@@ -1,0 +1,37 @@
+{
+  "series": "Shin Chan Season 17",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/2fV83573hGUljQ2Mlly632fgUx6.jpg",
+  "season": 1,
+  "episode": 2,
+  "episode_title": "Episode 2",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/2fV83573hGUljQ2Mlly632fgUx6.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/7kAbUQl79ujjMzwcsNkPxPg8KLk.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/7kAbUQl79ujjMzwcsNkPxPg8KLk.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://rubystm.com/e/abn576rmbeqi.html"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/02Fz8_-BI"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/qjsj8gc"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/vbzzzbb"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/bbrvu8k"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/YucQHvrNeHat/"
+    }
+  ]
+}

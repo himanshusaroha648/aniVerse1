@@ -1,0 +1,41 @@
+{
+  "series": "Twilight of the Gods",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/n0rqWDT1oYGcNIuLydZD4J4JpwK.jpg",
+  "season": 1,
+  "episode": 7,
+  "episode_title": "Episode 7",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/n0rqWDT1oYGcNIuLydZD4J4JpwK.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/hn7fZxmCIE5pY4e8Mji59FOdXUI.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/hn7fZxmCIE5pY4e8Mji59FOdXUI.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/ptRwyPwHVweO/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/xnl6i5v3ck7j.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://short.icu/MfrbxtJ_G"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/fdbslws"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/r75lr6d"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/kgsrv7c"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/498bce62bd2bda584246701fa0166482"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "series": "Wolverine",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/cXPQEgUEbDz5NERfBJxeKFqUGwa.jpg",
+  "season": 1,
+  "episode": 10,
+  "episode_title": "Episode 10",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/cXPQEgUEbDz5NERfBJxeKFqUGwa.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/eAYK2FFQyFii85Vxef3kULlsT8h.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/eAYK2FFQyFii85Vxef3kULlsT8h.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://bullstream.xyz/watch?v=DBMAZY8X"
+    },
+    {
+      "option": 2,
+      "real_video": "https://streamsb.net/e/h3dyphx1hglp.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://filemoon.to/e/q3wiu6uhamze/_Toonhub4u__Marvel_Anime__Wolverine_Episode_10_in_Multi_Audio_480p.mp4"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/o1Pv9SE8XSrJ/"
+    }
+  ]
+}

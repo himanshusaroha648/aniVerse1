@@ -1,0 +1,41 @@
+{
+  "series": "Dragon Ball Z Kai",
+  "thumbnail": "https://i.imgur.com/zZzbUql.jpg",
+  "season": 2,
+  "episode": 8,
+  "episode_title": "Episode 8",
+  "episode_main_poster": "https://i.imgur.com/zZzbUql.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/aBHfAMHnBdOrLOAeWYLBaohO4iP.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/aBHfAMHnBdOrLOAeWYLBaohO4iP.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/MrmjSy0kJ"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/6wq9bj2dfo55.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#pufxc5"
+    },
+    {
+      "option": 4,
+      "real_video": "https://strmup.to/7LpsXVhyPuZCg"
+    },
+    {
+      "option": 5,
+      "real_video": "https://turbovidhls.com/t/68b1b1462da4c"
+    },
+    {
+      "option": 6,
+      "real_video": "https://vidmoly.net/embed-u838soa3pq14.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/feecee9f1643651799ede2740927317a"
+    }
+  ]
+}

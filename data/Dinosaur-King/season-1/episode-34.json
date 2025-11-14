@@ -1,0 +1,17 @@
+{
+  "series": "Dinosaur King",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/y6KWd6u4sU6vXMA9b9Gj9M5NvtJ.jpg",
+  "season": 1,
+  "episode": 34,
+  "episode_title": "Episode 34",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/y6KWd6u4sU6vXMA9b9Gj9M5NvtJ.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/iKCQmiBBdj5HN3CJyRTKfvxxcuG.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/iKCQmiBBdj5HN3CJyRTKfvxxcuG.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/E3MUjURrcxnx/"
+    }
+  ]
+}

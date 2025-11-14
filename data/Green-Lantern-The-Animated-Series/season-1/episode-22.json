@@ -1,0 +1,33 @@
+{
+  "series": "Green Lantern: The Animated Series",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/qSSFP3va0q2WL2a2DzcdcjVe463.jpg",
+  "season": 1,
+  "episode": 22,
+  "episode_title": "Episode 22",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/qSSFP3va0q2WL2a2DzcdcjVe463.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/b1kyiUXbibtB7NA0TmJ9W7qfTFJ.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/b1kyiUXbibtB7NA0TmJ9W7qfTFJ.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/8chIlq-0F"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/iyrldmo"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/wu20z2u"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/pb8d5kl"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/PYSa94x3azNm/"
+    }
+  ]
+}

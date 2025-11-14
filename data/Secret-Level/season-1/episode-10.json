@@ -1,0 +1,49 @@
+{
+  "series": "Secret Level",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/yFPpkD7vRXh153arzlYnNmXyUWI.jpg",
+  "season": 1,
+  "episode": 10,
+  "episode_title": "Episode 10",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/yFPpkD7vRXh153arzlYnNmXyUWI.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/yyKpXU19BGsUWuivNMtUZBWTsE.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/yyKpXU19BGsUWuivNMtUZBWTsE.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/ccm2XepW9pdK/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/a3bT0fj0a"
+    },
+    {
+      "option": 3,
+      "real_video": "https://rubystm.com/e/zyixe1o13a2q.html"
+    },
+    {
+      "option": 4,
+      "real_video": "https://cloudy.upns.one/#h3e8p"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/f7xks9c"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/yewngfz"
+    },
+    {
+      "option": 7,
+      "real_video": "https://gdmirrorbot.nl/embed/hk59ncy"
+    },
+    {
+      "option": 8,
+      "real_video": "https://emturbovid.com/t/67615c02b9fd9"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/3c8f9a173f749710d6377d3150cf90da"
+    }
+  ]
+}

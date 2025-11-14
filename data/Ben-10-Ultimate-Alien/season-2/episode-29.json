@@ -1,0 +1,33 @@
+{
+  "series": "Ben 10: Ultimate Alien",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/n4KwrlUKO9S4GvOdZzmnz4zOxx7.jpg",
+  "season": 2,
+  "episode": 29,
+  "episode_title": "Episode 29",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/n4KwrlUKO9S4GvOdZzmnz4zOxx7.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/vBlCYaCudRbo7RNsQ4hVsH8aqLV.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/vBlCYaCudRbo7RNsQ4hVsH8aqLV.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/Q4AJU33W6"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/embed-9b38ca3uutl0.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/qxwo2qe"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/ipds85a"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/pRBQwZjz8nuX/"
+    }
+  ]
+}

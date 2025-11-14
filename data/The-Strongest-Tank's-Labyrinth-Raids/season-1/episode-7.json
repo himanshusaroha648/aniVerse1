@@ -1,0 +1,41 @@
+{
+  "series": "The Strongest Tank's Labyrinth Raids",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/3Uf8L7wl4dokMukJ855cBLVxQj5.jpg",
+  "season": 1,
+  "episode": 7,
+  "episode_title": "Episode 7",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/3Uf8L7wl4dokMukJ855cBLVxQj5.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/eNe4DEunUGxKOpTvlF8q025Mx36.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/eNe4DEunUGxKOpTvlF8q025Mx36.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/6y1NphcaE4fa/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/uqgn4dtxdche.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://short.icu/QYR9GWV-2u"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/kavbgk4"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/uapcw9x"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/x4fw6hn"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/0f9447c0f2b0d49e7f24c4c2e6f3bda5"
+    }
+  ]
+}

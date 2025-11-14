@@ -1,0 +1,45 @@
+{
+  "series": "The Share House's Secret Rule (Censored)",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/chmCJiUJqhOpBKfJi88Rw2iB8IT.jpg",
+  "season": 1,
+  "episode": 6,
+  "episode_title": "Episode 6",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/chmCJiUJqhOpBKfJi88Rw2iB8IT.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/44PXEkuChfFsKMLX5UlzLzmOdbG.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/44PXEkuChfFsKMLX5UlzLzmOdbG.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/wjFsSbVSJH"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/4r8r6vuh24n0.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#bgeu9m"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/ah06mh4"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/gqogyuc"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/ggn2ufj"
+    },
+    {
+      "option": 7,
+      "real_video": "https://emturbovid.com/t/67d1d6b6918a1"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/LxUSVaao48ur/"
+    }
+  ]
+}

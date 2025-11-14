@@ -1,0 +1,37 @@
+{
+  "series": "BoBoiBoy",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/zRZ1Y90mhKXrLDYnnfJf4By8hca.jpg",
+  "season": 3,
+  "episode": 5,
+  "episode_title": "Episode 5",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/zRZ1Y90mhKXrLDYnnfJf4By8hca.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/uwrcQ71RaI0xHJqZ26DSOY9Oe9X.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/uwrcQ71RaI0xHJqZ26DSOY9Oe9X.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/1zUT8vtLHWnx/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/sXsLykQD4"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/rj4q7o3"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/vu1omp8"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/kkxl9fe"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/f7cade80b7cc92b991cf4d2806d6bd78"
+    }
+  ]
+}

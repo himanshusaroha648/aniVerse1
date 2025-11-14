@@ -1,0 +1,49 @@
+{
+  "series": "Demon Slayer: Kimetsu no Yaiba",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/ctR9Kv2MNhuIjgb96wARbT1BNts.jpg",
+  "season": 1,
+  "episode": 12,
+  "episode_title": "Episode 12",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/ctR9Kv2MNhuIjgb96wARbT1BNts.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/qrPsA5eNGH4sPwMImUhOvlShd7U.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/qrPsA5eNGH4sPwMImUhOvlShd7U.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/A68RZt0PH"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/ps68v8jmgz9b.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://blakiteapi.xyz/embed/85937/1-12"
+    },
+    {
+      "option": 4,
+      "real_video": "https://cloudy.upns.one/#elcfsx"
+    },
+    {
+      "option": 5,
+      "real_video": "https://strmup.to/b7RVwXI8gy50z"
+    },
+    {
+      "option": 6,
+      "real_video": "https://emturbovid.com/t/688ee91f8f626"
+    },
+    {
+      "option": 7,
+      "real_video": "https://vidmoly.net/embed-c3fqbvxgtihq.html"
+    },
+    {
+      "option": 8,
+      "real_video": "https://play.zephyrflick.top/video/bf8229696f7a3bb4700cfddef19fa23f"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/d759175de8ea5b1d9a2660e45554894f"
+    }
+  ]
+}

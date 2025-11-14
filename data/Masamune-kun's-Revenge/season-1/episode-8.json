@@ -1,0 +1,25 @@
+{
+  "series": "Masamune-kun's Revenge",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/50jjmuwSwMxlXAP1jQ48kr1xrcN.jpg",
+  "season": 1,
+  "episode": 8,
+  "episode_title": "Episode 8",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/50jjmuwSwMxlXAP1jQ48kr1xrcN.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/8L9A07Efez0vnnrn1hBfgJB4Z2b.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/8L9A07Efez0vnnrn1hBfgJB4Z2b.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/PCj2xnMpO"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/uxhm752"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/eS3u6g0MX5S4/"
+    }
+  ]
+}

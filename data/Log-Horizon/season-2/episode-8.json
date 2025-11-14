@@ -1,0 +1,41 @@
+{
+  "series": "Log Horizon",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/vrCAD2KvtGJPwABIPd4z0gChi4g.jpg",
+  "season": 2,
+  "episode": 8,
+  "episode_title": "Episode 8",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/vrCAD2KvtGJPwABIPd4z0gChi4g.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/xV7H6p491VPfy4Geg4tgsgsJRRr.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/xV7H6p491VPfy4Geg4tgsgsJRRr.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/W0ePa3lxr7Ge/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/a8q8v92gm7zy.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://short.icu/lo3NWWQZ8"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/e9v0vbh"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/m5mhuw3"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/jrwyzgq"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/856fc81623da2150ba2210ba1b51d241"
+    }
+  ]
+}

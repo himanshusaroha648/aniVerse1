@@ -1,0 +1,33 @@
+{
+  "series": "Metallic Rouge",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/dcUWxOeCiEM7n7KdIYk1O8Xzgzp.jpg",
+  "season": 1,
+  "episode": 4,
+  "episode_title": "Episode 4",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/dcUWxOeCiEM7n7KdIYk1O8Xzgzp.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/k2wQOX2XxUu5cyOTW6sDH8mjSIC.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/k2wQOX2XxUu5cyOTW6sDH8mjSIC.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/UgDKmXINVWxv/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/cctjlwqipj4x.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://vidmoly.me/w/70kn0kvy378z"
+    },
+    {
+      "option": 4,
+      "real_video": "https://short.icu/9GYz2n70F"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/0da54aa0b1ee702d0c45af548b1a54c7"
+    }
+  ]
+}

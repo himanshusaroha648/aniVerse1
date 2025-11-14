@@ -1,0 +1,49 @@
+{
+  "series": "ZENSHU",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/okRnvNLpduDKPUIyZbMxJkeek8D.jpg",
+  "season": 1,
+  "episode": 3,
+  "episode_title": "Episode 3",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/okRnvNLpduDKPUIyZbMxJkeek8D.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/354J8w8FilYy5y2tGAOtTFyXN1y.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/354J8w8FilYy5y2tGAOtTFyXN1y.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/bNEcVAIHHuVA/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/xrCy86dDT"
+    },
+    {
+      "option": 3,
+      "real_video": "https://rubystm.com/e/z61w8ntsdxph.html"
+    },
+    {
+      "option": 4,
+      "real_video": "https://cloudy.upns.one/#pbi9o"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/jxcsdsw"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/qhmgjn3"
+    },
+    {
+      "option": 7,
+      "real_video": "https://gdmirrorbot.nl/embed/gax34il"
+    },
+    {
+      "option": 8,
+      "real_video": "https://emturbovid.com/t/678dcca4c4b7e"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/4f00921114932db3f8662a41b44ee68f"
+    }
+  ]
+}

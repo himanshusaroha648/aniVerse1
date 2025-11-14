@@ -1,0 +1,25 @@
+{
+  "series": "Higurashi: When They Cry",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/z6GrUoKte5lzPxR7HWyiSLVieUC.jpg",
+  "season": 1,
+  "episode": 3,
+  "episode_title": "Episode 3",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/z6GrUoKte5lzPxR7HWyiSLVieUC.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/4qToopXherUXLXfJgbKAFM3HWJj.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/4qToopXherUXLXfJgbKAFM3HWJj.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/0UELGDNln"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/tfp0sqk"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/g3rJQFbyOgyz/"
+    }
+  ]
+}

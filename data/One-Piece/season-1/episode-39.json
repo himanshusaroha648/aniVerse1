@@ -1,0 +1,21 @@
+{
+  "series": "One Piece",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/dum1wnm6kJOUos0XJqjB8s2UWi9.jpg",
+  "season": 1,
+  "episode": 39,
+  "episode_title": "Episode 39",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/dum1wnm6kJOUos0XJqjB8s2UWi9.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/zReG7AP1oM6Icp4TLrEST1oQwVO.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/zReG7AP1oM6Icp4TLrEST1oQwVO.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/MdI52W3k82ye/"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/4c56392b1bd5e94efe423ed048c7b91a"
+    }
+  ]
+}

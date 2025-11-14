@@ -1,0 +1,49 @@
+{
+  "series": "Magic Maker: How to Make Magic in Another World",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/wKe1FmUAcSukpfEn5s6747pBwLD.jpg",
+  "season": 1,
+  "episode": 5,
+  "episode_title": "Episode 5",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/wKe1FmUAcSukpfEn5s6747pBwLD.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/ilwlqOwRtTd4fHHMvsBkF6lr0UT.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/ilwlqOwRtTd4fHHMvsBkF6lr0UT.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/mYLqXk5Aq6u7/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/SIlS0UTjo"
+    },
+    {
+      "option": 3,
+      "real_video": "https://rubystm.com/e/n21yorrvcz2c.html"
+    },
+    {
+      "option": 4,
+      "real_video": "https://cloudy.upns.one/#mfsfo"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/lrs5h19"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/sieepab"
+    },
+    {
+      "option": 7,
+      "real_video": "https://gdmirrorbot.nl/embed/f52e9me"
+    },
+    {
+      "option": 8,
+      "real_video": "https://emturbovid.com/t/67a3f62def13e"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/fdad3b5b2200b598dfde9517e5b426a8"
+    }
+  ]
+}

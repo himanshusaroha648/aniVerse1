@@ -1,0 +1,37 @@
+{
+  "series": "Akudama Drive",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/1s3fwsH3AjuyzObYHiptiYRgFa.jpg",
+  "season": 1,
+  "episode": 11,
+  "episode_title": "Episode 11",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/1s3fwsH3AjuyzObYHiptiYRgFa.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/baURnstoJbyn5EFBx95QeZxhMO.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/baURnstoJbyn5EFBx95QeZxhMO.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/4g9FxlUxGtHv/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/uk49L_9Nr"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/en92ina"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/drrdzvs"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/s5atidv"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/a2790947391a51d18dc235eea344d981"
+    }
+  ]
+}

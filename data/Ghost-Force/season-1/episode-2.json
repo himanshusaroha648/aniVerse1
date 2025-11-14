@@ -1,0 +1,29 @@
+{
+  "series": "Ghost Force",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/u2GaUHtzwqUEoR9BYXdbFGwIUI7.jpg",
+  "season": 1,
+  "episode": 2,
+  "episode_title": "Episode 2",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/u2GaUHtzwqUEoR9BYXdbFGwIUI7.jpg",
+  "episode_card_thumbnail": "https://i.imgur.com/sRfWZGS.jpg",
+  "episode_list_thumbnail": "https://i.imgur.com/sRfWZGS.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://filemoon.to/e/oft89bq64j63/_Toonhub4u__Ghostforce_Season_1_Episode_2_Multi_Audio_720p.mp4"
+    },
+    {
+      "option": 2,
+      "real_video": "https://toonstream.love/?trembed=2&trid=3058&trtype=2"
+    },
+    {
+      "option": 3,
+      "real_video": "https://filepress.online/video/6371d3155a85363ef5b7d35f"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/z6WI8P2X3K6j/"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "series": "One Piece",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/dum1wnm6kJOUos0XJqjB8s2UWi9.jpg",
+  "season": 22,
+  "episode": 17,
+  "episode_title": "Episode 17",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/dum1wnm6kJOUos0XJqjB8s2UWi9.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/zxRrM53l8kb01ToXUEH1StZDcNZ.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/zxRrM53l8kb01ToXUEH1StZDcNZ.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/vw7XOK6_J6"
+    },
+    {
+      "option": 2,
+      "real_video": "https://vidstreaming.xyz/v/Zehkr106MqIO/"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#gezq8z"
+    },
+    {
+      "option": 4,
+      "real_video": "https://rubystm.com/e/omjisl5hvtt2.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/MzIlQB0QUHzf/"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "series": "TRILLION GAME",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/uDOZ9Qhrl7RXBKAAODWIQvlArUr.jpg",
+  "season": 1,
+  "episode": 4,
+  "episode_title": "Episode 4",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/uDOZ9Qhrl7RXBKAAODWIQvlArUr.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/aR1eEjVluq701tPwfxCleVWFA5D.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/aR1eEjVluq701tPwfxCleVWFA5D.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/eUNBC45mEkR0/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/mCLjQ-KwE"
+    },
+    {
+      "option": 3,
+      "real_video": "https://rubystm.com/e/rtf52tu3gwj1.html"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/lvohtxx"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/drlg80n"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/tq10dov"
+    },
+    {
+      "option": 7,
+      "real_video": "https://emturbovid.com/t/6736a6c4ab112"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/43baa6762fa81bb43b39c62553b2970d"
+    }
+  ]
+}

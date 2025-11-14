@@ -1,0 +1,37 @@
+{
+  "series": "One Piece",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/dum1wnm6kJOUos0XJqjB8s2UWi9.jpg",
+  "season": 21,
+  "episode": 192,
+  "episode_title": "Episode 192",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/dum1wnm6kJOUos0XJqjB8s2UWi9.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/YStCpgmVASfoIV6VmEoMZAXV1h.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/YStCpgmVASfoIV6VmEoMZAXV1h.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/vm1PlzKN3"
+    },
+    {
+      "option": 2,
+      "real_video": "https://vidstreaming.xyz/v/uXpiLYTuGwgH/"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#xnkcl"
+    },
+    {
+      "option": 4,
+      "real_video": "https://emturbovid.com/t/67640199810e3"
+    },
+    {
+      "option": 5,
+      "real_video": "https://short.icu/6b9gZdNmZ"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/tMHQom8L8Vog/"
+    }
+  ]
+}

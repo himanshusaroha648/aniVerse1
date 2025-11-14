@@ -1,0 +1,53 @@
+{
+  "series": "Naruto Shippūden",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/rXD6lcg6zhRE8NDRVlQPNkViC3s.jpg",
+  "season": 14,
+  "episode": 20,
+  "episode_title": "Episode 20",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/rXD6lcg6zhRE8NDRVlQPNkViC3s.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/5wzEmYEO1NLCvbGcB1G4CvKdrAE.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/5wzEmYEO1NLCvbGcB1G4CvKdrAE.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/dik6di65L"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/904x9syrem1v.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#n3v1uz"
+    },
+    {
+      "option": 4,
+      "real_video": "https://strmup.to/XJs0SeOBkI3DQ"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/qp2hpfk"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/lcwc7xv"
+    },
+    {
+      "option": 7,
+      "real_video": "https://gdmirrorbot.nl/embed/thpgw8g"
+    },
+    {
+      "option": 8,
+      "real_video": "https://emturbovid.com/t/69063663c9fa5"
+    },
+    {
+      "option": 9,
+      "real_video": "https://vidmoly.net/embed-3qvxiqgxuuaa.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/e685b42794dde47c8d8304eb462cc3ae"
+    }
+  ]
+}

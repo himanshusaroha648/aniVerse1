@@ -1,0 +1,25 @@
+{
+  "series": "Transformers: Prime",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/ilOKsGRHYc78R2tSMusAd3xGJWq.jpg",
+  "season": 1,
+  "episode": 9,
+  "episode_title": "Episode 9",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/ilOKsGRHYc78R2tSMusAd3xGJWq.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/wvnzEpBbywjtgUvxCZSpxt3i1xN.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/wvnzEpBbywjtgUvxCZSpxt3i1xN.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/8U7UpGwnWndR/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://vidstreaming.xyz/v/FZ0p1c5fkCqb/"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/1a15d41947a732c97943fa5624f570d7"
+    }
+  ]
+}

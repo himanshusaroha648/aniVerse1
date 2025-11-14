@@ -1,0 +1,25 @@
+{
+  "series": "One Piece",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/dum1wnm6kJOUos0XJqjB8s2UWi9.jpg",
+  "season": 15,
+  "episode": 61,
+  "episode_title": "Episode 61",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/dum1wnm6kJOUos0XJqjB8s2UWi9.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/8ipa1CIgScX3kKFrUURSrdxvhCq.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/8ipa1CIgScX3kKFrUURSrdxvhCq.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://rubystm.com/e/0x1xeoqkbi1i.html"
+    },
+    {
+      "option": 2,
+      "real_video": "https://strmup.to/wJUsQeMC0OR5"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/26dNQwgqao4Y/"
+    }
+  ]
+}

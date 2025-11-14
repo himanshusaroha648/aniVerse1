@@ -1,0 +1,29 @@
+{
+  "series": "Wolverine",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/cXPQEgUEbDz5NERfBJxeKFqUGwa.jpg",
+  "season": 1,
+  "episode": 3,
+  "episode_title": "Episode 3",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/cXPQEgUEbDz5NERfBJxeKFqUGwa.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/gdOWLKhp2oST3jFTE0Pn469Skqr.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/gdOWLKhp2oST3jFTE0Pn469Skqr.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://bullstream.xyz/watch?v=M94KDESP"
+    },
+    {
+      "option": 2,
+      "real_video": "https://streamsb.net/e/y248brq0b44t.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://filemoon.to/e/y7yg4ykmmiop/_Toonhub4u__Marvel_Anime__Wolverine_Episode_3_in_Multi_Audio_480p.mp4"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/bh2tY1w3FnDt/"
+    }
+  ]
+}

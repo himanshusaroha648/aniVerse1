@@ -1,0 +1,41 @@
+{
+  "series": "Gods' Game We Play",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/m47Ziq5bcYcOiaiIpFEnoQhySYY.jpg",
+  "season": 1,
+  "episode": 8,
+  "episode_title": "Episode 8",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/m47Ziq5bcYcOiaiIpFEnoQhySYY.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/dKj0CFD1uVyongpuJzeNpAvAaJs.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/dKj0CFD1uVyongpuJzeNpAvAaJs.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/CLQ0rZ7Yn1ly/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/erf2sehm5rww.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://short.icu/YQIib3jZ6"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/cod9io0"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/wbukw9c"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/ndt6th4"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/90aef91f0d9e7c3be322bd7bae41617d"
+    }
+  ]
+}

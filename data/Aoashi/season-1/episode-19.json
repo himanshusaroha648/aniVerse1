@@ -1,0 +1,37 @@
+{
+  "series": "Aoashi",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/jz0agPanYP6MsjYSeGpZoAfUPjp.jpg",
+  "season": 1,
+  "episode": 19,
+  "episode_title": "Episode 19",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/jz0agPanYP6MsjYSeGpZoAfUPjp.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/niLn7ZylVBzC6YkZ8ip7VQWI9SS.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/niLn7ZylVBzC6YkZ8ip7VQWI9SS.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/HUQvPr01PV"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/jb4rpi987tak.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#6sejrv"
+    },
+    {
+      "option": 4,
+      "real_video": "https://strmup.to/emNCl7Kxq9Fd5"
+    },
+    {
+      "option": 5,
+      "real_video": "https://emturbovid.com/t/6852cb776ff20"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/9e18189975e5454f9335f3f1a17e0aa9"
+    }
+  ]
+}

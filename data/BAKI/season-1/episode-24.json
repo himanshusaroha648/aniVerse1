@@ -1,0 +1,53 @@
+{
+  "series": "BAKI",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/j4bL0G8h8k49MuXKYfZqhXqk2rI.jpg",
+  "season": 1,
+  "episode": 24,
+  "episode_title": "Episode 24",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/j4bL0G8h8k49MuXKYfZqhXqk2rI.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/iQtv4LUT3e9VgYWg9PdbYsKBOU4.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/iQtv4LUT3e9VgYWg9PdbYsKBOU4.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://rubystm.com/e/zpzo9so7w7u3.html"
+    },
+    {
+      "option": 2,
+      "real_video": "https://cloudy.upns.one/#v1l5ts"
+    },
+    {
+      "option": 3,
+      "real_video": "https://strmup.to/CqMoGDefirO0"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/cwmt94p"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/o9zvxgl"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/mmhqjp3"
+    },
+    {
+      "option": 7,
+      "real_video": "https://emturbovid.com/t/689db6ca4417a"
+    },
+    {
+      "option": 8,
+      "real_video": "https://vidmoly.net/embed-agh4t5vlv11a.html"
+    },
+    {
+      "option": 9,
+      "real_video": "https://play.zephyrflick.top/video/231f5238a3d80a5d32391b04cd46243a"
+    },
+    {
+      "option": null,
+      "real_video": "https://short.icu/AQ7XWw3U0"
+    }
+  ]
+}

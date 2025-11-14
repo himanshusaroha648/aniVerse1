@@ -1,0 +1,37 @@
+{
+  "series": "Tottemo! Luckyman",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/ojOOavQH2rNWNhG5NAw2l76czQJ.jpg",
+  "season": 1,
+  "episode": 8,
+  "episode_title": "Episode 8",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/ojOOavQH2rNWNhG5NAw2l76czQJ.jpg",
+  "episode_card_thumbnail": "https://toonstream.love/wp-content/themes/torofilm/public/img/cnt/noimg-episode.png",
+  "episode_list_thumbnail": "https://toonstream.love/wp-content/themes/torofilm/public/img/cnt/noimg-episode.png",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://rubystm.com/e/q7aj5w713ta2.html"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/zBLxGFR-o"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/aqeobpb"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/qatot0i"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/y7su3uj"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/QXHcLzJtDdOD/"
+    }
+  ]
+}

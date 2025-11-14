@@ -1,0 +1,41 @@
+{
+  "series": "A Salad Bowl of Eccentrics",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/98YXik8PxInfxO2qw8Lo48PrvCh.jpg",
+  "season": 1,
+  "episode": 12,
+  "episode_title": "Episode 12",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/98YXik8PxInfxO2qw8Lo48PrvCh.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/59kCveFaQtRQngJ8OrftcRvcLZ.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/59kCveFaQtRQngJ8OrftcRvcLZ.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/DaHwnb08ufiX/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/embed-415ndqwvlbkv.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://short.icu/dMWiWRv9n"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/m1id6wq"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/mwduxuu"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/g42pdxo"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/7a43ed4e82d06a1e6b2e88518fb8c2b0"
+    }
+  ]
+}

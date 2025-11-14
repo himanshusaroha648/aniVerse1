@@ -1,0 +1,33 @@
+{
+  "series": "Overlord",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/zjSAukWORQxJAJjpR1KBk5X77PP.jpg",
+  "season": 4,
+  "episode": 10,
+  "episode_title": "Episode 10",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/zjSAukWORQxJAJjpR1KBk5X77PP.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/4Fooq9uyPByLoClZbgq5kh0jh38.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/4Fooq9uyPByLoClZbgq5kh0jh38.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://rubystm.com/e/90j51gzy837b.html"
+    },
+    {
+      "option": 2,
+      "real_video": "https://cloudy.upns.one/#vzc63h"
+    },
+    {
+      "option": 3,
+      "real_video": "https://strmup.to/R5wzF2ZicWq1Q"
+    },
+    {
+      "option": 4,
+      "real_video": "https://animeworld.site/embed/64196/4-10"
+    },
+    {
+      "option": null,
+      "real_video": "https://short.icu/1XzJ-sbsc"
+    }
+  ]
+}

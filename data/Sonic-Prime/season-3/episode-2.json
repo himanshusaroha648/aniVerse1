@@ -1,0 +1,17 @@
+{
+  "series": "Sonic Prime",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/1Hie7gCDsvt7wtPRuUAk4ZzaoQa.jpg",
+  "season": 3,
+  "episode": 2,
+  "episode_title": "Episode 2",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/1Hie7gCDsvt7wtPRuUAk4ZzaoQa.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/1EhKzk6pQgUWS58zAqbJca5qokb.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/1EhKzk6pQgUWS58zAqbJca5qokb.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/11a31db27a7b70be0bb9759cf73d0939"
+    }
+  ]
+}

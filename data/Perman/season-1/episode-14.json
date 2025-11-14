@@ -1,0 +1,33 @@
+{
+  "series": "Perman",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/lCGbsqKiOvRICllC4AgZ67zjrSL.jpg",
+  "season": 1,
+  "episode": 14,
+  "episode_title": "Episode 14",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/lCGbsqKiOvRICllC4AgZ67zjrSL.jpg",
+  "episode_card_thumbnail": "https://toonstream.love/wp-content/themes/torofilm/public/img/cnt/noimg-episode.png",
+  "episode_list_thumbnail": "https://toonstream.love/wp-content/themes/torofilm/public/img/cnt/noimg-episode.png",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://rubystm.com/e/mvlikc6v4584.html"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/yk1sxul"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/uxjri5o"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/onhr1m2"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/LyJDIegfVNj7/"
+    }
+  ]
+}

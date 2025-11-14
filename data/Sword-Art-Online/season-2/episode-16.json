@@ -1,0 +1,45 @@
+{
+  "series": "Sword Art Online",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/kuXL3UDa5TqCRat0az62hCJDeYE.jpg",
+  "season": 2,
+  "episode": 16,
+  "episode_title": "Episode 16",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/kuXL3UDa5TqCRat0az62hCJDeYE.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/mYSSD9v7EGqPYOapdbIuNSUkcoA.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/mYSSD9v7EGqPYOapdbIuNSUkcoA.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/t8X3LMA8tXp0/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/SO9aKkfhs"
+    },
+    {
+      "option": 3,
+      "real_video": "https://rubystm.com/e/y8d3wjd4dfow.html"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/qtjkjay"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/p5nnw1h"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/ukduatp"
+    },
+    {
+      "option": 7,
+      "real_video": "https://emturbovid.com/t/671e496168953"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/dc1f1e86d49bb24cdec5c39d3f59143b"
+    }
+  ]
+}

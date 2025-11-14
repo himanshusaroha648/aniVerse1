@@ -1,0 +1,33 @@
+{
+  "series": "The Looney Tunes Show",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/zZuQ4RHiy52r6EyXOT4AwmBroZQ.jpg",
+  "season": 2,
+  "episode": 3,
+  "episode_title": "Episode 3",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/zZuQ4RHiy52r6EyXOT4AwmBroZQ.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/sxuPT4XSetTn1s0GZGr5zd38TIO.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/sxuPT4XSetTn1s0GZGr5zd38TIO.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/oKYhDsbSq"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/xxds2my"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/f1vq5y5"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/t73fv1i"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/AU4XV7om3Yur/"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "series": "Aoashi",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/jz0agPanYP6MsjYSeGpZoAfUPjp.jpg",
+  "season": 1,
+  "episode": 9,
+  "episode_title": "Episode 9",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/jz0agPanYP6MsjYSeGpZoAfUPjp.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/5pa0okjjfCLHbi7Bd91Gyu4Gdan.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/5pa0okjjfCLHbi7Bd91Gyu4Gdan.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/HxTPtLOyAW"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/9olqp1hc4ai6.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#kroatq"
+    },
+    {
+      "option": 4,
+      "real_video": "https://strmup.to/pvEPMVQuGqr8f"
+    },
+    {
+      "option": 5,
+      "real_video": "https://emturbovid.com/t/6852cb74e3795"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/49f2772fac96f92458c85ad52a644b1e"
+    }
+  ]
+}

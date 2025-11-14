@@ -1,0 +1,37 @@
+{
+  "series": "Love, Death & Robots",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/vvRpJJxAw1sB4w4r0hsOdqa9eJc.jpg",
+  "season": 2,
+  "episode": 7,
+  "episode_title": "Episode 7",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/vvRpJJxAw1sB4w4r0hsOdqa9eJc.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/lz7S0RSMz3KRYf4htKE0hOaKD5y.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/lz7S0RSMz3KRYf4htKE0hOaKD5y.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/DX0PYQntiDwa/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/Kq3I-NmbPQ"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/ecq5fky"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/zc6jnw5"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/it3t73y"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/8e9cd191d3eaf58c4d262677292270e5"
+    }
+  ]
+}

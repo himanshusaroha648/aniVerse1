@@ -1,0 +1,29 @@
+{
+  "series": "One Piece",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/dum1wnm6kJOUos0XJqjB8s2UWi9.jpg",
+  "season": 21,
+  "episode": 105,
+  "episode_title": "Episode 105",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/dum1wnm6kJOUos0XJqjB8s2UWi9.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/RXLOBHDO8sa3GEOb0chovcpMR3.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/RXLOBHDO8sa3GEOb0chovcpMR3.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/nNaLBX0PpLaJ/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/JiHJITmOu"
+    },
+    {
+      "option": 3,
+      "real_video": "https://rubystm.com/e/9ayotbccy85k.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/kRB0u2J3Pmj3/"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "series": "Naruto Shippūden",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/rXD6lcg6zhRE8NDRVlQPNkViC3s.jpg",
+  "season": 1,
+  "episode": 16,
+  "episode_title": "Episode 16",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/rXD6lcg6zhRE8NDRVlQPNkViC3s.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/9bsOtfEDl3dpNLzIJ85JmijavWI.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/9bsOtfEDl3dpNLzIJ85JmijavWI.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/chYvXvJgw"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/ll597u9"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/so2nwad"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/b4snik5"
+    },
+    {
+      "option": 5,
+      "real_video": "https://vidstreaming.xyz/v/CrS59QCj2oSk/"
+    },
+    {
+      "option": 6,
+      "real_video": "https://short.icu/-z6Hd8Lza"
+    },
+    {
+      "option": 7,
+      "real_video": "https://rubystm.com/enzq1dxuomc1s.html"
+    },
+    {
+      "option": 8,
+      "real_video": "https://cloudy.upns.one/#9iq5t"
+    },
+    {
+      "option": 9,
+      "real_video": "https://gdmirrorbot.nl/embed/rtls94i"
+    },
+    {
+      "option": 10,
+      "real_video": "https://emturbovid.com/t/679719b20459e"
+    },
+    {
+      "option": 11,
+      "real_video": "https://rubystm.com/e/l69di3aa1x3x.html"
+    },
+    {
+      "option": 12,
+      "real_video": "https://cloudy.upns.one/#xiyyn9"
+    },
+    {
+      "option": 13,
+      "real_video": "https://strmup.to/l9pbv8VjwZsdi"
+    },
+    {
+      "option": 14,
+      "real_video": "https://turbovidhls.com/t/68e5148e745a6"
+    },
+    {
+      "option": 15,
+      "real_video": "https://vidmoly.net/embed-u8f2t1o0uiuu.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/92c8c96e4c37100777c7190b76d28233"
+    }
+  ]
+}

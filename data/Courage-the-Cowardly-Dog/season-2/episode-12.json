@@ -1,0 +1,41 @@
+{
+  "series": "Courage the Cowardly Dog",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/dzD8EWDvtg7rBCINu0RCH5EUejh.jpg",
+  "season": 2,
+  "episode": 12,
+  "episode_title": "Episode 12",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/dzD8EWDvtg7rBCINu0RCH5EUejh.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/54hFSVAndHsEVsyhZOUwUB6AWj3.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/54hFSVAndHsEVsyhZOUwUB6AWj3.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/l3VmE42bv"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/ryadaujn43y8.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#b6ulii"
+    },
+    {
+      "option": 4,
+      "real_video": "https://strmup.to/AXSv8CVdjRbua"
+    },
+    {
+      "option": 5,
+      "real_video": "https://emturbovid.com/t/687b7774a3ae0"
+    },
+    {
+      "option": 6,
+      "real_video": "https://vidmoly.net/embed-j0hx7s8up15o.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/mlKECiANDTNX/"
+    }
+  ]
+}

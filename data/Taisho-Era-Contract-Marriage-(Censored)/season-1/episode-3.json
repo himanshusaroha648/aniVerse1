@@ -1,0 +1,33 @@
+{
+  "series": "Taisho Era Contract Marriage (Censored)",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/adLuRUaIzy44nUExYjUix2ZKjqM.jpg",
+  "season": 1,
+  "episode": 3,
+  "episode_title": "Episode 3",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/adLuRUaIzy44nUExYjUix2ZKjqM.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/8fK4lCygShcew6HauVpPA8YcCVu.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/8fK4lCygShcew6HauVpPA8YcCVu.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/v62lNRtQA"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/vv0e33wsvbcx.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#vzyu5l"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/serphul"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/BFnPD2FboCUi/"
+    }
+  ]
+}

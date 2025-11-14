@@ -1,0 +1,41 @@
+{
+  "series": "Rurouni Kenshin",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/jCMbKOH4iootEBXNa5e4jKoeTSU.jpg",
+  "season": 1,
+  "episode": 17,
+  "episode_title": "Episode 17",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/jCMbKOH4iootEBXNa5e4jKoeTSU.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/i5Bf8FM1ImRF6JVELOGQZzbzgXr.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/i5Bf8FM1ImRF6JVELOGQZzbzgXr.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/teSkVQ5uEyAH/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/b5yias3j7sn1.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://short.icu/_lQrHN-LG"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/musg5u7"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/i5r8qrc"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/g8t4x3z"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/754dda4b1ba34c6fa89716b85d68532b"
+    }
+  ]
+}

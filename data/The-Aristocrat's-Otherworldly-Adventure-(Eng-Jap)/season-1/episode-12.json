@@ -1,0 +1,25 @@
+{
+  "series": "The Aristocrat's Otherworldly Adventure (Eng-Jap)",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/aH3EKIPW9XRaIJQeF7EYlOe7SEK.jpg",
+  "season": 1,
+  "episode": 12,
+  "episode_title": "Episode 12",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/aH3EKIPW9XRaIJQeF7EYlOe7SEK.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/xrw781ggu8uCztCtKuwu0EUd3T8.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/xrw781ggu8uCztCtKuwu0EUd3T8.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/twR3ZsI46"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/h3ltrbr"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/p6XSETqK9KQL/"
+    }
+  ]
+}

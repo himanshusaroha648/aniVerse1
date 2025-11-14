@@ -1,0 +1,53 @@
+{
+  "series": "Dr. STONE",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/x96E9mxxQf5KzXOzIu0ldsfc3QK.jpg",
+  "season": 4,
+  "episode": 24,
+  "episode_title": "Episode 24",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/x96E9mxxQf5KzXOzIu0ldsfc3QK.jpg",
+  "episode_card_thumbnail": "https://toonstream.love/wp-content/themes/torofilm/public/img/cnt/noimg-episode.png",
+  "episode_list_thumbnail": "https://toonstream.love/wp-content/themes/torofilm/public/img/cnt/noimg-episode.png",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/yP7I_3ZkZ"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/0vahnijz0fs5.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#3ank5h"
+    },
+    {
+      "option": 4,
+      "real_video": "https://strmup.to/TK3eERfp4lIQx"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/o572oi4"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/wm5ihjr"
+    },
+    {
+      "option": 7,
+      "real_video": "https://gdmirrorbot.nl/embed/uq2qsvd"
+    },
+    {
+      "option": 8,
+      "real_video": "https://emturbovid.com/t/68d5541bcaf2e"
+    },
+    {
+      "option": 9,
+      "real_video": "https://vidmoly.net/embed-rhu3px3bmjxl.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/32926f6c2eba28e293a6afa008a09f0a"
+    }
+  ]
+}

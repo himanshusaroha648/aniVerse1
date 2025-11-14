@@ -1,0 +1,29 @@
+{
+  "series": "TRON: Uprising",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/9KuIDiBuWQ5VjezynTZ8YJCPBsL.jpg",
+  "season": 1,
+  "episode": 8,
+  "episode_title": "Episode 8",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/9KuIDiBuWQ5VjezynTZ8YJCPBsL.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/6uQkcX05qjspUcpv2kzhb43dBz0.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/6uQkcX05qjspUcpv2kzhb43dBz0.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://filemoon.to/e/0vs7lu9lpr0h/_Toonhub4u__Tron_Uprising_Episode_8_in_Multi_Audio_720p_HD.mp4"
+    },
+    {
+      "option": 2,
+      "real_video": "https://watchsb.com/e/0xhjqyvquxv0.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://filepress.lol/video/63a3516f87dd61bedb246b2f"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/k7WjlJVvyCik/"
+    }
+  ]
+}

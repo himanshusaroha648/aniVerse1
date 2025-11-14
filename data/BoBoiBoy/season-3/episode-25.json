@@ -1,0 +1,37 @@
+{
+  "series": "BoBoiBoy",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/zRZ1Y90mhKXrLDYnnfJf4By8hca.jpg",
+  "season": 3,
+  "episode": 25,
+  "episode_title": "Episode 25",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/zRZ1Y90mhKXrLDYnnfJf4By8hca.jpg",
+  "episode_card_thumbnail": "https://toonstream.love/wp-content/themes/torofilm/public/img/cnt/noimg-episode.png",
+  "episode_list_thumbnail": "https://toonstream.love/wp-content/themes/torofilm/public/img/cnt/noimg-episode.png",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/1flLlmkJ1Byy/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/cHJTToVBp"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/xxzzg0a"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/wyq71mp"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/t8y328x"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/4122cb13c7a474c1976c9706ae36521d"
+    }
+  ]
+}

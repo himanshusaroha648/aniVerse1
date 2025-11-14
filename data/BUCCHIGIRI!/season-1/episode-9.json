@@ -1,0 +1,45 @@
+{
+  "series": "BUCCHIGIRI?!",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/bhtkmLdMleHtGTq267VqhePgp5S.jpg",
+  "season": 1,
+  "episode": 9,
+  "episode_title": "Episode 9",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/bhtkmLdMleHtGTq267VqhePgp5S.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/6h8L9LNIb9WJZOqOh6ST7H6dttd.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/6h8L9LNIb9WJZOqOh6ST7H6dttd.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/o1GOWq74fmML/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/y9xnw48eaypj.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://short.icu/JQh9qg4Ja"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/o92o8nm"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/ep01r93"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/c01gtoc"
+    },
+    {
+      "option": 7,
+      "real_video": "https://animeworld.site/embed/226905/1-9"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/3328bdf9a4b9504b9398284244fe97c2"
+    }
+  ]
+}

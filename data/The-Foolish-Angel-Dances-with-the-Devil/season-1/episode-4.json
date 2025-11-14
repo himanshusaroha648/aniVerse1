@@ -1,0 +1,25 @@
+{
+  "series": "The Foolish Angel Dances with the Devil",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/tyay9L58bSNIxVUXIGNxkjKMRuD.jpg",
+  "season": 1,
+  "episode": 4,
+  "episode_title": "Episode 4",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/tyay9L58bSNIxVUXIGNxkjKMRuD.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/uLacZY0oxwvxMaj6yRRxWZEVjUz.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/uLacZY0oxwvxMaj6yRRxWZEVjUz.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/phCfPwxKE"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/wexy655"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/6q0PcI80iioD/"
+    }
+  ]
+}

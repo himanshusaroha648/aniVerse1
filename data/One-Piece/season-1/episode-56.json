@@ -1,0 +1,21 @@
+{
+  "series": "One Piece",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/dum1wnm6kJOUos0XJqjB8s2UWi9.jpg",
+  "season": 1,
+  "episode": 56,
+  "episode_title": "Episode 56",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/dum1wnm6kJOUos0XJqjB8s2UWi9.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/4C5TJ0TKSJOLUxHaLN9YZrqoEmq.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/4C5TJ0TKSJOLUxHaLN9YZrqoEmq.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/GTA0c2lr1S5C/"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/981fda867ad3a7693c11ec00d2835b86"
+    }
+  ]
+}

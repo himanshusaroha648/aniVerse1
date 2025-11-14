@@ -1,0 +1,33 @@
+{
+  "series": "SpongeBob SquarePants",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/amvtZgiTty0GHIgD56gpouBWrcy.jpg",
+  "season": 1,
+  "episode": 35,
+  "episode_title": "Episode 35",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/amvtZgiTty0GHIgD56gpouBWrcy.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/lkwOlkbslxHeZDZHdcYjwKr1eUL.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/lkwOlkbslxHeZDZHdcYjwKr1eUL.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/UXU4e0ei2"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/gzb9k52"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/uver3iv"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/s71lhe3"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/ouJ2xabohDGo/"
+    }
+  ]
+}

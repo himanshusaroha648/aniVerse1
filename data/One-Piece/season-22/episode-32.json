@@ -1,0 +1,41 @@
+{
+  "series": "One Piece",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/dum1wnm6kJOUos0XJqjB8s2UWi9.jpg",
+  "season": 22,
+  "episode": 32,
+  "episode_title": "Episode 32",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/dum1wnm6kJOUos0XJqjB8s2UWi9.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/yoP85GmEIZAvUpEQuYJsdEspHQY.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/yoP85GmEIZAvUpEQuYJsdEspHQY.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://cloudy.upns.one/#vp6kj"
+    },
+    {
+      "option": 2,
+      "real_video": "https://emturbovid.com/t/6764e575ad94f"
+    },
+    {
+      "option": 3,
+      "real_video": "https://short.icu/7XRTQoEfD"
+    },
+    {
+      "option": 4,
+      "real_video": "https://vidstreaming.xyz/v/Ep6gRG3uprdd/"
+    },
+    {
+      "option": 5,
+      "real_video": "https://cloudy.upns.one/#bgvr16"
+    },
+    {
+      "option": 6,
+      "real_video": "https://rubystm.com/e/kcjmiz01n6ij.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/y0eoPFQPjY42/"
+    }
+  ]
+}

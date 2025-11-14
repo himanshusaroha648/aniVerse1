@@ -1,0 +1,41 @@
+{
+  "series": "Dragon Ball Super",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/qEUrbXJ2qt4Rg84Btlx4STOhgte.jpg",
+  "season": 1,
+  "episode": 33,
+  "episode_title": "Episode 33",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/qEUrbXJ2qt4Rg84Btlx4STOhgte.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/vpBgN1M2bbnJAOQzfvydU3UNtg1.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/vpBgN1M2bbnJAOQzfvydU3UNtg1.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/TiETz0ebF"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/y46tu3ht9s5u.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#gh5g59"
+    },
+    {
+      "option": 4,
+      "real_video": "https://strmup.to/KfbiV9CsL6e5X"
+    },
+    {
+      "option": 5,
+      "real_video": "https://turbovidhls.com/t/68b58aa626d8f"
+    },
+    {
+      "option": 6,
+      "real_video": "https://vidmoly.net/embed-ayzlevowkgp1.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/2172fde49301047270b2897085e4319d"
+    }
+  ]
+}

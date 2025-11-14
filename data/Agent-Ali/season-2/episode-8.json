@@ -1,0 +1,37 @@
+{
+  "series": "Agent Ali",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/pC7MTsEjJVXlCEaTRFWhVUS113i.jpg",
+  "season": 2,
+  "episode": 8,
+  "episode_title": "Episode 8",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/pC7MTsEjJVXlCEaTRFWhVUS113i.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/oxm1IvqKOKnh5F6yLdjYsWwzBtu.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/oxm1IvqKOKnh5F6yLdjYsWwzBtu.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://rubystm.com/embed-5up9qqcfcof4.html"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/8g64OlGQF"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/v1wc48h"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/h7n1pim"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/d0dt665"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/1GLwmbw6e7pV/"
+    }
+  ]
+}

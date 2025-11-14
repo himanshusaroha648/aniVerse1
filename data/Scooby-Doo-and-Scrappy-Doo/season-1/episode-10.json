@@ -1,0 +1,45 @@
+{
+  "series": "Scooby-Doo and Scrappy-Doo",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/ctxdYzdqSlrfKrqEo3bLSrrMLSP.jpg",
+  "season": 1,
+  "episode": 10,
+  "episode_title": "Episode 10",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/ctxdYzdqSlrfKrqEo3bLSrrMLSP.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/t3LIU0icNG1s1thxPVd3kF4fLwc.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/t3LIU0icNG1s1thxPVd3kF4fLwc.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/-W7kCAa5O"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/6d9kl733n4oz.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#pkr6i5"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/pxfk8lg"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/wth7ve2"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/rwjmb3z"
+    },
+    {
+      "option": 7,
+      "real_video": "https://emturbovid.com/t/67d9a048c46a9"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/7yxfEwkdbrX4/"
+    }
+  ]
+}

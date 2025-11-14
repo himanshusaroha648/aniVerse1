@@ -1,0 +1,33 @@
+{
+  "series": "Green Lantern: The Animated Series",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/qSSFP3va0q2WL2a2DzcdcjVe463.jpg",
+  "season": 1,
+  "episode": 20,
+  "episode_title": "Episode 20",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/qSSFP3va0q2WL2a2DzcdcjVe463.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/f6iakQyLNUnwDZLHBt6Ho6j5Ysl.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/f6iakQyLNUnwDZLHBt6Ho6j5Ysl.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/pKH7OBBNL"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/efiq7pk"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/by2ppaa"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/oolshyp"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/MoGGmxa4R0BC/"
+    }
+  ]
+}

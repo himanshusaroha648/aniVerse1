@@ -1,0 +1,49 @@
+{
+  "series": "The Magical Girl and the Evil Lieutenant Used to Be Archenemies",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/qeGMHQ0GtlbrAfNyU7Qr0uTTYeG.jpg",
+  "season": 1,
+  "episode": 2,
+  "episode_title": "Episode 2",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/qeGMHQ0GtlbrAfNyU7Qr0uTTYeG.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/yVQZG3SFgTpRg6qfQEP6B48zRBF.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/yVQZG3SFgTpRg6qfQEP6B48zRBF.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/7B9oKHP2NIwG/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/PJ2B0ngK-"
+    },
+    {
+      "option": 3,
+      "real_video": "https://rubystm.com/e/9l0crwlurmna.html"
+    },
+    {
+      "option": 4,
+      "real_video": "https://cloudy.upns.one/#hlr3y9"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/h47luq0"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/irwihbd"
+    },
+    {
+      "option": 7,
+      "real_video": "https://gdmirrorbot.nl/embed/dr9aw9z"
+    },
+    {
+      "option": 8,
+      "real_video": "https://emturbovid.com/t/67e28f2513520"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/8a9e0b75eccc318e8e449b34f0a56462"
+    }
+  ]
+}

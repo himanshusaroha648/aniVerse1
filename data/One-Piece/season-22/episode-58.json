@@ -1,0 +1,37 @@
+{
+  "series": "One Piece",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/dum1wnm6kJOUos0XJqjB8s2UWi9.jpg",
+  "season": 22,
+  "episode": 58,
+  "episode_title": "Episode 58",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/dum1wnm6kJOUos0XJqjB8s2UWi9.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/2rMc7ZPlankA3Te59475SpqBhwO.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/2rMc7ZPlankA3Te59475SpqBhwO.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://rubystm.com/e/xy09q405xuc5.html"
+    },
+    {
+      "option": 2,
+      "real_video": "https://cloudy.upns.one/#xe9upb"
+    },
+    {
+      "option": 3,
+      "real_video": "https://strmup.to/d2bHp8xRum01z"
+    },
+    {
+      "option": 4,
+      "real_video": "https://turbovidhls.com/t/690dbc9d0f7e3"
+    },
+    {
+      "option": 5,
+      "real_video": "https://vidmoly.net/embed-i0lf5wx33ngc.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://short.icu/Fknl9V4wi"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "series": "Chivalry of a Failed Knight (Eng-Jap)",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/g2DoS2AwOtaRlJStUNlcTsm3pmS.jpg",
+  "season": 1,
+  "episode": 7,
+  "episode_title": "Episode 7",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/g2DoS2AwOtaRlJStUNlcTsm3pmS.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/zqv9Ue1YxDEqwFG5Z2TUamMWRiP.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/zqv9Ue1YxDEqwFG5Z2TUamMWRiP.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/adX8DB6oh"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/sa8zzdn"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/TXNaEqgdCXXi/"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "series": "No Game No Life (Eng-Jap)",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/kN4BhRDbP3b1nuxpYC443jVLEh5.jpg",
+  "season": 1,
+  "episode": 6,
+  "episode_title": "Episode 6",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/kN4BhRDbP3b1nuxpYC443jVLEh5.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/4efkJ1zz5wxhxIzmyq1qcoSYGb5.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/4efkJ1zz5wxhxIzmyq1qcoSYGb5.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/iNN7xDfpw"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/n3936tu"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/uE3e6cSoKXry/"
+    }
+  ]
+}

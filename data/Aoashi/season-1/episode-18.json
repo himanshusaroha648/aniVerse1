@@ -1,0 +1,37 @@
+{
+  "series": "Aoashi",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/jz0agPanYP6MsjYSeGpZoAfUPjp.jpg",
+  "season": 1,
+  "episode": 18,
+  "episode_title": "Episode 18",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/jz0agPanYP6MsjYSeGpZoAfUPjp.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/wlbtRffKmwOomY1uSqbXFKV6t3G.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/wlbtRffKmwOomY1uSqbXFKV6t3G.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/7dO0IOjaN"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/w6txh4w4zsdo.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#ncqy1i"
+    },
+    {
+      "option": 4,
+      "real_video": "https://strmup.to/T7c3Njq2HEvSU"
+    },
+    {
+      "option": 5,
+      "real_video": "https://emturbovid.com/t/6852cb7874d52"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/c0b3cb0842f9f8148f618c587b48d5ba"
+    }
+  ]
+}

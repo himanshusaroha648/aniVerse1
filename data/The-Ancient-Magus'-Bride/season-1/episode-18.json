@@ -1,0 +1,57 @@
+{
+  "series": "The Ancient Magus' Bride",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/vUm0WIGGgAnXYOSBeB36FKDpBjI.jpg",
+  "season": 1,
+  "episode": 18,
+  "episode_title": "Episode 18",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/vUm0WIGGgAnXYOSBeB36FKDpBjI.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/xMJTBESZhJ87ZbSnBAhKFmTtofU.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/xMJTBESZhJ87ZbSnBAhKFmTtofU.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://raretoonsindia.co/ex/4moudkcCO9Bn0zR"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/BW6REp117"
+    },
+    {
+      "option": 3,
+      "real_video": "https://rubystm.com/e/mq77jpr8xj2d.html"
+    },
+    {
+      "option": 4,
+      "real_video": "https://cloudy.upns.one/#bgfuuz"
+    },
+    {
+      "option": 5,
+      "real_video": "https://strmup.to/oueBszWDKSFg5"
+    },
+    {
+      "option": 6,
+      "real_video": "https://vidmoly.net/embed-cd1stgxsvdoh.html"
+    },
+    {
+      "option": 7,
+      "real_video": "https://turbovidhls.com/t/680a4f7b69a8c"
+    },
+    {
+      "option": 8,
+      "real_video": "https://gdmirrorbot.nl/embed/qe6qggq"
+    },
+    {
+      "option": 9,
+      "real_video": "https://gdmirrorbot.nl/embed/xrs8pri"
+    },
+    {
+      "option": 10,
+      "real_video": "https://gdmirrorbot.nl/embed/xyy0ix6"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/95cc7ef498e141173576365264fc5fba"
+    }
+  ]
+}

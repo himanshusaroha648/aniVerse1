@@ -1,0 +1,33 @@
+{
+  "series": "Ragna Crimson",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/oGmNWwV3wgp1DZXTOLSAYZZgh3X.jpg",
+  "season": 1,
+  "episode": 8,
+  "episode_title": "Episode 8",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/oGmNWwV3wgp1DZXTOLSAYZZgh3X.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/1ryTSQNpXbZOMtA8pesd9ekmJGX.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/1ryTSQNpXbZOMtA8pesd9ekmJGX.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidcloud.upns.ink/#e9rxu1"
+    },
+    {
+      "option": 2,
+      "real_video": "https://turbovidhls.com/t/69100bb733de3"
+    },
+    {
+      "option": 3,
+      "real_video": "https://vidmoly.net/embed-z5w96wbzol3z.html"
+    },
+    {
+      "option": 4,
+      "real_video": "https://play.zephyrflick.top/video/3364667f3dabfa4055a7d13cd430dde5"
+    },
+    {
+      "option": null,
+      "real_video": "https://short.icu/12JJrhS5h"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "series": "Gintama",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/f7vK8pzZIqhyA8sYmBpWmp9Ae7.jpg",
+  "season": 3,
+  "episode": 15,
+  "episode_title": "Episode 15",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/f7vK8pzZIqhyA8sYmBpWmp9Ae7.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/lzVunbmhSgYI3zXkouWxpCy6cHD.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/lzVunbmhSgYI3zXkouWxpCy6cHD.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/uOZqNjGiX0mv/"
+    }
+  ]
+}

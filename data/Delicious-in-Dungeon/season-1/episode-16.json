@@ -1,0 +1,41 @@
+{
+  "series": "Delicious in Dungeon",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/saveaoAwq632sDlppmhEIjNOpC.jpg",
+  "season": 1,
+  "episode": 16,
+  "episode_title": "Episode 16",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/saveaoAwq632sDlppmhEIjNOpC.jpg",
+  "episode_card_thumbnail": "https://toonstream.love/wp-content/themes/torofilm/public/img/cnt/noimg-episode.png",
+  "episode_list_thumbnail": "https://toonstream.love/wp-content/themes/torofilm/public/img/cnt/noimg-episode.png",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/haJ07ac8Ww8U/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/74yu2a697ris.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://short.icu/1gZW7y0Qa"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/tycjlao"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/l3lboto"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/pxu4mn5"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/64714a86909d401f8feb83e8c2d94b23"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "series": "Teen Titans Go!",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/mTMAxrRaDp0TFpdFVinD3grrqr9.jpg",
+  "season": 1,
+  "episode": 2,
+  "episode_title": "Episode 2",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/mTMAxrRaDp0TFpdFVinD3grrqr9.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/rxuq7GBrsXOjEjaKEg5rkWM7LOV.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/rxuq7GBrsXOjEjaKEg5rkWM7LOV.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/ZZqRnZoR6ue2/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/JNDB2Qtmm"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/fojl3lp"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/zg7t8di"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/x5eujps"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/e4a86b0d7bf4c46d7d550a92b0b2fcae"
+    }
+  ]
+}

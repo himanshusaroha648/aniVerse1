@@ -1,0 +1,25 @@
+{
+  "series": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/h97iHupymkJXBv0gyr4qlePhKAk.jpg",
+  "season": 3,
+  "episode": 8,
+  "episode_title": "Episode 8",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/h97iHupymkJXBv0gyr4qlePhKAk.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/sH56nkpDZKVwiVybSs323VEnTmQ.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/sH56nkpDZKVwiVybSs323VEnTmQ.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/WyyVGNod9N"
+    },
+    {
+      "option": 2,
+      "real_video": "https://vidmoly.net/embed-te9mf05d0kn7.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/z0GvvHVFShFm/"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "series": "The Unaware Atelier Meister",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/uZ7uXnU2CeJ3vlmzth1Owd2hVm4.jpg",
+  "season": 1,
+  "episode": 8,
+  "episode_title": "Episode 8",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/uZ7uXnU2CeJ3vlmzth1Owd2hVm4.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/rTLKKVJHlahz5mhNrYA5LKxNk1K.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/rTLKKVJHlahz5mhNrYA5LKxNk1K.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/idg5NKfj0jQ8/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/Yd1ZI8cSM"
+    },
+    {
+      "option": 3,
+      "real_video": "https://rubystm.com/e/nhl1osyuonek.html"
+    },
+    {
+      "option": 4,
+      "real_video": "https://cloudy.upns.one/#hlazxn"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/pzd5bd9"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/p8tpe4w"
+    },
+    {
+      "option": 7,
+      "real_video": "https://gdmirrorbot.nl/embed/fctnwon"
+    },
+    {
+      "option": 8,
+      "real_video": "https://emturbovid.com/t/682a997e4547c"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/1d0d0d9770e958dd76149a68e579d4f3"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "series": "Food Wars! Shokugeki no Soma",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/drteIrKPh0qaTYitGkxAOKoidsR.jpg",
+  "season": 3,
+  "episode": 10,
+  "episode_title": "Episode 10",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/drteIrKPh0qaTYitGkxAOKoidsR.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/hDLRbru4KE00TRczUjPi30GljKR.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/hDLRbru4KE00TRczUjPi30GljKR.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/M31hwZruV"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/x95l6jvkl34q.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#6puyqc"
+    },
+    {
+      "option": 4,
+      "real_video": "https://strmup.to/IMkxpeQu64E0c"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/zpmsd49"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/pc8ncvr"
+    },
+    {
+      "option": 7,
+      "real_video": "https://gdmirrorbot.nl/embed/cuv3wha"
+    },
+    {
+      "option": 8,
+      "real_video": "https://emturbovid.com/t/690b5c9ebd0c3"
+    },
+    {
+      "option": 9,
+      "real_video": "https://vidmoly.net/embed-2lyxx07vptza.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/54821d182370046edc3fa2d37a254cdc"
+    }
+  ]
+}

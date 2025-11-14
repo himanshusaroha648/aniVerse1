@@ -1,0 +1,21 @@
+{
+  "series": "Unicorn Academy",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/iuxH52TvBkPTBvdjgOEJ6RKvOPR.jpg",
+  "season": 1,
+  "episode": 7,
+  "episode_title": "Episode 7",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/iuxH52TvBkPTBvdjgOEJ6RKvOPR.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/r8vVXWLoFg5zagqpVIOsNz8rz9H.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/r8vVXWLoFg5zagqpVIOsNz8rz9H.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://rubystm.com/e/xj3psoa3b8yt.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/d9aR102lc7AP/"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "series": "The Dreaming Boy Is a Realist",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/85EoiGOOG58oP9HlvxiWjvgkMNR.jpg",
+  "season": 1,
+  "episode": 10,
+  "episode_title": "Episode 10",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/85EoiGOOG58oP9HlvxiWjvgkMNR.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/3dixVMzrIZkLlOjvGjrnGTPkfn.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/3dixVMzrIZkLlOjvGjrnGTPkfn.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://rubystm.com/e/scaw59kmigzy.html"
+    },
+    {
+      "option": 2,
+      "real_video": "https://cloudy.upns.one/#ipnh93"
+    },
+    {
+      "option": null,
+      "real_video": "https://short.icu/kCq7Z6xDi"
+    }
+  ]
+}

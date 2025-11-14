@@ -1,0 +1,21 @@
+{
+  "series": "Boarding School Juliet",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/lArjqSSSaSP5LOQO9shgn9HsuLB.jpg",
+  "season": 1,
+  "episode": 6,
+  "episode_title": "Episode 6",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/lArjqSSSaSP5LOQO9shgn9HsuLB.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/8r06GcxnulG9MD4GPZ2CpYzedgu.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/8r06GcxnulG9MD4GPZ2CpYzedgu.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/dRQBCD23A"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/v9PTiuQDIx8f/"
+    }
+  ]
+}

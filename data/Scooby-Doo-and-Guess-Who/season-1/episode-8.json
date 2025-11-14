@@ -1,0 +1,33 @@
+{
+  "series": "Scooby-Doo and Guess Who?",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/g7vQXsELihik4oHJwqhL6WuTJ3j.jpg",
+  "season": 1,
+  "episode": 8,
+  "episode_title": "Episode 8",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/g7vQXsELihik4oHJwqhL6WuTJ3j.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/owKNgQedRUO7u18NCtAt2LQnoAy.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/owKNgQedRUO7u18NCtAt2LQnoAy.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/tPPGxBT6v"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/vtl4vds"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/v584282"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/mmb3pb8"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/OO1YyUXrzKRu/"
+    }
+  ]
+}

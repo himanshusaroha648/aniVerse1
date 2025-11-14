@@ -1,0 +1,45 @@
+{
+  "title": "Klaus",
+  "description": "Watch Klaus online for free in HD on ToonStream. Available in Hindi, Tamil, Telugu & More dubbed versions. Stream or Download now! When Jesper",
+  "release_year": 2019,
+  "genres": [
+    "Adventure",
+    "Animation",
+    "Animation & Cartoon Movies",
+    "Comedy",
+    "Family",
+    "Fantasy"
+  ],
+  "thumbnail": "https://image.tmdb.org/t/p/w185/q125RHUDgR4gjwh1QkfYuJLYkL.jpg",
+  "movie_poster": "https://image.tmdb.org/t/p/w185/q125RHUDgR4gjwh1QkfYuJLYkL.jpg",
+  "tmdb_id": null,
+  "tvdb_id": null,
+  "languages": [],
+  "url": "https://toonstream.love/movies/klaus/",
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/Jx3F79Dp43HN/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/embed-d39eu8wcwcjm.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://short.icu/pC-AdIb6j"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/blb2oyr"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/oqsryh8"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/y1o9ede"
+    }
+  ]
+}

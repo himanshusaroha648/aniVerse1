@@ -1,0 +1,17 @@
+{
+  "series": "Super Robot Monkey Team Hyperforce Go!",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/gcTY3iHLC1wm9wB4pKn2vvCxCfK.jpg",
+  "season": 4,
+  "episode": 12,
+  "episode_title": "Episode 12",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/gcTY3iHLC1wm9wB4pKn2vvCxCfK.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/4Y2FFaH2rleotg7YAvli4tyfXqz.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/4Y2FFaH2rleotg7YAvli4tyfXqz.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/U8yh3DFRLJpK/"
+    }
+  ]
+}

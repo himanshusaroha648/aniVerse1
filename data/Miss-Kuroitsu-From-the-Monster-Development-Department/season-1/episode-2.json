@@ -1,0 +1,41 @@
+{
+  "series": "Miss Kuroitsu From the Monster Development Department",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/yP0gRkxo9puHGAc9PgwUj9Ym0h.jpg",
+  "season": 1,
+  "episode": 2,
+  "episode_title": "Episode 2",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/yP0gRkxo9puHGAc9PgwUj9Ym0h.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/2mXDhCVUyMITCiiLef47YCTmzdY.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/2mXDhCVUyMITCiiLef47YCTmzdY.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/I2zt5CYfaSfP/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/f1ipcduwr8jn.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://short.icu/LIPZcy6Vl"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/qdt2jvu"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/zom2taq"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/wel8q6r"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/febb7aafcbde43930cdedf8c5153c867"
+    }
+  ]
+}

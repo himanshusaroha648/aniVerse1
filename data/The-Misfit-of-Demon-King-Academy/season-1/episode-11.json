@@ -1,0 +1,21 @@
+{
+  "series": "The Misfit of Demon King Academy",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/6VjUfaGkt3DJPLlNmnm1ALEhSfv.jpg",
+  "season": 1,
+  "episode": 11,
+  "episode_title": "Episode 11",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/6VjUfaGkt3DJPLlNmnm1ALEhSfv.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/k9hBk8zpN1pcz9ZxO17ggYUcl2v.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/k9hBk8zpN1pcz9ZxO17ggYUcl2v.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/X9dvnAcRw"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/qX5TB1XWB5rg/"
+    }
+  ]
+}

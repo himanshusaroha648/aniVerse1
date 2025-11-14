@@ -1,0 +1,53 @@
+{
+  "title": "Zootopia",
+  "description": "Watch Zootopia online for free in HD on ToonStream. Available in Hindi, Tamil, Telugu & More dubbed versions. Stream or Download now! Determined to prove",
+  "release_year": 2016,
+  "genres": [
+    "Adventure",
+    "Animation",
+    "Animation & Cartoon Movies",
+    "Comedy",
+    "English",
+    "Family",
+    "Hindi",
+    "Tamil",
+    "Telugu",
+    "TV Movie"
+  ],
+  "thumbnail": "https://image.tmdb.org/t/p/w185/hlK0e0wAQ3VLuJcsfIYPvb4JVud.jpg",
+  "movie_poster": "https://image.tmdb.org/t/p/w185/hlK0e0wAQ3VLuJcsfIYPvb4JVud.jpg",
+  "tmdb_id": null,
+  "tvdb_id": null,
+  "languages": [],
+  "url": "https://toonstream.love/movies/zootopia/",
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/7v4dMYR0dlVw/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/Odo4D8j1A"
+    },
+    {
+      "option": 3,
+      "real_video": "https://rubystm.com/embed-iwhv7ty9cfty.html"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/bnsibum"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/emy2bm4"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/e1tzo9l"
+    },
+    {
+      "option": 7,
+      "real_video": "https://emturbovid.com/t/67469b57a49b7"
+    }
+  ]
+}

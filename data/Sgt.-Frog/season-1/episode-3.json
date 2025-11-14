@@ -1,0 +1,29 @@
+{
+  "series": "Sgt. Frog",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/irBnC4N8XcVTnvKs8BqBmwyYBxC.jpg",
+  "season": 1,
+  "episode": 3,
+  "episode_title": "Episode 3",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/irBnC4N8XcVTnvKs8BqBmwyYBxC.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/8Bzt6kAehveIxKHmvSWFBhmvZQi.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/8Bzt6kAehveIxKHmvSWFBhmvZQi.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://rubystm.com/e/71i5ywtnkv1k.html"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/ddqjm2dBFz"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/mi1kbcx"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/PEDl5MdEMWDa/"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "series": "ERASED",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/i7ehsbNLpOtccSdlcKnGxTCJqAI.jpg",
+  "season": 1,
+  "episode": 6,
+  "episode_title": "Episode 6",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/i7ehsbNLpOtccSdlcKnGxTCJqAI.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/buPFRzvcacNWfXWiUxk95ahLaQ0.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/buPFRzvcacNWfXWiUxk95ahLaQ0.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://rubystm.com/e/gh71jb1iz28y.html"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/4b32wzBie"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/v5wi9tx"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/T3bdGmCDulf7/"
+    }
+  ]
+}

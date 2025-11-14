@@ -1,0 +1,25 @@
+{
+  "series": "Ron Kamonohashi's Forbidden Deductions (ESub)",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/79fk0GLg3vJsjL3uv13NVwcFbE3.jpg",
+  "season": 1,
+  "episode": 12,
+  "episode_title": "Episode 12",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/79fk0GLg3vJsjL3uv13NVwcFbE3.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/4hBQZ4e4lMagQGDZzr9WV83j66V.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/4hBQZ4e4lMagQGDZzr9WV83j66V.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/dbQcY34v_"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/a2h4rgb"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/4u4yz5a3cuwl/"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "series": "Crayon Shin-chan Spin-off",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/zL7zV68jIpq2IBOtlK38mlwfgI9.jpg",
+  "season": 1,
+  "episode": 9,
+  "episode_title": "Episode 9",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/zL7zV68jIpq2IBOtlK38mlwfgI9.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/qe06UQAwPMrCtiMWLPlvfIW45jf.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/qe06UQAwPMrCtiMWLPlvfIW45jf.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/QZRAdS1l3"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/xgg7w2m6azku.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#j3rwmp"
+    },
+    {
+      "option": 4,
+      "real_video": "https://strmup.to/epKGqOBYm9PnD"
+    },
+    {
+      "option": 5,
+      "real_video": "https://turbovidhls.com/t/68e1dd7877068"
+    },
+    {
+      "option": 6,
+      "real_video": "https://vidmoly.net/embed-q7rfq72spajo.html"
+    },
+    {
+      "option": 7,
+      "real_video": "https://gdmirrorbot.nl/embed/wrmleue"
+    },
+    {
+      "option": 8,
+      "real_video": "https://gdmirrorbot.nl/embed/sfwz3yl"
+    },
+    {
+      "option": 9,
+      "real_video": "https://gdmirrorbot.nl/embed/vb4oi3l"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/d87e487d05fcd326aa4ce217a82ec593"
+    }
+  ]
+}

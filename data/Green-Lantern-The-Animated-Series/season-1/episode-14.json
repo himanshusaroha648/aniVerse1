@@ -1,0 +1,33 @@
+{
+  "series": "Green Lantern: The Animated Series",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/qSSFP3va0q2WL2a2DzcdcjVe463.jpg",
+  "season": 1,
+  "episode": 14,
+  "episode_title": "Episode 14",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/qSSFP3va0q2WL2a2DzcdcjVe463.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/u7JS4KvSqkEE81PnfDfCSgnvNNN.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/u7JS4KvSqkEE81PnfDfCSgnvNNN.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/-YCzGjScR"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/l8qlany"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/htclgf0"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/sxesne6"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/GByJKNqibrV8/"
+    }
+  ]
+}

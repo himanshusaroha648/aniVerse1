@@ -1,0 +1,33 @@
+{
+  "series": "SpongeBob SquarePants",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/amvtZgiTty0GHIgD56gpouBWrcy.jpg",
+  "season": 2,
+  "episode": 3,
+  "episode_title": "Episode 3",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/amvtZgiTty0GHIgD56gpouBWrcy.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/4Btm4sB5pPRTz6IrKML6lUco8q7.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/4Btm4sB5pPRTz6IrKML6lUco8q7.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/LWZe0Humd"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/cg2v52z"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/hlmhmtv"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/ksb9pr4"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/API4WagTvBve/"
+    }
+  ]
+}

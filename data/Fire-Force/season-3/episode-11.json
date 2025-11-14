@@ -1,0 +1,53 @@
+{
+  "series": "Fire Force",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/GXPzNvuDGzWikMEduV99kocohn.jpg",
+  "season": 3,
+  "episode": 11,
+  "episode_title": "Episode 11",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/GXPzNvuDGzWikMEduV99kocohn.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/9SmH9Ah6lRGXl1YKgCMraZla9lk.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/9SmH9Ah6lRGXl1YKgCMraZla9lk.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/NUGzD49Iu"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/e9nfdax4e0q7.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#9djf3c"
+    },
+    {
+      "option": 4,
+      "real_video": "https://strmup.to/n6V1rINvm2jP3"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/ckmv3vz"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/dfxy9lp"
+    },
+    {
+      "option": 7,
+      "real_video": "https://gdmirrorbot.nl/embed/lz3qbib"
+    },
+    {
+      "option": 8,
+      "real_video": "https://emturbovid.com/t/686b485879194"
+    },
+    {
+      "option": 9,
+      "real_video": "https://vidmoly.net/embed-yba0lj582mfe.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/a1a15170543564de6ec386358b88d6d3"
+    }
+  ]
+}

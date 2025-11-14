@@ -1,0 +1,37 @@
+{
+  "series": "Batman: Caped Crusader",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/imuZQcnPNKNygPw28TESUq4tNsb.jpg",
+  "season": 1,
+  "episode": 7,
+  "episode_title": "Episode 7",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/imuZQcnPNKNygPw28TESUq4tNsb.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/qXnIBXy84oRTygrhwmRsSymnAt5.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/qXnIBXy84oRTygrhwmRsSymnAt5.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/dMPHkZucp7yZ/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/EbGEssgLQR"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/gaaeoum"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/vcarsjg"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/uffgyup"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/c7b711619071c92bef604c7ad68380dd"
+    }
+  ]
+}

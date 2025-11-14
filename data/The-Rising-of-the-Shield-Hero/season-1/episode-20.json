@@ -1,0 +1,37 @@
+{
+  "series": "The Rising of the Shield Hero",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/yjq2n0agGJfmZQ9NpbYIhuBofcq.jpg",
+  "season": 1,
+  "episode": 20,
+  "episode_title": "Episode 20",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/yjq2n0agGJfmZQ9NpbYIhuBofcq.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/YajDAXdBLyyEOb5ROGGPSzyS3E.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/YajDAXdBLyyEOb5ROGGPSzyS3E.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://rubystm.com/e/020fcp5j9hnm.html"
+    },
+    {
+      "option": 2,
+      "real_video": "https://cloudy.upns.one/#n3wim9"
+    },
+    {
+      "option": 3,
+      "real_video": "https://strmup.to/BWnwmavOYxUAH"
+    },
+    {
+      "option": 4,
+      "real_video": "https://turbovidhls.com/t/690efef2a143b"
+    },
+    {
+      "option": 5,
+      "real_video": "https://vidmoly.net/embed-l4k0i81jhg2t.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://short.icu/rNkatLnbg"
+    }
+  ]
+}

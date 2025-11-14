@@ -1,0 +1,53 @@
+{
+  "series": "Haikyuu!! (Crunchyroll Dub)",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/zfOWZf3rMkgaXXNKOSTL33RBchx.jpg",
+  "season": 4,
+  "episode": 7,
+  "episode_title": "Episode 7",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/zfOWZf3rMkgaXXNKOSTL33RBchx.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/uWZGSRU43jC9qfG3iSKzJsd6Tfj.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/uWZGSRU43jC9qfG3iSKzJsd6Tfj.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/k51IHn9KS"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/t9x3r3rja6qv.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#rcvdic"
+    },
+    {
+      "option": 4,
+      "real_video": "https://strmup.to/HN7L6XApBR53S"
+    },
+    {
+      "option": 5,
+      "real_video": "https://turbovidhls.com/t/690c09afd16b6"
+    },
+    {
+      "option": 6,
+      "real_video": "https://vidmoly.net/embed-4u84pc8q8ymw.html"
+    },
+    {
+      "option": 7,
+      "real_video": "https://gdmirrorbot.nl/embed/dyn0lu4"
+    },
+    {
+      "option": 8,
+      "real_video": "https://gdmirrorbot.nl/embed/qyfjrfb"
+    },
+    {
+      "option": 9,
+      "real_video": "https://gdmirrorbot.nl/embed/j1q2bky"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/5d62cc5dde712d7c31f35cd30b15439c"
+    }
+  ]
+}

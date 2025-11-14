@@ -1,0 +1,17 @@
+{
+  "series": "Amagami SS",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/fpMyFbUqu3eFl5Xm4sgGNEamrdE.jpg",
+  "season": 1,
+  "episode": 12,
+  "episode_title": "Episode 12",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/fpMyFbUqu3eFl5Xm4sgGNEamrdE.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/mTF4VUq9T6OPHQukJSlFLkaii7a.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/mTF4VUq9T6OPHQukJSlFLkaii7a.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/wGShzDJlZZth/"
+    }
+  ]
+}

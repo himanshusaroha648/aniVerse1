@@ -1,0 +1,41 @@
+{
+  "series": "Dragon Ball Super",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/qEUrbXJ2qt4Rg84Btlx4STOhgte.jpg",
+  "season": 1,
+  "episode": 88,
+  "episode_title": "Episode 88",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/qEUrbXJ2qt4Rg84Btlx4STOhgte.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/rmGzR6On6CtlMKlkiZCLxASLmmT.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/rmGzR6On6CtlMKlkiZCLxASLmmT.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/TRJwwS7ob"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/macin0r01yhq.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#nchcnt"
+    },
+    {
+      "option": 4,
+      "real_video": "https://strmup.to/2tRfzUT4bcm7j"
+    },
+    {
+      "option": 5,
+      "real_video": "https://turbovidhls.com/t/68b692d332d3c"
+    },
+    {
+      "option": 6,
+      "real_video": "https://vidmoly.net/embed-wx6uxr7xvrwp.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/09779bb7930c8a0a44360e12b538ae3c"
+    }
+  ]
+}

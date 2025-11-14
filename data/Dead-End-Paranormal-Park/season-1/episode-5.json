@@ -1,0 +1,25 @@
+{
+  "series": "Dead End: Paranormal Park",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/iB9h1cBIFFjnufhZF4lNGQmt3c5.jpg",
+  "season": 1,
+  "episode": 5,
+  "episode_title": "Episode 5",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/iB9h1cBIFFjnufhZF4lNGQmt3c5.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/1DowWXjyyTBALtFSAkqiWIB5EQX.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/1DowWXjyyTBALtFSAkqiWIB5EQX.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://watchsb.com/e/syj9ie0mpdvv.html"
+    },
+    {
+      "option": 2,
+      "real_video": "https://filepress.online/video/63521e22ed4688cf2f3a8def"
+    },
+    {
+      "option": null,
+      "real_video": "https://filemoon.to/e/y6b1bo6mtbve/_Toonhub4u__Dead_End__Paranormal_Park_S01_E05_Dual_Audio_720p_HD.mp4"
+    }
+  ]
+}

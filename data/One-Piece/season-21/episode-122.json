@@ -1,0 +1,29 @@
+{
+  "series": "One Piece",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/dum1wnm6kJOUos0XJqjB8s2UWi9.jpg",
+  "season": 21,
+  "episode": 122,
+  "episode_title": "Episode 122",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/dum1wnm6kJOUos0XJqjB8s2UWi9.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/cEkVef0C5U68LNYpad9HojkvxVL.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/cEkVef0C5U68LNYpad9HojkvxVL.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/nGtQ4DVJNa9Y/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/Lcn5IjUuf"
+    },
+    {
+      "option": 3,
+      "real_video": "https://rubystm.com/e/h3rokwb0vlvh.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/au8h8xZSveYq/"
+    }
+  ]
+}

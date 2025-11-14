@@ -1,0 +1,21 @@
+{
+  "series": "Hunter x Hunter",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/ucpgmUR1h5Te1BYegKItoPjOeF7.jpg",
+  "season": 1,
+  "episode": 16,
+  "episode_title": "Episode 16",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/ucpgmUR1h5Te1BYegKItoPjOeF7.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/ipiSa3T8dTKUN2ONfcRRasL1Yj3.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/ipiSa3T8dTKUN2ONfcRRasL1Yj3.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://filemoon.to/e/3nrmuasofp7l/_Toonhub4u__Hunter__C3__Hunter_S01E16__480p_BD_Multi_Audio__ESub"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/hi97C4LqgqTU/"
+    }
+  ]
+}

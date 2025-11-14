@@ -1,0 +1,41 @@
+{
+  "series": "Mission: Yozakura Family (Eng-Jap)",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/dTtXbR0DenriganfBidZxFLk4Xx.jpg",
+  "season": 1,
+  "episode": 24,
+  "episode_title": "Episode 24",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/dTtXbR0DenriganfBidZxFLk4Xx.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/2kRicHunzyOfaitPBAOFSCeHwaP.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/2kRicHunzyOfaitPBAOFSCeHwaP.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://rubystm.com/e/efp5x3vt5szo.html"
+    },
+    {
+      "option": 2,
+      "real_video": "https://strmup.to//DeNP1prkOMw4J"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/bou5hwg"
+    },
+    {
+      "option": 4,
+      "real_video": "https://turbovidhls.com/t/68a6b4d292cf5"
+    },
+    {
+      "option": 5,
+      "real_video": "https://vidmoly.net/embed-wmc8jjas0ojl.html"
+    },
+    {
+      "option": 6,
+      "real_video": "https://cloudy.upns.one/#twlg3x"
+    },
+    {
+      "option": null,
+      "real_video": "https://short.icu/LYbS96jZe"
+    }
+  ]
+}

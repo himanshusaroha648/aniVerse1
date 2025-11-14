@@ -1,0 +1,53 @@
+{
+  "series": "BAKI",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/j4bL0G8h8k49MuXKYfZqhXqk2rI.jpg",
+  "season": 2,
+  "episode": 7,
+  "episode_title": "Episode 7",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/j4bL0G8h8k49MuXKYfZqhXqk2rI.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/aebpliGZ3hgFkAXPJ0G7ssIXvPL.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/aebpliGZ3hgFkAXPJ0G7ssIXvPL.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://cloudy.upns.one/#skvsrl"
+    },
+    {
+      "option": 2,
+      "real_video": "https://strmup.to/5fbCqNlYBoK29"
+    },
+    {
+      "option": 3,
+      "real_video": "https://rubystm.com/e/sg8tpbw5ydgd.html"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/xry17sv"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/jzcr1yw"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/towiknj"
+    },
+    {
+      "option": 7,
+      "real_video": "https://emturbovid.com/t/689db6dbe92e6"
+    },
+    {
+      "option": 8,
+      "real_video": "https://vidmoly.net/embed-6htjjkz74nc2.html"
+    },
+    {
+      "option": 9,
+      "real_video": "https://play.zephyrflick.top/video/e5732492e9d1ef72fee339a293b2f9e8"
+    },
+    {
+      "option": null,
+      "real_video": "https://short.icu/lmm4JfVJR"
+    }
+  ]
+}

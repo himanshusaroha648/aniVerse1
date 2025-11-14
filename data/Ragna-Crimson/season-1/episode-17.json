@@ -1,0 +1,33 @@
+{
+  "series": "Ragna Crimson",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/oGmNWwV3wgp1DZXTOLSAYZZgh3X.jpg",
+  "season": 1,
+  "episode": 17,
+  "episode_title": "Episode 17",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/oGmNWwV3wgp1DZXTOLSAYZZgh3X.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/7JgPXqBH13LZJOWcbOw3lxPzGZp.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/7JgPXqBH13LZJOWcbOw3lxPzGZp.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidcloud.upns.ink/#xe9zpi"
+    },
+    {
+      "option": 2,
+      "real_video": "https://turbovidhls.com/t/69100bc7079c1"
+    },
+    {
+      "option": 3,
+      "real_video": "https://vidmoly.net/embed-fi5r2c1xnkz7.html"
+    },
+    {
+      "option": 4,
+      "real_video": "https://play.zephyrflick.top/video/f8f6b523ba28dcc12b82576b0d694d18"
+    },
+    {
+      "option": null,
+      "real_video": "https://short.icu/ssSBP0BEu"
+    }
+  ]
+}

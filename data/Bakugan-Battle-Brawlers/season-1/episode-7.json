@@ -1,0 +1,33 @@
+{
+  "series": "Bakugan Battle Brawlers",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/vptVwP1uej035bHzirMtEMSndn.jpg",
+  "season": 1,
+  "episode": 7,
+  "episode_title": "Episode 7",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/vptVwP1uej035bHzirMtEMSndn.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/6ziOLwCzuiHtMVZd9APPmNEiGGi.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/6ziOLwCzuiHtMVZd9APPmNEiGGi.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/TuXFMhUTl"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/mecdnu1"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/jzr45et"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/svs3tni"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/Yf9jQ8JAjmkL/"
+    }
+  ]
+}

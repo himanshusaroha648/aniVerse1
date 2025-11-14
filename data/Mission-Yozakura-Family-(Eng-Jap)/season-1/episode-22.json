@@ -1,0 +1,41 @@
+{
+  "series": "Mission: Yozakura Family (Eng-Jap)",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/dTtXbR0DenriganfBidZxFLk4Xx.jpg",
+  "season": 1,
+  "episode": 22,
+  "episode_title": "Episode 22",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/dTtXbR0DenriganfBidZxFLk4Xx.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/pfv1DKrqLZqKGRr1pMlj59WjjFK.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/pfv1DKrqLZqKGRr1pMlj59WjjFK.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://rubystm.com/e/7vzwr4fkqh4b.html"
+    },
+    {
+      "option": 2,
+      "real_video": "https://strmup.to//0lfyQCG6F5vhN"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/ff4xany"
+    },
+    {
+      "option": 4,
+      "real_video": "https://turbovidhls.com/t/68a6b4ce912f1"
+    },
+    {
+      "option": 5,
+      "real_video": "https://vidmoly.net/embed-pcjwq8flznoq.html"
+    },
+    {
+      "option": 6,
+      "real_video": "https://cloudy.upns.one/#mecoxu"
+    },
+    {
+      "option": null,
+      "real_video": "https://short.icu/PkaQ94zQA"
+    }
+  ]
+}

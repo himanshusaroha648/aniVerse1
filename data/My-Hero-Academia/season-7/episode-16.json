@@ -1,0 +1,37 @@
+{
+  "series": "My Hero Academia",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/6yQKyw3BNw9kSKsP6SRrXqsUpNe.jpg",
+  "season": 7,
+  "episode": 16,
+  "episode_title": "Episode 16",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/6yQKyw3BNw9kSKsP6SRrXqsUpNe.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/feNuAmfP049pcPGTVXs8Hlzbt9b.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/feNuAmfP049pcPGTVXs8Hlzbt9b.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/QM1cPT-Hw"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/3hbzbuy2rh0o.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#isfgdt"
+    },
+    {
+      "option": 4,
+      "real_video": "https://emturbovid.com/t/6857e06d2c7a1"
+    },
+    {
+      "option": 5,
+      "real_video": "https://raretoonsindia.co/ex/gIBBb4E0JaKMpBq"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/65ddf8fc40f919eba2239c13c19bead4"
+    }
+  ]
+}

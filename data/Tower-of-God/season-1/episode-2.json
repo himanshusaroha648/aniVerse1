@@ -1,0 +1,57 @@
+{
+  "series": "Tower of God",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/7khzDTwE4Ng5UvXi43Dbndoioab.jpg",
+  "season": 1,
+  "episode": 2,
+  "episode_title": "Episode 2",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/7khzDTwE4Ng5UvXi43Dbndoioab.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/3luCcef8HLyX0xSvo1dDxXxDMLA.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/3luCcef8HLyX0xSvo1dDxXxDMLA.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/-fMYMJMi5"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/ayy2ertn72jt.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#86hz3"
+    },
+    {
+      "option": 4,
+      "real_video": "https://strmup.to/1GQnS5ta0rUBk"
+    },
+    {
+      "option": 5,
+      "real_video": "https://turbovidhls.com/t/6765968fac423"
+    },
+    {
+      "option": 6,
+      "real_video": "https://blakiteapi.xyz/embed/97860/1-2"
+    },
+    {
+      "option": 7,
+      "real_video": "https://vidmoly.net/embed-uoedokfcphao.html"
+    },
+    {
+      "option": 8,
+      "real_video": "https://gdmirrorbot.nl/embed/jx3dr4p"
+    },
+    {
+      "option": 9,
+      "real_video": "https://gdmirrorbot.nl/embed/xyb9wfh"
+    },
+    {
+      "option": 10,
+      "real_video": "https://gdmirrorbot.nl/embed/hw4zu0h"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/a8578be2fe9a67d039ee7b4f18697286"
+    }
+  ]
+}

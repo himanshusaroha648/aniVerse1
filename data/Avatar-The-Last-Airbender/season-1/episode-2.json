@@ -1,0 +1,29 @@
+{
+  "series": "Avatar: The Last Airbender",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/cHFZA8Tlv03nKTGXhLOYOLtqoSm.jpg",
+  "season": 1,
+  "episode": 2,
+  "episode_title": "Episode 2",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/cHFZA8Tlv03nKTGXhLOYOLtqoSm.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/m3jVDcH04qAJH0LQFN7H5rOJXEA.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/m3jVDcH04qAJH0LQFN7H5rOJXEA.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://rubystm.com/e/syic6isiy7cr.html"
+    },
+    {
+      "option": 2,
+      "real_video": "https://cloudy.upns.one/#9d36h6"
+    },
+    {
+      "option": 3,
+      "real_video": "https://strmup.to/VtQaeaDrBcRd"
+    },
+    {
+      "option": null,
+      "real_video": "https://short.icu/HIacKPOoU"
+    }
+  ]
+}

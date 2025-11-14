@@ -1,0 +1,49 @@
+{
+  "series": "Love, Death & Robots",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/vvRpJJxAw1sB4w4r0hsOdqa9eJc.jpg",
+  "season": 4,
+  "episode": 8,
+  "episode_title": "Episode 8",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/vvRpJJxAw1sB4w4r0hsOdqa9eJc.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/pKUS3m0hiEvKyde7iqjUnxor9ti.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/pKUS3m0hiEvKyde7iqjUnxor9ti.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/UzYGwvAo6Dxa/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/-5nsxu2pw"
+    },
+    {
+      "option": 3,
+      "real_video": "https://rubystm.com/e/wkt6qu0m10fc.html"
+    },
+    {
+      "option": 4,
+      "real_video": "https://cloudy.upns.one/#miclpa"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/kuppuug"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/dkk416b"
+    },
+    {
+      "option": 7,
+      "real_video": "https://gdmirrorbot.nl/embed/z4raohk"
+    },
+    {
+      "option": 8,
+      "real_video": "https://emturbovid.com/t/6826b15f611e0"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/f6002b64f932b16eb8fc5cec2690beb9"
+    }
+  ]
+}

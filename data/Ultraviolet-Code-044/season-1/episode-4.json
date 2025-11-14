@@ -1,0 +1,49 @@
+{
+  "series": "Ultraviolet: Code 044",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/kn3hzWSL3HIrrApz0UsXvnZFNHh.jpg",
+  "season": 1,
+  "episode": 4,
+  "episode_title": "Episode 4",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/kn3hzWSL3HIrrApz0UsXvnZFNHh.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/22G54j4FtcimqbMzVHvXM31VkV6.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/22G54j4FtcimqbMzVHvXM31VkV6.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://rubystm.com/e/w31dq3kl853o.html"
+    },
+    {
+      "option": 2,
+      "real_video": "https://cloudy.upns.one/#unwlc1"
+    },
+    {
+      "option": 3,
+      "real_video": "https://strmup.to/gbdl67H3LTRFy"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/bhjvlig"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/rc99wju"
+    },
+    {
+      "option": 6,
+      "real_video": "https://emturbovid.com/t/6888dbc5eb981"
+    },
+    {
+      "option": 7,
+      "real_video": "https://vidmoly.net/embed-vi8stwh61qrs.html"
+    },
+    {
+      "option": 8,
+      "real_video": "https://play.zephyrflick.top/video/ef95afafde712120bb708d12b6217a9a"
+    },
+    {
+      "option": null,
+      "real_video": "https://short.icu/dD5n-Pxt2"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "series": "Rent-a-Girlfriend",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/31Bzdzi44gvpNEYsWTtplU3rlbl.jpg",
+  "season": 3,
+  "episode": 1,
+  "episode_title": "Episode 1",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/31Bzdzi44gvpNEYsWTtplU3rlbl.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/eEWzrZzCXhv3UVesLw9wZJuWzXJ.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/eEWzrZzCXhv3UVesLw9wZJuWzXJ.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/beyep5uzXH"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/5i0h8l4odwz5.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#h98gvw"
+    },
+    {
+      "option": 4,
+      "real_video": "https://strmup.to/ZbGha8spNcHOI"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/s8bsp5f"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/e8c7lkz"
+    },
+    {
+      "option": 7,
+      "real_video": "https://gdmirrorbot.nl/embed/fpk4vzj"
+    },
+    {
+      "option": 8,
+      "real_video": "https://emturbovid.com/t/68804e2b5e21b"
+    },
+    {
+      "option": 9,
+      "real_video": "https://vidmoly.net/embed-7r77bparilkv.html"
+    },
+    {
+      "option": 10,
+      "real_video": "https://blakiteapi.xyz/embed/96316/3-1"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/37160db944a57234ac9bf1ea9e99ae58"
+    }
+  ]
+}

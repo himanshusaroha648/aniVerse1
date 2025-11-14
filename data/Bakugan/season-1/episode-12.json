@@ -1,0 +1,33 @@
+{
+  "series": "Bakugan",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/lg6QqCdvZOZM7EWf9zFJL12EsKv.jpg",
+  "season": 1,
+  "episode": 12,
+  "episode_title": "Episode 12",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/lg6QqCdvZOZM7EWf9zFJL12EsKv.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/jjEvEFNJg0JeOXesj8AoYd7QN4V.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/jjEvEFNJg0JeOXesj8AoYd7QN4V.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/DWJVBDZGW"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/fo8fud8"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/nwftxv7"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/ltiujkk"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/bNalop73qU1w/"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "series": "Dragon Ball Super",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/qEUrbXJ2qt4Rg84Btlx4STOhgte.jpg",
+  "season": 1,
+  "episode": 17,
+  "episode_title": "Episode 17",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/qEUrbXJ2qt4Rg84Btlx4STOhgte.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/cNKxcaYc3u0JSeAxBLL7yfe9yHC.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/cNKxcaYc3u0JSeAxBLL7yfe9yHC.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/llIW1Nxr3"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/kmvjfstsonls.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#ipaiqp"
+    },
+    {
+      "option": 4,
+      "real_video": "https://strmup.to/jlR3zav6W79TV"
+    },
+    {
+      "option": 5,
+      "real_video": "https://turbovidhls.com/t/68b586922ee7a"
+    },
+    {
+      "option": 6,
+      "real_video": "https://vidmoly.net/embed-su16m9t146he.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/4f7b884f2445ef08da9bbc77b028722c"
+    }
+  ]
+}

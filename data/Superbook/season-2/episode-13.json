@@ -1,0 +1,33 @@
+{
+  "series": "Superbook",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/4gxPU54vvA5ZGaICzwDXAQY5SvR.jpg",
+  "season": 2,
+  "episode": 13,
+  "episode_title": "Episode 13",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/4gxPU54vvA5ZGaICzwDXAQY5SvR.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/pi24eBj70ZqwLnNm5SqOs2F1N0v.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/pi24eBj70ZqwLnNm5SqOs2F1N0v.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/fjskdqLez"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/tvebd75"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/uh1eb9t"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/cm6oyq4"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/I2ga7l51PrPA/"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "series": "Invincible",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/4UEfVAuI4Yn09nzJ16NFR1pv3ac.jpg",
+  "season": 3,
+  "episode": 4,
+  "episode_title": "Episode 4",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/4UEfVAuI4Yn09nzJ16NFR1pv3ac.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/kWZMUWTvwzVYaWS0Lj3zf6ygTmq.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/kWZMUWTvwzVYaWS0Lj3zf6ygTmq.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/IPK9mAe7waex/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/v8i1SEkOe"
+    },
+    {
+      "option": 3,
+      "real_video": "https://rubystm.com/e/or0cqwz1ktlm.html"
+    },
+    {
+      "option": 4,
+      "real_video": "https://cloudy.upns.one/#ndf8w"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/jrm3ars"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/thwa9k4"
+    },
+    {
+      "option": 7,
+      "real_video": "https://gdmirrorbot.nl/embed/laweyvc"
+    },
+    {
+      "option": 8,
+      "real_video": "https://emturbovid.com/t/67adba314d57c"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/8d3b78d62523e16a1c95a545651db6bf"
+    }
+  ]
+}

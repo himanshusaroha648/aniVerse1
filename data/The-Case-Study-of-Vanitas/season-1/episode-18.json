@@ -1,0 +1,37 @@
+{
+  "series": "The Case Study of Vanitas",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/fvqoSfyfQG0hH9nJAvubq730ymR.jpg",
+  "season": 1,
+  "episode": 18,
+  "episode_title": "Episode 18",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/fvqoSfyfQG0hH9nJAvubq730ymR.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/l7jipo9aXtFwMo85yVEU5q9VLzM.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/l7jipo9aXtFwMo85yVEU5q9VLzM.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/yawgJGNtRxcf/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/Fmk4qDFne"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/n7g455m"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/ajt8yy9"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/d7isb8k"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/0a9fdbb17feb6ccb7ec405cfb85222c4"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "series": "Assassination Classroom",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/leBY2xtNXG4cwT9K4zxlBUS86Sz.jpg",
+  "season": 2,
+  "episode": 5,
+  "episode_title": "Episode 5",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/leBY2xtNXG4cwT9K4zxlBUS86Sz.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/oM6A4WrGaxFttinI2M3pWNVnQ21.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/oM6A4WrGaxFttinI2M3pWNVnQ21.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/lZg8XRgyYXCH/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/embed-oi012vzudd0q.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://short.icu/JtfHY-6Yn"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/g8c2931"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/ib0ynro"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/fd11ev4"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/9683cc5f89562ea48e72bb321d9f03fb"
+    }
+  ]
+}

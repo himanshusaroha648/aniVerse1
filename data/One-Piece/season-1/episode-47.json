@@ -1,0 +1,21 @@
+{
+  "series": "One Piece",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/dum1wnm6kJOUos0XJqjB8s2UWi9.jpg",
+  "season": 1,
+  "episode": 47,
+  "episode_title": "Episode 47",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/dum1wnm6kJOUos0XJqjB8s2UWi9.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/caJYo8cx9yrOH2YWHo5xA7105iz.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/caJYo8cx9yrOH2YWHo5xA7105iz.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/razynj1NLDwH/"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/f0f07e680de407b0f12abf15bd520097"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "series": "Ameku M.D.: Doctor Detective",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/mjTuJbgOssPGzCVGuqGxbnwS6iA.jpg",
+  "season": 1,
+  "episode": 11,
+  "episode_title": "Episode 11",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/mjTuJbgOssPGzCVGuqGxbnwS6iA.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/3b0Uy3bBW6vgiaFnZskPqJElQNL.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/3b0Uy3bBW6vgiaFnZskPqJElQNL.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/DFeA3JPoW"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/euydcaidx4hr.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#lutfl8"
+    },
+    {
+      "option": 4,
+      "real_video": "https://strmup.to/Q43PcR9xmMlDS"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/m5hyz0z"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/h8evpqr"
+    },
+    {
+      "option": 7,
+      "real_video": "https://gdmirrorbot.nl/embed/cy1xqax"
+    },
+    {
+      "option": 8,
+      "real_video": "https://emturbovid.com/t/6800a8003fd21"
+    },
+    {
+      "option": 9,
+      "real_video": "https://vidmoly.net/embed-gw81nr04kdbe.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/9455664174358cac2500dec3f80dc833"
+    }
+  ]
+}

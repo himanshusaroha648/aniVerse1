@@ -1,0 +1,21 @@
+{
+  "series": "My Teen Romantic Comedy SNAFU English Dub",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/8knvr1LbnPD8SZjZlkD3cOt3TYu.jpg",
+  "season": 1,
+  "episode": 13,
+  "episode_title": "Episode 13",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/8knvr1LbnPD8SZjZlkD3cOt3TYu.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/l5LZaLLIPPOQJh6cRBNIfF06HQK.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/l5LZaLLIPPOQJh6cRBNIfF06HQK.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/kWuvpY-Ow"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/Gj5y15dQQJxI/"
+    }
+  ]
+}

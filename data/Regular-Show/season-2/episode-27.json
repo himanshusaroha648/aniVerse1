@@ -1,0 +1,33 @@
+{
+  "series": "Regular Show",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/mS5SLxMYcKfUxA0utBSR5MOAWWr.jpg",
+  "season": 2,
+  "episode": 27,
+  "episode_title": "Episode 27",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/mS5SLxMYcKfUxA0utBSR5MOAWWr.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/toZK9YQJfCzcgqo8bIuo0LXB6VV.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/toZK9YQJfCzcgqo8bIuo0LXB6VV.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/2cwLkfWCN"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/qabrq4v"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/bhstekn"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/rfon0tf"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/0w36aa2TNvb9/"
+    }
+  ]
+}

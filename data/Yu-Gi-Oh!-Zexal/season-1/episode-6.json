@@ -1,0 +1,45 @@
+{
+  "series": "Yu-Gi-Oh! Zexal",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/hKsREcyiIx0rV50Yzvzzsnc1h85.jpg",
+  "season": 1,
+  "episode": 6,
+  "episode_title": "Episode 6",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/hKsREcyiIx0rV50Yzvzzsnc1h85.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/1KYtJO1sTWsRtRm2saZStSFFxxA.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/1KYtJO1sTWsRtRm2saZStSFFxxA.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/rOjEX3tQN"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/rafsbiupnnle.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#6huhye"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/an20f2w"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/plm5hm7"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/fzke7o5"
+    },
+    {
+      "option": 7,
+      "real_video": "https://emturbovid.com/t/67dfd2ba93179"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/H92cSGyitmmF/"
+    }
+  ]
+}

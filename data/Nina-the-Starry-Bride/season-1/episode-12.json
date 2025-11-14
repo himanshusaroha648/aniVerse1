@@ -1,0 +1,49 @@
+{
+  "series": "Nina the Starry Bride",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/dCO0ihJjo7y7ptzbdHuJ3UEA8MI.jpg",
+  "season": 1,
+  "episode": 12,
+  "episode_title": "Episode 12",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/dCO0ihJjo7y7ptzbdHuJ3UEA8MI.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/2O9RlYCLfUJit9PxPff7coQZNNK.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/2O9RlYCLfUJit9PxPff7coQZNNK.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/eRZB3mxKcJML/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/rhv_VZqkm"
+    },
+    {
+      "option": 3,
+      "real_video": "https://rubystm.com/e/bvkgssjilgm2.html"
+    },
+    {
+      "option": 4,
+      "real_video": "https://cloudy.upns.one/#9zqug"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/b1rixq0"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/s0340ge"
+    },
+    {
+      "option": 7,
+      "real_video": "https://gdmirrorbot.nl/embed/rlzz31b"
+    },
+    {
+      "option": 8,
+      "real_video": "https://emturbovid.com/t/676a284ce8183"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/d397c2b2be2178fe6247bd50fc97cff2"
+    }
+  ]
+}

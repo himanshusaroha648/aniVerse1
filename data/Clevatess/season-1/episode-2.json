@@ -1,0 +1,49 @@
+{
+  "series": "Clevatess",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/31I6eGFgYbbn5FMwzxOVlZfYETW.jpg",
+  "season": 1,
+  "episode": 2,
+  "episode_title": "Episode 2",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/31I6eGFgYbbn5FMwzxOVlZfYETW.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/sm8730WgxgnzbyjF7LkKUDCRYsV.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/sm8730WgxgnzbyjF7LkKUDCRYsV.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://rubystm.com/e/gxo2o2ezn55k.html"
+    },
+    {
+      "option": 2,
+      "real_video": "https://cloudy.upns.one/#6sdq58"
+    },
+    {
+      "option": 3,
+      "real_video": "https://strmup.to/Usf8ZcjYBz4Sa"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/bsaxau5"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/c24a9m1"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/j1xlw19"
+    },
+    {
+      "option": 7,
+      "real_video": "https://emturbovid.com/t/686e6b1261cec"
+    },
+    {
+      "option": 8,
+      "real_video": "https://vidmoly.net/embed-ve9jlqyx8v7m.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://short.icu/spC-XP_Cu1"
+    }
+  ]
+}

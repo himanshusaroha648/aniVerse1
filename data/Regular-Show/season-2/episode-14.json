@@ -1,0 +1,33 @@
+{
+  "series": "Regular Show",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/mS5SLxMYcKfUxA0utBSR5MOAWWr.jpg",
+  "season": 2,
+  "episode": 14,
+  "episode_title": "Episode 14",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/mS5SLxMYcKfUxA0utBSR5MOAWWr.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/6frQkaAPq9BNs14osR7B25iWvE1.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/6frQkaAPq9BNs14osR7B25iWvE1.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/xvwAyecGI"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/u9gg9rr"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/bwhlaeg"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/aztokbf"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/La3IUFNBN80v/"
+    }
+  ]
+}

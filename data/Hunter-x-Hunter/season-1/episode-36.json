@@ -1,0 +1,37 @@
+{
+  "series": "Hunter x Hunter",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/ucpgmUR1h5Te1BYegKItoPjOeF7.jpg",
+  "season": 1,
+  "episode": 36,
+  "episode_title": "Episode 36",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/ucpgmUR1h5Te1BYegKItoPjOeF7.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/jAoQgkl8YJX07NyfRAHZ8z6DYbe.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/jAoQgkl8YJX07NyfRAHZ8z6DYbe.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://rubystm.com/e/8i72fbnblz9e.html"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/ZyCiSBXv5"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/suwn96x"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/bc8pxqm"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/d1x7s5b"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/nPi2wZSHfIk7/"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "series": "Naruto Shippūden [English-Jap Dub]",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/lufFEkkD5JMrDgiVYh4s1ksx4nv.jpg",
+  "season": 11,
+  "episode": 2,
+  "episode_title": "Episode 2",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/lufFEkkD5JMrDgiVYh4s1ksx4nv.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/2ogU6uxZardUqnK1ERQzSixIOkz.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/2ogU6uxZardUqnK1ERQzSixIOkz.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://strmup.to/4XEmnPICwc95a"
+    },
+    {
+      "option": null,
+      "real_video": "https://rubystm.com/e/pfu48rg8dzle.html"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "series": "Bleach",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
+  "season": 1,
+  "episode": 105,
+  "episode_title": "Episode 105",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/4vFN36Q5ATJcc1RYTLAHrq3ACN2.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/4vFN36Q5ATJcc1RYTLAHrq3ACN2.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/wxhcK9m4at"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/cxbzo4x"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/nDYtwLn9UOjV/"
+    }
+  ]
+}

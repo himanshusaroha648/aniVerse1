@@ -1,0 +1,29 @@
+{
+  "series": "Sgt. Frog",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/irBnC4N8XcVTnvKs8BqBmwyYBxC.jpg",
+  "season": 1,
+  "episode": 19,
+  "episode_title": "Episode 19",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/irBnC4N8XcVTnvKs8BqBmwyYBxC.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/qVwYMI8U2OHmwSydueSOJgANIXM.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/qVwYMI8U2OHmwSydueSOJgANIXM.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://rubystm.com/e/lml3aozzdhq9.html"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/6NBnNMX6S"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/o98fn58"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/3aNw0KQ37WSI/"
+    }
+  ]
+}

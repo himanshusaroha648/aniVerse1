@@ -1,0 +1,61 @@
+{
+  "series": "Dragon Ball",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/vU50hlN4ZHeCSuyhpIfo52TxKR4.jpg",
+  "season": 1,
+  "episode": 40,
+  "episode_title": "Episode 40",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/vU50hlN4ZHeCSuyhpIfo52TxKR4.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/4SibY6eH4whsgRd1JCCDr7q3jZp.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/4SibY6eH4whsgRd1JCCDr7q3jZp.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/D2PAQrI9re4a/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/mQBSrXfMZJ"
+    },
+    {
+      "option": 3,
+      "real_video": "https://rubystm.com/e/g73pdmpe2qm5.html"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/fkrtjhq"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/dxsqb1f"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/qbqbffu"
+    },
+    {
+      "option": 7,
+      "real_video": "https://emturbovid.com/t/6714fc98045de"
+    },
+    {
+      "option": 8,
+      "real_video": "https://blakiteapi.xyz/embed/12609/3-12"
+    },
+    {
+      "option": 9,
+      "real_video": "https://cloudy.upns.one/#r8e3sy"
+    },
+    {
+      "option": 10,
+      "real_video": "https://strmup.to/UiKDNc3XoJkPb"
+    },
+    {
+      "option": 11,
+      "real_video": "https://vidmoly.net/embed-huc0k5x6d264.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/0771fc6f0f4b1d7d1bb73bbbe14e0e31"
+    }
+  ]
+}

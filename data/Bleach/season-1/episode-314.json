@@ -1,0 +1,25 @@
+{
+  "series": "Bleach",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
+  "season": 1,
+  "episode": 314,
+  "episode_title": "Episode 314",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/o1b7bR4UmI6gg5KTFpt5MGuMkDC.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/o1b7bR4UmI6gg5KTFpt5MGuMkDC.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/x_oBouVhR"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/nci0p3g"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/ujnIiFPgGvD6/"
+    }
+  ]
+}

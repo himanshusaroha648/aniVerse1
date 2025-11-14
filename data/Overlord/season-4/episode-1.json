@@ -1,0 +1,33 @@
+{
+  "series": "Overlord",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/zjSAukWORQxJAJjpR1KBk5X77PP.jpg",
+  "season": 4,
+  "episode": 1,
+  "episode_title": "Episode 1",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/zjSAukWORQxJAJjpR1KBk5X77PP.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/iwkVCzzY3Z9utQKDIJbbRKR8QsJ.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/iwkVCzzY3Z9utQKDIJbbRKR8QsJ.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://rubystm.com/e/fgbgqudfgk7a.html"
+    },
+    {
+      "option": 2,
+      "real_video": "https://cloudy.upns.one/#isxr1w"
+    },
+    {
+      "option": 3,
+      "real_video": "https://strmup.to/cPemjD8pEif7h"
+    },
+    {
+      "option": 4,
+      "real_video": "https://animeworld.site/embed/64196/4-1"
+    },
+    {
+      "option": null,
+      "real_video": "https://short.icu/YvSTt5u8b"
+    }
+  ]
+}

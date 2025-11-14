@@ -1,0 +1,53 @@
+{
+  "series": "Once Upon a Witch's Death",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/5Gr2mDFSGHhiEYrNfP6vbYtuNrT.jpg",
+  "season": 1,
+  "episode": 6,
+  "episode_title": "Episode 6",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/5Gr2mDFSGHhiEYrNfP6vbYtuNrT.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/cbbSZh6uka7pAoO1v2Ki3NGGqK3.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/cbbSZh6uka7pAoO1v2Ki3NGGqK3.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/Lk8dbFH9mlFn/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/n6bJAZEFN"
+    },
+    {
+      "option": 3,
+      "real_video": "https://rubystm.com/e/yoey6zc5jn3s.html"
+    },
+    {
+      "option": 4,
+      "real_video": "https://cloudy.upns.one/#3v9fhy"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/x0y885y"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/xrx5vwn"
+    },
+    {
+      "option": 7,
+      "real_video": "https://gdmirrorbot.nl/embed/t95a6ow"
+    },
+    {
+      "option": 8,
+      "real_video": "https://emturbovid.com/t/683707a5047ee"
+    },
+    {
+      "option": 9,
+      "real_video": "https://raretoonsindia.co/ex/wRS2i42wNT3yVpS"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/1f086a86e2a604cfa7787dbbffe246cf"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "series": "Naruto Shippūden",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/rXD6lcg6zhRE8NDRVlQPNkViC3s.jpg",
+  "season": 1,
+  "episode": 5,
+  "episode_title": "Episode 5",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/rXD6lcg6zhRE8NDRVlQPNkViC3s.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/vxaK3b4JLtz44ApG7xp7xrCtdoS.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/vxaK3b4JLtz44ApG7xp7xrCtdoS.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/Xdox89wbT"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/pr3yn96"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/ruio34p"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/gcl71ii"
+    },
+    {
+      "option": 5,
+      "real_video": "https://short.icu/DqPEJt6FH"
+    },
+    {
+      "option": 6,
+      "real_video": "https://rubystm.com/e/x566wdcqu447.html"
+    },
+    {
+      "option": 7,
+      "real_video": "https://gdmirrorbot.nl/embed/tfnrf6u"
+    },
+    {
+      "option": 8,
+      "real_video": "https://animedekho.net/moly.php?url=0p7pt4l59d8j"
+    },
+    {
+      "option": 9,
+      "real_video": "https://cloudy.upns.one/#cd1ye"
+    },
+    {
+      "option": 10,
+      "real_video": "https://emturbovid.com/t/679714ff1d00f"
+    },
+    {
+      "option": 11,
+      "real_video": "https://rubystm.com/e/9kxxcvx14rde.html"
+    },
+    {
+      "option": 12,
+      "real_video": "https://cloudy.upns.one/#skeetb"
+    },
+    {
+      "option": 13,
+      "real_video": "https://strmup.to/rzNAV3pi0UObs"
+    },
+    {
+      "option": 14,
+      "real_video": "https://turbovidhls.com/t/68e5147a7cbe7"
+    },
+    {
+      "option": 15,
+      "real_video": "https://vidmoly.net/embed-ruvmogfb9r4s.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/9c838d2e45b2ad1094d42f4ef36764f6"
+    }
+  ]
+}

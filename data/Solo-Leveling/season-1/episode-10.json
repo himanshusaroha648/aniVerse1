@@ -1,0 +1,57 @@
+{
+  "series": "Solo Leveling",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/rsOApVLbIQEcNkqSlOxNPyg3FyI.jpg",
+  "season": 1,
+  "episode": 10,
+  "episode_title": "Episode 10",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/rsOApVLbIQEcNkqSlOxNPyg3FyI.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/anFjSYbyhwOntz31Qr0Egl9qnGz.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/anFjSYbyhwOntz31Qr0Egl9qnGz.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/xo3pHNfmt"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/bbca7qnmynbm.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#ncsymy"
+    },
+    {
+      "option": 4,
+      "real_video": "https://strmup.to/QOMv87tF2NHlf"
+    },
+    {
+      "option": 5,
+      "real_video": "https://turbovidhls.com/t/68bfab2b81bc4"
+    },
+    {
+      "option": 6,
+      "real_video": "https://vidmoly.net/embed-soudjgc2t7vh.html"
+    },
+    {
+      "option": 7,
+      "real_video": "https://blakiteapi.xyz/embed/127532/1-10"
+    },
+    {
+      "option": 8,
+      "real_video": "https://gdmirrorbot.nl/embed/dxk6q5b"
+    },
+    {
+      "option": 9,
+      "real_video": "https://gdmirrorbot.nl/embed/wlpp0g1"
+    },
+    {
+      "option": 10,
+      "real_video": "https://gdmirrorbot.nl/embed/n2vbok3"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/8d969817eda63ba5eb9f49ea11f0b5ae"
+    }
+  ]
+}

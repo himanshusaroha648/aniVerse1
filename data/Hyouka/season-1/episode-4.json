@@ -1,0 +1,33 @@
+{
+  "series": "Hyouka",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/dnYx8jtn2JzAMkVYRG9mFZMJoDc.jpg",
+  "season": 1,
+  "episode": 4,
+  "episode_title": "Episode 4",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/dnYx8jtn2JzAMkVYRG9mFZMJoDc.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/uF54xIrj0nUr6itZkb8fWwy7Q3v.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/uF54xIrj0nUr6itZkb8fWwy7Q3v.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/HE2v4JWb1"
+    },
+    {
+      "option": 2,
+      "real_video": "https://vidstreaming.xyz/v/I3QJW7L3ZSTF/"
+    },
+    {
+      "option": 3,
+      "real_video": "https://short.icu/upAOwfjwTf"
+    },
+    {
+      "option": 4,
+      "real_video": "https://vidstreaming.xyz/v/JeQ8zKnzQzW4/"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/VfvV9rK30XqD/"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "series": "Transformers: Prime",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/ilOKsGRHYc78R2tSMusAd3xGJWq.jpg",
+  "season": 2,
+  "episode": 10,
+  "episode_title": "Episode 10",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/ilOKsGRHYc78R2tSMusAd3xGJWq.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/4Z5eg7TKSdYM8RCSQNYS3TJuAdQ.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/4Z5eg7TKSdYM8RCSQNYS3TJuAdQ.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/p0XChgm46Be5/"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/ab6439fa2daf0246f92eea433bca5ac4"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "series": "Ben 10",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/pT0NlYVIkwM2zAw9oUkePwrOlxW.jpg",
+  "season": 2,
+  "episode": 13,
+  "episode_title": "Episode 13",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/pT0NlYVIkwM2zAw9oUkePwrOlxW.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/eR4jBtRVcwIYtScQfJqMe0cR1LH.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/eR4jBtRVcwIYtScQfJqMe0cR1LH.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://filemoon.to/e/5ee5fj91kgnl/_Toonhub4u__Ben_10_Classic_S02E13_Back_with_a_Vengeance_-_x264_-_AAC_Tamil-Telugu-Hindi-Eng_-_281_MB.mkv"
+    },
+    {
+      "option": 2,
+      "real_video": "https://streamsb.net/e/bkdvhscpuajc.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/uVJm8ZQAFAl4/"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "series": "Miraculous: Tales of Ladybug & Cat Noir",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/psDcRgUX38cIeGeADwLRPyO7SYC.jpg",
+  "season": 5,
+  "episode": 24,
+  "episode_title": "Episode 24",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/psDcRgUX38cIeGeADwLRPyO7SYC.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/jE0T3kpNsCaGhtZgZGEutGokje4.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/jE0T3kpNsCaGhtZgZGEutGokje4.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://rubystm.com/e/38pdqzi2gjiu.html"
+    },
+    {
+      "option": 2,
+      "real_video": "https://cloudy.upns.one/#v1lmln"
+    },
+    {
+      "option": 3,
+      "real_video": "https://strmup.to/VIgFcN2kfY4PA"
+    },
+    {
+      "option": 4,
+      "real_video": "https://emturbovid.com/t/689a0115e7fa7"
+    },
+    {
+      "option": 5,
+      "real_video": "https://vidmoly.net/embed-g6zwkd2bgsap.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://short.icu/KrWrq0ikV"
+    }
+  ]
+}

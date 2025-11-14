@@ -1,0 +1,37 @@
+{
+  "series": "Teen Titans Go!",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/mTMAxrRaDp0TFpdFVinD3grrqr9.jpg",
+  "season": 1,
+  "episode": 20,
+  "episode_title": "Episode 20",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/mTMAxrRaDp0TFpdFVinD3grrqr9.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/h8esiqXqSTLfj2OuPFCkX7vIyoJ.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/h8esiqXqSTLfj2OuPFCkX7vIyoJ.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/TC7LG4DytNCH/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/KJ0cwsyky"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/ee7m59k"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/ypw29gv"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/c561dl6"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/db8419f41d890df802dca330e6284952"
+    }
+  ]
+}

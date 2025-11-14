@@ -1,0 +1,33 @@
+{
+  "series": "1001 Nights",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/yEr23ZTYkz5cv3aSdLvlzuI3thI.jpg",
+  "season": 2,
+  "episode": 20,
+  "episode_title": "Episode 20",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/yEr23ZTYkz5cv3aSdLvlzuI3thI.jpg",
+  "episode_card_thumbnail": "https://toonstream.love/wp-content/themes/torofilm/public/img/cnt/noimg-episode.png",
+  "episode_list_thumbnail": "https://toonstream.love/wp-content/themes/torofilm/public/img/cnt/noimg-episode.png",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/lyMfDFBoYw"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/cn1qgz7"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/y1q7cok"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/txon3m6"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/wad6njp5mK4e/"
+    }
+  ]
+}

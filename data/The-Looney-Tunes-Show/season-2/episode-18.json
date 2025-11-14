@@ -1,0 +1,33 @@
+{
+  "series": "The Looney Tunes Show",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/zZuQ4RHiy52r6EyXOT4AwmBroZQ.jpg",
+  "season": 2,
+  "episode": 18,
+  "episode_title": "Episode 18",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/zZuQ4RHiy52r6EyXOT4AwmBroZQ.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/lTMep64LdrwkfCMNiL9JQvibCyM.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/lTMep64LdrwkfCMNiL9JQvibCyM.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/YwqouhYvB"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/qszyyp2"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/j1kqpcs"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/u0pwtgo"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/VoDB18H9DNhT/"
+    }
+  ]
+}

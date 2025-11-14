@@ -1,0 +1,41 @@
+{
+  "series": "Gods' Game We Play",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/m47Ziq5bcYcOiaiIpFEnoQhySYY.jpg",
+  "season": 1,
+  "episode": 9,
+  "episode_title": "Episode 9",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/m47Ziq5bcYcOiaiIpFEnoQhySYY.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/wvimWdwrMrYRYshlbpuzV344sEi.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/wvimWdwrMrYRYshlbpuzV344sEi.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/96U393b5jxrQ/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/htxxwsmdkgp7.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://short.icu/KTBItyY5q"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/ygy5waf"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/e453ef0"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/r5gpqej"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/3147da8ab4a0437c15ef51a5cc7f2dc4"
+    }
+  ]
+}

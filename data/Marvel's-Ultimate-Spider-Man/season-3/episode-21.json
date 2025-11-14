@@ -1,0 +1,21 @@
+{
+  "series": "Marvel's Ultimate Spider-Man",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/ye6H7F8kKTd3betEfyGpuVD549a.jpg",
+  "season": 3,
+  "episode": 21,
+  "episode_title": "Episode 21",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/ye6H7F8kKTd3betEfyGpuVD549a.jpg",
+  "episode_card_thumbnail": "https://toonstream.love/wp-content/themes/torofilm/public/img/cnt/noimg-episode.png",
+  "episode_list_thumbnail": "https://toonstream.love/wp-content/themes/torofilm/public/img/cnt/noimg-episode.png",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/y6i3ZkDZqvrh/"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/ebad33b3c9fa1d10327bb55f9e79e2f3"
+    }
+  ]
+}

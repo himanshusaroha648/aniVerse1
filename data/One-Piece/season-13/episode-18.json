@@ -1,0 +1,25 @@
+{
+  "series": "One Piece",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/dum1wnm6kJOUos0XJqjB8s2UWi9.jpg",
+  "season": 13,
+  "episode": 18,
+  "episode_title": "Episode 18",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/dum1wnm6kJOUos0XJqjB8s2UWi9.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/xUoPG5lSTyEAvqSZgh8qzT6PtXU.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/xUoPG5lSTyEAvqSZgh8qzT6PtXU.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://rubystm.com/e/qlp3uzgbefg5.html"
+    },
+    {
+      "option": 2,
+      "real_video": "https://strmup.to/HIcMyOKkrGNO"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/IcLFr0nZWXaP/"
+    }
+  ]
+}

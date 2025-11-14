@@ -1,0 +1,25 @@
+{
+  "series": "Oddballs",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/cCJ60PDEXgavJ1vxWAjW1PMuZd6.jpg",
+  "season": 1,
+  "episode": 2,
+  "episode_title": "Episode 2",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/cCJ60PDEXgavJ1vxWAjW1PMuZd6.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/jijB5J7AJcUU2XrWg1lfnIppkKL.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/jijB5J7AJcUU2XrWg1lfnIppkKL.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://watchsb.com/e/rind670c0wsk.html"
+    },
+    {
+      "option": 2,
+      "real_video": "https://filepress.online/video/634d850a5a3afb64cb837241"
+    },
+    {
+      "option": null,
+      "real_video": "https://filemoon.to/e/zw0q4awmbc84/_Toonhub4u__Oddballs_Season_1_Episode_2_Dual_Audio__Hindi_-_Eng__1080p_HD.mp4"
+    }
+  ]
+}

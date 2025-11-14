@@ -1,0 +1,49 @@
+{
+  "series": "One-Punch Man Muse india",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/uT8TZ9U9jsj5druZiHsm3zgVWtW.jpg",
+  "season": 1,
+  "episode": 10,
+  "episode_title": "Episode 10",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/uT8TZ9U9jsj5druZiHsm3zgVWtW.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/AbWf8PdF1stcXiOwQXCAP7qGo8u.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/AbWf8PdF1stcXiOwQXCAP7qGo8u.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/FLZLQTW854D7/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/Gmcp81AJX"
+    },
+    {
+      "option": 3,
+      "real_video": "https://rubystm.com/e/rddw4svrn1vu.html"
+    },
+    {
+      "option": 4,
+      "real_video": "https://cloudy.upns.one/#rqbxeu"
+    },
+    {
+      "option": 5,
+      "real_video": "https://cloudy.upns.one/#rqbxeu"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/ezemgod"
+    },
+    {
+      "option": 7,
+      "real_video": "https://gdmirrorbot.nl/embed/ae2eqra"
+    },
+    {
+      "option": 8,
+      "real_video": "https://emturbovid.com/t/6814a5db5fa87"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/1b08a97dde5acb38d5f12178452125eb"
+    }
+  ]
+}

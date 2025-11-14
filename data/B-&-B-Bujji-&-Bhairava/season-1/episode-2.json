@@ -1,0 +1,33 @@
+{
+  "series": "B & B: Bujji & Bhairava",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/10asomsbajzVy2NePfRipyC1Bgv.jpg",
+  "season": 1,
+  "episode": 2,
+  "episode_title": "Episode 2",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/10asomsbajzVy2NePfRipyC1Bgv.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/eDZ9ANStrVHnVMhEzdjcIi5aXUQ.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/eDZ9ANStrVHnVMhEzdjcIi5aXUQ.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://rubystm.com/embed-e01bvty4k6vb.html"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/UT4cwqkyE"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/hmghbeh"
+    },
+    {
+      "option": 4,
+      "real_video": "https://animedekho.net/moly.php?url=hdnwjig7l1p0"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/uFHkfFX2Nzjg/"
+    }
+  ]
+}

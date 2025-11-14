@@ -1,0 +1,41 @@
+{
+  "series": "Log Horizon",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/vrCAD2KvtGJPwABIPd4z0gChi4g.jpg",
+  "season": 1,
+  "episode": 24,
+  "episode_title": "Episode 24",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/vrCAD2KvtGJPwABIPd4z0gChi4g.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/4TQTgNwTI00cfyjJC2W4vLPQF84.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/4TQTgNwTI00cfyjJC2W4vLPQF84.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/nUkU5rbMgx4W/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/jzg017glozy5.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://short.icu/3CVbfEd5d"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/xrt6u1z"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/xsa35f8"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/nxrm494"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/a5a61717dddc3501cfdf7a4e22d7dbaa"
+    }
+  ]
+}

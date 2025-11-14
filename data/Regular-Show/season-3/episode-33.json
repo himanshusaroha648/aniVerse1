@@ -1,0 +1,33 @@
+{
+  "series": "Regular Show",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/mS5SLxMYcKfUxA0utBSR5MOAWWr.jpg",
+  "season": 3,
+  "episode": 33,
+  "episode_title": "Episode 33",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/mS5SLxMYcKfUxA0utBSR5MOAWWr.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/nElHveV3UlZTAZBngAJq3dhIU1Y.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/nElHveV3UlZTAZBngAJq3dhIU1Y.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/ICdokRhGs"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/ajgmwtl"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/wf0hm5a"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/qqlnfq2"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/J09RmhemST5Y/"
+    }
+  ]
+}

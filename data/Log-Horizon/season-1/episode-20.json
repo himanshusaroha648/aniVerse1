@@ -1,0 +1,41 @@
+{
+  "series": "Log Horizon",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/vrCAD2KvtGJPwABIPd4z0gChi4g.jpg",
+  "season": 1,
+  "episode": 20,
+  "episode_title": "Episode 20",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/vrCAD2KvtGJPwABIPd4z0gChi4g.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/zNZGmwZebxvWim7daQh8vlhkHvR.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/zNZGmwZebxvWim7daQh8vlhkHvR.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/BS4YEjtKlKan/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/92kpl88kcw45.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://short.icu/b8uXzrsNJ"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/mypgujx"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/vljw680"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/jhl9xr0"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/093b60fd0557804c8ba0cbf1453da22f"
+    }
+  ]
+}

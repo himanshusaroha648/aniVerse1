@@ -1,0 +1,41 @@
+{
+  "series": "BARTENDER Glass of God",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/cObB9SbQEAURJ3Ghbt2E6Hlbbv1.jpg",
+  "season": 1,
+  "episode": 8,
+  "episode_title": "Episode 8",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/cObB9SbQEAURJ3Ghbt2E6Hlbbv1.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/5SUlnBcGKFAgTXbn2conRHL2D7N.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/5SUlnBcGKFAgTXbn2conRHL2D7N.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/6YYUOw6AudTa/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/embed-szsprhbwdyc9.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://short.icu/Yk-u5lJT0"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/w1hy22x"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/ygi78bi"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/di4611t"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/5a794da4f056dcd732eb706e9ef991d7"
+    }
+  ]
+}

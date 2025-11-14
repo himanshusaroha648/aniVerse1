@@ -1,0 +1,53 @@
+{
+  "series": "Fairy Tail",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/inIVJlVRcE0sui79vFvWAeV0NGU.jpg",
+  "season": 1,
+  "episode": 44,
+  "episode_title": "Episode 44",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/inIVJlVRcE0sui79vFvWAeV0NGU.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/vlZjrVsyoWxe7uloAYTVt9Pkwiz.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/vlZjrVsyoWxe7uloAYTVt9Pkwiz.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/cQaVOYnnlVjU/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/puNP3_XzR"
+    },
+    {
+      "option": 3,
+      "real_video": "https://rubystm.com/e/0sr1iljpu0lv.html"
+    },
+    {
+      "option": 4,
+      "real_video": "https://cloudy.upns.one/#qdpdu"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/nfwit05"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/p8qzv4s"
+    },
+    {
+      "option": 7,
+      "real_video": "https://gdmirrorbot.nl/embed/gt9esek"
+    },
+    {
+      "option": 8,
+      "real_video": "https://emturbovid.com/t/67a62c249aeab"
+    },
+    {
+      "option": 9,
+      "real_video": "https://raretoonsindia.co/ex/V301CNwBTVB7a8R"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/60bb8062ea8e0c7ff17bb2e484cd223a"
+    }
+  ]
+}

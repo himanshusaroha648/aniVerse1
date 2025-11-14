@@ -1,0 +1,33 @@
+{
+  "series": "The Perils of Penelope Pitstop",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/tEyhRt3ZlBdrIV03pdiK0OW4oZD.jpg",
+  "season": 1,
+  "episode": 14,
+  "episode_title": "Episode 14",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/tEyhRt3ZlBdrIV03pdiK0OW4oZD.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/2pppQD25AXAIFAuhAoGb5MYlX7g.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/2pppQD25AXAIFAuhAoGb5MYlX7g.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/uYUVxY7IW"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/aurh8e9"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/auw7fjy"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/zqt3ql9"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/tEEN7wVinyAt/"
+    }
+  ]
+}

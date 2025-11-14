@@ -1,0 +1,37 @@
+{
+  "series": "BoBoiBoy",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/zRZ1Y90mhKXrLDYnnfJf4By8hca.jpg",
+  "season": 3,
+  "episode": 18,
+  "episode_title": "Episode 18",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/zRZ1Y90mhKXrLDYnnfJf4By8hca.jpg",
+  "episode_card_thumbnail": "https://toonstream.love/wp-content/themes/torofilm/public/img/cnt/noimg-episode.png",
+  "episode_list_thumbnail": "https://toonstream.love/wp-content/themes/torofilm/public/img/cnt/noimg-episode.png",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/hlKdyqJwkwaR/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/CkuvzRede"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/e4p6cpw"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/tye7xzk"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/ljvpx85"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/43cca4b3de2097b9558efefd0ecc3588"
+    }
+  ]
+}

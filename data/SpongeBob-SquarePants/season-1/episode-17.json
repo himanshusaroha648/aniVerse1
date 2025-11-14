@@ -1,0 +1,33 @@
+{
+  "series": "SpongeBob SquarePants",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/amvtZgiTty0GHIgD56gpouBWrcy.jpg",
+  "season": 1,
+  "episode": 17,
+  "episode_title": "Episode 17",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/amvtZgiTty0GHIgD56gpouBWrcy.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/7RxhWJPDRhbu7GES50CZZbuZKOS.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/7RxhWJPDRhbu7GES50CZZbuZKOS.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/QQv7LlYtI"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/q3mpena"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/n7a0n9n"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/ackx1kf"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/hCgYazzmDonk/"
+    }
+  ]
+}

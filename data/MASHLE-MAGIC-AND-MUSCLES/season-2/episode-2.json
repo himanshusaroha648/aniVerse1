@@ -1,0 +1,57 @@
+{
+  "series": "MASHLE: MAGIC AND MUSCLES",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/dzCABR0joqtA0flLYpWAXc8mML1.jpg",
+  "season": 2,
+  "episode": 2,
+  "episode_title": "Episode 2",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/dzCABR0joqtA0flLYpWAXc8mML1.jpg",
+  "episode_card_thumbnail": "https://www.themoviedb.org/t/p/original/7pBC1KCjYtQu3wt1X356E0S6auO.jpg",
+  "episode_list_thumbnail": "https://www.themoviedb.org/t/p/original/7pBC1KCjYtQu3wt1X356E0S6auO.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://play.zephyrflick.top/video/19d47109e3c9e2c1423eac228aff27d1"
+    },
+    {
+      "option": 2,
+      "real_video": "https://vidstreaming.xyz/v/I8bQLcKJkacC/"
+    },
+    {
+      "option": 3,
+      "real_video": "https://short.icu/sly9FKfv9"
+    },
+    {
+      "option": 4,
+      "real_video": "https://rubystm.com/e/7pwjzffmbeg9.html"
+    },
+    {
+      "option": 5,
+      "real_video": "https://cloudy.upns.one/#8q1yj"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/lyjfmgp"
+    },
+    {
+      "option": 7,
+      "real_video": "https://gdmirrorbot.nl/embed/e6ygzb6"
+    },
+    {
+      "option": 8,
+      "real_video": "https://gdmirrorbot.nl/embed/fyna12p"
+    },
+    {
+      "option": 9,
+      "real_video": "https://emturbovid.com/t/67b196e10bf97"
+    },
+    {
+      "option": 10,
+      "real_video": "https://raretoonsindia.co/ex/euAfI6lkrBP3MDp"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/edd47ba7fa1bbff38973841c9cd0733c"
+    }
+  ]
+}

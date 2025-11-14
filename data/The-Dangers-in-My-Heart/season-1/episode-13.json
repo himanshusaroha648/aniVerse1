@@ -1,0 +1,37 @@
+{
+  "series": "The Dangers in My Heart",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/mKhMmREBOKXtp3tlv9rnLRxZec5.jpg",
+  "season": 1,
+  "episode": 13,
+  "episode_title": "Episode 13",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/mKhMmREBOKXtp3tlv9rnLRxZec5.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/50x5nPSmlKRqeiuvIOrUkUIlLS8.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/50x5nPSmlKRqeiuvIOrUkUIlLS8.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/9ZHraMt37"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/nxryur6"
+    },
+    {
+      "option": 3,
+      "real_video": "https://vidstreaming.xyz/v/a1PcmyGm8yzL/"
+    },
+    {
+      "option": 4,
+      "real_video": "https://short.icu/g4NEyDn_w"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/igcgraw"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/d3ofZjkzgwrB/"
+    }
+  ]
+}

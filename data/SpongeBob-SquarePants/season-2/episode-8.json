@@ -1,0 +1,33 @@
+{
+  "series": "SpongeBob SquarePants",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/amvtZgiTty0GHIgD56gpouBWrcy.jpg",
+  "season": 2,
+  "episode": 8,
+  "episode_title": "Episode 8",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/amvtZgiTty0GHIgD56gpouBWrcy.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/kLtuLG4aOQhwTXab1kfxN746OYC.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/kLtuLG4aOQhwTXab1kfxN746OYC.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/9kAhoqOS3"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/yh7tmiq"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/upg7tgm"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/u01dyup"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/MkQnkGXKDSau/"
+    }
+  ]
+}

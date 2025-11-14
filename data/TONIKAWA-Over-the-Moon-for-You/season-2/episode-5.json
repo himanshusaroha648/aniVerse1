@@ -1,0 +1,21 @@
+{
+  "series": "TONIKAWA: Over the Moon for You",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/jJKTrIfZKoFV66HGMzSa4tkObK0.jpg",
+  "season": 2,
+  "episode": 5,
+  "episode_title": "Episode 5",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/jJKTrIfZKoFV66HGMzSa4tkObK0.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/r1QSFTj8jVkn0jIztxV1eNZ3kqH.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/r1QSFTj8jVkn0jIztxV1eNZ3kqH.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/sfWouUPYA"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/070towaxkdQQ/"
+    }
+  ]
+}

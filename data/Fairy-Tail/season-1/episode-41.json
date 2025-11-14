@@ -1,0 +1,53 @@
+{
+  "series": "Fairy Tail",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/inIVJlVRcE0sui79vFvWAeV0NGU.jpg",
+  "season": 1,
+  "episode": 41,
+  "episode_title": "Episode 41",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/inIVJlVRcE0sui79vFvWAeV0NGU.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/hi6u3i48MdDxsQSmXHUmuH8lPkc.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/hi6u3i48MdDxsQSmXHUmuH8lPkc.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/zJo8EEU3yHY7/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/ALV_dmmqK"
+    },
+    {
+      "option": 3,
+      "real_video": "https://rubystm.com/e/qrembg2zqg42.html"
+    },
+    {
+      "option": 4,
+      "real_video": "https://cloudy.upns.one/#opsfr"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/b12wvbf"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/ovkunmu"
+    },
+    {
+      "option": 7,
+      "real_video": "https://gdmirrorbot.nl/embed/hpz7uhb"
+    },
+    {
+      "option": 8,
+      "real_video": "https://emturbovid.com/t/67a241c84cdb8"
+    },
+    {
+      "option": 9,
+      "real_video": "https://raretoonsindia.co/ex/lOY1eJ20NclJRsN"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/b93f11867481fc6d77908aea58ba6198"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "series": "Fire Force",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/GXPzNvuDGzWikMEduV99kocohn.jpg",
+  "season": 1,
+  "episode": 7,
+  "episode_title": "Episode 7",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/GXPzNvuDGzWikMEduV99kocohn.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/124ZSqCAPZnrBW35brkVuK0DURQ.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/124ZSqCAPZnrBW35brkVuK0DURQ.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/PP9hSHANaQu8/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/Xb1nxbvcx"
+    },
+    {
+      "option": 3,
+      "real_video": "https://rubystm.com/e/qxb6deihi444.html"
+    },
+    {
+      "option": 4,
+      "real_video": "https://cloudy.upns.one/#vlcpy"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/czcmnkv"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/ryg756u"
+    },
+    {
+      "option": 7,
+      "real_video": "https://gdmirrorbot.nl/embed/om5btdy"
+    },
+    {
+      "option": 8,
+      "real_video": "https://emturbovid.com/t/677225e829212"
+    },
+    {
+      "option": 9,
+      "real_video": "https://raretoonsindia.co/ex/jXEJz6Ro6d0A8MX"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/e18cfe46b96c30852b565e561152d055"
+    }
+  ]
+}

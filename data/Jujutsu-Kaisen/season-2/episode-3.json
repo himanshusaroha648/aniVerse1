@@ -1,0 +1,53 @@
+{
+  "series": "Jujutsu Kaisen",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/3yFHMtdhriig4sm1w8oMQfA2gFN.jpg",
+  "season": 2,
+  "episode": 3,
+  "episode_title": "Episode 3",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/3yFHMtdhriig4sm1w8oMQfA2gFN.jpg",
+  "episode_card_thumbnail": "https://i.imgur.com/kh44TG4.jpg",
+  "episode_list_thumbnail": "https://i.imgur.com/kh44TG4.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://rubystm.com/e/143beo8jpyti.html"
+    },
+    {
+      "option": 2,
+      "real_video": "https://multimovies.cloud/e/kkejv8fjdpm6"
+    },
+    {
+      "option": 3,
+      "real_video": "https://filemoon.to/e/q1gu31nua16f/Toonhub4u_Jujutsu_Kaisen_S02E03_Multi-Audio_Hin-Tam-Eng-Jap_480p_WEB-DL_ESubs"
+    },
+    {
+      "option": 4,
+      "real_video": "https://filelions.online/v/cyjcd8m1kz5x"
+    },
+    {
+      "option": 5,
+      "real_video": "https://vidstreaming.xyz/v/kavgixu7kUHd/"
+    },
+    {
+      "option": 6,
+      "real_video": "https://vidstreaming.xyz/v/2PDaUbHNxheQ/"
+    },
+    {
+      "option": 7,
+      "real_video": "https://rubystm.com/e/0gsfoua20k7a.html"
+    },
+    {
+      "option": 8,
+      "real_video": "https://vidmoly.me/w/07838cws9lsp"
+    },
+    {
+      "option": 9,
+      "real_video": "https://short.icu/iczovaGDt"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/0ZKBbDUKayfw/"
+    }
+  ]
+}

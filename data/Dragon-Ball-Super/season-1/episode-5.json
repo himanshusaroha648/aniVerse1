@@ -1,0 +1,41 @@
+{
+  "series": "Dragon Ball Super",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/qEUrbXJ2qt4Rg84Btlx4STOhgte.jpg",
+  "season": 1,
+  "episode": 5,
+  "episode_title": "Episode 5",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/qEUrbXJ2qt4Rg84Btlx4STOhgte.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/x7zkqoFkEs4llfNW6iturv2b7kv.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/x7zkqoFkEs4llfNW6iturv2b7kv.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/gSqE3_7dp"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/d2ikt39yqzym.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#elwe9m"
+    },
+    {
+      "option": 4,
+      "real_video": "https://strmup.to/zn0NOMFeskqRW"
+    },
+    {
+      "option": 5,
+      "real_video": "https://turbovidhls.com/t/68b5867a294fc"
+    },
+    {
+      "option": 6,
+      "real_video": "https://vidmoly.net/embed-cbexzw7t8cgg.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/a33f5792b2a9a51ddd0111b3ac6e0e76"
+    }
+  ]
+}

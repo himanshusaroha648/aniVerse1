@@ -1,0 +1,41 @@
+{
+  "series": "Why Does Nobody Remember Me in This World?",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/mApkJSbqgQ4jctizNxY6efFpL4e.jpg",
+  "season": 1,
+  "episode": 11,
+  "episode_title": "Episode 11",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/mApkJSbqgQ4jctizNxY6efFpL4e.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/uspqQPEa5fMrgJ4PT2dYjVI9aEO.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/uspqQPEa5fMrgJ4PT2dYjVI9aEO.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/eST3pA13WBJO/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/h1SL88hCO"
+    },
+    {
+      "option": 3,
+      "real_video": "https://rubystm.com/e/v54zvsiqyeq8.html"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/s8nux84"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/c4yp6l3"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/g3xclaf"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/c8cbd669cfb2f016574e9d147092b5bb"
+    }
+  ]
+}

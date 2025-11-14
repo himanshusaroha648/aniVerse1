@@ -1,0 +1,45 @@
+{
+  "series": "Tottemo! Luckyman",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/ojOOavQH2rNWNhG5NAw2l76czQJ.jpg",
+  "season": 1,
+  "episode": 36,
+  "episode_title": "Episode 36",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/ojOOavQH2rNWNhG5NAw2l76czQJ.jpg",
+  "episode_card_thumbnail": "https://toonstream.love/wp-content/themes/torofilm/public/img/cnt/noimg-episode.png",
+  "episode_list_thumbnail": "https://toonstream.love/wp-content/themes/torofilm/public/img/cnt/noimg-episode.png",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/qssmPa5m1"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/6nozqysthdyy.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#le1ex"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/ak0871p"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/llihi46"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/mlbk7qi"
+    },
+    {
+      "option": 7,
+      "real_video": "https://emturbovid.com/t/6774c904a1fd8"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/rzBnhbw7laPv/"
+    }
+  ]
+}

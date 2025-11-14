@@ -1,0 +1,53 @@
+{
+  "series": "Naruto",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/vauCEnR7CiyBDzRCeElKkCaXIYu.jpg",
+  "season": 4,
+  "episode": 42,
+  "episode_title": "Episode 42",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/vauCEnR7CiyBDzRCeElKkCaXIYu.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/3U8fFBDxJCgSh4b5XClwgTwLuh7.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/3U8fFBDxJCgSh4b5XClwgTwLuh7.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/WsQKaDFae"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/v1skysa"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/fw59v1d"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/osnshl4"
+    },
+    {
+      "option": 5,
+      "real_video": "https://rubystm.com/e/4kxz23cbfrd2.html"
+    },
+    {
+      "option": 6,
+      "real_video": "https://cloudy.upns.one/#3a86yv"
+    },
+    {
+      "option": 7,
+      "real_video": "https://strmup.to/e6RFXT5nktd40"
+    },
+    {
+      "option": 8,
+      "real_video": "https://emturbovid.com/t/68e49ce4d43fb"
+    },
+    {
+      "option": 9,
+      "real_video": "https://vidmoly.net/embed-pky3rv5ku7h0.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/0353ab4cbed5beae847a7ff6e220b5cf"
+    }
+  ]
+}

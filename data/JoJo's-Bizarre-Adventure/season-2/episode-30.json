@@ -1,0 +1,41 @@
+{
+  "series": "JoJo's Bizarre Adventure",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/kX9noqY0YpOPKwXpRXYg1hEIqmM.jpg",
+  "season": 2,
+  "episode": 30,
+  "episode_title": "Episode 30",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/kX9noqY0YpOPKwXpRXYg1hEIqmM.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/mKGaC0WiexoA4Jd2nUFFhFOqgHf.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/mKGaC0WiexoA4Jd2nUFFhFOqgHf.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/gdgcQ1B3CWaf/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/ypW7RoxnD"
+    },
+    {
+      "option": 3,
+      "real_video": "https://rubystm.com/e/y3dyih0eqeub.html"
+    },
+    {
+      "option": 4,
+      "real_video": "https://cloudy.upns.one/#iszj6r"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/tn5e1ml"
+    },
+    {
+      "option": 6,
+      "real_video": "https://emturbovid.com/t/684676dca5d63"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/785a4b39ca0768ebd5be9064105f0705"
+    }
+  ]
+}

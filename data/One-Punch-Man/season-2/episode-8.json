@@ -1,0 +1,37 @@
+{
+  "series": "One Punch Man",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/iE3s0lG5QVdEHOEZnoAxjmMtvne.jpg",
+  "season": 2,
+  "episode": 8,
+  "episode_title": "Episode 8",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/iE3s0lG5QVdEHOEZnoAxjmMtvne.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/tGKbogDzxuL8KlHOkYm6yKlUzFU.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/tGKbogDzxuL8KlHOkYm6yKlUzFU.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/i2x-cnh9t"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/ms9zxt51pb4e.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#r8zv3b"
+    },
+    {
+      "option": 4,
+      "real_video": "https://strmup.to/QFsMfq1uNtvcg"
+    },
+    {
+      "option": 5,
+      "real_video": "https://emturbovid.com/t/68774af736bed"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/aZmQZNKCPTaH/"
+    }
+  ]
+}

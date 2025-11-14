@@ -1,0 +1,41 @@
+{
+  "series": "Code Geass: Lelouch of the Rebellion",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/nF0qzl8jfQYxynra99WrC1zFq4C.jpg",
+  "season": 1,
+  "episode": 14,
+  "episode_title": "Episode 14",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/nF0qzl8jfQYxynra99WrC1zFq4C.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/m3Q7UYVBqbmyz4RtFWtdGGApnrX.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/m3Q7UYVBqbmyz4RtFWtdGGApnrX.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/ChDLEObHO3lf/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/2kg2y05n9pd4.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://short.icu/KMqDXqkTS"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/tvxe81d"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/j4ga6vq"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/aw5tjhb"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/6ef07f927172f6d48f2e72d606a03713"
+    }
+  ]
+}

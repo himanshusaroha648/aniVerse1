@@ -1,0 +1,33 @@
+{
+  "series": "Perman",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/lCGbsqKiOvRICllC4AgZ67zjrSL.jpg",
+  "season": 1,
+  "episode": 18,
+  "episode_title": "Episode 18",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/lCGbsqKiOvRICllC4AgZ67zjrSL.jpg",
+  "episode_card_thumbnail": "https://toonstream.love/wp-content/themes/torofilm/public/img/cnt/noimg-episode.png",
+  "episode_list_thumbnail": "https://toonstream.love/wp-content/themes/torofilm/public/img/cnt/noimg-episode.png",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://rubystm.com/e/pnum0vjxu3mc.html"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/sx06k63"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/enq25se"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/uh8ai4f"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/L3DWMB93hA70/"
+    }
+  ]
+}

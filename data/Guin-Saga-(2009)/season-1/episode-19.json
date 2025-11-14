@@ -1,0 +1,53 @@
+{
+  "series": "Guin Saga (2009)",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/4bipHVo1teci5N8dc0pe0VO5UHm.jpg",
+  "season": 1,
+  "episode": 19,
+  "episode_title": "Episode 19",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/4bipHVo1teci5N8dc0pe0VO5UHm.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/cKqyub832xTsxuaZcAVz6TgjN5G.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/cKqyub832xTsxuaZcAVz6TgjN5G.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/uqmRm-LEc"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/iw3hb1ejjp2a.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#6sjx9n"
+    },
+    {
+      "option": 4,
+      "real_video": "https://strmup.to/4Xd8M2xZ3sLSf"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/nadfl7k"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/wf9u77f"
+    },
+    {
+      "option": 7,
+      "real_video": "https://gdmirrorbot.nl/embed/xsml17c"
+    },
+    {
+      "option": 8,
+      "real_video": "https://emturbovid.com/t/68627573ce7d4"
+    },
+    {
+      "option": 9,
+      "real_video": "https://vidmoly.net/embed-em630zk7u180.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/7a8a0b08bff8239baac63e9de08b5402"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "series": "Ben 10: Omniverse",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/Re9I5tauOspaJxYCIqRqavKT4F.jpg",
+  "season": 4,
+  "episode": 1,
+  "episode_title": "Episode 1",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/Re9I5tauOspaJxYCIqRqavKT4F.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/mEw8xumzMprygulTfHM4WYNiriv.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/mEw8xumzMprygulTfHM4WYNiriv.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/h1fErvL4D"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/ymvn3dk0gqfq.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/6CXQlk2ZxOCU/"
+    }
+  ]
+}

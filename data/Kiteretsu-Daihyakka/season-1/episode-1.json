@@ -1,0 +1,37 @@
+{
+  "series": "Kiteretsu Daihyakka",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/icTY9mQcyjzinblLnkdQR7CWgPa.jpg",
+  "season": 1,
+  "episode": 1,
+  "episode_title": "Episode 1",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/icTY9mQcyjzinblLnkdQR7CWgPa.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/hz8CqSph8m6ICuWIp9e2I4o5OVS.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/hz8CqSph8m6ICuWIp9e2I4o5OVS.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://rubystm.com/e/64crerzcluda.html"
+    },
+    {
+      "option": 2,
+      "real_video": "https://cloudy.upns.one/#ghzi1j"
+    },
+    {
+      "option": 3,
+      "real_video": "https://strmup.to/AWsRKVwF1GucU"
+    },
+    {
+      "option": 4,
+      "real_video": "https://turbovidhls.com/t/68c00f3c30a60"
+    },
+    {
+      "option": 5,
+      "real_video": "https://vidmoly.net/embed-b56p7dqemz8q.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://short.icu/S7l46-xgJ"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "series": "One Piece",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/dum1wnm6kJOUos0XJqjB8s2UWi9.jpg",
+  "season": 21,
+  "episode": 91,
+  "episode_title": "Episode 91",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/dum1wnm6kJOUos0XJqjB8s2UWi9.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/ma7NIr0pWXb9SILqjfZZkKDEKm4.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/ma7NIr0pWXb9SILqjfZZkKDEKm4.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/8zciSSZ58iZt/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/AYKS_UNLX"
+    },
+    {
+      "option": 3,
+      "real_video": "https://rubystm.com/e/l27iahyrzjze.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/Ud7VaMVQvtxa/"
+    }
+  ]
+}

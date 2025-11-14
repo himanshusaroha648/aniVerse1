@@ -1,0 +1,25 @@
+{
+  "series": "Ultraman Z",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/9xE0tlBJjWZNjY7BbY0fRaNCe9p.jpg",
+  "season": 1,
+  "episode": 3,
+  "episode_title": "Episode 3",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/9xE0tlBJjWZNjY7BbY0fRaNCe9p.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/4kJfGJkCI4fVZBr2CSkmzqofXLa.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/4kJfGJkCI4fVZBr2CSkmzqofXLa.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://streamsb.net/e/6fjxosxbflgj.html"
+    },
+    {
+      "option": 2,
+      "real_video": "https://filemoon.to/e/feqe0jvc8bsg/_Toonhub4u__Ultraman_Z_Episode_3_in_Multi_Audio_480p.mp4"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/e4oUKKDDhxTX/"
+    }
+  ]
+}

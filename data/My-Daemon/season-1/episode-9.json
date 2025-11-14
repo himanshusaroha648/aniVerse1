@@ -1,0 +1,37 @@
+{
+  "series": "My Daemon",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/5bWTE3CwBM6z8lew9BPykujeNwG.jpg",
+  "season": 1,
+  "episode": 9,
+  "episode_title": "Episode 9",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/5bWTE3CwBM6z8lew9BPykujeNwG.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/oiRXEmC4FexHlvRNoZABLHrNcBu.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/oiRXEmC4FexHlvRNoZABLHrNcBu.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://rubystm.come/w2qa45252u75.html"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/Rwmj-g_vf"
+    },
+    {
+      "option": 3,
+      "real_video": "https://multimovies.cloud/e/5ina4u2azpxb"
+    },
+    {
+      "option": 4,
+      "real_video": "https://filemoon.to/e/ju1gnulv5xu5/Toonhub4u_My_Daemon_S01E09_480p_NF_WEB-DL_Multi_Audio_ESub"
+    },
+    {
+      "option": 5,
+      "real_video": "https://filelions.online/v/39jx01p6py93"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/hmkbGcmI1G5R/"
+    }
+  ]
+}

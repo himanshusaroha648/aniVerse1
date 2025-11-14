@@ -1,0 +1,53 @@
+{
+  "series": "A Wild Last Boss Appeared!",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/6DVVjBh6XKMYbNe50u39x03o4Jj.jpg",
+  "season": 1,
+  "episode": 3,
+  "episode_title": "Episode 3",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/6DVVjBh6XKMYbNe50u39x03o4Jj.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/9OOeOSXfqtxf6X7faz5vyGEojj1.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/9OOeOSXfqtxf6X7faz5vyGEojj1.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/2mvH1pqcW"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/h8npy0i6rzc5.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#xepot9"
+    },
+    {
+      "option": 4,
+      "real_video": "https://strmup.to/IKO01pBblDTQi"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/hswcro7"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/w5d2gnp"
+    },
+    {
+      "option": 7,
+      "real_video": "https://gdmirrorbot.nl/embed/f9pzo6l"
+    },
+    {
+      "option": 8,
+      "real_video": "https://emturbovid.com/t/6906445dc7d65"
+    },
+    {
+      "option": 9,
+      "real_video": "https://vidmoly.net/embed-0969r4apkavy.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/44a59c1d9ff9b07e68ccf0903d4806d5"
+    }
+  ]
+}

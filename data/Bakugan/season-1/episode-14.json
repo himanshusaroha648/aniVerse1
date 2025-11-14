@@ -1,0 +1,33 @@
+{
+  "series": "Bakugan",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/lg6QqCdvZOZM7EWf9zFJL12EsKv.jpg",
+  "season": 1,
+  "episode": 14,
+  "episode_title": "Episode 14",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/lg6QqCdvZOZM7EWf9zFJL12EsKv.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/xuyS5xDy58iFAb2uygnqBi1UfZe.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/xuyS5xDy58iFAb2uygnqBi1UfZe.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/uekzOsj0_"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/fyp3yvt"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/wey5nfg"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/id858q5"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/GlYdhzMfHC2J/"
+    }
+  ]
+}

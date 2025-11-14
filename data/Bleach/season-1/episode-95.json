@@ -1,0 +1,25 @@
+{
+  "series": "Bleach",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
+  "season": 1,
+  "episode": 95,
+  "episode_title": "Episode 95",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/gXhRnO9QNsxvzCWY78sTi6lglmF.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/gXhRnO9QNsxvzCWY78sTi6lglmF.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/K5VnqlCQg"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/ket0yw2"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/oxQiNvLp5edA/"
+    }
+  ]
+}

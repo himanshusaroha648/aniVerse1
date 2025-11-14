@@ -1,0 +1,25 @@
+{
+  "series": "My Wife Has No Emotion (Eng Sub)",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/ttaknfJP0qjg7kMKwH0w29fcE6d.jpg",
+  "season": 1,
+  "episode": 9,
+  "episode_title": "Episode 9",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/ttaknfJP0qjg7kMKwH0w29fcE6d.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/vv4Fm7BwVXirmjEvt0YqaMSpIa9.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/vv4Fm7BwVXirmjEvt0YqaMSpIa9.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/hT7CzRsaM"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/sv2o9gl"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/mUna8kN29q5z/"
+    }
+  ]
+}

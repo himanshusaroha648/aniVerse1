@@ -1,0 +1,37 @@
+{
+  "series": "Hunter x Hunter",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/ucpgmUR1h5Te1BYegKItoPjOeF7.jpg",
+  "season": 1,
+  "episode": 42,
+  "episode_title": "Episode 42",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/ucpgmUR1h5Te1BYegKItoPjOeF7.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/6BejwIjXKOawFKSDF6jpGRuCC39.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/6BejwIjXKOawFKSDF6jpGRuCC39.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://rubystm.com/e/uhzy6tq3lkvm.html"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/mEjW2HbX8u"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/cw5dj7g"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/wsij0q6"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/vshpmje"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/YMBaatIhDfXo/"
+    }
+  ]
+}

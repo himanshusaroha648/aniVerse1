@@ -1,0 +1,53 @@
+{
+  "series": "Rurouni Kenshin",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/jCMbKOH4iootEBXNa5e4jKoeTSU.jpg",
+  "season": 1,
+  "episode": 11,
+  "episode_title": "Episode 11",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/jCMbKOH4iootEBXNa5e4jKoeTSU.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/wgXB3MCpHDTcQ8GJ34aESQn6IZY.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/wgXB3MCpHDTcQ8GJ34aESQn6IZY.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/EdbVDa36xpup/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/ka3v0g8y7ozz.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://multimovies.cloud/e/9xdsz3i4v4cu"
+    },
+    {
+      "option": 4,
+      "real_video": "https://filemoon.to/e/3b28daqjy3li/Toonhub4u_Rurouni_Kenshin_2023_S01E11_720p_HD_WEB-DL_Dual_Audio_ESub"
+    },
+    {
+      "option": 5,
+      "real_video": "https://filelions.online/v/uhg6ye2l5wok"
+    },
+    {
+      "option": 6,
+      "real_video": "https://short.icu/aGfi2p4d2"
+    },
+    {
+      "option": 7,
+      "real_video": "https://gdmirrorbot.nl/embed/yp894qs"
+    },
+    {
+      "option": 8,
+      "real_video": "https://gdmirrorbot.nl/embed/waloteu"
+    },
+    {
+      "option": 9,
+      "real_video": "https://gdmirrorbot.nl/embed/vegrgho"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/db2b4182156b2f1f817860ac9f409ad7"
+    }
+  ]
+}

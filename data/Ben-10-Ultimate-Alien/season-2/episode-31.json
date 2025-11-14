@@ -1,0 +1,33 @@
+{
+  "series": "Ben 10: Ultimate Alien",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/n4KwrlUKO9S4GvOdZzmnz4zOxx7.jpg",
+  "season": 2,
+  "episode": 31,
+  "episode_title": "Episode 31",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/n4KwrlUKO9S4GvOdZzmnz4zOxx7.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/jGeblo4TuT5qfFQ5qxwFVYeQsDA.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/jGeblo4TuT5qfFQ5qxwFVYeQsDA.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/0zjWiQsax"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/embed-pt4151qzq8ye.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/zy0b6jk"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/pazv1aj"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/VtQajvSQQ1FU/"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "series": "In Another World with My Smartphone (Eng-Jap)",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/xlXdtc8QfwALtJW1o4UwRLt31Qy.jpg",
+  "season": 2,
+  "episode": 7,
+  "episode_title": "Episode 7",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/xlXdtc8QfwALtJW1o4UwRLt31Qy.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/84AQx4SpB84418lfMR1QXdE3dCZ.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/84AQx4SpB84418lfMR1QXdE3dCZ.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/PpL4Yj4Nd"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/e3kk4zw"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/0YW4GJPYwFuO/"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "series": "A Salad Bowl of Eccentrics",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/98YXik8PxInfxO2qw8Lo48PrvCh.jpg",
+  "season": 1,
+  "episode": 10,
+  "episode_title": "Episode 10",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/98YXik8PxInfxO2qw8Lo48PrvCh.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/1jWJu59di15Fp8qkkRm1eE6XOrp.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/1jWJu59di15Fp8qkkRm1eE6XOrp.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/9Y27uhJHIf7W/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/embed-x0fg2o7zmu2p.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://short.icu/1qUbsjjql"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/jxkd22x"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/tlxmngi"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/gl5c24r"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/a4267159aa970aa5a6542bcbb7ef575e"
+    }
+  ]
+}

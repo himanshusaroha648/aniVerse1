@@ -1,0 +1,45 @@
+{
+  "series": "One Piece Wano Arc",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/uiIB9ctqZFbfRXXimtpmZb5dusi.jpg",
+  "season": 1,
+  "episode": 48,
+  "episode_title": "Episode 48",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/uiIB9ctqZFbfRXXimtpmZb5dusi.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/fM2lMSUMAKej9ZzrKJh96gvszCb.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/fM2lMSUMAKej9ZzrKJh96gvszCb.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/ct4SEEYb1"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/ve5ddtxv4uxb.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#ddkm8"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/zm4akts"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/pskcjjz"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/pyg3gy5"
+    },
+    {
+      "option": 7,
+      "real_video": "https://emturbovid.com/t/67bb335adf6a1"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/P627c7gq5Zwn/"
+    }
+  ]
+}

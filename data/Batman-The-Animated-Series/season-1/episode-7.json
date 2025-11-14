@@ -1,0 +1,33 @@
+{
+  "series": "Batman: The Animated Series",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/lBomQFW1vlm1yUYMNSbFZ45R4Ox.jpg",
+  "season": 1,
+  "episode": 7,
+  "episode_title": "Episode 7",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/lBomQFW1vlm1yUYMNSbFZ45R4Ox.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/m2e5kCmUkbC7KxvqVRd1NWnAiGs.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/m2e5kCmUkbC7KxvqVRd1NWnAiGs.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://rubystm.com/embed-ksrvoa76csds.html"
+    },
+    {
+      "option": 2,
+      "real_video": "https://wishfast.top/e/ufx24negzfen"
+    },
+    {
+      "option": 3,
+      "real_video": "https://filemoon.to/e/0ai2wk7cq2bc/Toonhub4u_Batman_TAS_S01E07_480p_BluRay_Multi_Audio_ESub"
+    },
+    {
+      "option": 4,
+      "real_video": "https://filelions.online/v/y8jy20cijsma"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/FzrHCWMoVSKt/"
+    }
+  ]
+}

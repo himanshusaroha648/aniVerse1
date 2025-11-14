@@ -1,0 +1,29 @@
+{
+  "series": "Tokyo Revengers",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/arB3L9pZZBSzUPSC8BEv8c3X0bF.jpg",
+  "season": 1,
+  "episode": 35,
+  "episode_title": "Episode 35",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/arB3L9pZZBSzUPSC8BEv8c3X0bF.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/wgV2RCDBcqyT6QEg8gChITrIlnM.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/wgV2RCDBcqyT6QEg8gChITrIlnM.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://rubystm.com/e/h918j788jynz.html"
+    },
+    {
+      "option": 2,
+      "real_video": "https://strmup.to/2rt65J9ocRMa"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#r8x1rw"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/wYvnGNJfQVeR/"
+    }
+  ]
+}

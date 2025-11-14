@@ -1,0 +1,41 @@
+{
+  "series": "Delicious in Dungeon",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/saveaoAwq632sDlppmhEIjNOpC.jpg",
+  "season": 1,
+  "episode": 9,
+  "episode_title": "Episode 9",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/saveaoAwq632sDlppmhEIjNOpC.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/spQd1fcZMcYX6ZSbHE4cHAiwrse.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/spQd1fcZMcYX6ZSbHE4cHAiwrse.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/IaRbKUgFPjg3/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/m2qbbhpchevz.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://short.icu/yGKaP0ImO"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/dygtjav"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/ir0mapw"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/ax5jw47"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/ad0efad9dd0abaec4b8f9aaa489ec2f1"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "series": "Ronja the Robber's Daughter",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/pTnFZlLettuek3T9nSDQv1MAfjL.jpg",
+  "season": 1,
+  "episode": 13,
+  "episode_title": "Episode 13",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/pTnFZlLettuek3T9nSDQv1MAfjL.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/zeFEefG7iL6EcicWZJaol63BCQO.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/zeFEefG7iL6EcicWZJaol63BCQO.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://rubystm.com/e/r9iest97wd1s.html"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/ws9pdlf"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/dkf1lt0"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/xy5dwwx"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/Y5zJ81wxvvdZ/"
+    }
+  ]
+}

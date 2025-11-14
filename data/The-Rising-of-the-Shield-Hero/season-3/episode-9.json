@@ -1,0 +1,37 @@
+{
+  "series": "The Rising of the Shield Hero",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/yjq2n0agGJfmZQ9NpbYIhuBofcq.jpg",
+  "season": 3,
+  "episode": 9,
+  "episode_title": "Episode 9",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/yjq2n0agGJfmZQ9NpbYIhuBofcq.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/se3qM16oCkehRfwq8ZenrH3TjKN.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/se3qM16oCkehRfwq8ZenrH3TjKN.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://rubystm.com/e/ssrp14w9loy4.html"
+    },
+    {
+      "option": 2,
+      "real_video": "https://cloudy.upns.one/#ildvvd"
+    },
+    {
+      "option": 3,
+      "real_video": "https://strmup.to/Bm325OwiWYMc8"
+    },
+    {
+      "option": 4,
+      "real_video": "https://turbovidhls.com/t/690f015942e19"
+    },
+    {
+      "option": 5,
+      "real_video": "https://vidmoly.net/embed-d70pxpedz9rv.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://short.icu/4GVbhLR1p"
+    }
+  ]
+}

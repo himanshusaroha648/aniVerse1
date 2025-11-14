@@ -1,0 +1,33 @@
+{
+  "series": "Perman",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/lCGbsqKiOvRICllC4AgZ67zjrSL.jpg",
+  "season": 1,
+  "episode": 1,
+  "episode_title": "Episode 1",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/lCGbsqKiOvRICllC4AgZ67zjrSL.jpg",
+  "episode_card_thumbnail": "https://toonstream.love/wp-content/themes/torofilm/public/img/cnt/noimg-episode.png",
+  "episode_list_thumbnail": "https://toonstream.love/wp-content/themes/torofilm/public/img/cnt/noimg-episode.png",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://rubystm.com/e/spz2jdif9vzv.html"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/mzczwsn"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/ytijewz"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/dyhyhf6"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/irKX2PT8XNz7/"
+    }
+  ]
+}

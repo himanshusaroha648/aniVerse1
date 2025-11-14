@@ -1,0 +1,33 @@
+{
+  "series": "Scooby-Doo! Mystery Incorporated",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/mu8zU2jQfPbGO5bC6RHYrSypxUd.jpg",
+  "season": 1,
+  "episode": 5,
+  "episode_title": "Episode 5",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/mu8zU2jQfPbGO5bC6RHYrSypxUd.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/nnqfBCX2g9Frkx43Rl6hpUSFH9M.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/nnqfBCX2g9Frkx43Rl6hpUSFH9M.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/f0_SUpeB1"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/hdujtnd"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/dad0ogn"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/n1koeax"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/Xc7OBuGK1GSX/"
+    }
+  ]
+}

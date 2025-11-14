@@ -1,0 +1,41 @@
+{
+  "series": "Dragon Ball Super",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/qEUrbXJ2qt4Rg84Btlx4STOhgte.jpg",
+  "season": 1,
+  "episode": 82,
+  "episode_title": "Episode 82",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/qEUrbXJ2qt4Rg84Btlx4STOhgte.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/uzq7KJmFi1YdenK5RLsxhRVo9fb.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/uzq7KJmFi1YdenK5RLsxhRVo9fb.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/f9kWdwXM3"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/phdmxemw9sxd.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#me5ex5"
+    },
+    {
+      "option": 4,
+      "real_video": "https://strmup.to/QucozC7KvLIEl"
+    },
+    {
+      "option": 5,
+      "real_video": "https://turbovidhls.com/t/68b692ca27c26"
+    },
+    {
+      "option": 6,
+      "real_video": "https://vidmoly.net/embed-9tw0p4o8g408.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/4fdaa19b1f22a4d926fce9bfc7c61fa5"
+    }
+  ]
+}

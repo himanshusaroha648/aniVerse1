@@ -1,0 +1,33 @@
+{
+  "series": "Justice League",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/caIAQIoM9NLZofT8fz8t47W1gYe.jpg",
+  "season": 1,
+  "episode": 6,
+  "episode_title": "Episode 6",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/caIAQIoM9NLZofT8fz8t47W1gYe.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/ajl3WLEBDElnW1jFTn5BDeqyQB0.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/ajl3WLEBDElnW1jFTn5BDeqyQB0.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/LA0tgMomd2"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/hllzpdb"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/oqcox41"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/rdp921x"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/fjDaHjCjf1tD/"
+    }
+  ]
+}

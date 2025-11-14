@@ -1,0 +1,33 @@
+{
+  "series": "SpongeBob SquarePants",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/amvtZgiTty0GHIgD56gpouBWrcy.jpg",
+  "season": 2,
+  "episode": 11,
+  "episode_title": "Episode 11",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/amvtZgiTty0GHIgD56gpouBWrcy.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/lVCWmHlyf9VR8PMXaWXufphMuW0.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/lVCWmHlyf9VR8PMXaWXufphMuW0.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/LEm92yUB2"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/pa3wcl6"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/i4powy3"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/b2k68ny"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/RqOaBSncxbG0/"
+    }
+  ]
+}

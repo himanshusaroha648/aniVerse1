@@ -1,0 +1,25 @@
+{
+  "series": "Ben 10",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/pT0NlYVIkwM2zAw9oUkePwrOlxW.jpg",
+  "season": 3,
+  "episode": 3,
+  "episode_title": "Episode 3",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/pT0NlYVIkwM2zAw9oUkePwrOlxW.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/1TjotPjGQodwAeJu7aQl5r8BVOf.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/1TjotPjGQodwAeJu7aQl5r8BVOf.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://filemoon.to/e/7fulnprrni6h/_Toonhub4u__S03E03-_Ben_10_-_A_Change_of_Face_Multi_Audio_720p.mkv"
+    },
+    {
+      "option": 2,
+      "real_video": "https://streamsb.net/e/lfifkacuuoqk.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/CJqAU1NYz7Xo/"
+    }
+  ]
+}

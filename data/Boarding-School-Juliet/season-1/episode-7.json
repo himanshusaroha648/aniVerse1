@@ -1,0 +1,21 @@
+{
+  "series": "Boarding School Juliet",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/lArjqSSSaSP5LOQO9shgn9HsuLB.jpg",
+  "season": 1,
+  "episode": 7,
+  "episode_title": "Episode 7",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/lArjqSSSaSP5LOQO9shgn9HsuLB.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/gx6EmHJNkkblEk6HGNFRfLH7ZlI.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/gx6EmHJNkkblEk6HGNFRfLH7ZlI.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/OiTR8ms0i"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/YMota5gunMmd/"
+    }
+  ]
+}

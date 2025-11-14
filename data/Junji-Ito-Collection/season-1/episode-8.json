@@ -1,0 +1,41 @@
+{
+  "series": "Junji Ito Collection",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/umJEelwoLi3x123sbJ9pMTPA5Lt.jpg",
+  "season": 1,
+  "episode": 8,
+  "episode_title": "Episode 8",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/umJEelwoLi3x123sbJ9pMTPA5Lt.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/1JlDDcSa2cVRlBpyNnkVYaRgmQO.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/1JlDDcSa2cVRlBpyNnkVYaRgmQO.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/duooHA90JUfe/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/6u9c154zuu41.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://short.icu/BggJRZt4R"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/xf74m7g"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/wqpmnsa"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/uk0r9md"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/0a3df70393993583a13c0dd6686f3f32"
+    }
+  ]
+}

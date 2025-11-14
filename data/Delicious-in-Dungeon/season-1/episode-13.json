@@ -1,0 +1,41 @@
+{
+  "series": "Delicious in Dungeon",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/saveaoAwq632sDlppmhEIjNOpC.jpg",
+  "season": 1,
+  "episode": 13,
+  "episode_title": "Episode 13",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/saveaoAwq632sDlppmhEIjNOpC.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/1JcBVB2rsqZK4ky0FfquGOSrQwC.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/1JcBVB2rsqZK4ky0FfquGOSrQwC.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/JAkRlFHawT5b/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/njcbx6er2dlb.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://short.icu/ac_CjX9c0"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/zpr2uyc"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/bpk6f4h"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/h507yl9"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/d9de6a144a3cc26cb4b3c47b206a121a"
+    }
+  ]
+}

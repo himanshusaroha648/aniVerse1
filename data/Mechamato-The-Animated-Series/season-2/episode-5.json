@@ -1,0 +1,33 @@
+{
+  "series": "Mechamato The Animated Series",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/1rkM4tLoNKC33sLVyAWgogZGo3B.jpg",
+  "season": 2,
+  "episode": 5,
+  "episode_title": "Episode 5",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/1rkM4tLoNKC33sLVyAWgogZGo3B.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/sjXTcbF9qzzoZPwJAFNBN5ugSkJ.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/sjXTcbF9qzzoZPwJAFNBN5ugSkJ.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/4qbOFxF8L"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/ed5s6kf"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/e3838fn"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/gnul2ru"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/nRAze8bPhTyZ/"
+    }
+  ]
+}

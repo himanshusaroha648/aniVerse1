@@ -1,0 +1,53 @@
+{
+  "series": "Naruto Shippūden",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/rXD6lcg6zhRE8NDRVlQPNkViC3s.jpg",
+  "season": 8,
+  "episode": 18,
+  "episode_title": "Episode 18",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/rXD6lcg6zhRE8NDRVlQPNkViC3s.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/pnMtDhkrrvEjYhIYvnpu1V0uZox.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/pnMtDhkrrvEjYhIYvnpu1V0uZox.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/9O4BVhVDv"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/yttmxdk"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/jszit9h"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/cwzjbw4"
+    },
+    {
+      "option": 5,
+      "real_video": "https://rubystm.com/e/1oyt47dh0v9b.html"
+    },
+    {
+      "option": 6,
+      "real_video": "https://cloudy.upns.one/#85jjkh"
+    },
+    {
+      "option": 7,
+      "real_video": "https://strmup.to/p2fNjScolY4W6"
+    },
+    {
+      "option": 8,
+      "real_video": "https://turbovidhls.com/t/68e5204bad1b2"
+    },
+    {
+      "option": 9,
+      "real_video": "https://vidmoly.net/embed-9dmzyfzypid9.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/a9a1d5317a33ae8cef33961c34144f84"
+    }
+  ]
+}

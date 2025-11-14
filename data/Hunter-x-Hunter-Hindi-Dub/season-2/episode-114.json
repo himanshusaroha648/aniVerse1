@@ -1,0 +1,53 @@
+{
+  "series": "Hunter x Hunter Hindi Dub",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/9dubj2UQ2xJkzT1AEng6DaGRvLa.jpg",
+  "season": 2,
+  "episode": 114,
+  "episode_title": "Hunter x Hunter Hindi Dub 2x114 - Toonstream",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/9dubj2UQ2xJkzT1AEng6DaGRvLa.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/xXH3Lv4QkrkZh9uGkB3rCgiYlXx.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/xXH3Lv4QkrkZh9uGkB3rCgiYlXx.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/q4jdw0l92b3o.html"
+    },
+    {
+      "option": 4,
+      "real_video": "https://strmup.to/sKNqdgUvTja20"
+    },
+    {
+      "option": 1,
+      "real_video": "https://short.icu/17EuVwqze"
+    },
+    {
+      "option": 7,
+      "real_video": "https://gdmirrorbot.nl/embed/odmmv8r"
+    },
+    {
+      "option": 8,
+      "real_video": "https://emturbovid.com/t/6908ccb011634"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/fonu0hb"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/pn9rmlb"
+    },
+    {
+      "option": 9,
+      "real_video": "https://vidmoly.net/embed-30mhk12e4ql5.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/4dda1a5c7be4a1472c1d136f1cd568f6"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#6pu9zj"
+    }
+  ]
+}

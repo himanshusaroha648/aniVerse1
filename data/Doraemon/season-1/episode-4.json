@@ -1,0 +1,21 @@
+{
+  "series": "Doraemon",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/bHMqPDsW7Lb71CVHXq4PuEvQ4NY.jpg",
+  "season": 1,
+  "episode": 4,
+  "episode_title": "Episode 4",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/bHMqPDsW7Lb71CVHXq4PuEvQ4NY.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/m0zMCahtIX8LSmVpRuYKKUvebv2.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/m0zMCahtIX8LSmVpRuYKKUvebv2.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/FArNp7cd4bwI/"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/36452e720502e4da486d2f9f6b48a7bb"
+    }
+  ]
+}

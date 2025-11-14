@@ -1,0 +1,25 @@
+{
+  "series": "The Girl Downstairs Eng Sub",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/8uO9UNjikqQU1BsFrodVVGVvzpe.jpg",
+  "season": 1,
+  "episode": 4,
+  "episode_title": "Episode 4",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/8uO9UNjikqQU1BsFrodVVGVvzpe.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/QXmAxiwwm9c8WNE975oP3lg1rR.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/QXmAxiwwm9c8WNE975oP3lg1rR.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/mnBH06WFM"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/qd06jt4"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/UaY2k3YULXDI/"
+    }
+  ]
+}

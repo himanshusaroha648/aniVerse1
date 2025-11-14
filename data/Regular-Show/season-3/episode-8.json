@@ -1,0 +1,33 @@
+{
+  "series": "Regular Show",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/mS5SLxMYcKfUxA0utBSR5MOAWWr.jpg",
+  "season": 3,
+  "episode": 8,
+  "episode_title": "Episode 8",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/mS5SLxMYcKfUxA0utBSR5MOAWWr.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/pTY3xzuGDHKo3SUaWncQZHKDLWj.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/pTY3xzuGDHKo3SUaWncQZHKDLWj.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/s9pAkDy-k"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/aljq0yt"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/o1iagua"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/n12fgay"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/qYtB0oah67vi/"
+    }
+  ]
+}

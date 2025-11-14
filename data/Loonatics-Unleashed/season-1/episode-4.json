@@ -1,0 +1,25 @@
+{
+  "series": "Loonatics Unleashed",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/oHGY83FvCpMqBGjftalcBzI6tIx.jpg",
+  "season": 1,
+  "episode": 4,
+  "episode_title": "Episode 4",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/oHGY83FvCpMqBGjftalcBzI6tIx.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/oEBEltRX0U7SihisE9uOxSiryDb.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/oEBEltRX0U7SihisE9uOxSiryDb.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://rubystm.come/8p2nhrehlcws.html"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/erwv6UVL5"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/uP7A0Od0VSvI/"
+    }
+  ]
+}

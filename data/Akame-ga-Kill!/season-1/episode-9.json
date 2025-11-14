@@ -1,0 +1,21 @@
+{
+  "series": "Akame ga Kill!",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/3c5BIEfAhTCWrIi4C8WMuwOl6bX.jpg",
+  "season": 1,
+  "episode": 9,
+  "episode_title": "Episode 9",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/3c5BIEfAhTCWrIi4C8WMuwOl6bX.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/pOWYgJPsI8e3vOu3748QcGT7UI7.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/pOWYgJPsI8e3vOu3748QcGT7UI7.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/aGxs1-xOA"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/MrladZRPgE8g/"
+    }
+  ]
+}

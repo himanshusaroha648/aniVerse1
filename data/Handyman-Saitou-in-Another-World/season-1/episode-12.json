@@ -1,0 +1,41 @@
+{
+  "series": "Handyman Saitou in Another World",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/xp404PMU2cGsODMTIkkUizbYhcm.jpg",
+  "season": 1,
+  "episode": 12,
+  "episode_title": "Episode 12",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/xp404PMU2cGsODMTIkkUizbYhcm.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/3dXSYqkggPQw1CFsnmQbjHeDBvN.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/3dXSYqkggPQw1CFsnmQbjHeDBvN.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/De9vYTMKrCh5/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/49z7jriyh51r.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://short.icu/AxsNhvX2I"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/no550k8"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/k74fa99"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/evmm256"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/9dc603ead062664055f36b11fe0cad61"
+    }
+  ]
+}

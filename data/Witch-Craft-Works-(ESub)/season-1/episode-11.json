@@ -1,0 +1,25 @@
+{
+  "series": "Witch Craft Works (ESub)",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/elt434eNLMhZQBM0tPu4mUkPqGo.jpg",
+  "season": 1,
+  "episode": 11,
+  "episode_title": "Episode 11",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/elt434eNLMhZQBM0tPu4mUkPqGo.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/sKPDmW52wSB4deLnUFQKa9xXEJ2.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/sKPDmW52wSB4deLnUFQKa9xXEJ2.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/8c8TNBz7I"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/n3pd1wv"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/ml8br2r9DfbJ/"
+    }
+  ]
+}

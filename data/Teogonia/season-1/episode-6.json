@@ -1,0 +1,33 @@
+{
+  "series": "Teogonia",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/zGHrnnFc0p5Pf25qUaAv95JpnJC.jpg",
+  "season": 1,
+  "episode": 6,
+  "episode_title": "Episode 6",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/zGHrnnFc0p5Pf25qUaAv95JpnJC.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/e7SQCSdk6Gi6tPkDwFFlaaGjtOw.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/e7SQCSdk6Gi6tPkDwFFlaaGjtOw.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/_V7I5k6Vz"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/4r6t79jpve79.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#8t93vl"
+    },
+    {
+      "option": 4,
+      "real_video": "https://emturbovid.com/t/6844056fcd5bf"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/f01287d4b412a2b16ec4a40af48d7c69"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "series": "Phineas and Ferb",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/oSLwJMOOQGAsyJNMi4Y3MO44iAJ.jpg",
+  "season": 4,
+  "episode": 8,
+  "episode_title": "Episode 8",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/oSLwJMOOQGAsyJNMi4Y3MO44iAJ.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/n70sJvfWliMU6OiO4vyJhW5qOPW.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/n70sJvfWliMU6OiO4vyJhW5qOPW.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/9rDicUUSvJhu/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/ZqDxo6uYF"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/440924c5948e05070663f88e69e8242b"
+    }
+  ]
+}

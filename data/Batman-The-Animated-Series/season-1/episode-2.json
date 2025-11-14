@@ -1,0 +1,33 @@
+{
+  "series": "Batman: The Animated Series",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/lBomQFW1vlm1yUYMNSbFZ45R4Ox.jpg",
+  "season": 1,
+  "episode": 2,
+  "episode_title": "Episode 2",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/lBomQFW1vlm1yUYMNSbFZ45R4Ox.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/kTLD5SHb8O4oFTw9CffqPpIGnon.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/kTLD5SHb8O4oFTw9CffqPpIGnon.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://rubystm.com/embed-o6pccuoxv9y7.html"
+    },
+    {
+      "option": 2,
+      "real_video": "https://wishfast.top/e/4wut57p6egh7"
+    },
+    {
+      "option": 3,
+      "real_video": "https://filemoon.to/e/8qvj0gj26b60/Toonhub4u_Batman_TAS_S01E02_480p_BluRay_Multi_Audio_ESub"
+    },
+    {
+      "option": 4,
+      "real_video": "https://filelions.online/v/mmqt8v0iuix7"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/RR7KarjCleoH/"
+    }
+  ]
+}

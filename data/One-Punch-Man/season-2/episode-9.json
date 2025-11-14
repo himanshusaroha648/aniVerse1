@@ -1,0 +1,33 @@
+{
+  "series": "One Punch Man",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/iE3s0lG5QVdEHOEZnoAxjmMtvne.jpg",
+  "season": 2,
+  "episode": 9,
+  "episode_title": "Episode 9",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/iE3s0lG5QVdEHOEZnoAxjmMtvne.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/on2YtDbgc6KdbKpRy2DFHShRZP3.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/on2YtDbgc6KdbKpRy2DFHShRZP3.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/QYVyGNHs8"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/jppsoplg8krm.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#meo9sr"
+    },
+    {
+      "option": 4,
+      "real_video": "https://emturbovid.com/t/68774af8b0f24"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/rXVqkGZLP3GA/"
+    }
+  ]
+}

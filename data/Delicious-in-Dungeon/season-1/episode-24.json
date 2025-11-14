@@ -1,0 +1,41 @@
+{
+  "series": "Delicious in Dungeon",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/saveaoAwq632sDlppmhEIjNOpC.jpg",
+  "season": 1,
+  "episode": 24,
+  "episode_title": "Episode 24",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/saveaoAwq632sDlppmhEIjNOpC.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/hKLQ0x4YBVQrERA7Du4I4vajqi6.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/hKLQ0x4YBVQrERA7Du4I4vajqi6.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/hw5PvdhSWLy3/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/zgqhd00hjpmd.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://short.icu/crbedo9-q"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/aktuf1i"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/w2quwzg"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/ebv0rw5"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/0fb94b5238b785967da7765e33a7d8aa"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "series": "Ninja Hattori Returns",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/gt0jlGyGW11Q1HQ7AtFAvioKOV9.jpg",
+  "season": 3,
+  "episode": 7,
+  "episode_title": "Episode 7",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/gt0jlGyGW11Q1HQ7AtFAvioKOV9.jpg",
+  "episode_card_thumbnail": "https://akamai-images-content.com/gqeig2nkmrl2_t.jpg?nocache=1&r=5bco80",
+  "episode_list_thumbnail": "https://akamai-images-content.com/gqeig2nkmrl2_t.jpg?nocache=1&r=5bco80",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://watchsb.com/e/gqeig2nkmrl2.html"
+    },
+    {
+      "option": 2,
+      "real_video": "https://filepress.online/video/6358a4fd7cb0d53a1de85f0e"
+    },
+    {
+      "option": null,
+      "real_video": "https://filemoon.to/e/uthjakdj3vfm/_Toonhub4u__Ninja_Hattori_Returns__40_2012_41__Season_1_Episode_7_Multi_Audio_720p_HD.mp4"
+    }
+  ]
+}

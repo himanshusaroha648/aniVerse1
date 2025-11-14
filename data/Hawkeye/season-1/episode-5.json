@@ -1,0 +1,41 @@
+{
+  "series": "Hawkeye",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/pqzjCxPVc9TkVgGRWeAoMmyqkZV.jpg",
+  "season": 1,
+  "episode": 5,
+  "episode_title": "Episode 5",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/pqzjCxPVc9TkVgGRWeAoMmyqkZV.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/oaDRxEaBGVFqYyc4ycbyLRstZ1F.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/oaDRxEaBGVFqYyc4ycbyLRstZ1F.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://filemoon.to/e/7vhmq67ltxbu/Hawkeye.S01E05.1080p.WEBRip.Multi.6CH.HEVC-AWI__240___Hindi_.mkv.mp4"
+    },
+    {
+      "option": 2,
+      "real_video": "https://filemoon.to/e/i1wm47tt9g76/Hawkeye.S01E05.1080p.WEBRip.Multi.6CH.HEVC-AWI__241___Tamil_.mkv.mp4"
+    },
+    {
+      "option": 3,
+      "real_video": "https://filemoon.to/e/e20qc0gwpt4y/Hawkeye.S01E05.1080p.WEBRip.Multi.6CH.HEVC-AWI__242___Telugu_.mkv.mp4"
+    },
+    {
+      "option": 4,
+      "real_video": "https://filemoon.to/e/b6c7b6qxaukh/Hawkeye.S01E05.1080p.WEBRip.Multi.6CH.HEVC-AWI__243___English_.mkv.mp4"
+    },
+    {
+      "option": 5,
+      "real_video": "https://filemoon.to/e/kqeyl501ncm0/KissTamilAnime.com_-_Hawkeye_S01_EP_05_Ronin_TRUE_WEB-DL_-_720p_-_HEVC_-__DD-5.1_-_192Kbps___Tam-Tel-Hin-Mal-Eng__-_MSub.mkv"
+    },
+    {
+      "option": 6,
+      "real_video": "https://watchsb.com/e/2hpbh92vxsc5.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/depwejaECi6D/"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "series": "New Saga",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/dmZ74VyWi3I8ZqJ1m3Fmcc1etgp.jpg",
+  "season": 1,
+  "episode": 7,
+  "episode_title": "Episode 7",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/dmZ74VyWi3I8ZqJ1m3Fmcc1etgp.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/kcr3ll9ViQipacDF3kQJKBnbrUg.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/kcr3ll9ViQipacDF3kQJKBnbrUg.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/JCQ5Gburf"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/insrh3a7lzpp.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#cv9ico"
+    },
+    {
+      "option": 4,
+      "real_video": "https://strmup.to/3nGZKic9SXRsV"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/mhz3rhx"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/annual0"
+    },
+    {
+      "option": 7,
+      "real_video": "https://gdmirrorbot.nl/embed/b2l37ey"
+    },
+    {
+      "option": 8,
+      "real_video": "https://emturbovid.com/t/68b9026a4256c"
+    },
+    {
+      "option": 9,
+      "real_video": "https://vidmoly.net/embed-dkjtiknor3bv.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/484a22444687f29ddf8764bf82c1a9c0"
+    }
+  ]
+}

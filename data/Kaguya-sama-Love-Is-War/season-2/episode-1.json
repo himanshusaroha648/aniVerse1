@@ -1,0 +1,21 @@
+{
+  "series": "Kaguya-sama: Love Is War",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/5khbC6AuNgnvnoDbjIMKCOhEtIc.jpg",
+  "season": 2,
+  "episode": 1,
+  "episode_title": "Episode 1",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/5khbC6AuNgnvnoDbjIMKCOhEtIc.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/yP0oI0VMQoiFKdIUHFKyLoqMy2k.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/yP0oI0VMQoiFKdIUHFKyLoqMy2k.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/WZU2cUAhP"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/cmUg5vCZD6QS/"
+    }
+  ]
+}

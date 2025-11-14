@@ -1,0 +1,49 @@
+{
+  "series": "Tying the Knot with an Amagami Sister",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/scTpJbYRDdMl2CgpwJHBJUy3XZe.jpg",
+  "season": 1,
+  "episode": 12,
+  "episode_title": "Episode 12",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/scTpJbYRDdMl2CgpwJHBJUy3XZe.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/pLkpBjHLbNuMYU3tLsDwrPzsgAk.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/pLkpBjHLbNuMYU3tLsDwrPzsgAk.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/N1gJzaIa86cc/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/lnWFwFU3q"
+    },
+    {
+      "option": 3,
+      "real_video": "https://rubystm.com/e/td8kybyb8svj.html"
+    },
+    {
+      "option": 4,
+      "real_video": "https://cloudy.upns.one/#eawta"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/cd3u3dq"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/rho4qao"
+    },
+    {
+      "option": 7,
+      "real_video": "https://gdmirrorbot.nl/embed/gy0ople"
+    },
+    {
+      "option": 8,
+      "real_video": "https://emturbovid.com/t/677e9d2896abd"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/77b917da760ab9aeca583fd0bb0e1c67"
+    }
+  ]
+}

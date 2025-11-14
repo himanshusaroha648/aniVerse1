@@ -1,0 +1,17 @@
+{
+  "series": "Sofia the First",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/AjtUB1siU3hvqNEA85VLOmuXu2I.jpg",
+  "season": 1,
+  "episode": 25,
+  "episode_title": "Episode 25",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/AjtUB1siU3hvqNEA85VLOmuXu2I.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/bM8AJGQfmUNQT1O6gggLC5cfZQ2.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/bM8AJGQfmUNQT1O6gggLC5cfZQ2.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/SwxIc4Uaz5xP/"
+    }
+  ]
+}

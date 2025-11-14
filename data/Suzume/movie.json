@@ -1,0 +1,44 @@
+{
+  "title": "Suzume",
+  "description": "Watch Suzume online for free in HD on ToonStream. Available in Hindi, Tamil, Telugu & More dubbed versions. Stream or Download now! Suzume, 17, lost her",
+  "release_year": 2022,
+  "genres": [
+    "Adventure",
+    "Animation",
+    "Anime Movies",
+    "Drama",
+    "Fantasy"
+  ],
+  "thumbnail": "https://image.tmdb.org/t/p/w185/vIeu8WysZrTSFb2uhPViKjX9EcC.jpg",
+  "movie_poster": "https://image.tmdb.org/t/p/w185/vIeu8WysZrTSFb2uhPViKjX9EcC.jpg",
+  "tmdb_id": null,
+  "tvdb_id": null,
+  "languages": [],
+  "url": "https://toonstream.love/movies/suzume/",
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/LBqfBOAOrH0c/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/embed-0yp6nv1mwbbf.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://short.icu/WlfBzpwqu"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/w2bxsb1"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/ymviqs4"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/hcd9pya"
+    }
+  ]
+}

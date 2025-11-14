@@ -1,0 +1,57 @@
+{
+  "series": "My Hero Academia",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/6yQKyw3BNw9kSKsP6SRrXqsUpNe.jpg",
+  "season": 1,
+  "episode": 11,
+  "episode_title": "Episode 11",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/6yQKyw3BNw9kSKsP6SRrXqsUpNe.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/soDtzvKUfazGMrwRYlI4yUBifK2.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/soDtzvKUfazGMrwRYlI4yUBifK2.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/ZZ5rxrvKq"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/aci0qwx8xvw3.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://blakiteapi.xyz/embed/65930/1-11"
+    },
+    {
+      "option": 4,
+      "real_video": "https://cloudy.upns.one/#h93ard"
+    },
+    {
+      "option": 5,
+      "real_video": "https://strmup.to/hFOe4nJmyfT05"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/xgmruw6"
+    },
+    {
+      "option": 7,
+      "real_video": "https://gdmirrorbot.nl/embed/w7reck1"
+    },
+    {
+      "option": 8,
+      "real_video": "https://gdmirrorbot.nl/embed/ipanldu"
+    },
+    {
+      "option": 9,
+      "real_video": "https://emturbovid.com/t/68930d33e7849"
+    },
+    {
+      "option": 10,
+      "real_video": "https://vidmoly.net/embed-j0fgvkbd9kvd.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/3baa271bc35fe054c86928f7016e8ae6"
+    }
+  ]
+}

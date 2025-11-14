@@ -1,0 +1,37 @@
+{
+  "series": "One Piece",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/dum1wnm6kJOUos0XJqjB8s2UWi9.jpg",
+  "season": 22,
+  "episode": 31,
+  "episode_title": "Episode 31",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/dum1wnm6kJOUos0XJqjB8s2UWi9.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/3Z3biYOj9qCLYX1qtorQAD7Qr6t.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/3Z3biYOj9qCLYX1qtorQAD7Qr6t.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/2dRx9J8ED"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/khmmaoe"
+    },
+    {
+      "option": 3,
+      "real_video": "https://vidstreaming.xyz/v/SC4KBHOH9f9C/"
+    },
+    {
+      "option": 4,
+      "real_video": "https://cloudy.upns.one/#x6anz8"
+    },
+    {
+      "option": 5,
+      "real_video": "https://rubystm.com/e/3609cut8a9ai.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/eFyD0WdeyRam/"
+    }
+  ]
+}

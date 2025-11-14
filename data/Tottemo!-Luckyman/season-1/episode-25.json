@@ -1,0 +1,41 @@
+{
+  "series": "Tottemo! Luckyman",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/ojOOavQH2rNWNhG5NAw2l76czQJ.jpg",
+  "season": 1,
+  "episode": 25,
+  "episode_title": "Episode 25",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/ojOOavQH2rNWNhG5NAw2l76czQJ.jpg",
+  "episode_card_thumbnail": "https://toonstream.love/wp-content/themes/torofilm/public/img/cnt/noimg-episode.png",
+  "episode_list_thumbnail": "https://toonstream.love/wp-content/themes/torofilm/public/img/cnt/noimg-episode.png",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/lC-0ZcEVs"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/4i1bjvwdje7m.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/bxunfaq"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/lj33673"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/t8fh2x2"
+    },
+    {
+      "option": 6,
+      "real_video": "https://emturbovid.com/t/67348064b3176"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/jtRuRTGE7auo/"
+    }
+  ]
+}

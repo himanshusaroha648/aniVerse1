@@ -1,0 +1,29 @@
+{
+  "series": "Ben 10",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/pT0NlYVIkwM2zAw9oUkePwrOlxW.jpg",
+  "season": 4,
+  "episode": 9,
+  "episode_title": "Episode 9",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/pT0NlYVIkwM2zAw9oUkePwrOlxW.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/cN6PeeTUeHIIqkTNVkmSE4bechl.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/cN6PeeTUeHIIqkTNVkmSE4bechl.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/JUNHXBXRhZVM/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://filemoon.to/e/hyr4z11sc2rh/_Toonhub4u__Ben_10__2005__S04E09_720p_HD_WEB-DL_Dual_Audio_ESub.mkv"
+    },
+    {
+      "option": 3,
+      "real_video": "https://streamsb.net/e/b4bwe264la9v.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/VaevZPaoodPG/"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "series": "Green Lantern: The Animated Series",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/qSSFP3va0q2WL2a2DzcdcjVe463.jpg",
+  "season": 1,
+  "episode": 3,
+  "episode_title": "Episode 3",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/qSSFP3va0q2WL2a2DzcdcjVe463.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/u1gywALXm223EHlYQ3dRJb8Ctj1.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/u1gywALXm223EHlYQ3dRJb8Ctj1.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/nDbkBlLOcv"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/yyic6db"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/gx4od73"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/i70vcej"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/ekmQXkaa5gAx/"
+    }
+  ]
+}

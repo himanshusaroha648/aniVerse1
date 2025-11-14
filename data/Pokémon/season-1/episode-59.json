@@ -1,0 +1,17 @@
+{
+  "series": "Pokémon",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/rOuGm07PxBhEsK9TaGPRQVJQm1X.jpg",
+  "season": 1,
+  "episode": 59,
+  "episode_title": "Episode 59",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/rOuGm07PxBhEsK9TaGPRQVJQm1X.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/sdNSOOQFPmWA4lh402xGs1fTuOX.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/sdNSOOQFPmWA4lh402xGs1fTuOX.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/T06ATH2p95GM/"
+    }
+  ]
+}

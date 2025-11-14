@@ -1,0 +1,33 @@
+{
+  "series": "Hyouka",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/dnYx8jtn2JzAMkVYRG9mFZMJoDc.jpg",
+  "season": 1,
+  "episode": 3,
+  "episode_title": "Episode 3",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/dnYx8jtn2JzAMkVYRG9mFZMJoDc.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/oZnIaHwXtLEPI2gGXAphp5Jp0kc.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/oZnIaHwXtLEPI2gGXAphp5Jp0kc.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/-KTvHdJAzKr"
+    },
+    {
+      "option": 2,
+      "real_video": "https://vidstreaming.xyz/v/xc5Qp4TUpnu7/"
+    },
+    {
+      "option": 3,
+      "real_video": "https://short.icu/KEmWwRBFb"
+    },
+    {
+      "option": 4,
+      "real_video": "https://vidstreaming.xyz/v/TMFa4HPGNuaf/"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/I1RLDDJM2RQV/"
+    }
+  ]
+}

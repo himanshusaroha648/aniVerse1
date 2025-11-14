@@ -1,0 +1,33 @@
+{
+  "series": "SpongeBob SquarePants",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/amvtZgiTty0GHIgD56gpouBWrcy.jpg",
+  "season": 2,
+  "episode": 9,
+  "episode_title": "Episode 9",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/amvtZgiTty0GHIgD56gpouBWrcy.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/6bu7BnKpU0O1JS3zWKJB3G38onM.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/6bu7BnKpU0O1JS3zWKJB3G38onM.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/ggYlTxevD"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/rryr5q3"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/opzuryt"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/ua95kvp"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/1qQfzcTPY4Iw/"
+    }
+  ]
+}

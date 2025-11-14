@@ -1,0 +1,37 @@
+{
+  "series": "She Professed Herself Pupil of the Wise Man",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/eDSsaZZVQD0rjrMazEIWrYUJHPk.jpg",
+  "season": 1,
+  "episode": 2,
+  "episode_title": "Episode 2",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/eDSsaZZVQD0rjrMazEIWrYUJHPk.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/tZ5fulepe2YznKLA0bD72Ul34bu.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/tZ5fulepe2YznKLA0bD72Ul34bu.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/4Kwqe9LlfFQ5/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/lslnkfczmomd.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://multimovies.cloud/e/jf8t4qdav447"
+    },
+    {
+      "option": 4,
+      "real_video": "https://filemoon.to/e/fu71z7xmyblu/Toonhub4u_She_Professed_Herself_Pupil_of_the_Wise_Man_S01E02_BDRip_480p_Multi_Audio_ESub"
+    },
+    {
+      "option": 5,
+      "real_video": "https://filelions.online/v/zqdwj4qkrvvo"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/75800f73fa80f935216b8cfbedf77bfa"
+    }
+  ]
+}

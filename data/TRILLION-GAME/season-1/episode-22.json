@@ -1,0 +1,49 @@
+{
+  "series": "TRILLION GAME",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/uDOZ9Qhrl7RXBKAAODWIQvlArUr.jpg",
+  "season": 1,
+  "episode": 22,
+  "episode_title": "Episode 22",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/uDOZ9Qhrl7RXBKAAODWIQvlArUr.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/58ZKD3CrT2LQGBwhDin2V2G8Cr3.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/58ZKD3CrT2LQGBwhDin2V2G8Cr3.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/VlPz8yb4LwgD/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/Ee9s-miwJ"
+    },
+    {
+      "option": 3,
+      "real_video": "https://rubystm.com/e/eezdi86l2xtc.html"
+    },
+    {
+      "option": 4,
+      "real_video": "https://cloudy.upns.one/#6hughh"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/qj7rn4f"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/vhm1wm2"
+    },
+    {
+      "option": 7,
+      "real_video": "https://gdmirrorbot.nl/embed/ox2p7e2"
+    },
+    {
+      "option": 8,
+      "real_video": "https://emturbovid.com/t/67e637d0bf716"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/b87546c7a8c2532d1c07c4399786f5ac"
+    }
+  ]
+}

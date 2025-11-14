@@ -1,0 +1,45 @@
+{
+  "series": "Good Bye, Dragon Life",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/g37MnOUoBedICbf4mdAo15czfiP.jpg",
+  "season": 1,
+  "episode": 4,
+  "episode_title": "Episode 4",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/g37MnOUoBedICbf4mdAo15czfiP.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/jcETTbwOPevzyTlUboCOfuirx1m.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/jcETTbwOPevzyTlUboCOfuirx1m.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/bubwQWONBhap/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/9IQyy25w0"
+    },
+    {
+      "option": 3,
+      "real_video": "https://rubystm.com/e/hrkjivy4sqnt.html"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/c76y61r"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/uyzh3ga"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/ttzn9b0"
+    },
+    {
+      "option": 7,
+      "real_video": "https://emturbovid.com/t/6736a6c2a4522"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/731c83db8d2ff01bdc000083fd3c3740"
+    }
+  ]
+}

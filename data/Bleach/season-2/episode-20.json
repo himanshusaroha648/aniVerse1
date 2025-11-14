@@ -1,0 +1,25 @@
+{
+  "series": "Bleach",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
+  "season": 2,
+  "episode": 20,
+  "episode_title": "Episode 20",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/xPyOjfE9rXTM14jzfUiS5ryXNBR.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/xPyOjfE9rXTM14jzfUiS5ryXNBR.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/-8hIbQxlC"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/bqfvx5m"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/ecu4VJYxT9jZ/"
+    }
+  ]
+}

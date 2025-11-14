@@ -1,0 +1,25 @@
+{
+  "series": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/h97iHupymkJXBv0gyr4qlePhKAk.jpg",
+  "season": 2,
+  "episode": 5,
+  "episode_title": "Episode 5",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/h97iHupymkJXBv0gyr4qlePhKAk.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/qiXiCUtNOz9jsGmIyccXdLIbL8j.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/qiXiCUtNOz9jsGmIyccXdLIbL8j.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/ln9PwqSzzn"
+    },
+    {
+      "option": 2,
+      "real_video": "https://vidmoly.net/embed-oei5x2sbaddm.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/AHy6pmM6X9Ke/"
+    }
+  ]
+}

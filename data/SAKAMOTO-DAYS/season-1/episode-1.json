@@ -1,0 +1,53 @@
+{
+  "series": "SAKAMOTO DAYS",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/cgTRsnnVYOQyv4bj2KChGwD1lMx.jpg",
+  "season": 1,
+  "episode": 1,
+  "episode_title": "Episode 1",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/cgTRsnnVYOQyv4bj2KChGwD1lMx.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/qEI4JdzHUe9o31gjnIvM4sRK0TL.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/qEI4JdzHUe9o31gjnIvM4sRK0TL.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/G-OdcefxH"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/5nfjlql0x8xw.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#iaudl"
+    },
+    {
+      "option": 4,
+      "real_video": "https://strmup.to/EsQ7TYSwDjKXf"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/yse6rui"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/fn9dwuf"
+    },
+    {
+      "option": 7,
+      "real_video": "https://gdmirrorbot.nl/embed/bb9gry2"
+    },
+    {
+      "option": 8,
+      "real_video": "https://emturbovid.com/t/6782a01ab201d"
+    },
+    {
+      "option": 9,
+      "real_video": "https://vidmoly.net/embed-20r1z0i4l969.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/1977b575ffa6d1708a5e3eb9ccd851cc"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "series": "Lookism",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/3b3C7FWpQQa15J02x2zp53D8imF.jpg",
+  "season": 1,
+  "episode": 2,
+  "episode_title": "Episode 2",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/3b3C7FWpQQa15J02x2zp53D8imF.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/wpOM0gBk2E29Yhk1MklsTCOpkRk.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/wpOM0gBk2E29Yhk1MklsTCOpkRk.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/7nqPOn76IykY/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/8hxyfujlr7ky.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://short.icu/ezRN2aDFT"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/vf4wdv0"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/vsemzbd"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/qotuigw"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/4476b929e30dd0c4e8bdbcc82c6ba23a"
+    }
+  ]
+}

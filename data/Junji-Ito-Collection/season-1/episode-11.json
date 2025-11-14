@@ -1,0 +1,41 @@
+{
+  "series": "Junji Ito Collection",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/umJEelwoLi3x123sbJ9pMTPA5Lt.jpg",
+  "season": 1,
+  "episode": 11,
+  "episode_title": "Episode 11",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/umJEelwoLi3x123sbJ9pMTPA5Lt.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/tigxORHtuHeYKDQ1VQgtLeFGIKM.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/tigxORHtuHeYKDQ1VQgtLeFGIKM.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/f4Yg31BemAo9/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/f97y874fsmk8.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://short.icu/DfymCB6Lx"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/ir8ls25"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/cdimbmv"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/jo6kpzo"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/d31a52679469593424c94da10611eff2"
+    }
+  ]
+}

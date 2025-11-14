@@ -1,0 +1,21 @@
+{
+  "series": "Magical Sempai English Dub",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/l4FJaBZ7QB4VQ2qVxwp0AxVRLOi.jpg",
+  "season": 1,
+  "episode": 11,
+  "episode_title": "Episode 11",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/l4FJaBZ7QB4VQ2qVxwp0AxVRLOi.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/61vFOjGMbkJBAu5jk2WJAvDw7KF.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/61vFOjGMbkJBAu5jk2WJAvDw7KF.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/fzeG_pT-7"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/giLn6yzrQXUi/"
+    }
+  ]
+}

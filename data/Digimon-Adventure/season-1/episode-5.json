@@ -1,0 +1,29 @@
+{
+  "series": "Digimon Adventure:",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/7Qspx2eFX0uBSQLLlAKnYrjZgse.jpg",
+  "season": 1,
+  "episode": 5,
+  "episode_title": "Episode 5",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/7Qspx2eFX0uBSQLLlAKnYrjZgse.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/ztP73lyxw6nDO7oAH2Gh3sMH6xa.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/ztP73lyxw6nDO7oAH2Gh3sMH6xa.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/Th8XwYvyjjEd/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://streamsb.net/e/8t909rxp9var.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://filemoon.to/e/zsfasx5aoq0o/_Toonhub4u__Digimon_Adventure__40_2020_41__Episode_5_Multi_Audio_480p.mp4"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/0f9cafd014db7a619ddb4276af0d692c"
+    }
+  ]
+}

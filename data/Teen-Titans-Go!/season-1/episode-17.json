@@ -1,0 +1,37 @@
+{
+  "series": "Teen Titans Go!",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/mTMAxrRaDp0TFpdFVinD3grrqr9.jpg",
+  "season": 1,
+  "episode": 17,
+  "episode_title": "Episode 17",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/mTMAxrRaDp0TFpdFVinD3grrqr9.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/loPgKdgevcVOrJ3HxsYl0IqqvQm.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/loPgKdgevcVOrJ3HxsYl0IqqvQm.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/1FmdTSk82PT2/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/0lUi3hbr-"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/jmpbrla"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/di7rref"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/m1c2fwn"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/aba22f748b1a6dff75bda4fd1ee9fe07"
+    }
+  ]
+}

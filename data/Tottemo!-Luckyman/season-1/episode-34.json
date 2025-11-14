@@ -1,0 +1,45 @@
+{
+  "series": "Tottemo! Luckyman",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/ojOOavQH2rNWNhG5NAw2l76czQJ.jpg",
+  "season": 1,
+  "episode": 34,
+  "episode_title": "Episode 34",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/ojOOavQH2rNWNhG5NAw2l76czQJ.jpg",
+  "episode_card_thumbnail": "https://toonstream.love/wp-content/themes/torofilm/public/img/cnt/noimg-episode.png",
+  "episode_list_thumbnail": "https://toonstream.love/wp-content/themes/torofilm/public/img/cnt/noimg-episode.png",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/MG8yVsEq3"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/ngr0tjbdh6ho.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#hv6l6"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/azvheyg"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/fzeduld"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/i27n1an"
+    },
+    {
+      "option": 7,
+      "real_video": "https://emturbovid.com/t/677e9d199ab6d"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/wPd8Z9Ca8xxI/"
+    }
+  ]
+}

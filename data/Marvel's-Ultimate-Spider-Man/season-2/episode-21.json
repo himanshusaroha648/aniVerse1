@@ -1,0 +1,21 @@
+{
+  "series": "Marvel's Ultimate Spider-Man",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/ye6H7F8kKTd3betEfyGpuVD549a.jpg",
+  "season": 2,
+  "episode": 21,
+  "episode_title": "Episode 21",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/ye6H7F8kKTd3betEfyGpuVD549a.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/yEr3otUJyI8Qt7vwTi9GIJHjHEx.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/yEr3otUJyI8Qt7vwTi9GIJHjHEx.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/1qFVz8M0axF2/"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/085ccaddbd3aa270b1d72beef6bbc5ca"
+    }
+  ]
+}

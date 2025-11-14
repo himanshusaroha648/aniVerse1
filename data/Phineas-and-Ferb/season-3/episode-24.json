@@ -1,0 +1,25 @@
+{
+  "series": "Phineas and Ferb",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/oSLwJMOOQGAsyJNMi4Y3MO44iAJ.jpg",
+  "season": 3,
+  "episode": 24,
+  "episode_title": "Episode 24",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/oSLwJMOOQGAsyJNMi4Y3MO44iAJ.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/61wjan4xUjZptJD9EwT2UAwreE0.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/61wjan4xUjZptJD9EwT2UAwreE0.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/gltDUaaycBlG/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/RKx6wrffa"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/cd474f6341aeffd65f93084d0dae3453"
+    }
+  ]
+}

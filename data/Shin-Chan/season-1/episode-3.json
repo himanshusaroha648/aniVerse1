@@ -1,0 +1,17 @@
+{
+  "series": "Shin Chan",
+  "thumbnail": "http://toonstream.in/wp-content/uploads/desktop-wallpaper-pin-on-cute-cartoon-shinchan-cute-e1693842601832.jpg",
+  "season": 1,
+  "episode": 3,
+  "episode_title": "Episode 3",
+  "episode_main_poster": "http://toonstream.in/wp-content/uploads/desktop-wallpaper-pin-on-cute-cartoon-shinchan-cute-e1693842601832.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/8hx2bqcRgloa8P2jrqb71bageHj.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/8hx2bqcRgloa8P2jrqb71bageHj.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/aUx5vkzhSTIF/"
+    }
+  ]
+}

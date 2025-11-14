@@ -1,0 +1,33 @@
+{
+  "series": "Love, Death & Robots",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/vvRpJJxAw1sB4w4r0hsOdqa9eJc.jpg",
+  "season": 1,
+  "episode": 18,
+  "episode_title": "Episode 18",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/vvRpJJxAw1sB4w4r0hsOdqa9eJc.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/tvFeccyKYGDzsihSuw1KFHFxaDI.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/tvFeccyKYGDzsihSuw1KFHFxaDI.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/uEBYN3ntdyo4/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/zEZM9p2YW"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/ingspe1"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/fml58dx"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/63e3ba7e452774bd2399f738f09c9f59"
+    }
+  ]
+}

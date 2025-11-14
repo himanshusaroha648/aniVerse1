@@ -1,0 +1,41 @@
+{
+  "series": "Alya Sometimes Hides Her Feelings in Russian",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/ad3HZCjN5RhMD0ETX75Q8Jr1r2q.jpg",
+  "season": 1,
+  "episode": 8,
+  "episode_title": "Episode 8",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/ad3HZCjN5RhMD0ETX75Q8Jr1r2q.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/gZYl9ZSCsr3gMemoCmz5TYcjWNy.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/gZYl9ZSCsr3gMemoCmz5TYcjWNy.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/upliG62jLSae/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/embed-879c4f84yrww.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://short.icu/VBc4sI-nz"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/e9m603x"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/cq55a4n"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/wnmbkz6"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/0188e8b8b014829e2fa0f430f0a95961"
+    }
+  ]
+}

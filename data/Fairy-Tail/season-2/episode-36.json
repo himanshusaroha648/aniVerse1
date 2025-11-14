@@ -1,0 +1,49 @@
+{
+  "series": "Fairy Tail",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/inIVJlVRcE0sui79vFvWAeV0NGU.jpg",
+  "season": 2,
+  "episode": 36,
+  "episode_title": "Episode 36",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/inIVJlVRcE0sui79vFvWAeV0NGU.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/jB1mipXDt3mNaJgGyo95kLZ3Zko.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/jB1mipXDt3mNaJgGyo95kLZ3Zko.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://rubystm.com/e/p6el4zy1i4wa.html"
+    },
+    {
+      "option": 2,
+      "real_video": "https://cloudy.upns.one/#ipqmw5"
+    },
+    {
+      "option": 3,
+      "real_video": "https://strmup.to/WkxurjMRhBdfO"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/ug4hmgh"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/b34yvu4"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/pl1c3uw"
+    },
+    {
+      "option": 7,
+      "real_video": "https://emturbovid.com/t/6888fbd90cb27"
+    },
+    {
+      "option": 8,
+      "real_video": "https://vidmoly.net/embed-rca5mmqp5cks.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://short.icu/E2Tj6eHQt"
+    }
+  ]
+}

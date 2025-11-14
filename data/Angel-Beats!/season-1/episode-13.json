@@ -1,0 +1,21 @@
+{
+  "series": "Angel Beats!",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/ld5fQq1PltjjLbWVww6KBV79DLt.jpg",
+  "season": 1,
+  "episode": 13,
+  "episode_title": "Episode 13",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/ld5fQq1PltjjLbWVww6KBV79DLt.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/yjTLgi8JrocMNXTTXNLF9YDMRh3.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/yjTLgi8JrocMNXTTXNLF9YDMRh3.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/NcVLEhAqu"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/YoNcw8f4Eqzl/"
+    }
+  ]
+}

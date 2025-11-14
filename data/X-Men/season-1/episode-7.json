@@ -1,0 +1,29 @@
+{
+  "series": "X-Men",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/eMQcgexc7bbbXsL0tNsNtLNPo56.jpg",
+  "season": 1,
+  "episode": 7,
+  "episode_title": "Episode 7",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/eMQcgexc7bbbXsL0tNsNtLNPo56.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/6goAIsohXHbF4mVjnG460iDnzmr.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/6goAIsohXHbF4mVjnG460iDnzmr.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://bullstream.xyz/watch?v=DQS057NT"
+    },
+    {
+      "option": 2,
+      "real_video": "https://streamsb.net/e/boe4iivreyhp.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://filemoon.to/e/3lbfruakkgq4/_Toonhub4u__Marvel_Anime__X-Men__40_2011_41__Episode_7_in__Hindi-Eng__480p.mp4"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/Ru9Jyw2dJK4z/"
+    }
+  ]
+}

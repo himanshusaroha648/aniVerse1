@@ -1,0 +1,33 @@
+{
+  "series": "The Looney Tunes Show",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/zZuQ4RHiy52r6EyXOT4AwmBroZQ.jpg",
+  "season": 2,
+  "episode": 7,
+  "episode_title": "Episode 7",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/zZuQ4RHiy52r6EyXOT4AwmBroZQ.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/hK23ej5pfPkeGbC1bm39F8vm4D7.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/hK23ej5pfPkeGbC1bm39F8vm4D7.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/4MQiwYMIe"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/zs8e80t"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/wfahh87"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/ythofnv"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/GJR6pLSJdfu1/"
+    }
+  ]
+}

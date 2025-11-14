@@ -1,0 +1,33 @@
+{
+  "series": "Bakugan",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/lg6QqCdvZOZM7EWf9zFJL12EsKv.jpg",
+  "season": 1,
+  "episode": 25,
+  "episode_title": "Episode 25",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/lg6QqCdvZOZM7EWf9zFJL12EsKv.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/qFtrvITMomsHp4GqEWMCzkdMlzH.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/qFtrvITMomsHp4GqEWMCzkdMlzH.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/YeSpBPrAM"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/trx2tac"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/tqjd8ki"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/yl6hhvz"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/zqEalHOfxHYG/"
+    }
+  ]
+}

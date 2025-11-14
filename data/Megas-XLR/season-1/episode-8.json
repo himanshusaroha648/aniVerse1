@@ -1,0 +1,25 @@
+{
+  "series": "Megas XLR",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/d4Mc687WE8wFAk5nlmJJh4qNuIO.jpg",
+  "season": 1,
+  "episode": 8,
+  "episode_title": "Episode 8",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/d4Mc687WE8wFAk5nlmJJh4qNuIO.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/lGGxriClRaDSKxgGg3pAvqMuP5M.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/lGGxriClRaDSKxgGg3pAvqMuP5M.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://rubystm.come/01joddsxzo9k.html"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/SsV8ANCoT"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/f8b6GTon5aP0/"
+    }
+  ]
+}

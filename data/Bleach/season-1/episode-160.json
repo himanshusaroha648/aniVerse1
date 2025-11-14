@@ -1,0 +1,25 @@
+{
+  "series": "Bleach",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
+  "season": 1,
+  "episode": 160,
+  "episode_title": "Episode 160",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/zdqo0ipQ84UEHDnQbHAjOX5puxj.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/zdqo0ipQ84UEHDnQbHAjOX5puxj.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/_vbYUS2qb"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/l5g7kjv"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/H9leK7MZQoi4/"
+    }
+  ]
+}

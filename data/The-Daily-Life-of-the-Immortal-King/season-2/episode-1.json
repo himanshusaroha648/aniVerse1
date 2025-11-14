@@ -1,0 +1,37 @@
+{
+  "series": "The Daily Life of the Immortal King",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/yYcLpRqEZtfUpQCUqm1DGfl47d6.jpg",
+  "season": 2,
+  "episode": 1,
+  "episode_title": "Episode 1",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/yYcLpRqEZtfUpQCUqm1DGfl47d6.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/sEQz1PjflBAoh4Gdl6n67T1izFD.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/sEQz1PjflBAoh4Gdl6n67T1izFD.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/QhjSQSZGqbHV/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/PSTaw_qQr"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/f5milmt"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/m2g7ydq"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/pb4csdc"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/fed33392d3a48aa149a87a38b875ba4a"
+    }
+  ]
+}

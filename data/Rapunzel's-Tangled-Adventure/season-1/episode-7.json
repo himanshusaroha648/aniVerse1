@@ -1,0 +1,33 @@
+{
+  "series": "Rapunzel's Tangled Adventure",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/s12Z2uGrvjj5sA7LsBStTtfTYjC.jpg",
+  "season": 1,
+  "episode": 7,
+  "episode_title": "Episode 7",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/s12Z2uGrvjj5sA7LsBStTtfTYjC.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/78a6L3sWwXXPgbsbzTTRcC9kuN9.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/78a6L3sWwXXPgbsbzTTRcC9kuN9.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/ooyLY0e1Fo"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/k65vnpqjivzr.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/b9thxfi"
+    },
+    {
+      "option": 4,
+      "real_video": "https://emturbovid.com/t/67176dea9a992"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/E9YIz14CBxSE/"
+    }
+  ]
+}

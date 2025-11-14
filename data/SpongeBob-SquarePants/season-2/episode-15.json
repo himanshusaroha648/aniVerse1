@@ -1,0 +1,33 @@
+{
+  "series": "SpongeBob SquarePants",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/amvtZgiTty0GHIgD56gpouBWrcy.jpg",
+  "season": 2,
+  "episode": 15,
+  "episode_title": "Episode 15",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/amvtZgiTty0GHIgD56gpouBWrcy.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/1zN4Kd7514i0gCaC5t7oZkxVPpK.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/1zN4Kd7514i0gCaC5t7oZkxVPpK.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/PCETtbcLT"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/eawkimu"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/v3gcfyb"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/nvbdtu0"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/9zU8fMTI8eEZ/"
+    }
+  ]
+}

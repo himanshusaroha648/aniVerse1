@@ -1,0 +1,37 @@
+{
+  "series": "BoBoiBoy",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/zRZ1Y90mhKXrLDYnnfJf4By8hca.jpg",
+  "season": 2,
+  "episode": 7,
+  "episode_title": "Episode 7",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/zRZ1Y90mhKXrLDYnnfJf4By8hca.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/dAETgVRqnqmpkNQ1lNm7ExaZduL.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/dAETgVRqnqmpkNQ1lNm7ExaZduL.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/YFQG4yoao4Po/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/sQwHQn8Wg"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/mwmrzfq"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/mfjsv6q"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/cebk53y"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/d38901788c533e8286cb6400b40b386d"
+    }
+  ]
+}

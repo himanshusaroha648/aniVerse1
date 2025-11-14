@@ -1,0 +1,41 @@
+{
+  "series": "Miraculous: Tales of Ladybug & Cat Noir",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/psDcRgUX38cIeGeADwLRPyO7SYC.jpg",
+  "season": 2,
+  "episode": 14,
+  "episode_title": "Episode 14",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/psDcRgUX38cIeGeADwLRPyO7SYC.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/go92Yau9VEPi704J9MiEGyP8X3O.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/go92Yau9VEPi704J9MiEGyP8X3O.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/rDaymSE6-2"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/2ir4gx5a98sb.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#xijlgi"
+    },
+    {
+      "option": 4,
+      "real_video": "https://strmup.to/Mevb3iKz0hoUg"
+    },
+    {
+      "option": 5,
+      "real_video": "https://emturbovid.com/t/6899e9610d1d2"
+    },
+    {
+      "option": 6,
+      "real_video": "https://vidmoly.net/embed-g1lc2xo22s9e.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/170f6aa36530c364b77ddf83a84e7351"
+    }
+  ]
+}

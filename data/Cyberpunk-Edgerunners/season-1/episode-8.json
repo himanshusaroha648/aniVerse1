@@ -1,0 +1,25 @@
+{
+  "series": "Cyberpunk: Edgerunners",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/7jSWOc6jWSw5hZ78HB8Hw3pJxuk.jpg",
+  "season": 1,
+  "episode": 8,
+  "episode_title": "Episode 8",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/7jSWOc6jWSw5hZ78HB8Hw3pJxuk.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/83LC8gPjcmg4gMeVkvKOegjA8gf.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/83LC8gPjcmg4gMeVkvKOegjA8gf.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/eY8nKcSUF"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/swfu9sm72beu.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/EtboND87pXvg/"
+    }
+  ]
+}

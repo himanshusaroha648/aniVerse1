@@ -1,0 +1,53 @@
+{
+  "series": "Radiant",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/o19uFUrC9gLa366Sr41kSJM8vRz.jpg",
+  "season": 2,
+  "episode": 20,
+  "episode_title": "Episode 20",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/o19uFUrC9gLa366Sr41kSJM8vRz.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/5WHJjtBoojbozusm1NgjRqrZQ0c.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/5WHJjtBoojbozusm1NgjRqrZQ0c.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/8C88jhNtG"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/42u85zxofirf.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#kryeeh"
+    },
+    {
+      "option": 4,
+      "real_video": "https://strmup.to/iSa87kfJWBTw1"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/c6j9ouf"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/kvxmr98"
+    },
+    {
+      "option": 7,
+      "real_video": "https://gdmirrorbot.nl/embed/b54jv4h"
+    },
+    {
+      "option": 8,
+      "real_video": "https://turbovidhls.com/t/680a482d84019"
+    },
+    {
+      "option": 9,
+      "real_video": "https://vidmoly.net/embed-emtvkl7rhn2d.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/b81132591828d622fc335860bffec150"
+    }
+  ]
+}

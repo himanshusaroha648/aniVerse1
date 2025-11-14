@@ -1,0 +1,53 @@
+{
+  "series": "Hunter x Hunter Hindi Dub",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/9dubj2UQ2xJkzT1AEng6DaGRvLa.jpg",
+  "season": 2,
+  "episode": 102,
+  "episode_title": "Hunter x Hunter Hindi Dub 2x102 - Toonstream",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/9dubj2UQ2xJkzT1AEng6DaGRvLa.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/9JeGT71XaJAIW76kRs6VSUUaZpR.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/9JeGT71XaJAIW76kRs6VSUUaZpR.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 4,
+      "real_video": "https://strmup.to/IdN4cRYr7WQ2P"
+    },
+    {
+      "option": 1,
+      "real_video": "https://short.icu/a1pHZmIUz"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/6fdf8aeb15cf3b343dcfc6d1b5f09b85"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/za47nnuva7tr.html"
+    },
+    {
+      "option": 8,
+      "real_video": "https://emturbovid.com/t/68f8fa841eed2"
+    },
+    {
+      "option": 7,
+      "real_video": "https://gdmirrorbot.nl/embed/g25r6ge"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/mwbaluf"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/osehwo7"
+    },
+    {
+      "option": 9,
+      "real_video": "https://vidmoly.net/embed-f77zn2zk9gif.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#6ppcvk"
+    }
+  ]
+}

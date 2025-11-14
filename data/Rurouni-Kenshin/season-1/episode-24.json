@@ -1,0 +1,37 @@
+{
+  "series": "Rurouni Kenshin",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/jCMbKOH4iootEBXNa5e4jKoeTSU.jpg",
+  "season": 1,
+  "episode": 24,
+  "episode_title": "Episode 24",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/jCMbKOH4iootEBXNa5e4jKoeTSU.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/hNVuZk1pYt4eUHeGeC8wCTpC0fs.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/hNVuZk1pYt4eUHeGeC8wCTpC0fs.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/v5ZatQvqb1nW/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/kJU3ia_IW"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/nkhuiie"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/u0fei8r"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/afxk53n"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/9f36407ead0629fc166f14dde7970f68"
+    }
+  ]
+}

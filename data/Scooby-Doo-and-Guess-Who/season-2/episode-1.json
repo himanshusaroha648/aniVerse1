@@ -1,0 +1,37 @@
+{
+  "series": "Scooby-Doo and Guess Who?",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/g7vQXsELihik4oHJwqhL6WuTJ3j.jpg",
+  "season": 2,
+  "episode": 1,
+  "episode_title": "Episode 1",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/g7vQXsELihik4oHJwqhL6WuTJ3j.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/OYu2SLcy5gGJmsjjtRwEZmFDou.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/OYu2SLcy5gGJmsjjtRwEZmFDou.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/T8PoafGYF"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/fmj2i8cj0ds7.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/rwsftnl"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/hvmss9j"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/uv4wodo"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/fgo7icgPH7ic/"
+    }
+  ]
+}

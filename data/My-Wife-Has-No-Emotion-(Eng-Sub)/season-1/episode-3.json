@@ -1,0 +1,25 @@
+{
+  "series": "My Wife Has No Emotion (Eng Sub)",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/ttaknfJP0qjg7kMKwH0w29fcE6d.jpg",
+  "season": 1,
+  "episode": 3,
+  "episode_title": "Episode 3",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/ttaknfJP0qjg7kMKwH0w29fcE6d.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/uCHZ24V2Nwt5WW8zIabZFDSPOGu.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/uCHZ24V2Nwt5WW8zIabZFDSPOGu.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/1RKmffH_V"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/u2jg0i8"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/2h5gMHp6A87y/"
+    }
+  ]
+}

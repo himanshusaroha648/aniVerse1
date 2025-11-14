@@ -1,0 +1,21 @@
+{
+  "series": "Iron Man: Armored Adventures",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/uwMIL8PR1jHpHQksIq7kzdeqg2A.jpg",
+  "season": 2,
+  "episode": 5,
+  "episode_title": "Episode 5",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/uwMIL8PR1jHpHQksIq7kzdeqg2A.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/lhPakpRuCRiqdtQt3M3GduvuOD5.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/lhPakpRuCRiqdtQt3M3GduvuOD5.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/XkrtY4qJKlhk/"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/da6cb383f8f9e58f2c8af88a8c0eb65e"
+    }
+  ]
+}

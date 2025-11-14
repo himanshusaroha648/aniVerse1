@@ -1,0 +1,41 @@
+{
+  "series": "Miraculous: Tales of Ladybug & Cat Noir",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/psDcRgUX38cIeGeADwLRPyO7SYC.jpg",
+  "season": 1,
+  "episode": 17,
+  "episode_title": "Episode 17",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/psDcRgUX38cIeGeADwLRPyO7SYC.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/jy7o2G9vZ61VoBMD3nfHFptHpuL.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/jy7o2G9vZ61VoBMD3nfHFptHpuL.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/DYxrkMqvr"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/ts3tau8qawtz.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#6sckgk"
+    },
+    {
+      "option": 4,
+      "real_video": "https://strmup.to/sPE2XHOTxkn1J"
+    },
+    {
+      "option": 5,
+      "real_video": "https://vidmoly.net/embed-qdat37yqfvd9.html"
+    },
+    {
+      "option": 6,
+      "real_video": "https://turbovidhls.com/t/67f27df73cf7c"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/f998fe2862e4dbab7e4d18de41d02d3b"
+    }
+  ]
+}

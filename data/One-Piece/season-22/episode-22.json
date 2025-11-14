@@ -1,0 +1,37 @@
+{
+  "series": "One Piece",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/dum1wnm6kJOUos0XJqjB8s2UWi9.jpg",
+  "season": 22,
+  "episode": 22,
+  "episode_title": "Episode 22",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/dum1wnm6kJOUos0XJqjB8s2UWi9.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/gMvNGRHx0irAA8KwpUD7bbxs5JH.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/gMvNGRHx0irAA8KwpUD7bbxs5JH.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/1JMOuGjwUg"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/m07xdja"
+    },
+    {
+      "option": 3,
+      "real_video": "https://vidstreaming.xyz/v/WZfz8wqu5X1I/"
+    },
+    {
+      "option": 4,
+      "real_video": "https://cloudy.upns.one/#tarhjb"
+    },
+    {
+      "option": 5,
+      "real_video": "https://rubystm.com/e/9ea10g1lxjgb.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/no52eV4k0daS/"
+    }
+  ]
+}

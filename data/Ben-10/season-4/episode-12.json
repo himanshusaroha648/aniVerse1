@@ -1,0 +1,29 @@
+{
+  "series": "Ben 10",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/pT0NlYVIkwM2zAw9oUkePwrOlxW.jpg",
+  "season": 4,
+  "episode": 12,
+  "episode_title": "Episode 12",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/pT0NlYVIkwM2zAw9oUkePwrOlxW.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/kGzCYFjYse8eXXQyvT3M6EtPBRg.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/kGzCYFjYse8eXXQyvT3M6EtPBRg.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/eGA4CI8aqLbR/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://filemoon.to/e/bhzzrqceeepi/_Toonhub4u__Ben_10__2005__S04E12_720p_HD_WEB-DL_Dual_Audio_ESub.mkv"
+    },
+    {
+      "option": 3,
+      "real_video": "https://streamsb.net/e/gtm5gxe58gyc.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/4bPDQoz1MIrJ/"
+    }
+  ]
+}

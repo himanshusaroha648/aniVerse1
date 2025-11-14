@@ -1,0 +1,25 @@
+{
+  "series": "One Piece",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/dum1wnm6kJOUos0XJqjB8s2UWi9.jpg",
+  "season": 13,
+  "episode": 84,
+  "episode_title": "Episode 84",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/dum1wnm6kJOUos0XJqjB8s2UWi9.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/oapymIdKdKumUR7SRlD1CD06em9.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/oapymIdKdKumUR7SRlD1CD06em9.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://rubystm.com/e/6cc4ia6iugun.html"
+    },
+    {
+      "option": 2,
+      "real_video": "https://strmup.to/2Q1HLarTLr3b"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/Q9Xamqw7G9Tk/"
+    }
+  ]
+}

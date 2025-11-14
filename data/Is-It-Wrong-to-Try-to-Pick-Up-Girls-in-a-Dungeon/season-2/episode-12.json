@@ -1,0 +1,25 @@
+{
+  "series": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/h97iHupymkJXBv0gyr4qlePhKAk.jpg",
+  "season": 2,
+  "episode": 12,
+  "episode_title": "Episode 12",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/h97iHupymkJXBv0gyr4qlePhKAk.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/ige1bLqvndtCYgsFtAveZTP3nbu.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/ige1bLqvndtCYgsFtAveZTP3nbu.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/M3xjh1GT5M"
+    },
+    {
+      "option": 2,
+      "real_video": "https://vidmoly.net/embed-c5usifqje9pf.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/gDmganWoRgPH/"
+    }
+  ]
+}

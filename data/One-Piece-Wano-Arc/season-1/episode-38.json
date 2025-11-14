@@ -1,0 +1,45 @@
+{
+  "series": "One Piece Wano Arc",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/uiIB9ctqZFbfRXXimtpmZb5dusi.jpg",
+  "season": 1,
+  "episode": 38,
+  "episode_title": "Episode 38",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/uiIB9ctqZFbfRXXimtpmZb5dusi.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/fPe1PYvNvzEjXQXFcJbEJbrHIY0.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/fPe1PYvNvzEjXQXFcJbEJbrHIY0.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/v844VgPqK"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/dvdovdya4su2.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#xfk36"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/kbbe3wb"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/l2k9t0m"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/o8wffp0"
+    },
+    {
+      "option": 7,
+      "real_video": "https://emturbovid.com/t/67a8ad39e7154"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/blr4fp5Ib7qN/"
+    }
+  ]
+}

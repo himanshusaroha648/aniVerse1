@@ -1,0 +1,25 @@
+{
+  "series": "The Banished Former Hero Lives as He Pleases (ESub)",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/gUDkHsNzkjTBQ55fS9pUO1ng7vk.jpg",
+  "season": 1,
+  "episode": 10,
+  "episode_title": "Episode 10",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/gUDkHsNzkjTBQ55fS9pUO1ng7vk.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/vr7ccxaBuFQz8CMd4RcC4NNbAYV.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/vr7ccxaBuFQz8CMd4RcC4NNbAYV.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/NSH5c2hI9"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/dl1tlvm"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/Dd7DQptxTWf9/"
+    }
+  ]
+}

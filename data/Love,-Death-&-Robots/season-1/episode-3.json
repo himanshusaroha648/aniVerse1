@@ -1,0 +1,33 @@
+{
+  "series": "Love, Death & Robots",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/vvRpJJxAw1sB4w4r0hsOdqa9eJc.jpg",
+  "season": 1,
+  "episode": 3,
+  "episode_title": "Episode 3",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/vvRpJJxAw1sB4w4r0hsOdqa9eJc.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/6hbFg9eT0tNf4akHgBrfm1oEovI.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/6hbFg9eT0tNf4akHgBrfm1oEovI.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/vj0U3Y01QVI5/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/4-xcwzxzQ"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/a3yeibk"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/elitv5f"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/eff2afaf73d134f6ea9eb98ff373426c"
+    }
+  ]
+}

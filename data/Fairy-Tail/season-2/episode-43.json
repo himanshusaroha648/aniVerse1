@@ -1,0 +1,49 @@
+{
+  "series": "Fairy Tail",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/inIVJlVRcE0sui79vFvWAeV0NGU.jpg",
+  "season": 2,
+  "episode": 43,
+  "episode_title": "Episode 43",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/inIVJlVRcE0sui79vFvWAeV0NGU.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/drhlVox4WrXW3iVc7XiI4RPihi3.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/drhlVox4WrXW3iVc7XiI4RPihi3.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://rubystm.com/e/f90mntnns8f3.html"
+    },
+    {
+      "option": 2,
+      "real_video": "https://cloudy.upns.one/#xinehk"
+    },
+    {
+      "option": 3,
+      "real_video": "https://strmup.to/bJ1lsHfASnI2Y"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/b9knlx9"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/v8jv7c5"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/xnif4pg"
+    },
+    {
+      "option": 7,
+      "real_video": "https://emturbovid.com/t/68922622c6181"
+    },
+    {
+      "option": 8,
+      "real_video": "https://vidmoly.net/embed-5ztrmcyjc7ep.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://short.icu/JEhrnx0v7"
+    }
+  ]
+}

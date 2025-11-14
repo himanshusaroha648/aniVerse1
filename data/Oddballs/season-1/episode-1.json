@@ -1,0 +1,25 @@
+{
+  "series": "Oddballs",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/cCJ60PDEXgavJ1vxWAjW1PMuZd6.jpg",
+  "season": 1,
+  "episode": 1,
+  "episode_title": "Episode 1",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/cCJ60PDEXgavJ1vxWAjW1PMuZd6.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/kK6S66V6hjuqs3pNO3HeHEM1WaU.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/kK6S66V6hjuqs3pNO3HeHEM1WaU.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://sbanh.com/e/ga5ljmgfm84d.html"
+    },
+    {
+      "option": 2,
+      "real_video": "https://filepress.online/video/634d85055a3afb64cb837197"
+    },
+    {
+      "option": null,
+      "real_video": "https://filemoon.to/e/4h8xi8h9kb5d/_Toonhub4u__Oddballs_Season_1_Episode1_Dual_Audio__Hindi_-_Eng__1080p_HD.mp4"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "series": "Zatch Bell!",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/1JaCkXXU7gB8tHmvuzpu36CgGr1.jpg",
+  "season": 1,
+  "episode": 26,
+  "episode_title": "Episode 26",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/1JaCkXXU7gB8tHmvuzpu36CgGr1.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/nkWo8uFdiok45OxqIo6Sg9cR1WP.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/nkWo8uFdiok45OxqIo6Sg9cR1WP.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/JFaUJqRBs"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/un5qsa9"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/mOxDhf2gawQw/"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "series": "ThunderCats",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/d2ii5RufpXgpKBudPstkbeVEJBC.jpg",
+  "season": 1,
+  "episode": 23,
+  "episode_title": "Episode 23",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/d2ii5RufpXgpKBudPstkbeVEJBC.jpg",
+  "episode_card_thumbnail": "https://toonstream.love/wp-content/themes/torofilm/public/img/cnt/noimg-episode.png",
+  "episode_list_thumbnail": "https://toonstream.love/wp-content/themes/torofilm/public/img/cnt/noimg-episode.png",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/DFuKt9xrF"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/t9e998mvhvof.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#mnkoa"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/vo49pdh"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/ryfrfxh"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/xbl5pw0"
+    },
+    {
+      "option": 7,
+      "real_video": "https://emturbovid.com/t/675af52c307d2"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/aURAb72I7H86/"
+    }
+  ]
+}

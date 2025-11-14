@@ -1,0 +1,37 @@
+{
+  "series": "As a Reincarnated Aristocrat",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/54Dj5enfCkGPxnxjRx9i01zPXbd.jpg",
+  "season": 1,
+  "episode": 22,
+  "episode_title": "Episode 22",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/54Dj5enfCkGPxnxjRx9i01zPXbd.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/dgeE7cw1UIV6qhrVsjdMiNrnJy0.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/dgeE7cw1UIV6qhrVsjdMiNrnJy0.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/RVKvRA6CA"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/qprmr0kxw9su.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#tagoqu"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/ledx6gc"
+    },
+    {
+      "option": 5,
+      "real_video": "https://emturbovid.com/t/67fa096189abe"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/hXywNUA5SYyO/"
+    }
+  ]
+}

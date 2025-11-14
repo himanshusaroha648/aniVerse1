@@ -1,0 +1,41 @@
+{
+  "series": "Delicious in Dungeon",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/saveaoAwq632sDlppmhEIjNOpC.jpg",
+  "season": 1,
+  "episode": 8,
+  "episode_title": "Episode 8",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/saveaoAwq632sDlppmhEIjNOpC.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/exjM7eaMpNoJUxCqX0up4oIMFKy.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/exjM7eaMpNoJUxCqX0up4oIMFKy.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/ZV7PTEu3zZyD/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/mbu0qrfxvf76.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://short.icu/CuxptkGqm"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/bybwaer"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/mz83dk9"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/p3m2nu8"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/76ba9f564ebbc35b1014ac498fafadd0"
+    }
+  ]
+}

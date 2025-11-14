@@ -1,0 +1,33 @@
+{
+  "series": "Ms. Marvel",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/ls2Hl8CXmqEHvkDqkN3fRtmDodK.jpg",
+  "season": 1,
+  "episode": 2,
+  "episode_title": "Episode 2",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/ls2Hl8CXmqEHvkDqkN3fRtmDodK.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/aemUtd7mjsVy1A0L4mMWZR1kKNA.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/aemUtd7mjsVy1A0L4mMWZR1kKNA.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/NEpkBTXWb"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/gEs4h1tj9"
+    },
+    {
+      "option": 3,
+      "real_video": "https://short.icu/U_kahcKDT"
+    },
+    {
+      "option": 4,
+      "real_video": "https://short.icu/G9XMpYOrM"
+    },
+    {
+      "option": null,
+      "real_video": "https://short.icu/XekDo5T-R"
+    }
+  ]
+}

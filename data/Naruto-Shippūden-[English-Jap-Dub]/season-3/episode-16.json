@@ -1,0 +1,17 @@
+{
+  "series": "Naruto Shippūden [English-Jap Dub]",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/lufFEkkD5JMrDgiVYh4s1ksx4nv.jpg",
+  "season": 3,
+  "episode": 16,
+  "episode_title": "Episode 16",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/lufFEkkD5JMrDgiVYh4s1ksx4nv.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/wRKivVGHvPHHb1fzHYNGPbJA6jA.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/wRKivVGHvPHHb1fzHYNGPbJA6jA.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/n4eze95nwvpJ/"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "series": "Catch Me at the Ballpark!",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/houD2aVEHtM43abTMKNFL5ggCkX.jpg",
+  "season": 1,
+  "episode": 6,
+  "episode_title": "Episode 6",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/houD2aVEHtM43abTMKNFL5ggCkX.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/fNL2KKbJSplzEWMFWSvrM5zEfXN.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/fNL2KKbJSplzEWMFWSvrM5zEfXN.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/ye5laCcwPfma/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/6upb0VlzO"
+    },
+    {
+      "option": 3,
+      "real_video": "https://rubystm.com/e/ss3u2wbc0m9u.html"
+    },
+    {
+      "option": 4,
+      "real_video": "https://cloudy.upns.one/#rqi5x3"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/ma78r5o"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/ckv2sp7"
+    },
+    {
+      "option": 7,
+      "real_video": "https://gdmirrorbot.nl/embed/rpasbij"
+    },
+    {
+      "option": 8,
+      "real_video": "https://emturbovid.com/t/68370798bd944"
+    },
+    {
+      "option": 9,
+      "real_video": "https://raretoonsindia.co/ex/QUYLJWBQrP8jn4K"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/f4984314d122393d8dee3c843cbd16d7"
+    }
+  ]
+}

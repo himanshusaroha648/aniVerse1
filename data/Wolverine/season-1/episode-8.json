@@ -1,0 +1,29 @@
+{
+  "series": "Wolverine",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/cXPQEgUEbDz5NERfBJxeKFqUGwa.jpg",
+  "season": 1,
+  "episode": 8,
+  "episode_title": "Episode 8",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/cXPQEgUEbDz5NERfBJxeKFqUGwa.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/6R2dChqBW4lE8hwtR3czpdYOfgt.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/6R2dChqBW4lE8hwtR3czpdYOfgt.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://bullstream.xyz/watch?v=X37JP8V1"
+    },
+    {
+      "option": 2,
+      "real_video": "https://streamsb.net/e/8snga1o5cva.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://filemoon.to/e/81lnil3w7etq/_Toonhub4u__Marvel_Anime__Wolverine_Episode_8_in_Multi_Audio_480p.mp4"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/3z4Mjn2rL2jB/"
+    }
+  ]
+}

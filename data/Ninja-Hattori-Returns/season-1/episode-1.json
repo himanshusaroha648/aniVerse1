@@ -1,0 +1,17 @@
+{
+  "series": "Ninja Hattori Returns",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/gt0jlGyGW11Q1HQ7AtFAvioKOV9.jpg",
+  "season": 1,
+  "episode": 1,
+  "episode_title": "Episode 1",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/gt0jlGyGW11Q1HQ7AtFAvioKOV9.jpg",
+  "episode_card_thumbnail": "https://toonstream.love/wp-content/themes/torofilm/public/img/cnt/noimg-episode.png",
+  "episode_list_thumbnail": "https://toonstream.love/wp-content/themes/torofilm/public/img/cnt/noimg-episode.png",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/30d4e6422cd65c7913bc9ce62e078b79"
+    }
+  ]
+}

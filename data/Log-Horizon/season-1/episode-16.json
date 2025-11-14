@@ -1,0 +1,41 @@
+{
+  "series": "Log Horizon",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/vrCAD2KvtGJPwABIPd4z0gChi4g.jpg",
+  "season": 1,
+  "episode": 16,
+  "episode_title": "Episode 16",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/vrCAD2KvtGJPwABIPd4z0gChi4g.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/lESqlbqBmD2Y2JZc09PjnDTocX8.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/lESqlbqBmD2Y2JZc09PjnDTocX8.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/EZncNCVYofrU/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/tp53xbi2hr9v.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://short.icu/qXI3FP3xu"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/kfurdmd"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/vu2dsr3"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/hchhn2h"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/312351bff07989769097660a56395065"
+    }
+  ]
+}

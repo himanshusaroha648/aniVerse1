@@ -1,0 +1,45 @@
+{
+  "series": "Tottemo! Luckyman",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/ojOOavQH2rNWNhG5NAw2l76czQJ.jpg",
+  "season": 1,
+  "episode": 40,
+  "episode_title": "Episode 40",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/ojOOavQH2rNWNhG5NAw2l76czQJ.jpg",
+  "episode_card_thumbnail": "https://toonstream.love/wp-content/themes/torofilm/public/img/cnt/noimg-episode.png",
+  "episode_list_thumbnail": "https://toonstream.love/wp-content/themes/torofilm/public/img/cnt/noimg-episode.png",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/om3V_Wcf2"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/jmzjm1lv7lgt.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#saikk"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/is8hbuw"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/zwd65ll"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/w61rbb5"
+    },
+    {
+      "option": 7,
+      "real_video": "https://emturbovid.com/t/6774c90bd0d26"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/Hu6nba4wOXhX/"
+    }
+  ]
+}

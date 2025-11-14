@@ -1,0 +1,25 @@
+{
+  "series": "Re:ZERO -Starting Life in Another World-English Dub",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/yh3Md7RDxSPLRzIZZBQJU7txEeU.jpg",
+  "season": 1,
+  "episode": 48,
+  "episode_title": "Episode 48",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/yh3Md7RDxSPLRzIZZBQJU7txEeU.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/vPiyGsH4VpBCVHMPYXCa10KALAU.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/vPiyGsH4VpBCVHMPYXCa10KALAU.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/GMXtMchR4R"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/xwvuubq"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/BJKNVZViWN26/"
+    }
+  ]
+}

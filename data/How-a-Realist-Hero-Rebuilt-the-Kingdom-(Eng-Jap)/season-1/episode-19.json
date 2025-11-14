@@ -1,0 +1,25 @@
+{
+  "series": "How a Realist Hero Rebuilt the Kingdom (Eng-Jap)",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/ymbGZbNjHK4uAy3l29jUBvqeXIX.jpg",
+  "season": 1,
+  "episode": 19,
+  "episode_title": "Episode 19",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/ymbGZbNjHK4uAy3l29jUBvqeXIX.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/mTqDOzvKh7Oj8OYJ5FyOiZ714dl.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/mTqDOzvKh7Oj8OYJ5FyOiZ714dl.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/BuRDGWjjI"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/pbe0kb6"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/KL8bUWzUl6wV/"
+    }
+  ]
+}

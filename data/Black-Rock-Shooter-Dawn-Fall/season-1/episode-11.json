@@ -1,0 +1,37 @@
+{
+  "series": "Black Rock Shooter Dawn Fall",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/fjwT6zU73MTptIkqta16dBKycGq.jpg",
+  "season": 1,
+  "episode": 11,
+  "episode_title": "Episode 11",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/fjwT6zU73MTptIkqta16dBKycGq.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/uJTRt42bPAlovLJKiP8Xq0kJEIT.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/uJTRt42bPAlovLJKiP8Xq0kJEIT.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/D1pNHn0n4uzW/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://bullstream.xyz/watch?v=PIH7V0DT"
+    },
+    {
+      "option": 3,
+      "real_video": "https://streamsb.net/e/85dzpnul7fbw.html"
+    },
+    {
+      "option": 4,
+      "real_video": "https://streamhide.to/e/jw0efzl8ggge"
+    },
+    {
+      "option": 5,
+      "real_video": "https://filepress.lol/video/63b7fac6d6cee214c0332c2f"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/cf9a063bb9be814a77a491171cca236d"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "series": "The Cuphead Show!",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/l6nGUyxKCi7ODvyfc8qQShliVEd.jpg",
+  "season": 1,
+  "episode": 2,
+  "episode_title": "Episode 2",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/l6nGUyxKCi7ODvyfc8qQShliVEd.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/lUs6OKGxXvPjhcTmIT4WmtNDjR6.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/lUs6OKGxXvPjhcTmIT4WmtNDjR6.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://filemoon.to/e/6e411otsqppc/The_Cuphead_Show!_Season_1_Episode_2_in__Hindi_-_Eng__HD_.mp4"
+    },
+    {
+      "option": 2,
+      "real_video": "https://watchsb.com/e/k44253h9mznj.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://filepress.lol/fvideo/6396ea0fe1adedb30466f31b"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/O5zLuTXNz6Qp/"
+    }
+  ]
+}

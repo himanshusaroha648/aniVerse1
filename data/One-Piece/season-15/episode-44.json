@@ -1,0 +1,25 @@
+{
+  "series": "One Piece",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/dum1wnm6kJOUos0XJqjB8s2UWi9.jpg",
+  "season": 15,
+  "episode": 44,
+  "episode_title": "Episode 44",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/dum1wnm6kJOUos0XJqjB8s2UWi9.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/jPt7oO0cisYUEEme1U5U2c36Y0g.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/jPt7oO0cisYUEEme1U5U2c36Y0g.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://rubystm.com/e/fcmv6srm63sk.html"
+    },
+    {
+      "option": 2,
+      "real_video": "https://strmup.to/Y6EqpJ97dBQo"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/uDlN25obHBq2/"
+    }
+  ]
+}

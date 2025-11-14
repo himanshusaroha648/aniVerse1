@@ -1,0 +1,41 @@
+{
+  "series": "Courage the Cowardly Dog",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/dzD8EWDvtg7rBCINu0RCH5EUejh.jpg",
+  "season": 1,
+  "episode": 7,
+  "episode_title": "Episode 7",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/dzD8EWDvtg7rBCINu0RCH5EUejh.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/mjQxkZfACEbVCOG9xLzbdFL4RCi.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/mjQxkZfACEbVCOG9xLzbdFL4RCi.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/SRpOlbIhg"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/81p7qiqd0d3s.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#b6ul66"
+    },
+    {
+      "option": 4,
+      "real_video": "https://strmup.to/XhPOfxbMtcn7"
+    },
+    {
+      "option": 5,
+      "real_video": "https://emturbovid.com/t/687b762da00fd"
+    },
+    {
+      "option": 6,
+      "real_video": "https://vidmoly.net/embed-s82odzj8jmej.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/XKQbMavV1jlU/"
+    }
+  ]
+}

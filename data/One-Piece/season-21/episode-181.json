@@ -1,0 +1,33 @@
+{
+  "series": "One Piece",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/dum1wnm6kJOUos0XJqjB8s2UWi9.jpg",
+  "season": 21,
+  "episode": 181,
+  "episode_title": "Episode 181",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/dum1wnm6kJOUos0XJqjB8s2UWi9.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/fK3xztzpcwJCO2kutCAnrDtiGKM.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/fK3xztzpcwJCO2kutCAnrDtiGKM.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/ATgxLI4h84Yh/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://cloudy.upns.one/#icr59"
+    },
+    {
+      "option": 3,
+      "real_video": "https://emturbovid.com/t/6764018953f79"
+    },
+    {
+      "option": 4,
+      "real_video": "https://short.icu/bp_kT_WRv"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/kBN9aMFBCNRO/"
+    }
+  ]
+}

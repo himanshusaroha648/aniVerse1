@@ -1,0 +1,49 @@
+{
+  "series": "The Ancient Magus' Bride: The Boy from the West and the Knight of the Blue Storm",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/dVBxPJVLLcYOKVdHWYj5lPsKrGv.jpg",
+  "season": 1,
+  "episode": 3,
+  "episode_title": "Episode 3",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/dVBxPJVLLcYOKVdHWYj5lPsKrGv.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/qIEaG8mNMO8sZALs3sVEBGlrePl.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/qIEaG8mNMO8sZALs3sVEBGlrePl.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://cloudy.upns.one/#mevyxb"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/854qqghxxxrc.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://strmup.to/WhUK2rMgSB4bO"
+    },
+    {
+      "option": 4,
+      "real_video": "https://turbovidhls.com/t/68c26059a3457"
+    },
+    {
+      "option": 5,
+      "real_video": "https://vidmoly.net/embed-t5dltbzhqvv6.html"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/fxcycot"
+    },
+    {
+      "option": 7,
+      "real_video": "https://gdmirrorbot.nl/embed/xcs46pb"
+    },
+    {
+      "option": 8,
+      "real_video": "https://gdmirrorbot.nl/embed/ympuben"
+    },
+    {
+      "option": null,
+      "real_video": "https://short.icu/P07087Xr0"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "series": "Dragon Ball Z Kai",
+  "thumbnail": "https://i.imgur.com/zZzbUql.jpg",
+  "season": 6,
+  "episode": 5,
+  "episode_title": "Episode 5",
+  "episode_main_poster": "https://i.imgur.com/zZzbUql.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/f870VlE7a1FMMR8JiTD0gR1C5AX.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/f870VlE7a1FMMR8JiTD0gR1C5AX.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/Atj08xLmc"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/mwvnpm1tp4hi.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#j3hpnx"
+    },
+    {
+      "option": 4,
+      "real_video": "https://strmup.to/TVMIkshim9cgt"
+    },
+    {
+      "option": 5,
+      "real_video": "https://turbovidhls.com/t/68b336123c97f"
+    },
+    {
+      "option": 6,
+      "real_video": "https://vidmoly.net/embed-2umx8zefr3v2.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/1b113258af3968aaf3969ca67e744ff8"
+    }
+  ]
+}

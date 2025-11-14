@@ -1,0 +1,33 @@
+{
+  "series": "SpongeBob SquarePants",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/amvtZgiTty0GHIgD56gpouBWrcy.jpg",
+  "season": 1,
+  "episode": 32,
+  "episode_title": "Episode 32",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/amvtZgiTty0GHIgD56gpouBWrcy.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/vaOEdnaQaidGwbm4Vr2R49yU4oh.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/vaOEdnaQaidGwbm4Vr2R49yU4oh.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/xbtxzuAN5"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/h7hn3pc"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/x5vmiky"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/n0isdfw"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/3kuy0yP89d7n/"
+    }
+  ]
+}

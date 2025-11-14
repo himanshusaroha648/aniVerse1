@@ -1,0 +1,33 @@
+{
+  "series": "Agent Elvis",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/9iFMG4zyAkLnvfEwNqIiiEEQ342.jpg",
+  "season": 1,
+  "episode": 9,
+  "episode_title": "Episode 9",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/9iFMG4zyAkLnvfEwNqIiiEEQ342.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/5gvZE8kbwfPQBteE055xm7uYTVJ.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/5gvZE8kbwfPQBteE055xm7uYTVJ.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/V6AcK55hM9mX/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://streamsb.net/e/qc0p8ogis3d7.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://filemoon.to/e/tutlx66ds8vo/_Toonhub4u__Agent_Elvis_Season_1_Episode_9_in__Hindi-Eng__720p.mp4"
+    },
+    {
+      "option": 4,
+      "real_video": "https://streamhide.com/e/ixdwkngw461c"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/9ae5f16bbc85770e1dc3ef156762cec8"
+    }
+  ]
+}

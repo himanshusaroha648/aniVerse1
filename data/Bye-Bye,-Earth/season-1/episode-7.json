@@ -1,0 +1,41 @@
+{
+  "series": "Bye Bye, Earth",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/gAVZ6fl5Z0zievRf7CuhUogyEYf.jpg",
+  "season": 1,
+  "episode": 7,
+  "episode_title": "Episode 7",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/gAVZ6fl5Z0zievRf7CuhUogyEYf.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/h41PCzwe8PZYqGcd1KFpdms5n3l.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/h41PCzwe8PZYqGcd1KFpdms5n3l.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/OFjzkGDoZ0Dw/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/agz94o4jjosy.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://short.icu/VHb1gsNIaQ"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/pgtp2vd"
+    },
+    {
+      "option": 5,
+      "real_video": "https://animedekho.net/moly.php?url=zhlobjg5f10e"
+    },
+    {
+      "option": 6,
+      "real_video": "https://raretoonsindia.co/ex/SFNmBnDNLSIN0C7"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/f47330643ae134ca204bf6b2481fec47"
+    }
+  ]
+}

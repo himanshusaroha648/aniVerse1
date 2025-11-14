@@ -1,0 +1,41 @@
+{
+  "series": "The Many Sides of Voice Actor Radio",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/nmJUTI8YL1bmDeaeUSyAg7kqhbC.jpg",
+  "season": 1,
+  "episode": 7,
+  "episode_title": "Episode 7",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/nmJUTI8YL1bmDeaeUSyAg7kqhbC.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/kjX6PyR7YfZPWgBXIvRv48PzDzz.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/kjX6PyR7YfZPWgBXIvRv48PzDzz.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/KPgRuwnqQhgZ/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/mo9yinai4j30.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://short.icu/Hzt0w70a5"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/pyfzz1u"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/ccbcl3t"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/erfen7t"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/51d1cd3a02276948f566e6ea0a7d78cb"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "series": "My Daemon",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/5bWTE3CwBM6z8lew9BPykujeNwG.jpg",
+  "season": 1,
+  "episode": 6,
+  "episode_title": "Episode 6",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/5bWTE3CwBM6z8lew9BPykujeNwG.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/AqG1cOogiW7YtZe2RMgD6UeUAZK.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/AqG1cOogiW7YtZe2RMgD6UeUAZK.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://rubystm.come/57jh44f2xd1f.html"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/ncDrABBIQ"
+    },
+    {
+      "option": 3,
+      "real_video": "https://multimovies.cloud/e/m189xfv22t7b"
+    },
+    {
+      "option": 4,
+      "real_video": "https://filemoon.to/e/ppvbv03slss0/Toonhub4u_My_Daemon_S01E06_480p_NF_WEB-DL_Multi_Audio_ESub"
+    },
+    {
+      "option": 5,
+      "real_video": "https://filelions.online/v/frrfr5prlvc3"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/FvnxCpJhFW1Y/"
+    }
+  ]
+}

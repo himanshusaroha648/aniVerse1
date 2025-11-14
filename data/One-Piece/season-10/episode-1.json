@@ -1,0 +1,25 @@
+{
+  "series": "One Piece",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/dum1wnm6kJOUos0XJqjB8s2UWi9.jpg",
+  "season": 10,
+  "episode": 1,
+  "episode_title": "Episode 1",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/dum1wnm6kJOUos0XJqjB8s2UWi9.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/x5FGJjDLa1G2QRcjgDtmkZkAKmy.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/x5FGJjDLa1G2QRcjgDtmkZkAKmy.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://rubystm.com/e/173756rhyo4o.html"
+    },
+    {
+      "option": 2,
+      "real_video": "https://strmup.to/53ROtkdJoX72"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/ktPtSaHuAyPd/"
+    }
+  ]
+}

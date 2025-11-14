@@ -1,0 +1,37 @@
+{
+  "series": "I Shall Survive Using Potions!",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/gQfeSDEMZ6QgqOR7cHV6y4DoKNP.jpg",
+  "season": 1,
+  "episode": 3,
+  "episode_title": "Episode 3",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/gQfeSDEMZ6QgqOR7cHV6y4DoKNP.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/gTGsnDkq4lJjXe2tw72DtfEUYl6.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/gTGsnDkq4lJjXe2tw72DtfEUYl6.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/coRHagVZenHT/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/p9vp2zgrj555.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://multimovies.cloud/e/102xxlwnneam"
+    },
+    {
+      "option": 4,
+      "real_video": "https://filemoon.to/e/ty51dflb7rym/Toonhub4u_Im_in_Love_with_the_Villainess_-_06_Multi-Audio_480p_AAC_Multi-Subs"
+    },
+    {
+      "option": 5,
+      "real_video": "https://filelions.online/v/7st36mzyr6n4"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/8df707a948fac1b4a0f97aa554886ec8"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "series": "Beyblade",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/l6ZQhEHjtOd9t6lOvVGzs5YEHcG.jpg",
+  "season": 3,
+  "episode": 21,
+  "episode_title": "Episode 21",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/l6ZQhEHjtOd9t6lOvVGzs5YEHcG.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/oP0CbabYbH2YrJqzbluJHhSt4bN.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/oP0CbabYbH2YrJqzbluJHhSt4bN.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/FI_HVEzs0"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/u77sezs"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/2EkqP9GgOl9b/"
+    }
+  ]
+}

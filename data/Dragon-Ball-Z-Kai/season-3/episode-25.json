@@ -1,0 +1,41 @@
+{
+  "series": "Dragon Ball Z Kai",
+  "thumbnail": "https://i.imgur.com/zZzbUql.jpg",
+  "season": 3,
+  "episode": 25,
+  "episode_title": "Episode 25",
+  "episode_main_poster": "https://i.imgur.com/zZzbUql.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/wSlsgqDl9A14KMiPFxYVigHbS5a.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/wSlsgqDl9A14KMiPFxYVigHbS5a.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/Ay8_pX46p"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/wwlyh0ouyzo4.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#ipa18j"
+    },
+    {
+      "option": 4,
+      "real_video": "https://strmup.to/eisV3pG6Ngnj0"
+    },
+    {
+      "option": 5,
+      "real_video": "https://turbovidhls.com/t/68b303369dd61"
+    },
+    {
+      "option": 6,
+      "real_video": "https://vidmoly.net/embed-azzhmh8z1zx1.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/2c6ae45a3e88aee548c0714fad7f8269"
+    }
+  ]
+}

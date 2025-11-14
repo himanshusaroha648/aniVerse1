@@ -1,0 +1,25 @@
+{
+  "series": "The Fruit of Evolution (Eng-Jap)",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/5HcGeXvGybHdnKeMqKAJyCBknqI.jpg",
+  "season": 2,
+  "episode": 8,
+  "episode_title": "Episode 8",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/5HcGeXvGybHdnKeMqKAJyCBknqI.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/A3q1mvxSyucK3LlO4rVkg3RngQX.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/A3q1mvxSyucK3LlO4rVkg3RngQX.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/P40Dc_OU_B"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/rr8osl8"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/q25K9XOIRgir/"
+    }
+  ]
+}

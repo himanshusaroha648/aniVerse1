@@ -1,0 +1,73 @@
+{
+  "series": "Naruto Shippūden",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/rXD6lcg6zhRE8NDRVlQPNkViC3s.jpg",
+  "season": 1,
+  "episode": 22,
+  "episode_title": "Episode 22",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/rXD6lcg6zhRE8NDRVlQPNkViC3s.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/jhQSqelyjjKuKtISyIUklFYMCb7.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/jhQSqelyjjKuKtISyIUklFYMCb7.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/js7jF28FH"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/atjpykm"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/wdw2cwl"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/cctr821"
+    },
+    {
+      "option": 5,
+      "real_video": "https://short.icu/cSdfzKl51"
+    },
+    {
+      "option": 6,
+      "real_video": "https://rubystm.com/eu4f0ciihfgkv.html"
+    },
+    {
+      "option": 7,
+      "real_video": "https://cloudy.upns.one/#ke8z5"
+    },
+    {
+      "option": 8,
+      "real_video": "https://gdmirrorbot.nl/embed/waosqnm"
+    },
+    {
+      "option": 9,
+      "real_video": "https://emturbovid.com/t/67971a6704344"
+    },
+    {
+      "option": 10,
+      "real_video": "https://rubystm.com/e/1dzgs9izwwow.html"
+    },
+    {
+      "option": 11,
+      "real_video": "https://cloudy.upns.one/#r8oobh"
+    },
+    {
+      "option": 12,
+      "real_video": "https://strmup.to/njQmiU5sDPXR4"
+    },
+    {
+      "option": 13,
+      "real_video": "https://turbovidhls.com/t/68e5149a8f119"
+    },
+    {
+      "option": 14,
+      "real_video": "https://vidmoly.net/embed-rzux9f22143j.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/d947bf06a885db0d477d707121934ff8"
+    }
+  ]
+}

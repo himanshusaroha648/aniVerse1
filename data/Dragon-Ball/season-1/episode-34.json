@@ -1,0 +1,61 @@
+{
+  "series": "Dragon Ball",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/vU50hlN4ZHeCSuyhpIfo52TxKR4.jpg",
+  "season": 1,
+  "episode": 34,
+  "episode_title": "Episode 34",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/vU50hlN4ZHeCSuyhpIfo52TxKR4.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/4qkuKwyL08oI3kKJObYKy229yfj.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/4qkuKwyL08oI3kKJObYKy229yfj.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/1frTPGXXkEQg/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/-25GYEX1D"
+    },
+    {
+      "option": 3,
+      "real_video": "https://rubystm.com/e/3qfrhd4kbauy.html"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/en8r7v7"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/dasm0l2"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/tgby8cj"
+    },
+    {
+      "option": 7,
+      "real_video": "https://blakiteapi.xyz/embed/12609/3-6"
+    },
+    {
+      "option": 8,
+      "real_video": "https://cloudy.upns.one/#6salzk"
+    },
+    {
+      "option": 9,
+      "real_video": "https://strmup.to/mKYhAs18xDEU4"
+    },
+    {
+      "option": 10,
+      "real_video": "https://turbovidhls.com/t/68b6b950dce7f"
+    },
+    {
+      "option": 11,
+      "real_video": "https://vidmoly.net/embed-55beeemca0ya.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/e6384711491713d29bc63fc5eeb5ba4f"
+    }
+  ]
+}

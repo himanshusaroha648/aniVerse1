@@ -1,0 +1,25 @@
+{
+  "series": "The Aristocrat's Otherworldly Adventure (Eng-Jap)",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/aH3EKIPW9XRaIJQeF7EYlOe7SEK.jpg",
+  "season": 1,
+  "episode": 10,
+  "episode_title": "Episode 10",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/aH3EKIPW9XRaIJQeF7EYlOe7SEK.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/qeU92i3I7GpW996pBh0cOSnGIBn.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/qeU92i3I7GpW996pBh0cOSnGIBn.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/5BTuYpVXgt"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/iwniss0"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/l3WkgraEGzjP/"
+    }
+  ]
+}

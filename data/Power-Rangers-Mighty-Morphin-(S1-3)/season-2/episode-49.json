@@ -1,0 +1,41 @@
+{
+  "series": "Power Rangers Mighty Morphin (S1-3)",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/8lnX8RWeGBdEQPOvf2IKoRtKfZO.jpg",
+  "season": 2,
+  "episode": 49,
+  "episode_title": "Episode 49",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/8lnX8RWeGBdEQPOvf2IKoRtKfZO.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/rbMTiHb3c7nNc9kmFcj1l97dbPv.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/rbMTiHb3c7nNc9kmFcj1l97dbPv.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/i9nZkNDTC"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/w50qvjmnpsyw.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#j3duom"
+    },
+    {
+      "option": 4,
+      "real_video": "https://strmup.to/brIOLxsVMYh6N"
+    },
+    {
+      "option": 5,
+      "real_video": "https://turbovidhls.com/t/68dfd14a5694e"
+    },
+    {
+      "option": 6,
+      "real_video": "https://vidmoly.net/embed-qic2q5iy0254.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/ddVPFrntajRA/"
+    }
+  ]
+}

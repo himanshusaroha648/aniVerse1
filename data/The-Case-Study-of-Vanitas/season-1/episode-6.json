@@ -1,0 +1,37 @@
+{
+  "series": "The Case Study of Vanitas",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/fvqoSfyfQG0hH9nJAvubq730ymR.jpg",
+  "season": 1,
+  "episode": 6,
+  "episode_title": "Episode 6",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/fvqoSfyfQG0hH9nJAvubq730ymR.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/atwQ3hZ6mWCQMrKtVzmbB3cYLdd.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/atwQ3hZ6mWCQMrKtVzmbB3cYLdd.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/AvaeBSFiYgqW/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/IRtJf2UUy"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/o2ekdwm"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/ustealc"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/p5rfye9"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/bb57db42f77807a9c5823bd8c2d9aaef"
+    }
+  ]
+}

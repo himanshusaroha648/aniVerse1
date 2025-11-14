@@ -1,0 +1,21 @@
+{
+  "series": "One Piece",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/dum1wnm6kJOUos0XJqjB8s2UWi9.jpg",
+  "season": 1,
+  "episode": 3,
+  "episode_title": "Episode 3",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/dum1wnm6kJOUos0XJqjB8s2UWi9.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/7tQnl9cLghQfRqgtx5i7oc1vZJZ.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/7tQnl9cLghQfRqgtx5i7oc1vZJZ.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/2lMNwhCIOCf5/"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/291597a100aadd814d197af4f4bab3a7"
+    }
+  ]
+}

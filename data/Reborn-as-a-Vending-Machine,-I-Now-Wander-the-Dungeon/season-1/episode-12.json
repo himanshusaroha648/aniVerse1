@@ -1,0 +1,37 @@
+{
+  "series": "Reborn as a Vending Machine, I Now Wander the Dungeon",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/902JIF49zAyUdDyh1DNH0ZhSdBj.jpg",
+  "season": 1,
+  "episode": 12,
+  "episode_title": "Episode 12",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/902JIF49zAyUdDyh1DNH0ZhSdBj.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/vGVnNZBrTeKVVORsxpdBVIzzqag.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/vGVnNZBrTeKVVORsxpdBVIzzqag.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/YDGiDwUxxwdz/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/b8fkyrohbobj.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://multimovies.cloud/e/a3gznafu8osr"
+    },
+    {
+      "option": 4,
+      "real_video": "https://filemoon.to/e/3ldpy0fptk61/Toonhub4u_Reborn_as_a_Vending_Machine_I_Now_Wander_the_Dungeon_-_S01E12_Multi-Audio_480p_AAC_Multi-Subs"
+    },
+    {
+      "option": 5,
+      "real_video": "https://filelions.online/v/40aw8z3k8b16"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/5d188b044333b4c62676e0d4f53dade7"
+    }
+  ]
+}

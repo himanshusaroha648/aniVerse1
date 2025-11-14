@@ -1,0 +1,37 @@
+{
+  "series": "Kiteretsu Daihyakka",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/icTY9mQcyjzinblLnkdQR7CWgPa.jpg",
+  "season": 1,
+  "episode": 12,
+  "episode_title": "Episode 12",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/icTY9mQcyjzinblLnkdQR7CWgPa.jpg",
+  "episode_card_thumbnail": "https://toonstream.love/wp-content/themes/torofilm/public/img/cnt/noimg-episode.png",
+  "episode_list_thumbnail": "https://toonstream.love/wp-content/themes/torofilm/public/img/cnt/noimg-episode.png",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://rubystm.com/e/sjl1dwrajzq9.html"
+    },
+    {
+      "option": 2,
+      "real_video": "https://cloudy.upns.one/#v1jw8l"
+    },
+    {
+      "option": 3,
+      "real_video": "https://strmup.to/sVFTG9BbidgPe"
+    },
+    {
+      "option": 4,
+      "real_video": "https://turbovidhls.com/t/68c00f4e2a656"
+    },
+    {
+      "option": 5,
+      "real_video": "https://vidmoly.net/embed-pxxnegzvv9c2.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://short.icu/21xZ-0FUF"
+    }
+  ]
+}

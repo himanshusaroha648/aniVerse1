@@ -1,0 +1,29 @@
+{
+  "series": "One Piece",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/dum1wnm6kJOUos0XJqjB8s2UWi9.jpg",
+  "season": 21,
+  "episode": 154,
+  "episode_title": "Episode 154",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/dum1wnm6kJOUos0XJqjB8s2UWi9.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/5eEVzgbWl65z1BoeAhOwPix7oGf.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/5eEVzgbWl65z1BoeAhOwPix7oGf.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/6hm89o4av6Z8/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/FlpOsjwwM"
+    },
+    {
+      "option": 3,
+      "real_video": "https://rubystm.com/e/yeuxgxjywu02.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/2mplJfWTZGAq/"
+    }
+  ]
+}

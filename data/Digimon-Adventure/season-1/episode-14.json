@@ -1,0 +1,29 @@
+{
+  "series": "Digimon Adventure:",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/7Qspx2eFX0uBSQLLlAKnYrjZgse.jpg",
+  "season": 1,
+  "episode": 14,
+  "episode_title": "Episode 14",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/7Qspx2eFX0uBSQLLlAKnYrjZgse.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/vyPad1Eaqr8SE0hiwCjjZFemzVb.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/vyPad1Eaqr8SE0hiwCjjZFemzVb.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/cOKYVvRVqa0M/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://streamsb.net/e/f28pgbfhf6w0.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://filemoon.to/e/ht1n3qi71156/_Toonhub4u__Digimon_Adventure__40_2020_41__Episode_14_Multi_Audio_480p.mp4"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/02bf86214e264535e3412283e817deaa"
+    }
+  ]
+}

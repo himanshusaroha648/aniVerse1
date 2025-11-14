@@ -1,0 +1,49 @@
+{
+  "series": "Shangri-La Frontier",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/qidGq2WJSIWAPH4jfJNkjriRqiu.jpg",
+  "season": 1,
+  "episode": 20,
+  "episode_title": "Episode 20",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/qidGq2WJSIWAPH4jfJNkjriRqiu.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/dLyEVGTKXhHwnmQYLGKG8SHW7fy.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/dLyEVGTKXhHwnmQYLGKG8SHW7fy.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/G38Aw3GtQarE/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/zN79pfvFE"
+    },
+    {
+      "option": 3,
+      "real_video": "https://rubystm.com/e/knzhsk7kygt7.html"
+    },
+    {
+      "option": 4,
+      "real_video": "https://cloudy.upns.one/#ngmrh"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/uvtaujr"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/eg9unk2"
+    },
+    {
+      "option": 7,
+      "real_video": "https://gdmirrorbot.nl/embed/x9n2ybm"
+    },
+    {
+      "option": 8,
+      "real_video": "https://emturbovid.com/t/6772abf5b82f6"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/afda332245e2af431fb7b672a68b659d"
+    }
+  ]
+}

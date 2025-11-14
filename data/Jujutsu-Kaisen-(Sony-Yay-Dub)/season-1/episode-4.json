@@ -1,0 +1,49 @@
+{
+  "series": "Jujutsu Kaisen (Sony Yay Dub)",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/mJVUZpPR4BdZzLWyP51h8pOU1RO.jpg",
+  "season": 1,
+  "episode": 4,
+  "episode_title": "Episode 4",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/mJVUZpPR4BdZzLWyP51h8pOU1RO.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/7AxWD8EGwgurIeNoS40YidIlbcT.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/7AxWD8EGwgurIeNoS40YidIlbcT.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/cHTav4f9lDPW/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/kVm0UiFib"
+    },
+    {
+      "option": 3,
+      "real_video": "https://rubystm.com/e/doazaju7imw2.html"
+    },
+    {
+      "option": 4,
+      "real_video": "https://cloudy.upns.one/#kd5oi5"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/uv1l51n"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/bj3s829"
+    },
+    {
+      "option": 7,
+      "real_video": "https://gdmirrorbot.nl/embed/oc3eon7"
+    },
+    {
+      "option": 8,
+      "real_video": "https://emturbovid.com/t/67f564cb9fefa"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/0f28b5d49b3020afeecd95b4009adf4c"
+    }
+  ]
+}

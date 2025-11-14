@@ -1,0 +1,49 @@
+{
+  "series": "Dead Mount Death Play",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/oOlg3bPWOKBgy5kgOTVe8pJz4HI.jpg",
+  "season": 1,
+  "episode": 17,
+  "episode_title": "Episode 17",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/oOlg3bPWOKBgy5kgOTVe8pJz4HI.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/fqMhSk1csTJYEg9pHs5B727blnt.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/fqMhSk1csTJYEg9pHs5B727blnt.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/7bkT2DeoSBgI/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/L7utNi1b-"
+    },
+    {
+      "option": 3,
+      "real_video": "https://rubystm.com/e/19vrj7dyukds.html"
+    },
+    {
+      "option": 4,
+      "real_video": "https://cloudy.upns.one/#c6cgh"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/ojpxb1o"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/m5cttql"
+    },
+    {
+      "option": 7,
+      "real_video": "https://gdmirrorbot.nl/embed/fvpg940"
+    },
+    {
+      "option": 8,
+      "real_video": "https://emturbovid.com/t/676189a38e765"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/9c693b040f150014937c0072d90c00db"
+    }
+  ]
+}

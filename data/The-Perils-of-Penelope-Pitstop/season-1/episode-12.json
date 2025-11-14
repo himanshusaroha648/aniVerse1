@@ -1,0 +1,33 @@
+{
+  "series": "The Perils of Penelope Pitstop",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/tEyhRt3ZlBdrIV03pdiK0OW4oZD.jpg",
+  "season": 1,
+  "episode": 12,
+  "episode_title": "Episode 12",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/tEyhRt3ZlBdrIV03pdiK0OW4oZD.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/xCFC7YcKkLUL4qDCopw9lAm6oTG.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/xCFC7YcKkLUL4qDCopw9lAm6oTG.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/rRF8gmROc"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/sdnkckx"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/i7psg1f"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/flyjea3"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/QIuptp5xMVnM/"
+    }
+  ]
+}

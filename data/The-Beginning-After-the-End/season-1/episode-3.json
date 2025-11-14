@@ -1,0 +1,29 @@
+{
+  "series": "The Beginning After the End",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/u0QWnKUhxcxecQSclMBNnO5MXh.jpg",
+  "season": 1,
+  "episode": 3,
+  "episode_title": "Episode 3",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/u0QWnKUhxcxecQSclMBNnO5MXh.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/A3c7ILkGZV03hw9k65zutfPK1md.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/A3c7ILkGZV03hw9k65zutfPK1md.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://rubystm.com/e/2mztc973h5k7.html"
+    },
+    {
+      "option": 2,
+      "real_video": "https://cloudy.upns.one/#sk8r5i"
+    },
+    {
+      "option": 3,
+      "real_video": "https://strmup.to/63KlL7Az8mA7"
+    },
+    {
+      "option": null,
+      "real_video": "https://short.icu/DjYt5VSmh"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "series": "Dragon Ball Super",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/qEUrbXJ2qt4Rg84Btlx4STOhgte.jpg",
+  "season": 1,
+  "episode": 118,
+  "episode_title": "Episode 118",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/qEUrbXJ2qt4Rg84Btlx4STOhgte.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/tM1K3G1zgv7aR1oW0dax68uxqUs.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/tM1K3G1zgv7aR1oW0dax68uxqUs.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/H23I0cCfR"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/zrr9zoyf7xou.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#qtp531"
+    },
+    {
+      "option": 4,
+      "real_video": "https://strmup.to/smvkFy4C6e5JT"
+    },
+    {
+      "option": 5,
+      "real_video": "https://turbovidhls.com/t/68b6930c8deb8"
+    },
+    {
+      "option": 6,
+      "real_video": "https://vidmoly.net/embed-0yel7v4zbpww.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/0394ea68951e3299bcdfa75a097d7c11"
+    }
+  ]
+}

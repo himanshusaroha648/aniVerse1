@@ -1,0 +1,33 @@
+{
+  "series": "Oshi no Ko",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/rFp74PFpz14AHrtlVPrLyrSng47.jpg",
+  "season": 1,
+  "episode": 3,
+  "episode_title": "Episode 3",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/rFp74PFpz14AHrtlVPrLyrSng47.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/gRmEOAKLkF2qWUT0GB4QQcI2X1q.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/gRmEOAKLkF2qWUT0GB4QQcI2X1q.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/bBecV4uaM7"
+    },
+    {
+      "option": 2,
+      "real_video": "https://vidmoly.me/w/mz8a4iabc2e5"
+    },
+    {
+      "option": 3,
+      "real_video": "https://vidstreaming.xyz/v/vHjzDgjnFrID/"
+    },
+    {
+      "option": 4,
+      "real_video": "https://short.icu/Dit0ssSae"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/4DUeqpSG8PaS/"
+    }
+  ]
+}

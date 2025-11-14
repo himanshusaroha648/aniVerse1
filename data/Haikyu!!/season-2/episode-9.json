@@ -1,0 +1,33 @@
+{
+  "series": "Haikyu!!",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/ecQ84z2sR0XapZu435MnFuEBzD8.jpg",
+  "season": 2,
+  "episode": 9,
+  "episode_title": "Episode 9",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/ecQ84z2sR0XapZu435MnFuEBzD8.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/mAiqEX487M3iwhsACtTQuQ7ymOo.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/mAiqEX487M3iwhsACtTQuQ7ymOo.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/Umz2yeVJ-C"
+    },
+    {
+      "option": 2,
+      "real_video": "https://vidmoly.net/embed-x9gyx9hi21g5.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://vidstreaming.xyz/v/uT7JUuh3KB1e/"
+    },
+    {
+      "option": 4,
+      "real_video": "https://short.icu/uKTD4i4iF"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/3fJ6cMk9K1uk/"
+    }
+  ]
+}

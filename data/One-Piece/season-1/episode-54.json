@@ -1,0 +1,21 @@
+{
+  "series": "One Piece",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/dum1wnm6kJOUos0XJqjB8s2UWi9.jpg",
+  "season": 1,
+  "episode": 54,
+  "episode_title": "Episode 54",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/dum1wnm6kJOUos0XJqjB8s2UWi9.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/qsvvwMu1A3dj5xOhBgkhW223qTA.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/qsvvwMu1A3dj5xOhBgkhW223qTA.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/DP8rxSaqvCXW/"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/d6e4228a1ac71c06c3aa8c0fb9686bd6"
+    }
+  ]
+}

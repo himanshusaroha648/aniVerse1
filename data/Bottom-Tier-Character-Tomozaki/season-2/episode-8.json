@@ -1,0 +1,45 @@
+{
+  "series": "Bottom-Tier Character Tomozaki",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/spDlNOiLxhcJ6ToZkcKgNUDwi3V.jpg",
+  "season": 2,
+  "episode": 8,
+  "episode_title": "Episode 8",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/spDlNOiLxhcJ6ToZkcKgNUDwi3V.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/jbLyV2RAH6vzMbLwzDMsiEpRXcS.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/jbLyV2RAH6vzMbLwzDMsiEpRXcS.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/UjebFp-1_"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/wF73uwZkR"
+    },
+    {
+      "option": 3,
+      "real_video": "https://rubystm.com/e/t5tu5i9qd99j.html"
+    },
+    {
+      "option": 4,
+      "real_video": "https://cloudy.upns.one/#oqrnjy"
+    },
+    {
+      "option": 5,
+      "real_video": "https://strmup.to/4ysBe6cvPotxU"
+    },
+    {
+      "option": 6,
+      "real_video": "https://turbovidhls.com/t/68e9fe60b39dd"
+    },
+    {
+      "option": 7,
+      "real_video": "https://vidmoly.net/embed-f7wrra6s301p.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/3cY9Tc8hSubL/"
+    }
+  ]
+}

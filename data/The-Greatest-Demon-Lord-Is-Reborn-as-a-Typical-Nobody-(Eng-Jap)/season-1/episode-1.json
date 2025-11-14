@@ -1,0 +1,25 @@
+{
+  "series": "The Greatest Demon Lord Is Reborn as a Typical Nobody (Eng-Jap)",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/dtULGP3qRi932NzYGsp7u6q6zAS.jpg",
+  "season": 1,
+  "episode": 1,
+  "episode_title": "Episode 1",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/dtULGP3qRi932NzYGsp7u6q6zAS.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/xjkNTNr7s4pDju0PTXINr9QD6as.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/xjkNTNr7s4pDju0PTXINr9QD6as.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/brwwbsIBw"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/ozjtml6"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/wmw4TiiLLbxH/"
+    }
+  ]
+}

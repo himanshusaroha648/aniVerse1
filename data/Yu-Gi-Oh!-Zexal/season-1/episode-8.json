@@ -1,0 +1,45 @@
+{
+  "series": "Yu-Gi-Oh! Zexal",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/hKsREcyiIx0rV50Yzvzzsnc1h85.jpg",
+  "season": 1,
+  "episode": 8,
+  "episode_title": "Episode 8",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/hKsREcyiIx0rV50Yzvzzsnc1h85.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/3q6zjVE2bIHFE192PCf9wMlG6oB.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/3q6zjVE2bIHFE192PCf9wMlG6oB.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/oilfZz8O1"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/b23akuxev219.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#tabaj1"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/rgtttg6"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/q1nljk9"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/ingmjh2"
+    },
+    {
+      "option": 7,
+      "real_video": "https://emturbovid.com/t/67dfd2be96c5c"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/n9jc6ZjaKDwY/"
+    }
+  ]
+}

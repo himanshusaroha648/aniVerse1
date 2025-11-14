@@ -1,0 +1,25 @@
+{
+  "series": "Kakegurui English Dub",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/99jgepKwa0yqLY0pP5BlfYLH6nX.jpg",
+  "season": 1,
+  "episode": 5,
+  "episode_title": "Episode 5",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/99jgepKwa0yqLY0pP5BlfYLH6nX.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/ns5IofYPGzGOh8snSYgqORrEvIq.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/ns5IofYPGzGOh8snSYgqORrEvIq.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/a494jBP8g"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/e5wxbh1"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/kRIaKOnRMzdN/"
+    }
+  ]
+}

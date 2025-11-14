@@ -1,0 +1,41 @@
+{
+  "series": "Hazbin Hotel",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/rXojaQcxVUubPLSrFV8PD4xdjrs.jpg",
+  "season": 1,
+  "episode": 8,
+  "episode_title": "Episode 8",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/rXojaQcxVUubPLSrFV8PD4xdjrs.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/7xQMAAHvFajtQMkBo51SRAP0p7E.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/7xQMAAHvFajtQMkBo51SRAP0p7E.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://rubystm.com/e/i120kdkoye60.html"
+    },
+    {
+      "option": 2,
+      "real_video": "https://vidmoly.me/w/https://vidmoly.net/w/f23ipa5s7hij.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://short.icu/fb_aGqAlo"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/x8143eg"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/l30it0i"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/tj41wm3"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/d1aee41b5b02c5bbb3f50a4a5a104984"
+    }
+  ]
+}

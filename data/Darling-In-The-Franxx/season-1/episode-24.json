@@ -1,0 +1,45 @@
+{
+  "series": "Darling In The Franxx",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/yyUxeNpQoD23XWEdPXLJRGQEtHT.jpg",
+  "season": 1,
+  "episode": 24,
+  "episode_title": "Episode 24",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/yyUxeNpQoD23XWEdPXLJRGQEtHT.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/elWlIROaHSNffkP9CduxGDURuwI.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/elWlIROaHSNffkP9CduxGDURuwI.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/kn2WdlTybGeF/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/yur1zdrikxo7.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://short.icu/qAxZUqemg"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/eqb4pxi"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/iral2wb"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/bhga9ri"
+    },
+    {
+      "option": 7,
+      "real_video": "https://animeworld.site/embed/76121/1-24"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/8c00dee24c9878fea090ed070b44f1ab"
+    }
+  ]
+}

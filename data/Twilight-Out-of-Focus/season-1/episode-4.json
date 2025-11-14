@@ -1,0 +1,41 @@
+{
+  "series": "Twilight Out of Focus",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/21bYoggswt5hFKqqsUBLUx1smHz.jpg",
+  "season": 1,
+  "episode": 4,
+  "episode_title": "Episode 4",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/21bYoggswt5hFKqqsUBLUx1smHz.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/kNBAmFLrE3KYBFOTJgdVo1siZ8N.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/kNBAmFLrE3KYBFOTJgdVo1siZ8N.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/HwVxuMi1nZ7w/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/qbx2l9dp9my6.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://short.icu/kUIOR_xpV"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/hwx0fka"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/i3bkutq"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/r20hlhy"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/ef41d488755367316f04fc0e0e9dc9fc"
+    }
+  ]
+}

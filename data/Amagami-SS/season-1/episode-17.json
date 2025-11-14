@@ -1,0 +1,17 @@
+{
+  "series": "Amagami SS",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/fpMyFbUqu3eFl5Xm4sgGNEamrdE.jpg",
+  "season": 1,
+  "episode": 17,
+  "episode_title": "Episode 17",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/fpMyFbUqu3eFl5Xm4sgGNEamrdE.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/rt9QfCW9AF0PQPnhFT5SHLBplnG.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/rt9QfCW9AF0PQPnhFT5SHLBplnG.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/OF2ngTEl9I1N/"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "series": "The Ancient Magus' Bride: Those Awaiting a Star",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/hH7sRsez0BkSsN3bDaNhMAIoOox.jpg",
+  "season": 1,
+  "episode": 2,
+  "episode_title": "Episode 2",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/hH7sRsez0BkSsN3bDaNhMAIoOox.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/oqj24TH22jaKpog99NlDRjKErTY.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/oqj24TH22jaKpog99NlDRjKErTY.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://rubystm.com/e/ih9pg3vezai9.html"
+    },
+    {
+      "option": 2,
+      "real_video": "https://cloudy.upns.one/#krgplk"
+    },
+    {
+      "option": 3,
+      "real_video": "https://strmup.to//c5ZGeSgJNrC90"
+    },
+    {
+      "option": 4,
+      "real_video": "https://turbovidhls.com/t/68c260199c845"
+    },
+    {
+      "option": 5,
+      "real_video": "https://vidmoly.net/embed-hijnzusfjjia.html"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/lwez0m0"
+    },
+    {
+      "option": 7,
+      "real_video": "https://gdmirrorbot.nl/embed/gkisbj7"
+    },
+    {
+      "option": 8,
+      "real_video": "https://gdmirrorbot.nl/embed/ah73d5k"
+    },
+    {
+      "option": null,
+      "real_video": "https://short.icu/WJkGiQu8F"
+    }
+  ]
+}

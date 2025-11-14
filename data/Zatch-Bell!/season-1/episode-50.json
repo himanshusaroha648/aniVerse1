@@ -1,0 +1,25 @@
+{
+  "series": "Zatch Bell!",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/1JaCkXXU7gB8tHmvuzpu36CgGr1.jpg",
+  "season": 1,
+  "episode": 50,
+  "episode_title": "Episode 50",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/1JaCkXXU7gB8tHmvuzpu36CgGr1.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/rJ34Ak9M01GWWdg8uFv8nL6rq09.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/rJ34Ak9M01GWWdg8uFv8nL6rq09.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/3LATo7CUQ6"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/tb5v9sq"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/DSx1mq94Tp6o/"
+    }
+  ]
+}

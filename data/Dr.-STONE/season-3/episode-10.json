@@ -1,0 +1,53 @@
+{
+  "series": "Dr. STONE",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/x96E9mxxQf5KzXOzIu0ldsfc3QK.jpg",
+  "season": 3,
+  "episode": 10,
+  "episode_title": "Episode 10",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/x96E9mxxQf5KzXOzIu0ldsfc3QK.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/7LhbWIVc3mJf0cjshNwpVWJDLAQ.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/7LhbWIVc3mJf0cjshNwpVWJDLAQ.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/xN8mjYqkUBt0/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/7Xipjwfn7"
+    },
+    {
+      "option": 3,
+      "real_video": "https://rubystm.com/e/wfd4qys8314c.html"
+    },
+    {
+      "option": 4,
+      "real_video": "https://cloudy.upns.one/#kdicft"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/uikfqnk"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/bk0gwim"
+    },
+    {
+      "option": 7,
+      "real_video": "https://gdmirrorbot.nl/embed/y3enm46"
+    },
+    {
+      "option": 8,
+      "real_video": "https://emturbovid.com/t/6853cc2848eda"
+    },
+    {
+      "option": 9,
+      "real_video": "https://raretoonsindia.co/ex/RBuxv6tes4rjvst"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/24322cab50d699df38e74ee891f86f77"
+    }
+  ]
+}

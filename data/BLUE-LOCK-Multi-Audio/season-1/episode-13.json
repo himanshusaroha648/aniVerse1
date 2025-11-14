@@ -1,0 +1,41 @@
+{
+  "series": "BLUE LOCK Multi Audio",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/sTDTy73OYmKY51EK94Mc6AxogzR.jpg",
+  "season": 1,
+  "episode": 13,
+  "episode_title": "Episode 13",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/sTDTy73OYmKY51EK94Mc6AxogzR.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/j3YLyFoHiNHKwxS0Ecu0HIK0pee.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/j3YLyFoHiNHKwxS0Ecu0HIK0pee.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/wFAgKf2IkQNi/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/z8wsrl39rpdo.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://short.icu/7NNqIerXy"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/cebhxp5"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/adoy590"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/w6wk91g"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/f899139df5e1059396431415e770c6dd"
+    }
+  ]
+}

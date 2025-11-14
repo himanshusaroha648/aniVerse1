@@ -1,0 +1,37 @@
+{
+  "series": "Akudama Drive",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/1s3fwsH3AjuyzObYHiptiYRgFa.jpg",
+  "season": 1,
+  "episode": 2,
+  "episode_title": "Episode 2",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/1s3fwsH3AjuyzObYHiptiYRgFa.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/yZ0nodskc5olcxTzU2PaRyC9AyL.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/yZ0nodskc5olcxTzU2PaRyC9AyL.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/eLpvoadGpfRY/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/p25lHN42I"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/julvvqg"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/vrifblx"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/bdqwd1i"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/5118af07364440598cd7a922ccf4a955"
+    }
+  ]
+}

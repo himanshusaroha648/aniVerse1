@@ -1,0 +1,25 @@
+{
+  "series": "Ben 10",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/pT0NlYVIkwM2zAw9oUkePwrOlxW.jpg",
+  "season": 2,
+  "episode": 3,
+  "episode_title": "Episode 3",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/pT0NlYVIkwM2zAw9oUkePwrOlxW.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/pJUZjLkzTkVo7vr4qZF1MatrhMp.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/pJUZjLkzTkVo7vr4qZF1MatrhMp.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://filemoon.to/e/br3kc0tbpf5y/_Toonhub4u__Ben_10_Classic_S02E03_Framed_-_x264_-_AAC_Tamil-Telugu-Hindi-Eng_-_261_MB.mkv"
+    },
+    {
+      "option": 2,
+      "real_video": "https://streamsb.net/e/rt8wpyxwt55e.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/rUXNxPoTqRJM/"
+    }
+  ]
+}

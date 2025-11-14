@@ -1,0 +1,17 @@
+{
+  "series": "Spider-Man",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/peN9aqevr0edVoctVKGZDWFdTRl.jpg",
+  "season": 2,
+  "episode": 14,
+  "episode_title": "Episode 14",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/peN9aqevr0edVoctVKGZDWFdTRl.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/43PtPnoGyYm2YV5GYFcCboi84So.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/43PtPnoGyYm2YV5GYFcCboi84So.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/zS8j4zklLwpb/"
+    }
+  ]
+}

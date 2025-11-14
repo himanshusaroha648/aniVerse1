@@ -1,0 +1,25 @@
+{
+  "series": "The Strongest Sage With the Weakest Crest (Eng-Jap)",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/55IKEC0Q0w50iKlygeHCdldTMse.jpg",
+  "season": 1,
+  "episode": 10,
+  "episode_title": "Episode 10",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/55IKEC0Q0w50iKlygeHCdldTMse.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/193V78k4eMEKh0t2fuCsEyukHe5.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/193V78k4eMEKh0t2fuCsEyukHe5.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/4g93Ks_7a"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/i27tv5r"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/Zbp3TZ7CDGkH/"
+    }
+  ]
+}

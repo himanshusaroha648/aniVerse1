@@ -1,0 +1,25 @@
+{
+  "series": "One Piece",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/dum1wnm6kJOUos0XJqjB8s2UWi9.jpg",
+  "season": 2,
+  "episode": 5,
+  "episode_title": "Episode 5",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/dum1wnm6kJOUos0XJqjB8s2UWi9.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/eYjIaSvZrBQsk9pu2S9lru6EHCD.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/eYjIaSvZrBQsk9pu2S9lru6EHCD.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://rubystm.com/e/1rvluo9io7ia.html"
+    },
+    {
+      "option": 2,
+      "real_video": "https://strmup.to/mWElDr85UUMo"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/itprQYRej8Va/"
+    }
+  ]
+}

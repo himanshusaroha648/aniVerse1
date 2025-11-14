@@ -1,0 +1,25 @@
+{
+  "series": "Phineas and Ferb",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/oSLwJMOOQGAsyJNMi4Y3MO44iAJ.jpg",
+  "season": 1,
+  "episode": 3,
+  "episode_title": "Episode 3",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/oSLwJMOOQGAsyJNMi4Y3MO44iAJ.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/vsxxXVjjYJpdrFfaOIdZHZmRAB7.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/vsxxXVjjYJpdrFfaOIdZHZmRAB7.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/MHpAqaLpUm7e/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/0PdQ4J1iC"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/e546594ad40b116388b50d48c6955f2b"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "series": "Ben 10: Alien Force",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/pGhCUqPaXZ0Xp4dUCT7Q6hjJArf.jpg",
+  "season": 3,
+  "episode": 6,
+  "episode_title": "Episode 6",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/pGhCUqPaXZ0Xp4dUCT7Q6hjJArf.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/hi6FnbAlA3h0rNE5oiHRX96Jsqb.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/hi6FnbAlA3h0rNE5oiHRX96Jsqb.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://filemoon.to/e/ev70afm8ydqy/_Toonhub4u__Ben_10_-_Season_03_-_Episode_6_1080p__Tamil_Telugu_Hindi_English__mkv"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/Bl5QhgPol5Ui/"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "series": "One Piece",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/dum1wnm6kJOUos0XJqjB8s2UWi9.jpg",
+  "season": 22,
+  "episode": 52,
+  "episode_title": "Episode 52",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/dum1wnm6kJOUos0XJqjB8s2UWi9.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/kOIVpVaGzEdi1ztAdYO2ggKrV8N.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/kOIVpVaGzEdi1ztAdYO2ggKrV8N.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://rubystm.com/e/9mxvly8w8tji.html"
+    },
+    {
+      "option": 2,
+      "real_video": "https://cloudy.upns.one/#d8vnni"
+    },
+    {
+      "option": 3,
+      "real_video": "https://strmup.to/euFUwO7EhvZxt"
+    },
+    {
+      "option": 4,
+      "real_video": "https://turbovidhls.com/t/690c3cf6a1fed"
+    },
+    {
+      "option": 5,
+      "real_video": "https://vidmoly.net/embed-ux5t0xm0qot4.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://short.icu/6aJbib7cT"
+    }
+  ]
+}

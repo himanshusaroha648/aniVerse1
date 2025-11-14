@@ -1,0 +1,33 @@
+{
+  "series": "Hyouka",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/dnYx8jtn2JzAMkVYRG9mFZMJoDc.jpg",
+  "season": 1,
+  "episode": 11,
+  "episode_title": "Episode 11",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/dnYx8jtn2JzAMkVYRG9mFZMJoDc.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/sLzTu3R7WU6k2JhPkmWsJ6tjGFa.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/sLzTu3R7WU6k2JhPkmWsJ6tjGFa.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/Gemo52UKAkZ"
+    },
+    {
+      "option": 2,
+      "real_video": "https://vidstreaming.xyz/v/fQ0UWkaOXBj1/"
+    },
+    {
+      "option": 3,
+      "real_video": "https://short.icu/tbuvf2ZK4"
+    },
+    {
+      "option": 4,
+      "real_video": "https://vidstreaming.xyz/v/eEDRKLz5h8c3/"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/Y0nWA904FVx9/"
+    }
+  ]
+}

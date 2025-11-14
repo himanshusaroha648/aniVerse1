@@ -1,0 +1,29 @@
+{
+  "series": "One Piece",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/dum1wnm6kJOUos0XJqjB8s2UWi9.jpg",
+  "season": 22,
+  "episode": 45,
+  "episode_title": "Episode 45",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/dum1wnm6kJOUos0XJqjB8s2UWi9.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/4ra9HGiunpznkN2yNn4PobnuUVL.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/4ra9HGiunpznkN2yNn4PobnuUVL.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/XVzJ3xuo6"
+    },
+    {
+      "option": 2,
+      "real_video": "https://cloudy.upns.one/#isfctu"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/sbb2att"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/lcoLlatLHTxn/"
+    }
+  ]
+}

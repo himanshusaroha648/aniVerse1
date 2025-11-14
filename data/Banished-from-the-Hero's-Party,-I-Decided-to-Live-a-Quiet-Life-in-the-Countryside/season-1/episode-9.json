@@ -1,0 +1,41 @@
+{
+  "series": "Banished from the Hero's Party, I Decided to Live a Quiet Life in the Countryside",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/ly6ivrd6NVJ6axtrvqWTrZxMHFE.jpg",
+  "season": 1,
+  "episode": 9,
+  "episode_title": "Episode 9",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/ly6ivrd6NVJ6axtrvqWTrZxMHFE.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/nn0OhNw49ENSTFdF77p0GPBwoT7.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/nn0OhNw49ENSTFdF77p0GPBwoT7.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/w4zqFiSS5hyW/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/embed-6kznfauuj2i0.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://short.icu/7NqFnixZDB"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/n82db5f"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/e3cr4x0"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/o3ognk4"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/a38b16173474ba8b1a95bcbc30d3b8a5"
+    }
+  ]
+}

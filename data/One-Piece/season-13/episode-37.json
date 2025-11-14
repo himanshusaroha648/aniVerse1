@@ -1,0 +1,25 @@
+{
+  "series": "One Piece",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/dum1wnm6kJOUos0XJqjB8s2UWi9.jpg",
+  "season": 13,
+  "episode": 37,
+  "episode_title": "Episode 37",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/dum1wnm6kJOUos0XJqjB8s2UWi9.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/uVu5Y76LCsvVYeA1rSSDIGhXlHS.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/uVu5Y76LCsvVYeA1rSSDIGhXlHS.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://rubystm.com/e/zt59fwvpdrr7.html"
+    },
+    {
+      "option": 2,
+      "real_video": "https://strmup.to/pdf4UYcXaTGs"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/gRi6055zdngv/"
+    }
+  ]
+}

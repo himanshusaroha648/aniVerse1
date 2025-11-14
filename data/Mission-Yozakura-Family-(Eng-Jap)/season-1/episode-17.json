@@ -1,0 +1,41 @@
+{
+  "series": "Mission: Yozakura Family (Eng-Jap)",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/dTtXbR0DenriganfBidZxFLk4Xx.jpg",
+  "season": 1,
+  "episode": 17,
+  "episode_title": "Episode 17",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/dTtXbR0DenriganfBidZxFLk4Xx.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/sgwJxHBEpOdOw4x4zQQkgxeKkjD.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/sgwJxHBEpOdOw4x4zQQkgxeKkjD.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://rubystm.com/e/44l6uwldxho6.html"
+    },
+    {
+      "option": 2,
+      "real_video": "https://strmup.to//BNRvVqJhMdFbj"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/d9vv7n1"
+    },
+    {
+      "option": 4,
+      "real_video": "https://turbovidhls.com/t/68a6b4c462d67"
+    },
+    {
+      "option": 5,
+      "real_video": "https://vidmoly.net/embed-ok0j1thwxd3x.html"
+    },
+    {
+      "option": 6,
+      "real_video": "https://cloudy.upns.one/#b6qkyg"
+    },
+    {
+      "option": null,
+      "real_video": "https://short.icu/4gntZizYw"
+    }
+  ]
+}

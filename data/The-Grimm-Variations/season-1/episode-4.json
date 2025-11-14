@@ -1,0 +1,37 @@
+{
+  "series": "The Grimm Variations",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/jjk6nHiZGlRu2f6fWyjNWL0hp0k.jpg",
+  "season": 1,
+  "episode": 4,
+  "episode_title": "Episode 4",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/jjk6nHiZGlRu2f6fWyjNWL0hp0k.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/56axqrrp41ovMssqb0D7SKFLT8d.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/56axqrrp41ovMssqb0D7SKFLT8d.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://rubystm.com/e/qq28t1e615tv.html"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/oyZdyn0qw"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/d2tjyld"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/z518xnj"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/aygnga2"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/zOHMVBHEnVKF/"
+    }
+  ]
+}

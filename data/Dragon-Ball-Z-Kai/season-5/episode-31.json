@@ -1,0 +1,41 @@
+{
+  "series": "Dragon Ball Z Kai",
+  "thumbnail": "https://i.imgur.com/zZzbUql.jpg",
+  "season": 5,
+  "episode": 31,
+  "episode_title": "Episode 31",
+  "episode_main_poster": "https://i.imgur.com/zZzbUql.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/sBkKYfQulBbU4aYUglA0nCXNR0X.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/sBkKYfQulBbU4aYUglA0nCXNR0X.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/Uonh9eZaT"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/aemiq6l2074t.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#elw1gg"
+    },
+    {
+      "option": 4,
+      "real_video": "https://strmup.to/xBflyOiX5Iz3P"
+    },
+    {
+      "option": 5,
+      "real_video": "https://turbovidhls.com/t/68b336006cb7f"
+    },
+    {
+      "option": 6,
+      "real_video": "https://vidmoly.net/embed-uubyuvo1rgbl.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/7827d1ec626c891d4b61a15c9dff296e"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "series": "Tottemo! Luckyman",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/ojOOavQH2rNWNhG5NAw2l76czQJ.jpg",
+  "season": 1,
+  "episode": 31,
+  "episode_title": "Episode 31",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/ojOOavQH2rNWNhG5NAw2l76czQJ.jpg",
+  "episode_card_thumbnail": "https://toonstream.love/wp-content/themes/torofilm/public/img/cnt/noimg-episode.png",
+  "episode_list_thumbnail": "https://toonstream.love/wp-content/themes/torofilm/public/img/cnt/noimg-episode.png",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/tMNkqGcM7"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/sxxvgkzr4wq3.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#bj1gt"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/wy73yub"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/zwloast"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/nt4yu1i"
+    },
+    {
+      "option": 7,
+      "real_video": "https://emturbovid.com/t/6774c8fc43291"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/FAaEEHJ9QpEv/"
+    }
+  ]
+}

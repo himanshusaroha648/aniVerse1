@@ -1,0 +1,25 @@
+{
+  "series": "The Devil Is a Part-Timer! (Eng-Jap)",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/55jYHFT8iJuASF8Mzg0V8Dh3N3M.jpg",
+  "season": 2,
+  "episode": 10,
+  "episode_title": "Episode 10",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/55jYHFT8iJuASF8Mzg0V8Dh3N3M.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/a2Kn0NZdikvuzQNlV9wbJfF2Wnx.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/a2Kn0NZdikvuzQNlV9wbJfF2Wnx.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/y0xylObb3"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/kkz4y2s"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/YdCfB3GtGv98/"
+    }
+  ]
+}

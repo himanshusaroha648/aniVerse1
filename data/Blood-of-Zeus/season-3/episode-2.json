@@ -1,0 +1,49 @@
+{
+  "series": "Blood of Zeus",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/eUMDEIwpz3NjLMHwA4SF5KO1ZzT.jpg",
+  "season": 3,
+  "episode": 2,
+  "episode_title": "Episode 2",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/eUMDEIwpz3NjLMHwA4SF5KO1ZzT.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/gqsjSTDVQMufqivJ8SByosx0cef.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/gqsjSTDVQMufqivJ8SByosx0cef.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/E1EdlMoatHY9/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/RUzLbbGB3"
+    },
+    {
+      "option": 3,
+      "real_video": "https://rubystm.com/e/0gltyzzstr4b.html"
+    },
+    {
+      "option": 4,
+      "real_video": "https://cloudy.upns.one/#6ht3zq"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/m8ftmcz"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/ueqt4yl"
+    },
+    {
+      "option": 7,
+      "real_video": "https://gdmirrorbot.nl/embed/auqwlpw"
+    },
+    {
+      "option": 8,
+      "real_video": "https://emturbovid.com/t/6829aa99cba1d"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/eae048851f0bf3279e3650da896306d9"
+    }
+  ]
+}

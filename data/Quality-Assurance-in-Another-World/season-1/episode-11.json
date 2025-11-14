@@ -1,0 +1,41 @@
+{
+  "series": "Quality Assurance in Another World",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/toNVPhr8BpCbJ4LUGdiOGJpcy80.jpg",
+  "season": 1,
+  "episode": 11,
+  "episode_title": "Episode 11",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/toNVPhr8BpCbJ4LUGdiOGJpcy80.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/goRLMZaeb4LGCpI7oUTru14PR6.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/goRLMZaeb4LGCpI7oUTru14PR6.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/Zlg3C3UkHnP3/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/qx9ue11sfh6w.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://short.icu/C4e0STxZT"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/a89fs5e"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/thefidd"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/k4y5les"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/92bbd31f8e0e43a7da8a6295b251725f"
+    }
+  ]
+}

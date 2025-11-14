@@ -1,0 +1,49 @@
+{
+  "series": "Rurouni Kenshin",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/jCMbKOH4iootEBXNa5e4jKoeTSU.jpg",
+  "season": 2,
+  "episode": 20,
+  "episode_title": "Episode 20",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/jCMbKOH4iootEBXNa5e4jKoeTSU.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/tn392fVVL17ea0FHoZQPZHk5g5b.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/tn392fVVL17ea0FHoZQPZHk5g5b.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/vD8VamRZZI8X/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/-aoGmhJ1L"
+    },
+    {
+      "option": 3,
+      "real_video": "https://rubystm.com/e/hxp8hrepz286.html"
+    },
+    {
+      "option": 4,
+      "real_video": "https://cloudy.upns.one/#vzxl18"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/nlw5r8v"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/t4zite0"
+    },
+    {
+      "option": 7,
+      "real_video": "https://gdmirrorbot.nl/embed/pb97lcc"
+    },
+    {
+      "option": 8,
+      "real_video": "https://emturbovid.com/t/67dd2a1dd7a7a"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/0dc23b6a0e4abc39904388dd3ffadcd1"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "series": "Yo-kai Watch",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/k8EM9rl22UAGtR2YUHNHsnMWggn.jpg",
+  "season": 1,
+  "episode": 7,
+  "episode_title": "Episode 7",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/k8EM9rl22UAGtR2YUHNHsnMWggn.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/cqOT98glp1U3cjwLHMcygal22dK.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/cqOT98glp1U3cjwLHMcygal22dK.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/WoIi8qy-q"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/mcjbibk"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/e27r2db"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/chx5mb6"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/EKRj9xQQvJaw/"
+    }
+  ]
+}

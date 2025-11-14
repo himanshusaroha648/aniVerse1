@@ -1,0 +1,41 @@
+{
+  "series": "The Angel Next Door Spoils Me Rotten",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/twCEEzmZZkgQIPXzw0JF350GO0P.jpg",
+  "season": 1,
+  "episode": 4,
+  "episode_title": "Episode 4",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/twCEEzmZZkgQIPXzw0JF350GO0P.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/7K4lEGA94UojtNykTCxykcCgyhP.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/7K4lEGA94UojtNykTCxykcCgyhP.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/3vCpHeShQ6uB/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://stmruby.com/e/05ffvcd40afz.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://short.icu/-CyS6vHBy"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/voiqdl9"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/cgfafb8"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/j07ar89"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/41d6c2482cdf34113f998e9df192e148"
+    }
+  ]
+}

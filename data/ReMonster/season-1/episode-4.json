@@ -1,0 +1,37 @@
+{
+  "series": "Re:Monster",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/AmFrA0jX0p9twH1IKfxcGWVz2X3.jpg",
+  "season": 1,
+  "episode": 4,
+  "episode_title": "Episode 4",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/AmFrA0jX0p9twH1IKfxcGWVz2X3.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/2S3fwaVKrG40nqgXFVeiK0ZmFqX.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/2S3fwaVKrG40nqgXFVeiK0ZmFqX.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/q-0leKGOe"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/8tuux944lccu"
+    },
+    {
+      "option": 3,
+      "real_video": "https://vidcloud.upns.ink/#tzysqu"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/y43ao0t"
+    },
+    {
+      "option": 5,
+      "real_video": "https://emturbovid.com/t/6906bf3f7f396"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/675e652a358f53f87a3f89c06a6e8692"
+    }
+  ]
+}

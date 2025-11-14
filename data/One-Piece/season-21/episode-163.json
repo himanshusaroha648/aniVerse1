@@ -1,0 +1,29 @@
+{
+  "series": "One Piece",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/dum1wnm6kJOUos0XJqjB8s2UWi9.jpg",
+  "season": 21,
+  "episode": 163,
+  "episode_title": "Episode 163",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/dum1wnm6kJOUos0XJqjB8s2UWi9.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/1wRF8WvB1r7mVFAbkNw13miAedK.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/1wRF8WvB1r7mVFAbkNw13miAedK.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/NkZ52uNl2kAm/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/Bvnil8icP"
+    },
+    {
+      "option": 3,
+      "real_video": "https://rubystm.com/e/ze3694scv8h7.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/uH9B9i2aGfPv/"
+    }
+  ]
+}

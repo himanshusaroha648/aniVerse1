@@ -1,0 +1,21 @@
+{
+  "series": "Power Rangers Cosmic Fury",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/vhRYYSSQvLcyz58XUAOHJGVClJa.jpg",
+  "season": 1,
+  "episode": 2,
+  "episode_title": "Episode 2",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/vhRYYSSQvLcyz58XUAOHJGVClJa.jpg",
+  "episode_card_thumbnail": "https://i.imgur.com/4sghgI1.jpg",
+  "episode_list_thumbnail": "https://i.imgur.com/4sghgI1.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://rubystm.com/e/c0kt4qdcida5.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/41z7aU5OGwxn/"
+    }
+  ]
+}

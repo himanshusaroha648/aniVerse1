@@ -1,0 +1,53 @@
+{
+  "series": "Kurukshetra",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/s1xk9u3XqaFKjcNktDq2EzobPBB.jpg",
+  "season": 1,
+  "episode": 14,
+  "episode_title": "Episode 14",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/s1xk9u3XqaFKjcNktDq2EzobPBB.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/wf9oGA9NHOQ6S7ehevpuL9xwLUx.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/wf9oGA9NHOQ6S7ehevpuL9xwLUx.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/MkDW6INFj"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/3fe1h0ki6adm.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#ujqidq"
+    },
+    {
+      "option": 4,
+      "real_video": "https://strmup.to/WCnlfvd6zEkau"
+    },
+    {
+      "option": 5,
+      "real_video": "https://turbovidhls.com/t/68fb7f0816e17"
+    },
+    {
+      "option": 6,
+      "real_video": "https://vidmoly.net/embed-e9oct9a26ot2.html"
+    },
+    {
+      "option": 7,
+      "real_video": "https://gdmirrorbot.nl/embed/lr05256"
+    },
+    {
+      "option": 8,
+      "real_video": "https://gdmirrorbot.nl/embed/kvsu3rk"
+    },
+    {
+      "option": 9,
+      "real_video": "https://gdmirrorbot.nl/embed/ec3fi2k"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/35bfa72d9899bf43087e4ea42e4a6423"
+    }
+  ]
+}

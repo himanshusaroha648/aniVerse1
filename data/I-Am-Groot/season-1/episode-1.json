@@ -1,0 +1,29 @@
+{
+  "series": "I Am Groot",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/eqKNlMgG6pE1tbvTcD86NDNKlru.jpg",
+  "season": 1,
+  "episode": 1,
+  "episode_title": "Episode 1",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/eqKNlMgG6pE1tbvTcD86NDNKlru.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/iecIwrRoq1uZfhJ9XRrZD29Zr4R.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/iecIwrRoq1uZfhJ9XRrZD29Zr4R.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/BzWqCY89t"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/b14epbp"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/npcbmu6"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/pPmQjH2NGtv8/"
+    }
+  ]
+}

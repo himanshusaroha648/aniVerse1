@@ -1,0 +1,17 @@
+{
+  "series": "Amagami SS",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/fpMyFbUqu3eFl5Xm4sgGNEamrdE.jpg",
+  "season": 1,
+  "episode": 25,
+  "episode_title": "Episode 25",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/fpMyFbUqu3eFl5Xm4sgGNEamrdE.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/n41gsMmWdTgO1JS0zneHHx28FAW.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/n41gsMmWdTgO1JS0zneHHx28FAW.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/H5Mj5Jb92l5Q/"
+    }
+  ]
+}

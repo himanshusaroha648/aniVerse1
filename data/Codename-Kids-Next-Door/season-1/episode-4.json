@@ -1,0 +1,33 @@
+{
+  "series": "Codename: Kids Next Door",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/ppM8Pl6e8JIr39HPLRFgqDH3Vf1.jpg",
+  "season": 1,
+  "episode": 4,
+  "episode_title": "Episode 4",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/ppM8Pl6e8JIr39HPLRFgqDH3Vf1.jpg",
+  "episode_card_thumbnail": "https://toonstream.love/wp-content/themes/torofilm/public/img/cnt/noimg-episode.png",
+  "episode_list_thumbnail": "https://toonstream.love/wp-content/themes/torofilm/public/img/cnt/noimg-episode.png",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/3VsvGoqWH"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/t6ivxt6"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/ge72ym9"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/d8vuo3u"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/WD8uaIH3DO0u/"
+    }
+  ]
+}

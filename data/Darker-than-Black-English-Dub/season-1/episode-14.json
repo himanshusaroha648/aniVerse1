@@ -1,0 +1,21 @@
+{
+  "series": "Darker than Black English Dub",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/i2jS5N0FK9o58Lxh5mnkOzEDZsd.jpg",
+  "season": 1,
+  "episode": 14,
+  "episode_title": "Episode 14",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/i2jS5N0FK9o58Lxh5mnkOzEDZsd.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/f1yv5UPUaMSfRjpteSwK9vB7TPy.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/f1yv5UPUaMSfRjpteSwK9vB7TPy.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/0EMWdY_3u"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/I9nptyYZfiV2/"
+    }
+  ]
+}

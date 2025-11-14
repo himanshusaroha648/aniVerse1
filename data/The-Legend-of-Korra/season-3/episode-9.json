@@ -1,0 +1,37 @@
+{
+  "series": "The Legend of Korra",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/nhP0VGO2GSZbL4PUgmA6Vja48aM.jpg",
+  "season": 3,
+  "episode": 9,
+  "episode_title": "Episode 9",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/nhP0VGO2GSZbL4PUgmA6Vja48aM.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/3sVrcSVGtOTvcmPWcz30eCD8s77.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/3sVrcSVGtOTvcmPWcz30eCD8s77.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://rubystm.com/e/2o2arz2buskw.html"
+    },
+    {
+      "option": 2,
+      "real_video": "https://cloudy.upns.one/#3agvje"
+    },
+    {
+      "option": 3,
+      "real_video": "https://strmup.to/Tnc4yCD1sE9JW"
+    },
+    {
+      "option": 4,
+      "real_video": "https://emturbovid.com/t/687a1cca43ffe"
+    },
+    {
+      "option": 5,
+      "real_video": "https://vidmoly.net/embed-vd9qmbwjc2qn.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://short.icu/5bEyQ6G1i"
+    }
+  ]
+}

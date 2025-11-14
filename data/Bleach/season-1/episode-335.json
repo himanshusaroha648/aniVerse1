@@ -1,0 +1,25 @@
+{
+  "series": "Bleach",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
+  "season": 1,
+  "episode": 335,
+  "episode_title": "Episode 335",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/jXMrLoohAtpmweUyYG4vpM2yr1g.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/jXMrLoohAtpmweUyYG4vpM2yr1g.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/GEr9ISG3Q"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/sy4oruy"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/rAa5ROiS3cx6/"
+    }
+  ]
+}

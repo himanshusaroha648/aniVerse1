@@ -1,0 +1,29 @@
+{
+  "series": "One Piece",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/dum1wnm6kJOUos0XJqjB8s2UWi9.jpg",
+  "season": 21,
+  "episode": 137,
+  "episode_title": "Episode 137",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/dum1wnm6kJOUos0XJqjB8s2UWi9.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/zUBxC2iewH7DWjzbbOjVzJsqp8n.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/zUBxC2iewH7DWjzbbOjVzJsqp8n.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/6DZe3ILT8Vvn/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/-T0oSKkp6"
+    },
+    {
+      "option": 3,
+      "real_video": "https://rubystm.com/e/40s2n17jnwan.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/6SlmD0umyOJd/"
+    }
+  ]
+}

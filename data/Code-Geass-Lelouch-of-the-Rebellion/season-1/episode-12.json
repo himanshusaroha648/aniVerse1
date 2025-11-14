@@ -1,0 +1,41 @@
+{
+  "series": "Code Geass: Lelouch of the Rebellion",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/nF0qzl8jfQYxynra99WrC1zFq4C.jpg",
+  "season": 1,
+  "episode": 12,
+  "episode_title": "Episode 12",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/nF0qzl8jfQYxynra99WrC1zFq4C.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/iuqCiPkYbF0RuwGUvNTnWudfzRM.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/iuqCiPkYbF0RuwGUvNTnWudfzRM.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/Hzca1J6ca3Uc/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/45v7ktt7kwu4.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://short.icu/hGAfi-76a"
+    },
+    {
+      "option": 4,
+      "real_video": "https://multimovies.cloud/e/lf39yoh8dvj2"
+    },
+    {
+      "option": 5,
+      "real_video": "https://filemoon.to/e/4guwzt5rdu6w/Toonhub4u_Code_Geass_S01E12_480p_BDRip_Multi_Audio_ESub"
+    },
+    {
+      "option": 6,
+      "real_video": "https://filelions.online/v/l0hu4ivbufvs"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/21186d7b1482412ab14f0332b8aee119"
+    }
+  ]
+}

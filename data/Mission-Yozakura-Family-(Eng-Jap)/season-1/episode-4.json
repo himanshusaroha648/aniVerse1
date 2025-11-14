@@ -1,0 +1,41 @@
+{
+  "series": "Mission: Yozakura Family (Eng-Jap)",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/dTtXbR0DenriganfBidZxFLk4Xx.jpg",
+  "season": 1,
+  "episode": 4,
+  "episode_title": "Episode 4",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/dTtXbR0DenriganfBidZxFLk4Xx.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/8oUt2xRO4KpzYec4eNmUkubUVIT.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/8oUt2xRO4KpzYec4eNmUkubUVIT.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://rubystm.com/e/o0u9x4zybpem.html"
+    },
+    {
+      "option": 2,
+      "real_video": "https://strmup.to//fc9rGMwd8ZWPs"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/ggjrm6w"
+    },
+    {
+      "option": 4,
+      "real_video": "https://turbovidhls.com/t/68a6b4ab73239"
+    },
+    {
+      "option": 5,
+      "real_video": "https://vidmoly.net/embed-yu5adpwnip34.html"
+    },
+    {
+      "option": 6,
+      "real_video": "https://cloudy.upns.one/#h9aqz8"
+    },
+    {
+      "option": null,
+      "real_video": "https://short.icu/Hu63wokmS"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "series": "Naruto Shippūden [English-Jap Dub]",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/lufFEkkD5JMrDgiVYh4s1ksx4nv.jpg",
+  "season": 11,
+  "episode": 13,
+  "episode_title": "Episode 13",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/lufFEkkD5JMrDgiVYh4s1ksx4nv.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/wHQtjPKrDzxuBV9uEWn7ujhnpFb.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/wHQtjPKrDzxuBV9uEWn7ujhnpFb.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://strmup.to/wGIxbqKJ2Fo7A"
+    },
+    {
+      "option": null,
+      "real_video": "https://rubystm.com/e/7uq4bcrmrglm.html"
+    }
+  ]
+}

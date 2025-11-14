@@ -1,0 +1,45 @@
+{
+  "series": "Knuckles",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/kAphbFVDEPkEjYXSNpkZPvqF5L3.jpg",
+  "season": 1,
+  "episode": 6,
+  "episode_title": "Episode 6",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/kAphbFVDEPkEjYXSNpkZPvqF5L3.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/leDsP0biTb7IbXjGo1K8sD8TeyT.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/leDsP0biTb7IbXjGo1K8sD8TeyT.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/E19hPzgnv"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/m0dcqj89gbxr.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#n8vtto"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/etxc4s8"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/wz72mg3"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/tdnxwvv"
+    },
+    {
+      "option": 7,
+      "real_video": "https://emturbovid.com/t/67db59ffba535"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/3Y7SfbOQ4lOW/"
+    }
+  ]
+}

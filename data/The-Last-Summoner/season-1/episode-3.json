@@ -1,0 +1,25 @@
+{
+  "series": "The Last Summoner",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/r7Ked7mAnvuuRPuehta2L4eHUfO.jpg",
+  "season": 1,
+  "episode": 3,
+  "episode_title": "Episode 3",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/r7Ked7mAnvuuRPuehta2L4eHUfO.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/yZ1QKgA2hTEUCtTcDPNwssrcTli.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/yZ1QKgA2hTEUCtTcDPNwssrcTli.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/DZV6rDM0z"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/pdki5ip"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/vSt4K7MbAc5l/"
+    }
+  ]
+}

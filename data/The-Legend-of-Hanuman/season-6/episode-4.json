@@ -1,0 +1,45 @@
+{
+  "series": "The Legend of Hanuman",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/jChnoOJwvblBl4vYjale9KEXdQn.jpg",
+  "season": 6,
+  "episode": 4,
+  "episode_title": "Episode 4",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/jChnoOJwvblBl4vYjale9KEXdQn.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/317wvaeHJXpq68eR8arCW3B0Gok.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/317wvaeHJXpq68eR8arCW3B0Gok.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/2Q3NmijJ-"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/s4xfcxgd0jdw.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#8tx3sd"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/latjb8c"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/kaih2l5"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/k2zwpyh"
+    },
+    {
+      "option": 7,
+      "real_video": "https://emturbovid.com/t/67fbe81c94687"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/f4lRDfa3EOif/"
+    }
+  ]
+}

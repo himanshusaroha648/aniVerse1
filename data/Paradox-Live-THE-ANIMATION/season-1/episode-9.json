@@ -1,0 +1,49 @@
+{
+  "series": "Paradox Live THE ANIMATION",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/tlPG08mmtFPb6K0PpymddXvuzzt.jpg",
+  "season": 1,
+  "episode": 9,
+  "episode_title": "Episode 9",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/tlPG08mmtFPb6K0PpymddXvuzzt.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/5v1USewzgglji0uXq0kLRUbDvLk.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/5v1USewzgglji0uXq0kLRUbDvLk.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/LklFnFZYWL3p/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/x-K6VxEbF"
+    },
+    {
+      "option": 3,
+      "real_video": "https://rubystm.com/e/2hwhjn5i4ubp.html"
+    },
+    {
+      "option": 4,
+      "real_video": "https://cloudy.upns.one/#urxtih"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/wj6f87c"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/pokb9ba"
+    },
+    {
+      "option": 7,
+      "real_video": "https://gdmirrorbot.nl/embed/bvim4hf"
+    },
+    {
+      "option": 8,
+      "real_video": "https://emturbovid.com/t/682f1828012c9"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/195d221c982e47eb58347e5d06ce3180"
+    }
+  ]
+}

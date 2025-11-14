@@ -1,0 +1,45 @@
+{
+  "series": "Darling In The Franxx",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/yyUxeNpQoD23XWEdPXLJRGQEtHT.jpg",
+  "season": 1,
+  "episode": 12,
+  "episode_title": "Episode 12",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/yyUxeNpQoD23XWEdPXLJRGQEtHT.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/guVKdehyUht0VCZPxT2X4z2uqan.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/guVKdehyUht0VCZPxT2X4z2uqan.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/0nMDIpGFj63F/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/zmp6pp4inz3g.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://short.icu/FnF86tcfL"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/lew6fjd"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/lex0dj8"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/rdm061v"
+    },
+    {
+      "option": 7,
+      "real_video": "https://animeworld.site/embed/76121/1-12"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/2b3bf3eee2475e03885a110e9acaab61"
+    }
+  ]
+}

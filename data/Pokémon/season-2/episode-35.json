@@ -1,0 +1,17 @@
+{
+  "series": "Pokémon",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/rOuGm07PxBhEsK9TaGPRQVJQm1X.jpg",
+  "season": 2,
+  "episode": 35,
+  "episode_title": "Episode 35",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/rOuGm07PxBhEsK9TaGPRQVJQm1X.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/r4U6b5sV5hf3Mq6fCiaSPRSmM53.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/r4U6b5sV5hf3Mq6fCiaSPRSmM53.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/tPRXaI9bitH7/"
+    }
+  ]
+}

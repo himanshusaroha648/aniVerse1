@@ -1,0 +1,25 @@
+{
+  "series": "Detective Conan",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/9ve6LW4ltMMpp9WjoR4MGViOp9V.jpg",
+  "season": 1,
+  "episode": 5,
+  "episode_title": "Episode 5",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/9ve6LW4ltMMpp9WjoR4MGViOp9V.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/1VRZ8fX9wN3Z6dEkRZfNDFrIv84.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/1VRZ8fX9wN3Z6dEkRZfNDFrIv84.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://streamsb.net/e/zzqnpl2j7nyc.html"
+    },
+    {
+      "option": 2,
+      "real_video": "https://filemoon.to/d/7j6agl4uvxjf/_Toonhub4u__Detective_Conan_Season_1_Episode_11_in_Multi_Audio_480p.mp4"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/3jZwhviru5O1/"
+    }
+  ]
+}

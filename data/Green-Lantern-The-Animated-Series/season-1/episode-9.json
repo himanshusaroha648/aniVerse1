@@ -1,0 +1,33 @@
+{
+  "series": "Green Lantern: The Animated Series",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/qSSFP3va0q2WL2a2DzcdcjVe463.jpg",
+  "season": 1,
+  "episode": 9,
+  "episode_title": "Episode 9",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/qSSFP3va0q2WL2a2DzcdcjVe463.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/rqOj2pXi4cJm4tlyNCx06zSZF.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/rqOj2pXi4cJm4tlyNCx06zSZF.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/YAR5KQFd2"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/sl1dqas"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/z1oz2u8"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/d1ugcip"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/ijbNRzlfrEYF/"
+    }
+  ]
+}

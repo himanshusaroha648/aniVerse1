@@ -1,0 +1,57 @@
+{
+  "series": "Horimiya: The Missing Pieces",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/t3ZFXwFiyOobmE2GVEE5TrRdGAn.jpg",
+  "season": 1,
+  "episode": 4,
+  "episode_title": "Episode 4",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/t3ZFXwFiyOobmE2GVEE5TrRdGAn.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/uERna80hUO3ut1on8goBRXSyzEv.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/uERna80hUO3ut1on8goBRXSyzEv.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/Fq4f4pi72"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/4qqso85rxy7l.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://rubystm.com/e/4qqso85rxy7l.html"
+    },
+    {
+      "option": 4,
+      "real_video": "https://cloudy.upns.one/#dqazmu"
+    },
+    {
+      "option": 5,
+      "real_video": "https://strmup.to/K6ySUxveqzTWB"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/a4l64d3"
+    },
+    {
+      "option": 7,
+      "real_video": "https://gdmirrorbot.nl/embed/pcih7uw"
+    },
+    {
+      "option": 8,
+      "real_video": "https://gdmirrorbot.nl/embed/n6r6q8r"
+    },
+    {
+      "option": 9,
+      "real_video": "https://emturbovid.com/t/686e1e5aa78d1"
+    },
+    {
+      "option": 10,
+      "real_video": "https://vidmoly.net/embed-mz7qaw7jy461.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://raretoonsindia.co/ex/MigHY3pRaEn8fPs"
+    }
+  ]
+}

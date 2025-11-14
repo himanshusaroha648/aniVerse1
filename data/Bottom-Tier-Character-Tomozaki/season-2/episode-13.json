@@ -1,0 +1,45 @@
+{
+  "series": "Bottom-Tier Character Tomozaki",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/spDlNOiLxhcJ6ToZkcKgNUDwi3V.jpg",
+  "season": 2,
+  "episode": 13,
+  "episode_title": "Episode 13",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/spDlNOiLxhcJ6ToZkcKgNUDwi3V.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/pCE4UKOjUzIvCGlv1GY0xDHWMVK.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/pCE4UKOjUzIvCGlv1GY0xDHWMVK.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/kv4NktIzW"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/ta4YQ-KgIE"
+    },
+    {
+      "option": 3,
+      "real_video": "https://rubystm.com/e/vl36g1wv1iz9.html"
+    },
+    {
+      "option": 4,
+      "real_video": "https://cloudy.upns.one/#cat5vl"
+    },
+    {
+      "option": 5,
+      "real_video": "https://strmup.to/mgPOQSFrJjtY7"
+    },
+    {
+      "option": 6,
+      "real_video": "https://turbovidhls.com/t/68e9fe6abcf56"
+    },
+    {
+      "option": 7,
+      "real_video": "https://vidmoly.net/embed-f38iiwkbv29d.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/TXr4mvvX3Z5X/"
+    }
+  ]
+}

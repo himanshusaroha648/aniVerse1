@@ -1,0 +1,37 @@
+{
+  "series": "Love, Death & Robots",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/vvRpJJxAw1sB4w4r0hsOdqa9eJc.jpg",
+  "season": 2,
+  "episode": 6,
+  "episode_title": "Episode 6",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/vvRpJJxAw1sB4w4r0hsOdqa9eJc.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/l1iKe12zfv7chVZp4UO5ogjQtjh.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/l1iKe12zfv7chVZp4UO5ogjQtjh.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/LQ3FgLY185SU/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/VpOk_SKVv"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/kp1h90t"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/veb9kow"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/hw7hevc"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/52156f7194073f084237a48a1c2b7ea4"
+    }
+  ]
+}

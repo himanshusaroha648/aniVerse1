@@ -1,0 +1,33 @@
+{
+  "series": "Superbook",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/4gxPU54vvA5ZGaICzwDXAQY5SvR.jpg",
+  "season": 3,
+  "episode": 5,
+  "episode_title": "Episode 5",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/4gxPU54vvA5ZGaICzwDXAQY5SvR.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/yDhyag4vpHx3zUDPahEbJzO3KG.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/yDhyag4vpHx3zUDPahEbJzO3KG.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/jUb63LPmj"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/qsrnmwc"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/hgyyt0f"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/lv3qv5l"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/io7nnmV6ZbI6/"
+    }
+  ]
+}

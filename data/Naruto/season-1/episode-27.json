@@ -1,0 +1,53 @@
+{
+  "series": "Naruto",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/vauCEnR7CiyBDzRCeElKkCaXIYu.jpg",
+  "season": 1,
+  "episode": 27,
+  "episode_title": "Episode 27",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/vauCEnR7CiyBDzRCeElKkCaXIYu.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/e0GGbezmLS5SVYTgAHQEnB2pfXE.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/e0GGbezmLS5SVYTgAHQEnB2pfXE.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/ExZa9NOdyTPB/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/bN4-fKNBH"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/fxi8ed2"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/gi98h9x"
+    },
+    {
+      "option": 5,
+      "real_video": "https://rubystm.com/e/cvwn0ry0w35n.html"
+    },
+    {
+      "option": 6,
+      "real_video": "https://cloudy.upns.one/#mebdxt"
+    },
+    {
+      "option": 7,
+      "real_video": "https://strmup.to/3Mp6H0e1Us5AL"
+    },
+    {
+      "option": 8,
+      "real_video": "https://emturbovid.com/t/68e2a000bf620"
+    },
+    {
+      "option": 9,
+      "real_video": "https://vidmoly.net/embed-j6o5syd34csv.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/539fd53b59e3bb12d203f45a912eeaf2"
+    }
+  ]
+}

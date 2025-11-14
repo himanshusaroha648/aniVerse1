@@ -1,0 +1,53 @@
+{
+  "series": "My Unique Skill Makes Me OP Even at Level 1",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/cIrptxkpf3SNcPty3JaywvWRJ5w.jpg",
+  "season": 1,
+  "episode": 5,
+  "episode_title": "Episode 5",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/cIrptxkpf3SNcPty3JaywvWRJ5w.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/mNMCeuBmpUyKKFDv5ygpbUImfw8.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/mNMCeuBmpUyKKFDv5ygpbUImfw8.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/MQxb5ctyW"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e//26wdy28my9i3.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#pu5szs"
+    },
+    {
+      "option": 4,
+      "real_video": "https://strmup.to/0l249Avd7m3VZ"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/gdwle2r"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/hmw9ahh"
+    },
+    {
+      "option": 7,
+      "real_video": "https://gdmirrorbot.nl/embed/tuzq38c"
+    },
+    {
+      "option": 8,
+      "real_video": "https://turbovidhls.com/t/68b1735acf988"
+    },
+    {
+      "option": 9,
+      "real_video": "https://vidmoly.net/embed-6hxav7iydik3.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/8621cdddd12002436862912970737eda"
+    }
+  ]
+}

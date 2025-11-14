@@ -1,0 +1,49 @@
+{
+  "series": "Ghost in the Shell: Stand Alone Complex",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/mzZbdPUtAD5CGyIjGR98FpzKahi.jpg",
+  "season": 2,
+  "episode": 11,
+  "episode_title": "Episode 11",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/mzZbdPUtAD5CGyIjGR98FpzKahi.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/xyIpdYw96AviH31BX4ZYOGPsuxO.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/xyIpdYw96AviH31BX4ZYOGPsuxO.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/NIv6rXqKKGCn/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/L1yp6aB0Or"
+    },
+    {
+      "option": 3,
+      "real_video": "https://rubystm.com/e/8v20p4a29oaz.html"
+    },
+    {
+      "option": 4,
+      "real_video": "https://cloudy.upns.one/#hlfrit"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/gu1q0w0"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/kkens7e"
+    },
+    {
+      "option": 7,
+      "real_video": "https://gdmirrorbot.nl/embed/cnmqbi6"
+    },
+    {
+      "option": 8,
+      "real_video": "https://emturbovid.com/t/68428fa2c6861"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/95653e801f64ca51dbadb7cbd02471ae"
+    }
+  ]
+}

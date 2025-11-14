@@ -1,0 +1,21 @@
+{
+  "series": "Transformers: Prime",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/ilOKsGRHYc78R2tSMusAd3xGJWq.jpg",
+  "season": 2,
+  "episode": 13,
+  "episode_title": "Episode 13",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/ilOKsGRHYc78R2tSMusAd3xGJWq.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/9fiWQ69bXkINlE3HNnAhIrdehY6.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/9fiWQ69bXkINlE3HNnAhIrdehY6.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/ihaP8Ary8WHI/"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/c89ca36e4d0430e75ca2390470a59a59"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "series": "My Happy Marriage",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/gPqp4ux7rPETtjmjkW8Q2wXT1va.jpg",
+  "season": 1,
+  "episode": 12,
+  "episode_title": "Episode 12",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/gPqp4ux7rPETtjmjkW8Q2wXT1va.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/o3kvujHUjIiAymkbl0XLfawjARH.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/o3kvujHUjIiAymkbl0XLfawjARH.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/_RYJNNGKb"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/6rvce9jbjjp5.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#6qkcf"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/fev1hi4"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/olwux4u"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/uz6qusi"
+    },
+    {
+      "option": 7,
+      "real_video": "https://emturbovid.com/t/675a58e5d8a85"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/64517d8435994992e682b3e4aa0a0661"
+    }
+  ]
+}

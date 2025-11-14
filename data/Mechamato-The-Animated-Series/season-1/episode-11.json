@@ -1,0 +1,33 @@
+{
+  "series": "Mechamato The Animated Series",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/1rkM4tLoNKC33sLVyAWgogZGo3B.jpg",
+  "season": 1,
+  "episode": 11,
+  "episode_title": "Episode 11",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/1rkM4tLoNKC33sLVyAWgogZGo3B.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/v20H5oDrEWDAcklER6dgH6moaOs.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/v20H5oDrEWDAcklER6dgH6moaOs.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/iURnmTlRs"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/x5uise4"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/xr264p6"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/je3x0tr"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/rTt5r5L0rWmJ/"
+    }
+  ]
+}

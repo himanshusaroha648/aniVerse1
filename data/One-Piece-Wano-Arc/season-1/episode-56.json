@@ -1,0 +1,45 @@
+{
+  "series": "One Piece Wano Arc",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/uiIB9ctqZFbfRXXimtpmZb5dusi.jpg",
+  "season": 1,
+  "episode": 56,
+  "episode_title": "Episode 56",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/uiIB9ctqZFbfRXXimtpmZb5dusi.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/aOGyxJF8ipqxzzZPFwlD2xgiEJI.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/aOGyxJF8ipqxzzZPFwlD2xgiEJI.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/L5pCeNVSK"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/j04bmzggzzk8.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#urjze8"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/ymp0wf5"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/dwrlltd"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/ea53y9a"
+    },
+    {
+      "option": 7,
+      "real_video": "https://emturbovid.com/t/67cdbe0ad5595"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/OpoMmoyTvgV7/"
+    }
+  ]
+}

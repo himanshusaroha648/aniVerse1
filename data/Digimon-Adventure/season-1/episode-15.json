@@ -1,0 +1,29 @@
+{
+  "series": "Digimon Adventure:",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/7Qspx2eFX0uBSQLLlAKnYrjZgse.jpg",
+  "season": 1,
+  "episode": 15,
+  "episode_title": "Episode 15",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/7Qspx2eFX0uBSQLLlAKnYrjZgse.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/9DdjfmLYmpuTXUAkiPTooAs4ECS.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/9DdjfmLYmpuTXUAkiPTooAs4ECS.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/uNg02l5FMGn8/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://streamsb.net/e/04cxusjx62wk.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://filemoon.to/e/yhr4wqqx71d5/_Toonhub4u__Digimon_Adventure__40_2020_41__Episode_15_Multi_Audio_480p.mp4"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/e1b90346c92331860b1391257a106bb1"
+    }
+  ]
+}

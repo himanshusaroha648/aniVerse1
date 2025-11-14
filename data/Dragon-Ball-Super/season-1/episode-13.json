@@ -1,0 +1,41 @@
+{
+  "series": "Dragon Ball Super",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/qEUrbXJ2qt4Rg84Btlx4STOhgte.jpg",
+  "season": 1,
+  "episode": 13,
+  "episode_title": "Episode 13",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/qEUrbXJ2qt4Rg84Btlx4STOhgte.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/elOCxfoseAS2oK5WUo7JWBBn5dy.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/elOCxfoseAS2oK5WUo7JWBBn5dy.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/RDLOnRGos"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/hiuyi4behh88.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#3a931z"
+    },
+    {
+      "option": 4,
+      "real_video": "https://strmup.to/xvQ2WpNJyzS8h"
+    },
+    {
+      "option": 5,
+      "real_video": "https://turbovidhls.com/t/68b5868a25960"
+    },
+    {
+      "option": 6,
+      "real_video": "https://vidmoly.net/embed-9iljxudkb697.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/5bd844f11fa520d54fa5edec06ea2507"
+    }
+  ]
+}

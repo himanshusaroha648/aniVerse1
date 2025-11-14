@@ -1,0 +1,53 @@
+{
+  "series": "Fairy Tail",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/inIVJlVRcE0sui79vFvWAeV0NGU.jpg",
+  "season": 1,
+  "episode": 23,
+  "episode_title": "Episode 23",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/inIVJlVRcE0sui79vFvWAeV0NGU.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/jBV0LcVXRKgIRfnXMhJs3zIvElG.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/jBV0LcVXRKgIRfnXMhJs3zIvElG.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/CYUaTLrlEk5R/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/kEXcQyZnN"
+    },
+    {
+      "option": 3,
+      "real_video": "https://rubystm.com/e/vc9otgyq4sz4.html"
+    },
+    {
+      "option": 4,
+      "real_video": "https://cloudy.upns.one/#nhrmd"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/ss3zefd"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/r9m8b5s"
+    },
+    {
+      "option": 7,
+      "real_video": "https://gdmirrorbot.nl/embed/jytlb5c"
+    },
+    {
+      "option": 8,
+      "real_video": "https://emturbovid.com/t/678a7a9463d62"
+    },
+    {
+      "option": 9,
+      "real_video": "https://raretoonsindia.co/ex/Bgk3xx4NxbqgJpJ"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/db53e24fbc4e5a62aaa6e92f6bd1167f"
+    }
+  ]
+}

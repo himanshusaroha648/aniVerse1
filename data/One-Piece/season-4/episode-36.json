@@ -1,0 +1,25 @@
+{
+  "series": "One Piece",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/dum1wnm6kJOUos0XJqjB8s2UWi9.jpg",
+  "season": 4,
+  "episode": 36,
+  "episode_title": "Episode 36",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/dum1wnm6kJOUos0XJqjB8s2UWi9.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/yL2CODaPrlRaG9DYtwaCIazBZXl.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/yL2CODaPrlRaG9DYtwaCIazBZXl.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://rubystm.com/e/yxv8zm4gr07b.html"
+    },
+    {
+      "option": 2,
+      "real_video": "https://strmup.to/GNzRic59VoTE"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/cho36R7HvPoN/"
+    }
+  ]
+}

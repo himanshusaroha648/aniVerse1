@@ -1,0 +1,49 @@
+{
+  "series": "I Parry Everything",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/arYDvPe3MS4lgt6K4gYRlXCJhXS.jpg",
+  "season": 1,
+  "episode": 2,
+  "episode_title": "Episode 2",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/arYDvPe3MS4lgt6K4gYRlXCJhXS.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/64iLnLn5rTF0cEV3yRJpFFPzKvd.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/64iLnLn5rTF0cEV3yRJpFFPzKvd.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/oXOULRAqIF6n/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/vIgG6kQCT"
+    },
+    {
+      "option": 3,
+      "real_video": "https://rubystm.com/e/h04g1xx4884f.html"
+    },
+    {
+      "option": 4,
+      "real_video": "https://cloudy.upns.one/#lutkfa"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/ipqjj01"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/howcow7"
+    },
+    {
+      "option": 7,
+      "real_video": "https://gdmirrorbot.nl/embed/enaxzhz"
+    },
+    {
+      "option": 8,
+      "real_video": "https://emturbovid.com/t/67fbe80a80721"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/dae21e619b67f958c716d3c779c941d2"
+    }
+  ]
+}

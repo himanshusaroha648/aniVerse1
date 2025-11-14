@@ -1,0 +1,53 @@
+{
+  "series": "YAIBA: Samurai Legend",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/cxD3FQP4hDU5hSABwdQCvGrrnz6.jpg",
+  "season": 1,
+  "episode": 14,
+  "episode_title": "Episode 14",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/cxD3FQP4hDU5hSABwdQCvGrrnz6.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/yA6mSMuUPSTzInE5o6QzbIkAuZR.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/yA6mSMuUPSTzInE5o6QzbIkAuZR.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/rgKyfJqOJ"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/lju1b019zuew.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#loyc3r"
+    },
+    {
+      "option": 4,
+      "real_video": "https://strmup.to/y73NkGzCLxd46"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/c7k36da"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/fi7zvv5"
+    },
+    {
+      "option": 7,
+      "real_video": "https://gdmirrorbot.nl/embed/yfkfze4"
+    },
+    {
+      "option": 8,
+      "real_video": "https://emturbovid.com/t/68b1e2613a716"
+    },
+    {
+      "option": 9,
+      "real_video": "https://vidmoly.net/embed-z8tml2d1a3er.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/8e452e79cd525671ce2fb6997b73aaf9"
+    }
+  ]
+}

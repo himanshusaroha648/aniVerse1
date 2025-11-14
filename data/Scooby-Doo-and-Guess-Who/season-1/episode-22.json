@@ -1,0 +1,37 @@
+{
+  "series": "Scooby-Doo and Guess Who?",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/g7vQXsELihik4oHJwqhL6WuTJ3j.jpg",
+  "season": 1,
+  "episode": 22,
+  "episode_title": "Episode 22",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/g7vQXsELihik4oHJwqhL6WuTJ3j.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/3EUawhYO1R68YNTL8j3gSIMRk1Q.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/3EUawhYO1R68YNTL8j3gSIMRk1Q.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/k4tEgpx0e"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/x4kytbuhby6p.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/w9zhmp7"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/mqasq34"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/rf251sm"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/77nY8RMo8MDK/"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "series": "True Beauty",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/9gpc8kIhNEG7r0VTkyI9aVBxdO3.jpg",
+  "season": 1,
+  "episode": 8,
+  "episode_title": "Episode 8",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/9gpc8kIhNEG7r0VTkyI9aVBxdO3.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/6XzmF4ly98hEDVf2VL6s8Na3oC2.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/6XzmF4ly98hEDVf2VL6s8Na3oC2.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/3cJjPV26efwx/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/PQy4PCQeb"
+    },
+    {
+      "option": 3,
+      "real_video": "https://rubystm.com/e/gduvkosu0xta.html"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/icg6rkr"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/soukasy"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/vw7zehu"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/1bd2caf96a17d892c2c7e9959549cfc7"
+    }
+  ]
+}

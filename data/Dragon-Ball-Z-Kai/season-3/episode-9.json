@@ -1,0 +1,41 @@
+{
+  "series": "Dragon Ball Z Kai",
+  "thumbnail": "https://i.imgur.com/zZzbUql.jpg",
+  "season": 3,
+  "episode": 9,
+  "episode_title": "Episode 9",
+  "episode_main_poster": "https://i.imgur.com/zZzbUql.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/66BnCm41RawiWhbT6XVL8JUb74B.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/66BnCm41RawiWhbT6XVL8JUb74B.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/vGQ3cIz1i"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/p8t49f5lj9bk.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#6svzjd"
+    },
+    {
+      "option": 4,
+      "real_video": "https://strmup.to/rSzcGqaxy6B4W"
+    },
+    {
+      "option": 5,
+      "real_video": "https://turbovidhls.com/t/68b3031893397"
+    },
+    {
+      "option": 6,
+      "real_video": "https://vidmoly.net/embed-cb23jbn6lbwr.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/250413d2982f1f83aa62a3a323cd2a87"
+    }
+  ]
+}

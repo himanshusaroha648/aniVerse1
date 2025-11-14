@@ -1,0 +1,41 @@
+{
+  "series": "Black Clover",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/kZ3ZGOGrUvYKA1erts8ckynMduv.jpg",
+  "season": 1,
+  "episode": 34,
+  "episode_title": "Episode 34",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/kZ3ZGOGrUvYKA1erts8ckynMduv.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/97EwzWeJMIgExiqQfpm1TrcvI0o.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/97EwzWeJMIgExiqQfpm1TrcvI0o.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/w7qRlBZ7YDYi/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/1tulsbKgd"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/z9j0oif"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/mp6spa3"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/nqcsxhe"
+    },
+    {
+      "option": 6,
+      "real_video": "https://raretoonsindia.co/ex/jcEjdTnHcKFhatv"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/e1314fc026da60d837353d20aefaf054"
+    }
+  ]
+}

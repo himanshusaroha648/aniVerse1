@@ -1,0 +1,21 @@
+{
+  "series": "The Witch and the Beast",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/ooSzpaJkU8MnfuLKn0IThcACv57.jpg",
+  "season": 1,
+  "episode": 12,
+  "episode_title": "Episode 12",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/ooSzpaJkU8MnfuLKn0IThcACv57.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/iq2kQNbPq1XEjZZn3NTr1cfPQYK.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/iq2kQNbPq1XEjZZn3NTr1cfPQYK.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/bg9_zheAY"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/6cyfKl8JVeh5/"
+    }
+  ]
+}

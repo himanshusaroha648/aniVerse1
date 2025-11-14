@@ -1,0 +1,41 @@
+{
+  "series": "Dragon Ball Super",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/qEUrbXJ2qt4Rg84Btlx4STOhgte.jpg",
+  "season": 1,
+  "episode": 123,
+  "episode_title": "Episode 123",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/qEUrbXJ2qt4Rg84Btlx4STOhgte.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/iFavGtDQfvEAcqAabZvcI45EJga.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/iFavGtDQfvEAcqAabZvcI45EJga.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/73LZNvDWY"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/y21ydt435ose.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#85lvtg"
+    },
+    {
+      "option": 4,
+      "real_video": "https://strmup.to/9z02qFtjRkehV"
+    },
+    {
+      "option": 5,
+      "real_video": "https://turbovidhls.com/t/68b693168e9ba"
+    },
+    {
+      "option": 6,
+      "real_video": "https://vidmoly.net/embed-wpcxc09rkaam.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/4d702022947b6fed64518d0d7cfc692d"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "series": "TSUKIMICHI -Moonlit Fantasy-Multi",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/kkWkdoB5GbVALlmNfsALh9OdsPl.jpg",
+  "season": 2,
+  "episode": 25,
+  "episode_title": "Episode 25",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/kkWkdoB5GbVALlmNfsALh9OdsPl.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/vQRBNhxFAwlyIUcZShMmD2vwW3w.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/vQRBNhxFAwlyIUcZShMmD2vwW3w.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/g78DL9AKq"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/witi7uub7uak.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#8vwrd8"
+    },
+    {
+      "option": 4,
+      "real_video": "https://strmup.to/bzkIXNDdacvB2"
+    },
+    {
+      "option": 5,
+      "real_video": "https://turbovidhls.com/t/6904726fed722"
+    },
+    {
+      "option": 6,
+      "real_video": "https://vidmoly.net/embed-7qp6kmtz6af3.html"
+    },
+    {
+      "option": 7,
+      "real_video": "https://gdmirrorbot.nl/embed/mumq1wq"
+    },
+    {
+      "option": 8,
+      "real_video": "https://gdmirrorbot.nl/embed/qr49j16"
+    },
+    {
+      "option": 9,
+      "real_video": "https://gdmirrorbot.nl/embed/h3gghcd"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/3b1a33f81b8614762227f9614f0ca3c4"
+    }
+  ]
+}

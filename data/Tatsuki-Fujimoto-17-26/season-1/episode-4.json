@@ -1,0 +1,53 @@
+{
+  "series": "Tatsuki Fujimoto 17-26",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/xGFSpMR1cio24DxVbUqAk6K0OcU.jpg",
+  "season": 1,
+  "episode": 4,
+  "episode_title": "Episode 4",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/xGFSpMR1cio24DxVbUqAk6K0OcU.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/lHdwmyUt9YRUZVDzfaVOkgD5uDA.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/lHdwmyUt9YRUZVDzfaVOkgD5uDA.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/_ITpemAzE"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/sbyzrltslc0m.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#sujabb"
+    },
+    {
+      "option": 4,
+      "real_video": "https://strmup.to/WnyXNhdCkrUce"
+    },
+    {
+      "option": 5,
+      "real_video": "https://turbovidhls.com/t/690ec28d01aba"
+    },
+    {
+      "option": 6,
+      "real_video": "https://vidmoly.net/embed-tswh861i4jfc.html"
+    },
+    {
+      "option": 7,
+      "real_video": "https://gdmirrorbot.nl/embed/m5cylmd"
+    },
+    {
+      "option": 8,
+      "real_video": "https://gdmirrorbot.nl/embed/ylzk7hi"
+    },
+    {
+      "option": 9,
+      "real_video": "https://gdmirrorbot.nl/embed/tyjuups"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/f0f7f79a275a83bfe8769dfd81d40bb2"
+    }
+  ]
+}

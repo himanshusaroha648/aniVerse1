@@ -1,0 +1,53 @@
+{
+  "series": "Let's Play",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/sTZuWf7wV99y13VAYw1fBclgFKu.jpg",
+  "season": 1,
+  "episode": 1,
+  "episode_title": "Episode 1",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/sTZuWf7wV99y13VAYw1fBclgFKu.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/hnxHbRQ4F7uiCUaSbQYBHo4JxJE.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/hnxHbRQ4F7uiCUaSbQYBHo4JxJE.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/ehspuX4n4"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/iujjo9r6tijn.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#xeet1v"
+    },
+    {
+      "option": 4,
+      "real_video": "https://strmup.to/UZrcKg1FvVTQy"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/k612i3q"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/rw0z8n1"
+    },
+    {
+      "option": 7,
+      "real_video": "https://gdmirrorbot.nl/embed/hwzbd99"
+    },
+    {
+      "option": 8,
+      "real_video": "https://emturbovid.com/t/68f9bb9209037"
+    },
+    {
+      "option": 9,
+      "real_video": "https://vidmoly.net/embed-53wyvnajuc2a.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/7f8a689b0c8adf6213e67688ce750090"
+    }
+  ]
+}

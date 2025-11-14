@@ -1,0 +1,25 @@
+{
+  "series": "Beyblade",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/l6ZQhEHjtOd9t6lOvVGzs5YEHcG.jpg",
+  "season": 2,
+  "episode": 11,
+  "episode_title": "Episode 11",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/l6ZQhEHjtOd9t6lOvVGzs5YEHcG.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/ziXZ88sm9wOT9m0155Q6VlFgd9a.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/ziXZ88sm9wOT9m0155Q6VlFgd9a.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/uLowDIBMe"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/syjstet"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/aYMwVMAirRoe/"
+    }
+  ]
+}

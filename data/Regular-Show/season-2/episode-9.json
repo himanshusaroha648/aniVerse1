@@ -1,0 +1,33 @@
+{
+  "series": "Regular Show",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/mS5SLxMYcKfUxA0utBSR5MOAWWr.jpg",
+  "season": 2,
+  "episode": 9,
+  "episode_title": "Episode 9",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/mS5SLxMYcKfUxA0utBSR5MOAWWr.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/lWAchAyBDMvqcZCw5n6dyaXbs9N.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/lWAchAyBDMvqcZCw5n6dyaXbs9N.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/9VL8bmUc9"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/sgidetf"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/c96c3q3"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/bw31fas"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/QV8iA0lojPte/"
+    }
+  ]
+}

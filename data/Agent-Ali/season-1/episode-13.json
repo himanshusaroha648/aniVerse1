@@ -1,0 +1,37 @@
+{
+  "series": "Agent Ali",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/pC7MTsEjJVXlCEaTRFWhVUS113i.jpg",
+  "season": 1,
+  "episode": 13,
+  "episode_title": "Episode 13",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/pC7MTsEjJVXlCEaTRFWhVUS113i.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/rkRM6vZ4LBOH6MMtnqC7bVBugur.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/rkRM6vZ4LBOH6MMtnqC7bVBugur.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://rubystm.com/embed-96mknnr4jis8.html"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/q8bUC2xUS"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/i1ltlzl"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/prn5y6m"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/fvdivx9"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/HCQkDkfO07Ae/"
+    }
+  ]
+}

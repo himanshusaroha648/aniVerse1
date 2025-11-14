@@ -1,0 +1,29 @@
+{
+  "series": "Hunter x Hunter",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/ucpgmUR1h5Te1BYegKItoPjOeF7.jpg",
+  "season": 1,
+  "episode": 2,
+  "episode_title": "Episode 2",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/ucpgmUR1h5Te1BYegKItoPjOeF7.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/qEX0cNZhtRdvXkqalV3cg1yiJhB.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/qEX0cNZhtRdvXkqalV3cg1yiJhB.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://filelions.online/v/0pl323hv24s4"
+    },
+    {
+      "option": 2,
+      "real_video": "https://streamsb.net/e/7vr9wv8ck19o"
+    },
+    {
+      "option": 3,
+      "real_video": "https://filemoon.to/e/eqh61xh3v8uu/_Toonhub4u__Hunter___Hunter__40_2011_41__Season_1_Episode_2_in_Multi_Audio_480p"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/u7jmTiRf4ba7/"
+    }
+  ]
+}

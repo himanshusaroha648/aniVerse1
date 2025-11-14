@@ -1,0 +1,65 @@
+{
+  "series": "Jujutsu Kaisen",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/3yFHMtdhriig4sm1w8oMQfA2gFN.jpg",
+  "season": 2,
+  "episode": 20,
+  "episode_title": "Episode 20",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/3yFHMtdhriig4sm1w8oMQfA2gFN.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/original/vdpupuE0OtfInqCmwU9Wk4sMqC9.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/original/vdpupuE0OtfInqCmwU9Wk4sMqC9.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/mfrtIZTVkzzz/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://stmruby.com/e/p5zskstoqjka.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://short.icu/_1_TXC9GbD"
+    },
+    {
+      "option": 4,
+      "real_video": "https://rubystm.com/e/t3k3qneiz9e7.html"
+    },
+    {
+      "option": 5,
+      "real_video": "https://vidmoly.me/w/aptat6clqf4p"
+    },
+    {
+      "option": 6,
+      "real_video": "https://short.icu/4cTdbeSjv"
+    },
+    {
+      "option": 7,
+      "real_video": "https://gdmirrorbot.nl/embed/m0bstqm"
+    },
+    {
+      "option": 8,
+      "real_video": "https://gdmirrorbot.nl/embed/foal1iq"
+    },
+    {
+      "option": 9,
+      "real_video": "https://gdmirrorbot.nl/embed/l5c54w2"
+    },
+    {
+      "option": 10,
+      "real_video": "https://vidstreaming.xyz/v/adR1cvyCaoa1/"
+    },
+    {
+      "option": 11,
+      "real_video": "https://short.icu/qIvAcdRvb"
+    },
+    {
+      "option": 12,
+      "real_video": "https://gdmirrorbot.nl/embed/q34hlmn"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/rNu84twcMeB7/"
+    }
+  ]
+}

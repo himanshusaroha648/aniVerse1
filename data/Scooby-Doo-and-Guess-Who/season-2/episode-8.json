@@ -1,0 +1,17 @@
+{
+  "series": "Scooby-Doo and Guess Who?",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/g7vQXsELihik4oHJwqhL6WuTJ3j.jpg",
+  "season": 2,
+  "episode": 8,
+  "episode_title": "Episode 8",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/g7vQXsELihik4oHJwqhL6WuTJ3j.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/dGHaT1ghRtFdrAT9wgCdg0eWjfQ.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/dGHaT1ghRtFdrAT9wgCdg0eWjfQ.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": null,
+      "real_video": "https://www.youtube.com/embed/DvkH4kb2eGY"
+    }
+  ]
+}

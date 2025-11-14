@@ -1,0 +1,41 @@
+{
+  "series": "The Apothecary Diaries",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/oWiZZpg3LwY6WSnaE63Cc453lcw.jpg",
+  "season": 1,
+  "episode": 14,
+  "episode_title": "Episode 14",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/oWiZZpg3LwY6WSnaE63Cc453lcw.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/l3lUDpsjugdQFEn5X44CrLgisx.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/l3lUDpsjugdQFEn5X44CrLgisx.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/apmo2oi90Ury/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/JvpLFTcAh"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/luzc13c"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/b0qmkew"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/dunhg0y"
+    },
+    {
+      "option": 6,
+      "real_video": "https://raretoonsindia.co/ex/3bYJRkyFO8dJ4gU"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/cf2f3fe19ffba462831d7f037a07fc83"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "series": "Overlord",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/zjSAukWORQxJAJjpR1KBk5X77PP.jpg",
+  "season": 4,
+  "episode": 7,
+  "episode_title": "Episode 7",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/zjSAukWORQxJAJjpR1KBk5X77PP.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/gJ59fROhqNKmOmWTjDbWPaI5Ifu.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/gJ59fROhqNKmOmWTjDbWPaI5Ifu.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://rubystm.com/e/bmnzw1rriph0.html"
+    },
+    {
+      "option": 2,
+      "real_video": "https://cloudy.upns.one/#jco1oj"
+    },
+    {
+      "option": 3,
+      "real_video": "https://strmup.to/QcEDhGlCFZvup"
+    },
+    {
+      "option": 4,
+      "real_video": "https://animeworld.site/embed/64196/4-7"
+    },
+    {
+      "option": null,
+      "real_video": "https://short.icu/GTC4hCY1n"
+    }
+  ]
+}

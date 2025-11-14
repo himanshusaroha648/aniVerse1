@@ -1,0 +1,17 @@
+{
+  "series": "Fairies Albums",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/uDACXQVgttpCbAdHeBGVk9nDwNq.jpg",
+  "season": 3,
+  "episode": 5,
+  "episode_title": "Episode 5",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/uDACXQVgttpCbAdHeBGVk9nDwNq.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/kFPCMN8EC2CxntlbW1YKMDxdK2f.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/kFPCMN8EC2CxntlbW1YKMDxdK2f.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/3741bSZgfa6P/"
+    }
+  ]
+}

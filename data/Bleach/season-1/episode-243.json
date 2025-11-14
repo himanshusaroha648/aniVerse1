@@ -1,0 +1,25 @@
+{
+  "series": "Bleach",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
+  "season": 1,
+  "episode": 243,
+  "episode_title": "Episode 243",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/5rhwy09dlBngagikGCoJ7JtvPCU.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/5rhwy09dlBngagikGCoJ7JtvPCU.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/CtETXO0tl"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/d5t2tfv"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/4CCbDAZSWTab/"
+    }
+  ]
+}

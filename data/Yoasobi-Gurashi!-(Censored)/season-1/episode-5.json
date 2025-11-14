@@ -1,0 +1,37 @@
+{
+  "series": "Yoasobi Gurashi! (Censored)",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/3XWuseABZAeGeiHgLJXg69GmbuE.jpg",
+  "season": 1,
+  "episode": 5,
+  "episode_title": "Episode 5",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/3XWuseABZAeGeiHgLJXg69GmbuE.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/u2lQuwEigf7rc9ufyw0Q3rNKwuN.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/u2lQuwEigf7rc9ufyw0Q3rNKwuN.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/_KikswXZ_"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/j1xmpox8gwbb.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#pkrs9r"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/wq4yxnf"
+    },
+    {
+      "option": 5,
+      "real_video": "https://emturbovid.com/t/67da3e97e74f5"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/q41v189PnaZK/"
+    }
+  ]
+}

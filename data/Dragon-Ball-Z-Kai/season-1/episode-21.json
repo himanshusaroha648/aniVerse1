@@ -1,0 +1,41 @@
+{
+  "series": "Dragon Ball Z Kai",
+  "thumbnail": "https://i.imgur.com/zZzbUql.jpg",
+  "season": 1,
+  "episode": 21,
+  "episode_title": "Episode 21",
+  "episode_main_poster": "https://i.imgur.com/zZzbUql.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/8FDdN3YGKOdobjs4J2szpZ7TdcW.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/8FDdN3YGKOdobjs4J2szpZ7TdcW.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/cNOVSRp6S"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/82s0ij1cmopg.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#xi3vkt"
+    },
+    {
+      "option": 4,
+      "real_video": "https://strmup.to/feaXQqzYDHxV5"
+    },
+    {
+      "option": 5,
+      "real_video": "https://turbovidhls.com/t/68b1b12c60db0"
+    },
+    {
+      "option": 6,
+      "real_video": "https://vidmoly.net/embed-p30130g4p45q.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/2aaaddf27344ee54058548dc081c6541"
+    }
+  ]
+}

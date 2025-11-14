@@ -1,0 +1,49 @@
+{
+  "series": "Leviathan",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/7HIswF211LMu6PxerdByCgKSuAS.jpg",
+  "season": 1,
+  "episode": 10,
+  "episode_title": "Episode 10",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/7HIswF211LMu6PxerdByCgKSuAS.jpg",
+  "episode_card_thumbnail": "https://toonstream.love/wp-content/themes/torofilm/public/img/cnt/noimg-episode.png",
+  "episode_list_thumbnail": "https://toonstream.love/wp-content/themes/torofilm/public/img/cnt/noimg-episode.png",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://rubystm.com/e/vi23zf73z7nl.html"
+    },
+    {
+      "option": 2,
+      "real_video": "https://cloudy.upns.one/#skqb3j"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/f5qj4wf"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/owv8gxo"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/ozmqycb"
+    },
+    {
+      "option": 6,
+      "real_video": "https://emturbovid.com/t/6870935b8aac3"
+    },
+    {
+      "option": 7,
+      "real_video": "https://vidmoly.net/embed-uj5s8s3sacza.html"
+    },
+    {
+      "option": 8,
+      "real_video": "https://play.zephyrflick.top/video/c47a3ba2c793b5b9e21260f903c37d4d"
+    },
+    {
+      "option": null,
+      "real_video": "https://short.icu/BEIMVkhQP"
+    }
+  ]
+}

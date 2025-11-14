@@ -1,0 +1,33 @@
+{
+  "title": "Scooby-Doo",
+  "description": "Watch Scooby-Doo online for free in HD on ToonStream. Available in Hindi, Tamil, Telugu & More dubbed versions. Stream or Download now! Scooby-Doo - Join",
+  "release_year": 2002,
+  "genres": [
+    "Adventure",
+    "Animation & Cartoon Movies",
+    "Cartoon Network",
+    "Comedy",
+    "Mystery",
+    "TV Movie"
+  ],
+  "thumbnail": "https://image.tmdb.org/t/p/w185/3B9dxR5hE34W8ALLbP6SGdTgBRc.jpg",
+  "movie_poster": "https://image.tmdb.org/t/p/w185/3B9dxR5hE34W8ALLbP6SGdTgBRc.jpg",
+  "tmdb_id": null,
+  "tvdb_id": null,
+  "languages": [],
+  "url": "https://toonstream.love/movies/scooby-doo/",
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/HhKINQbomzam/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://streamsb.net/e/yi85nqvvfwd6.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://filemoon.to/e/smcxmsaz3jik/_Toonhub4u__Scooby_Doo__40_2002_41__in_Multi_Audio_480p.mp4"
+    }
+  ]
+}

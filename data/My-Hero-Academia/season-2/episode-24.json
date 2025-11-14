@@ -1,0 +1,57 @@
+{
+  "series": "My Hero Academia",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/6yQKyw3BNw9kSKsP6SRrXqsUpNe.jpg",
+  "season": 2,
+  "episode": 24,
+  "episode_title": "Episode 24",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/6yQKyw3BNw9kSKsP6SRrXqsUpNe.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/cV732cWvT6IzBKc3pNaCtVxCOS6.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/cV732cWvT6IzBKc3pNaCtVxCOS6.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/pJWs8o4o7"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/ok2ibe4tzx4k.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://blakiteapi.xyz/embed/65930/2-24"
+    },
+    {
+      "option": 4,
+      "real_video": "https://cloudy.upns.one/#h9trjl"
+    },
+    {
+      "option": 5,
+      "real_video": "https://strmup.to/wP2nuf6sYZMUk"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/ezeiw0b"
+    },
+    {
+      "option": 7,
+      "real_video": "https://gdmirrorbot.nl/embed/u5xwgio"
+    },
+    {
+      "option": 8,
+      "real_video": "https://gdmirrorbot.nl/embed/il4xoja"
+    },
+    {
+      "option": 9,
+      "real_video": "https://emturbovid.com/t/67c09b6e94ca2"
+    },
+    {
+      "option": 10,
+      "real_video": "https://vidmoly.net/embed-bs42s61wk065.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/0a65e195cb51418279b6fa8d96847a60"
+    }
+  ]
+}

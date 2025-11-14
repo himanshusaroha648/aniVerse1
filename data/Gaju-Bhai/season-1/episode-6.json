@@ -1,0 +1,17 @@
+{
+  "series": "Gaju Bhai",
+  "thumbnail": "https://i.ibb.co/R0ZQCBg/image.png",
+  "season": 1,
+  "episode": 6,
+  "episode_title": "Episode 6",
+  "episode_main_poster": "https://i.ibb.co/R0ZQCBg/image.png",
+  "episode_card_thumbnail": "https://toonstream.love/wp-content/themes/torofilm/public/img/cnt/noimg-episode.png",
+  "episode_list_thumbnail": "https://toonstream.love/wp-content/themes/torofilm/public/img/cnt/noimg-episode.png",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/VaCfhQXweigP/"
+    }
+  ]
+}

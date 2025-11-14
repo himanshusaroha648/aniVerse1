@@ -1,0 +1,37 @@
+{
+  "series": "Kiteretsu Daihyakka",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/icTY9mQcyjzinblLnkdQR7CWgPa.jpg",
+  "season": 1,
+  "episode": 26,
+  "episode_title": "Episode 26",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/icTY9mQcyjzinblLnkdQR7CWgPa.jpg",
+  "episode_card_thumbnail": "https://toonstream.love/wp-content/themes/torofilm/public/img/cnt/noimg-episode.png",
+  "episode_list_thumbnail": "https://toonstream.love/wp-content/themes/torofilm/public/img/cnt/noimg-episode.png",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://rubystm.com/e/bjvox42jmkti.html"
+    },
+    {
+      "option": 2,
+      "real_video": "https://cloudy.upns.one/#ojhrkj"
+    },
+    {
+      "option": 3,
+      "real_video": "https://strmup.to/C6Zn0oH9craxW"
+    },
+    {
+      "option": 4,
+      "real_video": "https://turbovidhls.com/t/68c00f636c5e7"
+    },
+    {
+      "option": 5,
+      "real_video": "https://vidmoly.net/embed-jovka15pn56p.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://short.icu/5Fay8lnv-"
+    }
+  ]
+}

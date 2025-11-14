@@ -1,0 +1,49 @@
+{
+  "series": "My Tiny Senpai",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/7zSPXGCvXjkVCR7797UbRDPfV2B.jpg",
+  "season": 1,
+  "episode": 4,
+  "episode_title": "Episode 4",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/7zSPXGCvXjkVCR7797UbRDPfV2B.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/uNQ0E8MSwd6JujshMFGnfcFXrDd.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/uNQ0E8MSwd6JujshMFGnfcFXrDd.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/r4gYHuHG2lav/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/lrATrMyx-"
+    },
+    {
+      "option": 3,
+      "real_video": "https://rubystm.com/e/wat47zn3uovy.html"
+    },
+    {
+      "option": 4,
+      "real_video": "https://cloudy.upns.one/#c5wl6p"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/vneme0m"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/p5dvg35"
+    },
+    {
+      "option": 7,
+      "real_video": "https://gdmirrorbot.nl/embed/mpcva5g"
+    },
+    {
+      "option": 8,
+      "real_video": "https://emturbovid.com/t/67d32639df4f8"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/9b3faf8981cc8780667e9fa12c5c4b28"
+    }
+  ]
+}

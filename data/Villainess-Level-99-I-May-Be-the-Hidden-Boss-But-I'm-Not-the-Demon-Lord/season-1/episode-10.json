@@ -1,0 +1,41 @@
+{
+  "series": "Villainess Level 99: I May Be the Hidden Boss But I'm Not the Demon Lord",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/45KqPcfk6qrxl5XF7z9Wwtvo0vw.jpg",
+  "season": 1,
+  "episode": 10,
+  "episode_title": "Episode 10",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/45KqPcfk6qrxl5XF7z9Wwtvo0vw.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/bRwxauzHpCRD0Zuxxp0JVsnsCig.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/bRwxauzHpCRD0Zuxxp0JVsnsCig.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/aXtwy4vYWYx4/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/a7kanwqacnzo.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://short.icu/P9xQaNLpY"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/qyyr9t8"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/k3tzkgc"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/j7oh5hp"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/a1324603d9b1a22277809229934a36fd"
+    }
+  ]
+}

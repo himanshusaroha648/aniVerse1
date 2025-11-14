@@ -1,0 +1,45 @@
+{
+  "series": "One Piece Wano Arc",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/uiIB9ctqZFbfRXXimtpmZb5dusi.jpg",
+  "season": 1,
+  "episode": 36,
+  "episode_title": "Episode 36",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/uiIB9ctqZFbfRXXimtpmZb5dusi.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/aJuGgd2nds1MOcQAcKRiVYngsEe.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/aJuGgd2nds1MOcQAcKRiVYngsEe.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/GO0NgDG0Q"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/psqwdeg7zfdm.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#kh315"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/q91gyad"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/lke3xpj"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/xl6oxja"
+    },
+    {
+      "option": 7,
+      "real_video": "https://emturbovid.com/t/679f548d88b11"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/Gvk8lpmwkrhm/"
+    }
+  ]
+}

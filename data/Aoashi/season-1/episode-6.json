@@ -1,0 +1,37 @@
+{
+  "series": "Aoashi",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/jz0agPanYP6MsjYSeGpZoAfUPjp.jpg",
+  "season": 1,
+  "episode": 6,
+  "episode_title": "Episode 6",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/jz0agPanYP6MsjYSeGpZoAfUPjp.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/nTMslfZKvTvLPToFcoGmGiLQ69V.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/nTMslfZKvTvLPToFcoGmGiLQ69V.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/wA6IX2Ny1V"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/r6quftb7okdc.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#r8jfw3"
+    },
+    {
+      "option": 4,
+      "real_video": "https://strmup.to/UT4KioxOhYA2a"
+    },
+    {
+      "option": 5,
+      "real_video": "https://emturbovid.com/t/6852cb75958b0"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/8694959cf2d53e57681d8fdc472468d6"
+    }
+  ]
+}

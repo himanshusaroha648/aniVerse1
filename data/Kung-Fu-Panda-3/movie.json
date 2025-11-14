@@ -1,0 +1,42 @@
+{
+  "title": "Kung Fu Panda 3",
+  "description": "Watch Kung Fu Panda 3 online for free in HD on ToonStream. Available in Hindi, Tamil, Telugu & More dubbed versions. Stream or Download now! While Po and",
+  "release_year": 2016,
+  "genres": [
+    "Action",
+    "Adventure",
+    "Animation",
+    "Animation & Cartoon Movies",
+    "Comedy",
+    "Family",
+    "NetFlix"
+  ],
+  "thumbnail": "https://image.tmdb.org/t/p/w185/oajNi4Su39WAByHI6EONu8G8HYn.jpg",
+  "movie_poster": "https://image.tmdb.org/t/p/w185/oajNi4Su39WAByHI6EONu8G8HYn.jpg",
+  "tmdb_id": null,
+  "tvdb_id": null,
+  "languages": [],
+  "url": "https://toonstream.love/movies/kung-fu-panda-3/",
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/4VqWBCa0FHCM/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/embed-atayeifh7gba.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/qwrzfuv"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/h5pkuux"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/q952poi"
+    }
+  ]
+}

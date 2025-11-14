@@ -1,0 +1,21 @@
+{
+  "series": "One Piece",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/dum1wnm6kJOUos0XJqjB8s2UWi9.jpg",
+  "season": 1,
+  "episode": 16,
+  "episode_title": "Episode 16",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/dum1wnm6kJOUos0XJqjB8s2UWi9.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/thQE36Hh6KrT0KwtMRO2XL4alti.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/thQE36Hh6KrT0KwtMRO2XL4alti.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/dOK5gu4AUpBy/"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/40f4da34bbe180214c23b9e55da4f772"
+    }
+  ]
+}

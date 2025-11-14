@@ -1,0 +1,25 @@
+{
+  "series": "Ben 10",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/pT0NlYVIkwM2zAw9oUkePwrOlxW.jpg",
+  "season": 3,
+  "episode": 1,
+  "episode_title": "Episode 1",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/pT0NlYVIkwM2zAw9oUkePwrOlxW.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/ah7Ij3QHw5IRN1dcOlw3VuOh8bA.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/ah7Ij3QHw5IRN1dcOlw3VuOh8bA.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://filemoon.to/e/ailwnlv12jfy/_Toonhub4u__Ben_10_S03E02_in_Multi_Audio_720p.mkv.mp4"
+    },
+    {
+      "option": 2,
+      "real_video": "https://streamsb.net/e/hxslmta0m758.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/Yg1PkWJXCo0M/"
+    }
+  ]
+}

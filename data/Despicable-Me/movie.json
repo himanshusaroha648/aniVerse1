@@ -1,0 +1,43 @@
+{
+  "title": "Despicable Me",
+  "description": "Watch Despicable Me online for free in HD on ToonStream. Available in Hindi, Tamil, Telugu & More dubbed versions. Stream or Download now! Villainous Gru",
+  "release_year": 2010,
+  "genres": [
+    "Animation",
+    "Animation & Cartoon Movies",
+    "Comedy",
+    "Family"
+  ],
+  "thumbnail": "https://image.tmdb.org/t/p/w185/9QaZ1lE7LLrUzMys1P8GjmO9GFy.jpg",
+  "movie_poster": "https://image.tmdb.org/t/p/w185/9QaZ1lE7LLrUzMys1P8GjmO9GFy.jpg",
+  "tmdb_id": null,
+  "tvdb_id": null,
+  "languages": [],
+  "url": "https://toonstream.love/movies/despicable-me/",
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/YEBKa20SuTfR/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/embed-7nw9ui88v8cx.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://short.icu/TO5tv9mhj"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/swvj8kt"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/vkqpeie"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/ko5em9t"
+    }
+  ]
+}

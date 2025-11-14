@@ -1,0 +1,21 @@
+{
+  "series": "Slugterra",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/hbAHSGKr0aJStev8w5ebWWZboh1.jpg",
+  "season": 2,
+  "episode": 3,
+  "episode_title": "Episode 3",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/hbAHSGKr0aJStev8w5ebWWZboh1.jpg",
+  "episode_card_thumbnail": "https://toonstream.love/wp-content/themes/torofilm/public/img/cnt/noimg-episode.png",
+  "episode_list_thumbnail": "https://toonstream.love/wp-content/themes/torofilm/public/img/cnt/noimg-episode.png",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/9k7wwirQq8cR/"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/479b4864e55e12e0fb411eadb115c095"
+    }
+  ]
+}

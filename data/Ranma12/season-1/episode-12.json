@@ -1,0 +1,53 @@
+{
+  "series": "Ranma1/2",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/6Qs9z2MEURhKtFUNh9U8AKbdeY2.jpg",
+  "season": 1,
+  "episode": 12,
+  "episode_title": "Episode 12",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/6Qs9z2MEURhKtFUNh9U8AKbdeY2.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/r91WIvWJHM0C1i8VhsiqXrEGP1D.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/r91WIvWJHM0C1i8VhsiqXrEGP1D.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/b9NJCYSwC"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/e79b56xr5hdm.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#e3fs6"
+    },
+    {
+      "option": 4,
+      "real_video": "https://strmup.to/Od1gzmfxnAqoj"
+    },
+    {
+      "option": 5,
+      "real_video": "https://turbovidhls.com/t/676700783131d"
+    },
+    {
+      "option": 6,
+      "real_video": "https://vidmoly.net/embed-4st1c699cgt5.html"
+    },
+    {
+      "option": 7,
+      "real_video": "https://gdmirrorbot.nl/embed/qvuzdp6"
+    },
+    {
+      "option": 8,
+      "real_video": "https://gdmirrorbot.nl/embed/tlt7hrf"
+    },
+    {
+      "option": 9,
+      "real_video": "https://gdmirrorbot.nl/embed/peyzoo3"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/aa43cf733f0e3e7a02ce7a6faf7c9e07"
+    }
+  ]
+}

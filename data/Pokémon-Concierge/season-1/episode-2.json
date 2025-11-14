@@ -1,0 +1,53 @@
+{
+  "series": "Pokémon Concierge",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/2k53AsWsLrMtcbFyH0nVOqQjj2x.jpg",
+  "season": 1,
+  "episode": 2,
+  "episode_title": "Episode 2",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/2k53AsWsLrMtcbFyH0nVOqQjj2x.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/uqS7jOhI6t0dcFWnvBaLstjR5Xl.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/uqS7jOhI6t0dcFWnvBaLstjR5Xl.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://rubystm.com/e/xbz3zbkgm7b1.html"
+    },
+    {
+      "option": 2,
+      "real_video": "https://cloudy.upns.one/#krgt5k"
+    },
+    {
+      "option": 3,
+      "real_video": "https://strmup.to/px35h7UJNqXH1"
+    },
+    {
+      "option": 4,
+      "real_video": "https://turbovidhls.com/t/68bf1449a3c94"
+    },
+    {
+      "option": 5,
+      "real_video": "https://vidmoly.net/embed-vffzcx54c8b5.html"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/bziuqh7"
+    },
+    {
+      "option": 7,
+      "real_video": "https://gdmirrorbot.nl/embed/mclkzpy"
+    },
+    {
+      "option": 8,
+      "real_video": "https://gdmirrorbot.nl/embed/d2ew9y9"
+    },
+    {
+      "option": 9,
+      "real_video": "https://play.zephyrflick.top/video/d59ef67657f22ae77246d592fe4f6d7b"
+    },
+    {
+      "option": null,
+      "real_video": "https://short.icu/y_LPmSJ2Q"
+    }
+  ]
+}

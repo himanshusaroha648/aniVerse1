@@ -1,0 +1,69 @@
+{
+  "series": "Black Clover",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/kZ3ZGOGrUvYKA1erts8ckynMduv.jpg",
+  "season": 1,
+  "episode": 2,
+  "episode_title": "Episode 2",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/kZ3ZGOGrUvYKA1erts8ckynMduv.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/mgjnfc5WNJHqc1fcjs142i4FQoV.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/mgjnfc5WNJHqc1fcjs142i4FQoV.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/kBf73IxtbXkK/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://vidstreaming.xyz/v/nrAM71cY2SRk/"
+    },
+    {
+      "option": 3,
+      "real_video": "https://rubystm.com/embed-21kviithlzzf.html"
+    },
+    {
+      "option": 4,
+      "real_video": "https://short.icu/JSnT6tdRk"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/oaxb6rn"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/kj7afc4"
+    },
+    {
+      "option": 7,
+      "real_video": "https://gdmirrorbot.nl/embed/ut5yro5"
+    },
+    {
+      "option": 8,
+      "real_video": "https://rubystm.com/embed-czgwldeanysf.html"
+    },
+    {
+      "option": 9,
+      "real_video": "https://short.icu/f9qQX1UHi"
+    },
+    {
+      "option": 10,
+      "real_video": "https://gdmirrorbot.nl/embed/sy7rlkm"
+    },
+    {
+      "option": 11,
+      "real_video": "https://gdmirrorbot.nl/embed/nusewge"
+    },
+    {
+      "option": 12,
+      "real_video": "https://gdmirrorbot.nl/embed/y691te1"
+    },
+    {
+      "option": 13,
+      "real_video": "https://raretoonsindia.co/ex/eEEuh2YpltnOp9s"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/8c3039bd5842dca3d944faab91447818"
+    }
+  ]
+}

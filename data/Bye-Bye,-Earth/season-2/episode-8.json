@@ -1,0 +1,53 @@
+{
+  "series": "Bye Bye, Earth",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/gAVZ6fl5Z0zievRf7CuhUogyEYf.jpg",
+  "season": 2,
+  "episode": 8,
+  "episode_title": "Episode 8",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/gAVZ6fl5Z0zievRf7CuhUogyEYf.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/tQXtG2zBb1GONMnOtlHeFdXG8r7.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/tQXtG2zBb1GONMnOtlHeFdXG8r7.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/4lfH0Ij2877c/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/ZYaId9QGX"
+    },
+    {
+      "option": 3,
+      "real_video": "https://rubystm.com/e/x9aorbmoujdq.html"
+    },
+    {
+      "option": 4,
+      "real_video": "https://cloudy.upns.one/#tadxev"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/n5ewypf"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/gwr58wu"
+    },
+    {
+      "option": 7,
+      "real_video": "https://gdmirrorbot.nl/embed/eeq0zfl"
+    },
+    {
+      "option": 8,
+      "real_video": "https://emturbovid.com/t/684d488e1c731"
+    },
+    {
+      "option": 9,
+      "real_video": "https://raretoonsindia.co/ex/7d7lOBGu2Jhbr1W"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/b53da6bd516b0758856e71a272601ac5"
+    }
+  ]
+}

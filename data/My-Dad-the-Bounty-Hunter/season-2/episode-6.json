@@ -1,0 +1,29 @@
+{
+  "series": "My Dad the Bounty Hunter",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/cWSPHOTFFf5hs77gamKeLDhxNvm.jpg",
+  "season": 2,
+  "episode": 6,
+  "episode_title": "Episode 6",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/cWSPHOTFFf5hs77gamKeLDhxNvm.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/rdeoY2JsDBSLhV0hNO1QnhGDa6f.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/rdeoY2JsDBSLhV0hNO1QnhGDa6f.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://filemoon.to/e/hsh5ldtsoqw8/_Toonhub4u__My_Dad_the_Bounty_Hunter_S02E06_480p_NF_WEB-DL__Hindi-Eng__ESub"
+    },
+    {
+      "option": 2,
+      "real_video": "https://embedwish.com/e/sah4kkx5vgv2"
+    },
+    {
+      "option": 3,
+      "real_video": "https://filelions.live/f/n411nk8z3q3y"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/Atw8WCtU5b1B/"
+    }
+  ]
+}

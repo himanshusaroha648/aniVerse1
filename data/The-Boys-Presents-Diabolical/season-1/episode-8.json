@@ -1,0 +1,33 @@
+{
+  "series": "The Boys Presents: Diabolical",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/kZKfZWwFOAicgoKS2IO7oM1GuHZ.jpg",
+  "season": 1,
+  "episode": 8,
+  "episode_title": "Episode 8",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/kZKfZWwFOAicgoKS2IO7oM1GuHZ.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/kVVAIITFvwhtYsZK9MVv5iZlxtr.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/kVVAIITFvwhtYsZK9MVv5iZlxtr.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/DZnqCP5Wpq"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/g6qgjr7"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/icbjdbl"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/fzyt1n8"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/AgTI3GVgq4hI/"
+    }
+  ]
+}

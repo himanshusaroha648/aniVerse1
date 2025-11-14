@@ -1,0 +1,57 @@
+{
+  "series": "Zatch Bell!",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/1JaCkXXU7gB8tHmvuzpu36CgGr1.jpg",
+  "season": 1,
+  "episode": 22,
+  "episode_title": "Episode 22",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/1JaCkXXU7gB8tHmvuzpu36CgGr1.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/733Y7nIOLLypND0LZMHV10i2cha.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/733Y7nIOLLypND0LZMHV10i2cha.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/DytMLoLvg"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/embed-0d8nprlkvgkn.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#n8woaz"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/hk4q4br"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/awl1htp"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/rr5kuk9"
+    },
+    {
+      "option": 7,
+      "real_video": "https://emturbovid.com/t/67ecd4cd5c616"
+    },
+    {
+      "option": 8,
+      "real_video": "https://vidstreaming.xyz/v/TTrOUjX4ucvm/"
+    },
+    {
+      "option": 9,
+      "real_video": "https://short.icu/CVW9CXy4M"
+    },
+    {
+      "option": 10,
+      "real_video": "https://gdmirrorbot.nl/embed/gcpd7sh"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/PMNpZNJOaTik/"
+    }
+  ]
+}

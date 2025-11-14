@@ -1,0 +1,45 @@
+{
+  "series": "Demon Slayer: Kimetsu no Yaiba",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/ctR9Kv2MNhuIjgb96wARbT1BNts.jpg",
+  "season": 1,
+  "episode": 22,
+  "episode_title": "Episode 22",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/ctR9Kv2MNhuIjgb96wARbT1BNts.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/2bo6M1fLHXz47b3NoW3Y5zesTKB.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/2bo6M1fLHXz47b3NoW3Y5zesTKB.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/PIugNJXKa"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/3ivjyk3tc7mh.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://blakiteapi.xyz/embed/85937/1-22"
+    },
+    {
+      "option": 4,
+      "real_video": "https://cloudy.upns.one/#oj1ent"
+    },
+    {
+      "option": 5,
+      "real_video": "https://strmup.to/0n3tBlzFj6rgm"
+    },
+    {
+      "option": 6,
+      "real_video": "https://emturbovid.com/t/688ee93059b8d"
+    },
+    {
+      "option": 7,
+      "real_video": "https://vidmoly.net/embed-qsevdqivyay0.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/4079016d940210b4ae9ae7d41c4a2065"
+    }
+  ]
+}

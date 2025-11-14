@@ -1,0 +1,41 @@
+{
+  "series": "Dragon Ball Super",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/qEUrbXJ2qt4Rg84Btlx4STOhgte.jpg",
+  "season": 1,
+  "episode": 45,
+  "episode_title": "Episode 45",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/qEUrbXJ2qt4Rg84Btlx4STOhgte.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/64bwNZQ2bGy0FUPam80YJmto9yV.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/64bwNZQ2bGy0FUPam80YJmto9yV.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/iPCdBmjTj"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/cym3mlgd7r7v.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#3a93lp"
+    },
+    {
+      "option": 4,
+      "real_video": "https://strmup.to/V9Q6rqEzaNSTM"
+    },
+    {
+      "option": 5,
+      "real_video": "https://turbovidhls.com/t/68b58abe240f9"
+    },
+    {
+      "option": 6,
+      "real_video": "https://vidmoly.net/embed-op26uxw7r7ru.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/009c434cab57de48a31f6b669e7ba266"
+    }
+  ]
+}

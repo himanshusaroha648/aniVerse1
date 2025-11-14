@@ -1,0 +1,25 @@
+{
+  "series": "Blood-C",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/oFegavhxI30ISV0jSD6qAvuson1.jpg",
+  "season": 1,
+  "episode": 10,
+  "episode_title": "Episode 10",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/oFegavhxI30ISV0jSD6qAvuson1.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/2pZokAM3WXVCIJCMs6e6MvCOmsL.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/2pZokAM3WXVCIJCMs6e6MvCOmsL.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/EkqOX8BdS"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/q68z5v6"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/PYxt6T4ReIVj/"
+    }
+  ]
+}

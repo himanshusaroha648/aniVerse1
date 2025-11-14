@@ -1,0 +1,25 @@
+{
+  "series": "Bleach",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
+  "season": 1,
+  "episode": 178,
+  "episode_title": "Episode 178",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/sA9rJKN3hQ8fttjVuQeId15cYeW.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/sA9rJKN3hQ8fttjVuQeId15cYeW.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/uWBXFkqjU"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/sl4hyum"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/DpuFvvzjFbH2/"
+    }
+  ]
+}

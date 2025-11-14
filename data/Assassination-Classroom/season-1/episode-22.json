@@ -1,0 +1,41 @@
+{
+  "series": "Assassination Classroom",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/leBY2xtNXG4cwT9K4zxlBUS86Sz.jpg",
+  "season": 1,
+  "episode": 22,
+  "episode_title": "Episode 22",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/leBY2xtNXG4cwT9K4zxlBUS86Sz.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/wfwoOGNlAdfiavBYCyh7ag3E2ir.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/wfwoOGNlAdfiavBYCyh7ag3E2ir.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/cNgWcxZH708p/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/embed-ymkcwaqn4d25.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://short.icu/-fVmGFbQv"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/g4pr919"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/lhmq9v2"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/vjen83l"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/215a71a12769b056c3c32e7299f1c5ed"
+    }
+  ]
+}

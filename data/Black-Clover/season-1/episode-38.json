@@ -1,0 +1,41 @@
+{
+  "series": "Black Clover",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/kZ3ZGOGrUvYKA1erts8ckynMduv.jpg",
+  "season": 1,
+  "episode": 38,
+  "episode_title": "Episode 38",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/kZ3ZGOGrUvYKA1erts8ckynMduv.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/6YxXjOQfWoh3hnYp21m168tGsBW.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/6YxXjOQfWoh3hnYp21m168tGsBW.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/n9alVH37MRvA/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/fPu-X0zgr"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/znis1ef"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/k0zgv7u"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/l9ruer7"
+    },
+    {
+      "option": 6,
+      "real_video": "https://raretoonsindia.co/ex/kkggKHxBZCWKWBO"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/c366c2c97d47b02b24c3ecade4c40a01"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "series": "Spirit Rangers",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/o7NV5naNFB1kv0NZTJMKPQ4H0gl.jpg",
+  "season": 1,
+  "episode": 7,
+  "episode_title": "Episode 7",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/o7NV5naNFB1kv0NZTJMKPQ4H0gl.jpg",
+  "episode_card_thumbnail": "https://akamai-images-content.com/0hyzqgxpznn1_t.jpg",
+  "episode_list_thumbnail": "https://akamai-images-content.com/0hyzqgxpznn1_t.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://watchsb.com/e/0hyzqgxpznn1.html"
+    },
+    {
+      "option": 2,
+      "real_video": "https://filepress.online/video/635125cdc43eb5c89f59dfb7"
+    },
+    {
+      "option": null,
+      "real_video": "https://filemoon.to/e/eug7rgokkg9f/_Toonhub4u__Spirit_Rangers_Season_1_Episode_7_Multi_Audio_1080p_HD.mp4"
+    }
+  ]
+}

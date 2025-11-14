@@ -1,0 +1,41 @@
+{
+  "series": "Log Horizon",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/vrCAD2KvtGJPwABIPd4z0gChi4g.jpg",
+  "season": 2,
+  "episode": 11,
+  "episode_title": "Episode 11",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/vrCAD2KvtGJPwABIPd4z0gChi4g.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/40kI1fZiIt5GpQkirDFp88Noa7X.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/40kI1fZiIt5GpQkirDFp88Noa7X.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/uKWloYxneeNz/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/g8ari20mvrug.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://short.icu/RWUjK9ndU"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/w3b8ucc"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/ypzexdv"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/yh3bykq"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/299fb2142d7de959380f91c01c3a293c"
+    }
+  ]
+}

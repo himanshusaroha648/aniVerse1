@@ -1,0 +1,37 @@
+{
+  "series": "Kiteretsu Daihyakka",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/icTY9mQcyjzinblLnkdQR7CWgPa.jpg",
+  "season": 1,
+  "episode": 9,
+  "episode_title": "Episode 9",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/icTY9mQcyjzinblLnkdQR7CWgPa.jpg",
+  "episode_card_thumbnail": "https://toonstream.love/wp-content/themes/torofilm/public/img/cnt/noimg-episode.png",
+  "episode_list_thumbnail": "https://toonstream.love/wp-content/themes/torofilm/public/img/cnt/noimg-episode.png",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://rubystm.com/e/r1bxix66xfib.html"
+    },
+    {
+      "option": 2,
+      "real_video": "https://cloudy.upns.one/#xiagwb"
+    },
+    {
+      "option": 3,
+      "real_video": "https://strmup.to/Eh98u7qJdYjUm"
+    },
+    {
+      "option": 4,
+      "real_video": "https://turbovidhls.com/t/68c00f49cfc85"
+    },
+    {
+      "option": 5,
+      "real_video": "https://vidmoly.net/embed-3pzs5k4hcij7.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://short.icu/40DsF9Mj6"
+    }
+  ]
+}

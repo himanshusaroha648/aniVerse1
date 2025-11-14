@@ -1,0 +1,41 @@
+{
+  "series": "Sword Art Online",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/kuXL3UDa5TqCRat0az62hCJDeYE.jpg",
+  "season": 1,
+  "episode": 18,
+  "episode_title": "Episode 18",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/kuXL3UDa5TqCRat0az62hCJDeYE.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/kP5JiBHMtIuiTcntCZUe9ERzAYj.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/kP5JiBHMtIuiTcntCZUe9ERzAYj.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/WaO7MfjYvW2O/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/Izk6Mpw22"
+    },
+    {
+      "option": 3,
+      "real_video": "https://rubystm.com/e/3js8xsrv47ne.html"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/u1o6jp0"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/ep11ril"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/dmgiv1m"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/0f542615d6c3ceb0f8bb299b1a9fe396"
+    }
+  ]
+}

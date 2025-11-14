@@ -1,0 +1,45 @@
+{
+  "series": "Code Geass: Lelouch of the Rebellion",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/nF0qzl8jfQYxynra99WrC1zFq4C.jpg",
+  "season": 1,
+  "episode": 23,
+  "episode_title": "Episode 23",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/nF0qzl8jfQYxynra99WrC1zFq4C.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/1ti9Z4BCVpjkFtY9MzmqOFNQSM2.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/1ti9Z4BCVpjkFtY9MzmqOFNQSM2.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/AokfmkI5pIWh/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/sf8o0s9gjy8y.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://vidmoly.me/w/mr6be42szlaa"
+    },
+    {
+      "option": 4,
+      "real_video": "https://short.icu/669VKJ3Nr"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/v5zx2a9"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/gl7cexa"
+    },
+    {
+      "option": 7,
+      "real_video": "https://gdmirrorbot.nl/embed/hv1ppk7"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/94fee470b43270a912c27d56c27b3211"
+    }
+  ]
+}

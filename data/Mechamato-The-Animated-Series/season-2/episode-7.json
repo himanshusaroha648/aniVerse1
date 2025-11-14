@@ -1,0 +1,33 @@
+{
+  "series": "Mechamato The Animated Series",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/1rkM4tLoNKC33sLVyAWgogZGo3B.jpg",
+  "season": 2,
+  "episode": 7,
+  "episode_title": "Episode 7",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/1rkM4tLoNKC33sLVyAWgogZGo3B.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/6LgbWlrjeuDXUnQ4FoMkzdHcyj0.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/6LgbWlrjeuDXUnQ4FoMkzdHcyj0.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/EOmyRYtKQ"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/epll6oj"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/kfdie3a"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/xxcpoo4"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/565Ygv1V4tbu/"
+    }
+  ]
+}

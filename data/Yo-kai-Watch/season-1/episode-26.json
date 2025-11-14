@@ -1,0 +1,33 @@
+{
+  "series": "Yo-kai Watch",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/k8EM9rl22UAGtR2YUHNHsnMWggn.jpg",
+  "season": 1,
+  "episode": 26,
+  "episode_title": "Episode 26",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/k8EM9rl22UAGtR2YUHNHsnMWggn.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/k5i3evVTHLOiQgUmcn7SI3RH2tG.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/k5i3evVTHLOiQgUmcn7SI3RH2tG.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/WBeNmdlus"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/dxfp1qw"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/j46gbgl"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/jld3nc0"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/EP5GaYxa793W/"
+    }
+  ]
+}

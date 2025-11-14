@@ -1,0 +1,37 @@
+{
+  "series": "Zom 100: Bucket List of the Dead",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/XzOeAppGpnsSAiK82idkg0BoCt.jpg",
+  "season": 1,
+  "episode": 9,
+  "episode_title": "Episode 9",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/XzOeAppGpnsSAiK82idkg0BoCt.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/kWRY85lcJtgCoNuSjYdPSMOyaPB.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/kWRY85lcJtgCoNuSjYdPSMOyaPB.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/DK3jdviMWlCt/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/lSIv1GCpz"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/ztfzmoz"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/i2i7fuh"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/jtoux17"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/2201611d7a08ffda97e3e8c6b667a1bc"
+    }
+  ]
+}

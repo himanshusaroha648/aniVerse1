@@ -1,0 +1,53 @@
+{
+  "series": "Dan Da Dan",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/qU12CrNOYdxwlx7wvrhpgo2q1XQ.jpg",
+  "season": 1,
+  "episode": 12,
+  "episode_title": "Episode 12",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/qU12CrNOYdxwlx7wvrhpgo2q1XQ.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/kgfnqFois5hvCOh7ba8PnUEFaYq.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/kgfnqFois5hvCOh7ba8PnUEFaYq.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/6DR5onrAL"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/ofgulubimevg.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#hwh5n"
+    },
+    {
+      "option": 4,
+      "real_video": "https://strmup.to/DQgkrBJWC5PHf"
+    },
+    {
+      "option": 5,
+      "real_video": "https://blakiteapi.xyz/embed/240411/1-12"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/a1zin1p"
+    },
+    {
+      "option": 7,
+      "real_video": "https://gdmirrorbot.nl/embed/mn9exre"
+    },
+    {
+      "option": 8,
+      "real_video": "https://gdmirrorbot.nl/embed/dexkxz5"
+    },
+    {
+      "option": 9,
+      "real_video": "https://emturbovid.com/t/677eb25945144"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/e2ccf95a7f2e1878fcafc8376649b6e8"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "series": "SpongeBob SquarePants",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/amvtZgiTty0GHIgD56gpouBWrcy.jpg",
+  "season": 1,
+  "episode": 20,
+  "episode_title": "Episode 20",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/amvtZgiTty0GHIgD56gpouBWrcy.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/nJezCReeGmHMsehtlXROM4Q2ZJ8.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/nJezCReeGmHMsehtlXROM4Q2ZJ8.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/6QEGZZzz3"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/aw5swuz"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/dk4mj9j"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/zsmmyn2"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/Mw3vxuQOqMFy/"
+    }
+  ]
+}

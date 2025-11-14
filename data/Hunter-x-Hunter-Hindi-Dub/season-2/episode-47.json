@@ -1,0 +1,53 @@
+{
+  "series": "Hunter x Hunter Hindi Dub",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/9dubj2UQ2xJkzT1AEng6DaGRvLa.jpg",
+  "season": 2,
+  "episode": 47,
+  "episode_title": "Episode 47",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/9dubj2UQ2xJkzT1AEng6DaGRvLa.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/t0iSyByFhJqFxXsLWGDihNtTi9m.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/t0iSyByFhJqFxXsLWGDihNtTi9m.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/2o0awnSnc"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/18zootfv1s0m.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#xesrsu"
+    },
+    {
+      "option": 4,
+      "real_video": "https://strmup.to/EbOlap0mLjNBC"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/s9silfm"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/tdsf8jp"
+    },
+    {
+      "option": 7,
+      "real_video": "https://gdmirrorbot.nl/embed/b5dz0m3"
+    },
+    {
+      "option": 8,
+      "real_video": "https://emturbovid.com/t/690234f86d8c2"
+    },
+    {
+      "option": 9,
+      "real_video": "https://vidmoly.net/embed-98pspd2yknxk.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/a08c938c1e7c76d8fb83eee1a8b95f02"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "series": "KochiKame",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/5rXJ9r9xe6WPyuCUNGf7cQMHTWT.jpg",
+  "season": 1,
+  "episode": 14,
+  "episode_title": "Episode 14",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/5rXJ9r9xe6WPyuCUNGf7cQMHTWT.jpg",
+  "episode_card_thumbnail": "https://toonstream.love/wp-content/themes/torofilm/public/img/cnt/noimg-episode.png",
+  "episode_list_thumbnail": "https://toonstream.love/wp-content/themes/torofilm/public/img/cnt/noimg-episode.png",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/kK_4OL9cK"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/upzynxnz19c9.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/e4p6d9n"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/mpvqiea"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/YnZcq6uwi9Kl/"
+    }
+  ]
+}

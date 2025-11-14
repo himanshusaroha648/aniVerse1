@@ -1,0 +1,41 @@
+{
+  "series": "Power Rangers Mighty Morphin (S1-3)",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/8lnX8RWeGBdEQPOvf2IKoRtKfZO.jpg",
+  "season": 2,
+  "episode": 17,
+  "episode_title": "Episode 17",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/8lnX8RWeGBdEQPOvf2IKoRtKfZO.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/zf3JRCLUTeB8KlttNroxmKyfazL.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/zf3JRCLUTeB8KlttNroxmKyfazL.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/7aUyTGwxl"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/vltcely7znm7.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#5zcqnk"
+    },
+    {
+      "option": 4,
+      "real_video": "https://strmup.to/Ok9Vif14JM03g"
+    },
+    {
+      "option": 5,
+      "real_video": "https://turbovidhls.com/t/68dfd10f46461"
+    },
+    {
+      "option": 6,
+      "real_video": "https://vidmoly.net/embed-ltm6af9i5p3b.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/ElrSfJXOBUBL/"
+    }
+  ]
+}

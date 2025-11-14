@@ -1,0 +1,45 @@
+{
+  "series": "Log Horizon",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/vrCAD2KvtGJPwABIPd4z0gChi4g.jpg",
+  "season": 2,
+  "episode": 22,
+  "episode_title": "Episode 22",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/vrCAD2KvtGJPwABIPd4z0gChi4g.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/xsIkkWuaGpIUZoh6cqSq1MssIz7.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/xsIkkWuaGpIUZoh6cqSq1MssIz7.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/1lPMcd6J1H5q/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/O2WVt6Zn6"
+    },
+    {
+      "option": 3,
+      "real_video": "https://rubystm.com/e/yz35tcgg9efr.html"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/m2eba44"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/bmqvws1"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/vm9cumt"
+    },
+    {
+      "option": 7,
+      "real_video": "https://emturbovid.com/t/6720744a5e9f0"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/e11943a6031a0e6114ae69c257617980"
+    }
+  ]
+}

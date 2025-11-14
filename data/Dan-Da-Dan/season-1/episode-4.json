@@ -1,0 +1,57 @@
+{
+  "series": "Dan Da Dan",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/qU12CrNOYdxwlx7wvrhpgo2q1XQ.jpg",
+  "season": 1,
+  "episode": 4,
+  "episode_title": "Episode 4",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/qU12CrNOYdxwlx7wvrhpgo2q1XQ.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/eTbwdeKsf7MV3Lj73F1VRQHfx80.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/eTbwdeKsf7MV3Lj73F1VRQHfx80.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/QJOfFxHYjdxK/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/yoSX1124z"
+    },
+    {
+      "option": 3,
+      "real_video": "https://rubystm.com/e/noio6npwg98s.html"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/zzqatk3"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/ibtx2gj"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/bog93de"
+    },
+    {
+      "option": 7,
+      "real_video": "https://emturbovid.com/t/67356586d1f29"
+    },
+    {
+      "option": 8,
+      "real_video": "https://cloudy.upns.one/#b6nzng"
+    },
+    {
+      "option": 9,
+      "real_video": "https://strmup.to/OnrWNfg5os0pZ"
+    },
+    {
+      "option": 10,
+      "real_video": "https://blakiteapi.xyz/embed/240411/1-4"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/3416a75f4cea9109507cacd8e2f2aefc"
+    }
+  ]
+}

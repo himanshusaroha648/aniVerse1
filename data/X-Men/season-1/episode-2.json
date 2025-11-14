@@ -1,0 +1,29 @@
+{
+  "series": "X-Men",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/eMQcgexc7bbbXsL0tNsNtLNPo56.jpg",
+  "season": 1,
+  "episode": 2,
+  "episode_title": "Episode 2",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/eMQcgexc7bbbXsL0tNsNtLNPo56.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/i2Kt8Ctp1v0Lb1Xm2UV2NhnwtfG.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/i2Kt8Ctp1v0Lb1Xm2UV2NhnwtfG.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://bullstream.xyz/watch?v=4LD1YC35"
+    },
+    {
+      "option": 2,
+      "real_video": "https://streamsb.net/e/r27qrb0xnkxe.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://filemoon.to/e/psor38rsy15c/_Toonhub4u__Marvel_Anime__X-Men__40_2011_41__Episode_2_in__Hindi-Eng__480p.mp4"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/ImwxFk49xpba/"
+    }
+  ]
+}

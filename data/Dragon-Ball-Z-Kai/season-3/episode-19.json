@@ -1,0 +1,41 @@
+{
+  "series": "Dragon Ball Z Kai",
+  "thumbnail": "https://i.imgur.com/zZzbUql.jpg",
+  "season": 3,
+  "episode": 19,
+  "episode_title": "Episode 19",
+  "episode_main_poster": "https://i.imgur.com/zZzbUql.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/zJQzGdnT5kiiS4GpFAzi53sIYgV.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/zJQzGdnT5kiiS4GpFAzi53sIYgV.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/pgz1Q6urn"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/ari2m06sgyif.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#6svzj6"
+    },
+    {
+      "option": 4,
+      "real_video": "https://strmup.to/u5eS1IqMAQZcG"
+    },
+    {
+      "option": 5,
+      "real_video": "https://turbovidhls.com/t/68b3032b9ad07"
+    },
+    {
+      "option": 6,
+      "real_video": "https://vidmoly.net/embed-rl1yaatnr9uz.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/4c8c76b39d294759a9000cbda3a6571a"
+    }
+  ]
+}

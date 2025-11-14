@@ -1,0 +1,29 @@
+{
+  "series": "The Ghost and Molly McGee",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/buPbDZN0QfAAYRhQNMtnTGgQyV5.jpg",
+  "season": 1,
+  "episode": 9,
+  "episode_title": "Episode 9",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/buPbDZN0QfAAYRhQNMtnTGgQyV5.jpg",
+  "episode_card_thumbnail": "https://i.imgur.com/zCP2bq1.jpg",
+  "episode_list_thumbnail": "https://i.imgur.com/zCP2bq1.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://filemoon.to/e/4ghsu8htcqsc/_Toonhub4u__The_Ghost_and_Molly_McGee_Season_1_Episode_9__Hindi-English__720p.mp4"
+    },
+    {
+      "option": 2,
+      "real_video": "https://watchsb.com/e/0ap4yb2lh3st.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://filepress.lol/video/639db20cea517e2d341393b0"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/pRp3mZpvaBFK/"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "series": "The Devil Is a Part-Timer! (Eng-Jap)",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/55jYHFT8iJuASF8Mzg0V8Dh3N3M.jpg",
+  "season": 1,
+  "episode": 7,
+  "episode_title": "Episode 7",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/55jYHFT8iJuASF8Mzg0V8Dh3N3M.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/b7vUzzwWm9fT9EltsrFU58dOvhD.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/b7vUzzwWm9fT9EltsrFU58dOvhD.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/KcNZhEML-"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/avefq26"
+    },
+    {
+      "option": 3,
+      "real_video": "https://vidstreaming.xyz/v/tcIvq8H9fGj5/"
+    },
+    {
+      "option": 4,
+      "real_video": "https://short.icu/wDoNOd63M"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/GVMYu6EH0adc/"
+    }
+  ]
+}

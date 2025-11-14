@@ -1,0 +1,37 @@
+{
+  "series": "Re:ZERO -Starting Life in Another World-",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/a8p5VEnstPypeZWhsKhEadRG3jW.jpg",
+  "season": 1,
+  "episode": 1,
+  "episode_title": "Episode 1",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/a8p5VEnstPypeZWhsKhEadRG3jW.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/4t07rKWcAEjV08nHRUXFnkP7PER.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/4t07rKWcAEjV08nHRUXFnkP7PER.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://raretoonsindia.co/v/mNOv1rRlaYX1/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/jRBbNmkhL"
+    },
+    {
+      "option": 3,
+      "real_video": "https://vidcloud.upns.ink/#x6nnex"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/ebpgfvi"
+    },
+    {
+      "option": 5,
+      "real_video": "https://emturbovid.com/t/68145c98a53e2"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/39555391eb0624a439c5131b1bb8a2e0"
+    }
+  ]
+}

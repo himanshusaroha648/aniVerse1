@@ -1,0 +1,25 @@
+{
+  "series": "Hunter x Hunter",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/ucpgmUR1h5Te1BYegKItoPjOeF7.jpg",
+  "season": 1,
+  "episode": 22,
+  "episode_title": "Episode 22",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/ucpgmUR1h5Te1BYegKItoPjOeF7.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/f9rEeoWdY3fGhqyEB0aBuZulmJc.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/f9rEeoWdY3fGhqyEB0aBuZulmJc.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://filelions.online/v/u6awpbqvdb1p"
+    },
+    {
+      "option": 2,
+      "real_video": "https://filemoon.to/e/btawyilxknqu/_Toonhub4u__Hunter__C3__Hunter_S01E22__480p_BD_Multi_Audio__ESub"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/vjqNIIM6VeEZ/"
+    }
+  ]
+}

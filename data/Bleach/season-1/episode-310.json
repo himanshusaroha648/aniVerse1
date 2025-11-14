@@ -1,0 +1,25 @@
+{
+  "series": "Bleach",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
+  "season": 1,
+  "episode": 310,
+  "episode_title": "Episode 310",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/vkGbzBHKZqt3hEY9oSCP9ClH6hf.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/vkGbzBHKZqt3hEY9oSCP9ClH6hf.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/Z15ZNP_Vb"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/by1sa4b"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/qyv5q49Izjqw/"
+    }
+  ]
+}

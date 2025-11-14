@@ -1,0 +1,41 @@
+{
+  "series": "True Beauty",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/9gpc8kIhNEG7r0VTkyI9aVBxdO3.jpg",
+  "season": 1,
+  "episode": 3,
+  "episode_title": "Episode 3",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/9gpc8kIhNEG7r0VTkyI9aVBxdO3.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/p5yRxX6ssILLVH5pMgqwaz9Eou1.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/p5yRxX6ssILLVH5pMgqwaz9Eou1.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/ppbALpRQAW06/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/xwoptc18bz0z.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://short.icu/EQBLadFQu"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/m5acyxx"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/y4o93xn"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/ebyqchc"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/5c7a3b81a677c639c76989610183c0e0"
+    }
+  ]
+}

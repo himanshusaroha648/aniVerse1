@@ -1,0 +1,29 @@
+{
+  "series": "Avatar: The Last Airbender",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/cHFZA8Tlv03nKTGXhLOYOLtqoSm.jpg",
+  "season": 3,
+  "episode": 10,
+  "episode_title": "Episode 10",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/cHFZA8Tlv03nKTGXhLOYOLtqoSm.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/njLvVlI4HzQtxFYNG5G2LPpZJqF.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/njLvVlI4HzQtxFYNG5G2LPpZJqF.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://rubystm.com/e/ktbhc8jzamdo.html"
+    },
+    {
+      "option": 2,
+      "real_video": "https://cloudy.upns.one/#iprf6m"
+    },
+    {
+      "option": 3,
+      "real_video": "https://strmup.to/8JfJjyOXjEDP"
+    },
+    {
+      "option": null,
+      "real_video": "https://short.icu/J8SR2M1z8"
+    }
+  ]
+}

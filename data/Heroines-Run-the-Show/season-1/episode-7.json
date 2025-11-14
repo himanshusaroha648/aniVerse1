@@ -1,0 +1,53 @@
+{
+  "series": "Heroines Run the Show",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/A5OlJA472GSc2S05bzAMaTw1o9w.jpg",
+  "season": 1,
+  "episode": 7,
+  "episode_title": "Episode 7",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/A5OlJA472GSc2S05bzAMaTw1o9w.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/li7pJrk1kcSqbI9QaIvNU4DYzFt.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/li7pJrk1kcSqbI9QaIvNU4DYzFt.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/ni-M3FDs8"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/9usb430vd8en.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#e9pyir"
+    },
+    {
+      "option": 4,
+      "real_video": "https://strmup.to/mPHlLT5sCVx3M"
+    },
+    {
+      "option": 5,
+      "real_video": "https://turbovidhls.com/t/68f0c6563fa92"
+    },
+    {
+      "option": 6,
+      "real_video": "https://vidmoly.net/embed-0c8fkma96mq3.html"
+    },
+    {
+      "option": 7,
+      "real_video": "https://gdmirrorbot.nl/embed/ma8s6qb"
+    },
+    {
+      "option": 8,
+      "real_video": "https://gdmirrorbot.nl/embed/dfnywo5"
+    },
+    {
+      "option": 9,
+      "real_video": "https://gdmirrorbot.nl/embed/otc2e4l"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/b237e7e6bada3f572c342dc4bbcda0d2"
+    }
+  ]
+}

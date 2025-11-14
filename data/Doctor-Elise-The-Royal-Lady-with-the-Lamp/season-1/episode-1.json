@@ -1,0 +1,25 @@
+{
+  "series": "Doctor Elise: The Royal Lady with the Lamp",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/dYqcim8IjD8TNoae9SAcYrRmVXi.jpg",
+  "season": 1,
+  "episode": 1,
+  "episode_title": "Episode 1",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/dYqcim8IjD8TNoae9SAcYrRmVXi.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/sOZ5ES6YDIX01BxEJrHuTNsvbaQ.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/sOZ5ES6YDIX01BxEJrHuTNsvbaQ.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/2Msptq614"
+    },
+    {
+      "option": 2,
+      "real_video": "https://vidmoly.me/w/5rge3pi6dkm7"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/ereQTvej2L0Z/"
+    }
+  ]
+}

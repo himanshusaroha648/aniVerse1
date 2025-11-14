@@ -1,0 +1,49 @@
+{
+  "series": "Castlevania: Nocturne",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/u29JxmpccPx040LReImilgUo6j7.jpg",
+  "season": 2,
+  "episode": 6,
+  "episode_title": "Episode 6",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/u29JxmpccPx040LReImilgUo6j7.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/9fDWzIn5HI2QgV07LpUEXp916GM.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/9fDWzIn5HI2QgV07LpUEXp916GM.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/7k50tBSYk2uN/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/aJ1DPXg9b"
+    },
+    {
+      "option": 3,
+      "real_video": "https://rubystm.com/e/nrixlvnyapdh.html"
+    },
+    {
+      "option": 4,
+      "real_video": "https://cloudy.upns.one/#eztgk"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/mqygdeu"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/fcj4yrw"
+    },
+    {
+      "option": 7,
+      "real_video": "https://gdmirrorbot.nl/embed/gvawdmc"
+    },
+    {
+      "option": 8,
+      "real_video": "https://emturbovid.com/t/67890301651b2"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/1487987e862c44b91a0296cf3866387e"
+    }
+  ]
+}

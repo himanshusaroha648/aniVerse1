@@ -1,0 +1,29 @@
+{
+  "series": "One Piece",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/dum1wnm6kJOUos0XJqjB8s2UWi9.jpg",
+  "season": 21,
+  "episode": 102,
+  "episode_title": "Episode 102",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/dum1wnm6kJOUos0XJqjB8s2UWi9.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/bNL4geYiwJqNTEFEm5WOKs5Frul.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/bNL4geYiwJqNTEFEm5WOKs5Frul.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/AXnBWd5r36Qj/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/mJuGEU05d"
+    },
+    {
+      "option": 3,
+      "real_video": "https://rubystm.com/e/5n4jpany6hkm.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/LWeB25G6ym8D/"
+    }
+  ]
+}

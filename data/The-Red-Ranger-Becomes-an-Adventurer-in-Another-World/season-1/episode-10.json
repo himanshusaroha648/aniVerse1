@@ -1,0 +1,49 @@
+{
+  "series": "The Red Ranger Becomes an Adventurer in Another World",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/ZkvF2ASZD3gLDnn2ZJ7L7RGSBc.jpg",
+  "season": 1,
+  "episode": 10,
+  "episode_title": "Episode 10",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/ZkvF2ASZD3gLDnn2ZJ7L7RGSBc.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/AqGipCdKkKMJotQrrxJu7amUVi4.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/AqGipCdKkKMJotQrrxJu7amUVi4.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/FlGErVY2eo5n/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/RUx5AkcN6"
+    },
+    {
+      "option": 3,
+      "real_video": "https://rubystm.com/e/r1l12905mrxo.html"
+    },
+    {
+      "option": 4,
+      "real_video": "https://cloudy.upns.one/#tamtci"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/f9n3w02"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/bkaxu30"
+    },
+    {
+      "option": 7,
+      "real_video": "https://gdmirrorbot.nl/embed/sh4x7o0"
+    },
+    {
+      "option": 8,
+      "real_video": "https://emturbovid.com/t/67f530f5c0657"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/0f4bcf819fdbacb2a65d63843f39f441"
+    }
+  ]
+}

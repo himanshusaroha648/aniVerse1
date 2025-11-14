@@ -1,0 +1,164 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --bg: #0b0f14;
+  --card: #0f1724;
+  --text: #e6eef3;
+  --muted: #9aa6b2;
+  --primary: #0b78ff;
+  --accent: #8b5cf6;
+  --glass: rgba(255, 255, 255, 0.03);
+}
+
+:root.theme-dark {
+  --bg: #0b0f14;
+  --card: #0f1724;
+  --text: #e6eef3;
+  --muted: #9aa6b2;
+  --primary: #0b78ff;
+  --accent: #8b5cf6;
+}
+
+:root.theme-darkBlue {
+  --bg: #071029;
+  --card: #0b2438;
+  --text: #e3ebf5;
+  --muted: #95a4c4;
+  --primary: #1e90ff;
+  --accent: #3359ff;
+}
+
+:root.theme-nightNeon {
+  --bg: #01040a;
+  --card: #071028;
+  --text: #e5f8ff;
+  --muted: #8ca5bf;
+  --primary: #00e5ff;
+  --accent: #ff3da6;
+}
+
+body {
+  font-family: 'Inter', system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
+}
+
+::-webkit-scrollbar {
+  width: 10px;
+}
+::-webkit-scrollbar-thumb {
+  background: linear-gradient(180deg, var(--primary), var(--accent));
+  border-radius: 10px;
+}
+
+.parallax-bg {
+  background: linear-gradient(130deg, rgba(11, 120, 255, 0.25), rgba(139, 92, 246, 0.15));
+  position: relative;
+  overflow: hidden;
+}
+
+.parallax-bg::before,
+.parallax-bg::after {
+  content: '';
+  position: absolute;
+  inset: -20%;
+  background: radial-gradient(circle at 20% 20%, rgba(11, 120, 255, 0.35), transparent 55%),
+    radial-gradient(circle at 80% 0%, rgba(139, 92, 246, 0.25), transparent 55%);
+  transform: translateZ(0);
+  filter: blur(60px);
+}
+
+.parallax-bg::after {
+  transform: rotate(15deg);
+  opacity: 0.6;
+}
+
+.glass-surface {
+  background: var(--glass);
+  backdrop-filter: blur(18px);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+.card-hover {
+  transition: transform 220ms ease, box-shadow 220ms ease;
+}
+.card-hover:hover,
+.card-hover:focus-visible {
+  transform: translateY(-4px);
+  box-shadow: 0 20px 35px rgba(11, 120, 255, 0.2);
+}
+
+button:focus-visible,
+a:focus-visible {
+  outline: 2px solid var(--primary);
+  outline-offset: 3px;
+}
+/* Latest Episodes Horizontal Scroll */
+.episode-scroll-container {
+  position: relative;
+  overflow: hidden;
+}
+
+.episode-scroll {
+  display: flex;
+  gap: 12px;
+  overflow-x: auto;
+  overflow-y: hidden;
+  scroll-behavior: smooth;
+  padding: 4px 0 12px 0;
+  -webkit-overflow-scrolling: touch;
+  scrollbar-width: thin;
+  scrollbar-color: var(--primary) transparent;
+}
+
+/* Custom horizontal scrollbar */
+.episode-scroll::-webkit-scrollbar {
+  height: 6px;
+}
+
+.episode-scroll::-webkit-scrollbar-track {
+  background: rgba(255, 255, 255, 0.05);
+  border-radius: 3px;
+}
+
+.episode-scroll::-webkit-scrollbar-thumb {
+  background: linear-gradient(90deg, var(--primary), var(--accent));
+  border-radius: 3px;
+}
+
+.episode-scroll::-webkit-scrollbar-thumb:hover {
+  background: linear-gradient(90deg, var(--accent), var(--primary));
+}
+
+.episode-card-horizontal {
+  flex: 0 0 auto;
+  width: 240px;
+  cursor: pointer;
+  transition: transform 0.2s ease, filter 0.2s ease;
+}
+
+.episode-card-horizontal img {
+  aspect-ratio: 16/9 !important;
+  object-fit: cover;
+  object-position: center;
+}
+
+.episode-card-horizontal:hover {
+  transform: scale(1.05);
+  filter: brightness(1.1);
+}
+
+.episode-card-horizontal:active {
+  transform: scale(0.98);
+}
+
+/* Mobile responsive */
+@media (max-width: 640px) {
+  .episode-card-horizontal {
+    width: 200px;
+  }
+  
+  .episode-scroll {
+    gap: 8px;
+  }
+}

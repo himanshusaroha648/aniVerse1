@@ -1,0 +1,45 @@
+{
+  "series": "Scooby-Doo and Scrappy-Doo",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/ctxdYzdqSlrfKrqEo3bLSrrMLSP.jpg",
+  "season": 2,
+  "episode": 22,
+  "episode_title": "Episode 22",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/ctxdYzdqSlrfKrqEo3bLSrrMLSP.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/cwVtxEHqjPZxwHOS8CYU6ILveXu.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/cwVtxEHqjPZxwHOS8CYU6ILveXu.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/8f2JaURH0"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/3vfuv0m036xl.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#vzb856"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/f7y70j9"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/gzwvy47"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/iruodzg"
+    },
+    {
+      "option": 7,
+      "real_video": "https://emturbovid.com/t/67d9a23e0d3b4"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/AI8Wn9exFb2F/"
+    }
+  ]
+}

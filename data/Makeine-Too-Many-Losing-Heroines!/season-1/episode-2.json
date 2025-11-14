@@ -1,0 +1,41 @@
+{
+  "series": "Makeine: Too Many Losing Heroines!",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/2dN2KY7cGtyzvA51zgxQ5Q8hXit.jpg",
+  "season": 1,
+  "episode": 2,
+  "episode_title": "Episode 2",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/2dN2KY7cGtyzvA51zgxQ5Q8hXit.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/vrZ4WnWdxIVlMQ8vZhhBHnUxDdk.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/vrZ4WnWdxIVlMQ8vZhhBHnUxDdk.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/TgtvnU9xjeqI/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/g9deo34ivm48.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://short.icu/mwBm6qEVz"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/ztqu1kf"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/cjjyvwr"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/qk80ye3"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/bf424cb7b0dea050a42b9739eb261a3a"
+    }
+  ]
+}

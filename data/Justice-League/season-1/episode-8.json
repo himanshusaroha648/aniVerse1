@@ -1,0 +1,33 @@
+{
+  "series": "Justice League",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/caIAQIoM9NLZofT8fz8t47W1gYe.jpg",
+  "season": 1,
+  "episode": 8,
+  "episode_title": "Episode 8",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/caIAQIoM9NLZofT8fz8t47W1gYe.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/b4HO98MYdXI37kiKWRg7gQLZq1e.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/b4HO98MYdXI37kiKWRg7gQLZq1e.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/jtAeCY5CK"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/rvb8vgh"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/pyl0f83"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/ttz548b"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/auUv4y0YnczN/"
+    }
+  ]
+}

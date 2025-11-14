@@ -1,0 +1,53 @@
+{
+  "series": "My Hero Academia",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/6yQKyw3BNw9kSKsP6SRrXqsUpNe.jpg",
+  "season": 7,
+  "episode": 2,
+  "episode_title": "Episode 2",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/6yQKyw3BNw9kSKsP6SRrXqsUpNe.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/8nVGPXo8qXiuIqlBdwqxONt9X8N.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/8nVGPXo8qXiuIqlBdwqxONt9X8N.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/XTqr6HXQLIhC/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/Zaxr2xzKM"
+    },
+    {
+      "option": 3,
+      "real_video": "https://rubystm.com/e/jrxi9n1exudy.html"
+    },
+    {
+      "option": 4,
+      "real_video": "https://cloudy.upns.one/#mi3z9f"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/n4me6nb"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/ggb5q30"
+    },
+    {
+      "option": 7,
+      "real_video": "https://gdmirrorbot.nl/embed/g1scuse"
+    },
+    {
+      "option": 8,
+      "real_video": "https://emturbovid.com/t/683314c9ed8e1"
+    },
+    {
+      "option": 9,
+      "real_video": "https://raretoonsindia.co/ex/u88isV5j1TV4Z2U"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/a652e914c736dfaf8a6667ae6936f0d6"
+    }
+  ]
+}

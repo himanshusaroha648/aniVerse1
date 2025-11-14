@@ -1,0 +1,41 @@
+{
+  "series": "Dragon Ball Z Kai",
+  "thumbnail": "https://i.imgur.com/zZzbUql.jpg",
+  "season": 2,
+  "episode": 18,
+  "episode_title": "Episode 18",
+  "episode_main_poster": "https://i.imgur.com/zZzbUql.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/jmXAiNFOud5pJ6TQEQxs8gdQXnd.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/jmXAiNFOud5pJ6TQEQxs8gdQXnd.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/4pbII05am"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/jql2872mfyhy.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#twkd6i"
+    },
+    {
+      "option": 4,
+      "real_video": "https://strmup.to/OMg6jCHEL8q5m"
+    },
+    {
+      "option": 5,
+      "real_video": "https://turbovidhls.com/t/68b1b15a60e32"
+    },
+    {
+      "option": 6,
+      "real_video": "https://vidmoly.net/embed-busj585tq4m1.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/49d4b2faeb4b7b9e745775793141e2b2"
+    }
+  ]
+}

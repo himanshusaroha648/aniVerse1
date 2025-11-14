@@ -1,0 +1,17 @@
+{
+  "series": "Kung Fu Panda: The Dragon Knight",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/7C9TKvU5dNyhvoG9kQvRFsg6vlA.jpg",
+  "season": 1,
+  "episode": 10,
+  "episode_title": "Episode 10",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/7C9TKvU5dNyhvoG9kQvRFsg6vlA.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/mTKyvsvngcBTyliXJDOMxUPIS8z.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/mTKyvsvngcBTyliXJDOMxUPIS8z.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/cGVDxoTF7UaB/"
+    }
+  ]
+}

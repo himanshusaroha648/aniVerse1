@@ -1,0 +1,45 @@
+{
+  "series": "Mech Cadets",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/5awFqxnqJHQD0TQCasf8VjAWqTb.jpg",
+  "season": 1,
+  "episode": 1,
+  "episode_title": "Episode 1",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/5awFqxnqJHQD0TQCasf8VjAWqTb.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/s7GrNrboSMqvRkkk5pz7pokc5eA.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/s7GrNrboSMqvRkkk5pz7pokc5eA.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://rubystm.com/e/90zjzntxpi9j.html"
+    },
+    {
+      "option": 2,
+      "real_video": "https://cloudy.upns.one/#sud5c8"
+    },
+    {
+      "option": 3,
+      "real_video": "https://strmup.to/rwDacGHhlFzdE"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/sj2d55u"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/sm9bsac"
+    },
+    {
+      "option": 6,
+      "real_video": "https://turbovidhls.com/t/6902589af3e5e"
+    },
+    {
+      "option": 7,
+      "real_video": "https://vidmoly.net/embed-rzadaj3f2zbr.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://short.icu/R02siocwj"
+    }
+  ]
+}

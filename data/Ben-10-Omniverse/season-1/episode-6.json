@@ -1,0 +1,37 @@
+{
+  "series": "Ben 10: Omniverse",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/Re9I5tauOspaJxYCIqRqavKT4F.jpg",
+  "season": 1,
+  "episode": 6,
+  "episode_title": "Episode 6",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/Re9I5tauOspaJxYCIqRqavKT4F.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/xbuLk5EkRXJdhPNXvPHl3SDUQeO.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/xbuLk5EkRXJdhPNXvPHl3SDUQeO.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/zI4xgVhs3"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/aio0mqhn6bnf.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#3afp9l"
+    },
+    {
+      "option": 4,
+      "real_video": "https://strmup.to/T6kEIJvLrDzpm"
+    },
+    {
+      "option": 5,
+      "real_video": "https://emturbovid.com/t/686bc169748e1"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/bLdiqvFWQRVC/"
+    }
+  ]
+}

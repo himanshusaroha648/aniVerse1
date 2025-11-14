@@ -1,0 +1,49 @@
+{
+  "series": "Hunter x Hunter Hindi Dub",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/9dubj2UQ2xJkzT1AEng6DaGRvLa.jpg",
+  "season": 1,
+  "episode": 43,
+  "episode_title": "Episode 43",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/9dubj2UQ2xJkzT1AEng6DaGRvLa.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/iyhewpsvmdg1TZxKuV4PnJz5TM4.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/iyhewpsvmdg1TZxKuV4PnJz5TM4.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/0vjLM1zTu"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/peqg7wseae8s.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#rqa8e8"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/yierlzo"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/x1xkx67"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/zk85r34"
+    },
+    {
+      "option": 7,
+      "real_video": "https://emturbovid.com/t/67e6da1f6512e"
+    },
+    {
+      "option": 8,
+      "real_video": "https://raretoonsindia.co/ex/MGp1Ujs711lJLcM"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/aavEPudncllJ/"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "series": "Tojima Wants to Be a Kamen Rider",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/bD80ugDX7krshLcWxnqRYCOQPoo.jpg",
+  "season": 1,
+  "episode": 3,
+  "episode_title": "Episode 3",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/bD80ugDX7krshLcWxnqRYCOQPoo.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/89cn8x1U1ZMEqVPANFa2tT8Lalz.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/89cn8x1U1ZMEqVPANFa2tT8Lalz.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/H8lNaTfvz"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/f9yc7pw0aiwy.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#6pdq8d"
+    },
+    {
+      "option": 4,
+      "real_video": "https://strmup.to/tCVMZnYoEBp2j"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/ea5eq25"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/gfku4qh"
+    },
+    {
+      "option": 7,
+      "real_video": "https://gdmirrorbot.nl/embed/ussgu7l"
+    },
+    {
+      "option": 8,
+      "real_video": "https://emturbovid.com/t/6913363d7a754"
+    },
+    {
+      "option": 9,
+      "real_video": "https://vidmoly.net/embed-nhlodtis4va4.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/4dde03babe16fa41d795202d88d4be9f"
+    }
+  ]
+}

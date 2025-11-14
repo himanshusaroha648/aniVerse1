@@ -1,0 +1,29 @@
+{
+  "series": "Secret Invasion",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/3rINdUPSy9AklJg74jWHOyUXuZd.jpg",
+  "season": 1,
+  "episode": 2,
+  "episode_title": "Episode 2",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/3rINdUPSy9AklJg74jWHOyUXuZd.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/7IZzdkSE1YygSq22tS4BThbkjiG.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/7IZzdkSE1YygSq22tS4BThbkjiG.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://filelions.online/v/hy6cw5mxmip0"
+    },
+    {
+      "option": 2,
+      "real_video": "https://streamsb.net/e/40epgg1cbp52.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://filemoon.to/e/vv7j9dnt199f/_Toonhub4u__Secret_Invasion_S01E02_in__Hin-Eng-Tam-Mal-Tel__1080p"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/KjGAJBbdHzvD/"
+    }
+  ]
+}

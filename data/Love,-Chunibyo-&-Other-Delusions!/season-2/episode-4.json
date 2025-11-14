@@ -1,0 +1,21 @@
+{
+  "series": "Love, Chunibyo & Other Delusions!",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/1IapEqydEiGO0gCgBPVexTFbUCS.jpg",
+  "season": 2,
+  "episode": 4,
+  "episode_title": "Episode 4",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/1IapEqydEiGO0gCgBPVexTFbUCS.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/63wkOEUMlpO6qWuFZ8dMvRTACzu.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/63wkOEUMlpO6qWuFZ8dMvRTACzu.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/QIq_Vn2bi"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/0yGGNKEa6zwS/"
+    }
+  ]
+}

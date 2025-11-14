@@ -1,0 +1,37 @@
+{
+  "series": "Sword Art Online",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/kuXL3UDa5TqCRat0az62hCJDeYE.jpg",
+  "season": 1,
+  "episode": 10,
+  "episode_title": "Episode 10",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/kuXL3UDa5TqCRat0az62hCJDeYE.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/2A6GRQT5uDJhq9vc46fISn0CNzm.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/2A6GRQT5uDJhq9vc46fISn0CNzm.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/7YOd6UkJ_"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/3mcaf96iv8ty.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/exyiuxp"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/nltaf94"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/pesgq6g"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/fDDbF9XpYHMU/"
+    }
+  ]
+}

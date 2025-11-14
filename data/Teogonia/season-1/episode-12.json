@@ -1,0 +1,53 @@
+{
+  "series": "Teogonia",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/zGHrnnFc0p5Pf25qUaAv95JpnJC.jpg",
+  "season": 1,
+  "episode": 12,
+  "episode_title": "Episode 12",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/zGHrnnFc0p5Pf25qUaAv95JpnJC.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/mYySMkRKoAFnN98csYm6t2ZdxGN.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/mYySMkRKoAFnN98csYm6t2ZdxGN.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/-wUf4IRlt"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/xx8xpwkfw93r.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#5zebjn"
+    },
+    {
+      "option": 4,
+      "real_video": "https://strmup.to/3yAavZruTSiWt"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/kiykgms"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/uqca7e2"
+    },
+    {
+      "option": 7,
+      "real_video": "https://gdmirrorbot.nl/embed/os2sour"
+    },
+    {
+      "option": 8,
+      "real_video": "https://emturbovid.com/t/6883e306d8df6"
+    },
+    {
+      "option": 9,
+      "real_video": "https://vidmoly.net/embed-c7s6xd6o3e1v.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/2298d401e38ecd89706918103116ca07"
+    }
+  ]
+}

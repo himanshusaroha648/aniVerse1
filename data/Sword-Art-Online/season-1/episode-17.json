@@ -1,0 +1,41 @@
+{
+  "series": "Sword Art Online",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/kuXL3UDa5TqCRat0az62hCJDeYE.jpg",
+  "season": 1,
+  "episode": 17,
+  "episode_title": "Episode 17",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/kuXL3UDa5TqCRat0az62hCJDeYE.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/b702zYjB82kk0APiyCCYBn7fGJU.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/b702zYjB82kk0APiyCCYBn7fGJU.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/kSwIowk9Vqw3/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/loaZgu6CL"
+    },
+    {
+      "option": 3,
+      "real_video": "https://rubystm.com/e/2v352uwjkct7.html"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/nq1cocx"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/encizd8"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/zj546qe"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/950d4aea25553820c10d71160da80944"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "series": "The Dangers in My Heart",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/mKhMmREBOKXtp3tlv9rnLRxZec5.jpg",
+  "season": 1,
+  "episode": 3,
+  "episode_title": "Episode 3",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/mKhMmREBOKXtp3tlv9rnLRxZec5.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/ggTUCJvzRmhPM5ooD42U39xmxwg.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/ggTUCJvzRmhPM5ooD42U39xmxwg.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/-2qTEjmSl"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/n2ziohd"
+    },
+    {
+      "option": 3,
+      "real_video": "https://vidstreaming.xyz/v/ANb3AARYKybS/"
+    },
+    {
+      "option": 4,
+      "real_video": "https://short.icu/_hHZCVfkd"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/wks32a8"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/pI6tBfMt3VfY/"
+    }
+  ]
+}

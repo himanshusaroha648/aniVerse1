@@ -1,0 +1,53 @@
+{
+  "series": "Onimusha",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/lfRmDHegR8OpU3859lBz9YHgD79.jpg",
+  "season": 1,
+  "episode": 3,
+  "episode_title": "Episode 3",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/lfRmDHegR8OpU3859lBz9YHgD79.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/yg8qPuioU1WlzmamIS6IyjjrFBr.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/yg8qPuioU1WlzmamIS6IyjjrFBr.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/CyIPZ2S9v"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/b4zz941wb3kz.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#me1owm"
+    },
+    {
+      "option": 4,
+      "real_video": "https://strmup.to/0HnDm7byWOqVC"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/hekk8vq"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/np01kad"
+    },
+    {
+      "option": 7,
+      "real_video": "https://gdmirrorbot.nl/embed/uj0k7cz"
+    },
+    {
+      "option": 8,
+      "real_video": "https://turbovidhls.com/t/68d40b1721141"
+    },
+    {
+      "option": 9,
+      "real_video": "https://vidmoly.net/embed-cd0gtgj4duyu.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/aebdba74a8e8e3e33e65d284fab6cd88"
+    }
+  ]
+}

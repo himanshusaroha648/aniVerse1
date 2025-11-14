@@ -1,0 +1,21 @@
+{
+  "series": "One Piece",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/dum1wnm6kJOUos0XJqjB8s2UWi9.jpg",
+  "season": 21,
+  "episode": 73,
+  "episode_title": "Episode 73",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/dum1wnm6kJOUos0XJqjB8s2UWi9.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/jgfYpTlaKigp8vK3LWB2lBs31zw.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/jgfYpTlaKigp8vK3LWB2lBs31zw.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://rubystm.com/e/kcuvp0vhmscg.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/60YAKZw1n0eq/"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "series": "Avatar: The Last Airbender",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/cHFZA8Tlv03nKTGXhLOYOLtqoSm.jpg",
+  "season": 3,
+  "episode": 8,
+  "episode_title": "Episode 8",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/cHFZA8Tlv03nKTGXhLOYOLtqoSm.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/d1ECriFq8qpttMnHwrAVewSq6IF.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/d1ECriFq8qpttMnHwrAVewSq6IF.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://rubystm.com/e/dboljc6jm0wo.html"
+    },
+    {
+      "option": 2,
+      "real_video": "https://cloudy.upns.one/#skqxhm"
+    },
+    {
+      "option": 3,
+      "real_video": "https://strmup.to/1950PDnXS06V"
+    },
+    {
+      "option": null,
+      "real_video": "https://short.icu/v6zbW_vSx"
+    }
+  ]
+}

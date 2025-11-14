@@ -1,0 +1,45 @@
+{
+  "series": "Tokyo Ghoul",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/y2roOFsew9nJKKVwwJCHSyzgpK9.jpg",
+  "season": 4,
+  "episode": 2,
+  "episode_title": "Episode 2",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/y2roOFsew9nJKKVwwJCHSyzgpK9.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/otKHpvqfT9IFY34ma4RCyzj2iOV.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/otKHpvqfT9IFY34ma4RCyzj2iOV.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/zUOo3dVZb"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/18hwsVgF8"
+    },
+    {
+      "option": 3,
+      "real_video": "https://rubystm.com/e/uhnnqb6qw0hr.html"
+    },
+    {
+      "option": 4,
+      "real_video": "https://cloudy.upns.one/#xesryr"
+    },
+    {
+      "option": 5,
+      "real_video": "https://strmup.to/P3opNsrf6Gc82"
+    },
+    {
+      "option": 6,
+      "real_video": "https://turbovidhls.com/t/690245ba62298"
+    },
+    {
+      "option": 7,
+      "real_video": "https://vidmoly.net/embed-mfe7a4qk5bxc.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/U632iYAp45yH/"
+    }
+  ]
+}

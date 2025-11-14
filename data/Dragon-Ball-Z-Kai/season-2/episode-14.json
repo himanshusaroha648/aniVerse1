@@ -1,0 +1,41 @@
+{
+  "series": "Dragon Ball Z Kai",
+  "thumbnail": "https://i.imgur.com/zZzbUql.jpg",
+  "season": 2,
+  "episode": 14,
+  "episode_title": "Episode 14",
+  "episode_main_poster": "https://i.imgur.com/zZzbUql.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/q2ZJCRa143tVA5UZ3XwJblyKs3x.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/q2ZJCRa143tVA5UZ3XwJblyKs3x.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/eZHRHZNvZ"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/815622n6pgrw.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#unmivu"
+    },
+    {
+      "option": 4,
+      "real_video": "https://strmup.to/RcVp92HaLbzIm"
+    },
+    {
+      "option": 5,
+      "real_video": "https://turbovidhls.com/t/68b1b15267e4b"
+    },
+    {
+      "option": 6,
+      "real_video": "https://vidmoly.net/embed-lbkfgywt51xi.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/2f4fe03d77724a7217006e5d16728874"
+    }
+  ]
+}

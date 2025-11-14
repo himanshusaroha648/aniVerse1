@@ -1,0 +1,61 @@
+{
+  "series": "Dragon Ball",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/vU50hlN4ZHeCSuyhpIfo52TxKR4.jpg",
+  "season": 1,
+  "episode": 24,
+  "episode_title": "Episode 24",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/vU50hlN4ZHeCSuyhpIfo52TxKR4.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/8vzP8jkpCv3C5hGKvF7ZigZYUyd.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/8vzP8jkpCv3C5hGKvF7ZigZYUyd.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/hwikrhnculuA/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/a6g150jz63pg.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://short.icu/eBh59Jyjn"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/i1irs3o"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/y2q6oxi"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/katqlum"
+    },
+    {
+      "option": 7,
+      "real_video": "https://blakiteapi.xyz/embed/12609/2-11"
+    },
+    {
+      "option": 8,
+      "real_video": "https://cloudy.upns.one/#skfoy5"
+    },
+    {
+      "option": 9,
+      "real_video": "https://strmup.to/Q3ipJxz4bP6vZ"
+    },
+    {
+      "option": 10,
+      "real_video": "https://turbovidhls.com/t/68b6b51577c70"
+    },
+    {
+      "option": 11,
+      "real_video": "https://vidmoly.net/embed-apez5ero0n39.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/878d5691c824ee2aaf770f7d36c151d6"
+    }
+  ]
+}

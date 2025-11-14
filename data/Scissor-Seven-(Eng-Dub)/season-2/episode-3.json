@@ -1,0 +1,25 @@
+{
+  "series": "Scissor Seven (Eng Dub)",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/nuovZ11MA2pHx6xQVpOFc6Jl1V0.jpg",
+  "season": 2,
+  "episode": 3,
+  "episode_title": "Episode 3",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/nuovZ11MA2pHx6xQVpOFc6Jl1V0.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/qKjpWXfheudx6335D2ruuu2lycl.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/qKjpWXfheudx6335D2ruuu2lycl.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/Ezq8_k2jl"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/mkwy23s"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/oaeCxQTQx99X/"
+    }
+  ]
+}

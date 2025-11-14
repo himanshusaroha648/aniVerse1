@@ -1,0 +1,25 @@
+{
+  "series": "Witch Craft Works (ESub)",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/elt434eNLMhZQBM0tPu4mUkPqGo.jpg",
+  "season": 1,
+  "episode": 12,
+  "episode_title": "Episode 12",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/elt434eNLMhZQBM0tPu4mUkPqGo.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/4m7ThzvA6mLGX0m4EKBw8G7Ad6x.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/4m7ThzvA6mLGX0m4EKBw8G7Ad6x.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/GB5MUbWww"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/nrla8cd"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/l21z5EuCeXMU/"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "series": "Superbook",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/4gxPU54vvA5ZGaICzwDXAQY5SvR.jpg",
+  "season": 1,
+  "episode": 11,
+  "episode_title": "Episode 11",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/4gxPU54vvA5ZGaICzwDXAQY5SvR.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/gnIkkrus3fm6tEkivzQvg1RmLo6.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/gnIkkrus3fm6tEkivzQvg1RmLo6.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/rQrzlcsOW"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/ekzh7o9"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/p3dkm31"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/ssn09sv"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/WtU7inGaR6b0/"
+    }
+  ]
+}

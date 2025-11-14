@@ -1,0 +1,49 @@
+{
+  "series": "Re:ZERO -Starting Life in Another World-",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/a8p5VEnstPypeZWhsKhEadRG3jW.jpg",
+  "season": 2,
+  "episode": 25,
+  "episode_title": "Episode 25",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/a8p5VEnstPypeZWhsKhEadRG3jW.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/uO8kSKQCiSKGds5M89aQpVUrKfG.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/uO8kSKQCiSKGds5M89aQpVUrKfG.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/i8PrA00H1RgV/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/BE_qrjXf8"
+    },
+    {
+      "option": 3,
+      "real_video": "https://rubystm.com/e/qitublhzk8xn.html"
+    },
+    {
+      "option": 4,
+      "real_video": "https://cloudy.upns.one/#mfths"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/e03rv9g"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/z4rznmj"
+    },
+    {
+      "option": 7,
+      "real_video": "https://gdmirrorbot.nl/embed/eagivkz"
+    },
+    {
+      "option": 8,
+      "real_video": "https://emturbovid.com/t/67a5f75574c27"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/f657fe6129962ac0a912607080db1d2c"
+    }
+  ]
+}

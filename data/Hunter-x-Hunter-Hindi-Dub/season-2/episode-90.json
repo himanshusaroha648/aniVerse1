@@ -1,0 +1,53 @@
+{
+  "series": "Hunter x Hunter Hindi Dub",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/9dubj2UQ2xJkzT1AEng6DaGRvLa.jpg",
+  "season": 2,
+  "episode": 90,
+  "episode_title": "Hunter x Hunter Hindi Dub 2x90 - Toonstream",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/9dubj2UQ2xJkzT1AEng6DaGRvLa.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/zqhZVjQQKeIcbNQxM4FvRWArUgF.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/zqhZVjQQKeIcbNQxM4FvRWArUgF.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#h9hz19"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/b395qx00d147.html"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/m837m3w"
+    },
+    {
+      "option": 7,
+      "real_video": "https://gdmirrorbot.nl/embed/nrrwbbl"
+    },
+    {
+      "option": 4,
+      "real_video": "https://strmup.to/qpVvAxLg5SaG1"
+    },
+    {
+      "option": 1,
+      "real_video": "https://short.icu/uS8vSoDDu"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/ri8fppk"
+    },
+    {
+      "option": 9,
+      "real_video": "https://vidmoly.net/embed-njuvlfi64u2l.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/0ac60fb446a982fcac0ae0e3b4d9532c"
+    },
+    {
+      "option": 8,
+      "real_video": "https://emturbovid.com/t/68e92a9f86e05"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "series": "1001 Nights",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/yEr23ZTYkz5cv3aSdLvlzuI3thI.jpg",
+  "season": 1,
+  "episode": 17,
+  "episode_title": "Episode 17",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/yEr23ZTYkz5cv3aSdLvlzuI3thI.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/cmb4NvLU5TjXq4yobEwb77D2Qff.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/cmb4NvLU5TjXq4yobEwb77D2Qff.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/icox_5ZoN"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/se8deck"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/z1nm8hi"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/gjgxngm"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/KoofOPzEHBYE/"
+    }
+  ]
+}

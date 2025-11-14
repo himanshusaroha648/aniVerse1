@@ -1,0 +1,37 @@
+{
+  "series": "Mobile Suit Gundam: The Witch from Mercury",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/9mBzvMqnzFtuRUoro2JEODDQ2lI.jpg",
+  "season": 1,
+  "episode": 10,
+  "episode_title": "Episode 10",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/9mBzvMqnzFtuRUoro2JEODDQ2lI.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/cK1K3qQD1hqjAoAbSFzr631UdBp.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/cK1K3qQD1hqjAoAbSFzr631UdBp.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/zLuSkOArAmbk/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/42635NWmu"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/coqauua"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/cuf0brm"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/otpaptp"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/49afa3a1bba5280af6c4bf2fb5ea7669"
+    }
+  ]
+}

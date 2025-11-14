@@ -1,0 +1,33 @@
+{
+  "series": "Superbook",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/4gxPU54vvA5ZGaICzwDXAQY5SvR.jpg",
+  "season": 2,
+  "episode": 4,
+  "episode_title": "Episode 4",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/4gxPU54vvA5ZGaICzwDXAQY5SvR.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/c7KxC6ElBL5zMA9EuAexaYKG61j.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/c7KxC6ElBL5zMA9EuAexaYKG61j.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/VYW8xv9O-"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/oart5lg"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/soipfvv"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/hgu6vax"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/g3REwfS5gjIL/"
+    }
+  ]
+}

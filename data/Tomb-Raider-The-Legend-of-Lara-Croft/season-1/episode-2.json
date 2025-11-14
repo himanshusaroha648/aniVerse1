@@ -1,0 +1,41 @@
+{
+  "series": "Tomb Raider: The Legend of Lara Croft",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/6c3mBBmMsrydH9gTiNSes4VDTpp.jpg",
+  "season": 1,
+  "episode": 2,
+  "episode_title": "Episode 2",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/6c3mBBmMsrydH9gTiNSes4VDTpp.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/ryg8JoATKyaAbZS1u6aFEElsgvY.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/ryg8JoATKyaAbZS1u6aFEElsgvY.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/cBn6NRhJZoPl/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/NRskxRQOb"
+    },
+    {
+      "option": 3,
+      "real_video": "https://rubystm.com/e/5efqnlf7h2ip.html"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/v3ehdmm"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/zy114xu"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/siug2v9"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/971436431aef6875a9b7997990809a5f"
+    }
+  ]
+}

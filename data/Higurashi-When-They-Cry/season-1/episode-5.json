@@ -1,0 +1,25 @@
+{
+  "series": "Higurashi: When They Cry",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/z6GrUoKte5lzPxR7HWyiSLVieUC.jpg",
+  "season": 1,
+  "episode": 5,
+  "episode_title": "Episode 5",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/z6GrUoKte5lzPxR7HWyiSLVieUC.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/fgoxbE8rTAEyLH3a2gwUYZSy39H.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/fgoxbE8rTAEyLH3a2gwUYZSy39H.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/OIcAhTqBD"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/t88hot2"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/xOB976qNfczF/"
+    }
+  ]
+}

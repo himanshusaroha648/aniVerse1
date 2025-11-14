@@ -1,0 +1,25 @@
+{
+  "series": "Ron Kamonohashi's Forbidden Deductions (ESub)",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/79fk0GLg3vJsjL3uv13NVwcFbE3.jpg",
+  "season": 1,
+  "episode": 6,
+  "episode_title": "Episode 6",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/79fk0GLg3vJsjL3uv13NVwcFbE3.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/foy7x1K4YC43ZDzyqdI8fEKvodf.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/foy7x1K4YC43ZDzyqdI8fEKvodf.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/T3SHZaKpN"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/il2plgf"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/1YgU1oQof7kE/"
+    }
+  ]
+}

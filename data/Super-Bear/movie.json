@@ -1,0 +1,35 @@
+{
+  "title": "Super Bear",
+  "description": "Watch Super Bear online for free in HD on ToonStream. Available in Hindi, Tamil, Telugu & More dubbed versions. Stream or Download now! Father bear lives",
+  "release_year": 2019,
+  "genres": [
+    "Animation",
+    "Animation & Cartoon",
+    "Comedy",
+    "Family"
+  ],
+  "thumbnail": "https://image.tmdb.org/t/p/w185/xt64XxEgb38ZIPh45Y3ZddFYfOq.jpg",
+  "movie_poster": "https://image.tmdb.org/t/p/w185/xt64XxEgb38ZIPh45Y3ZddFYfOq.jpg",
+  "tmdb_id": null,
+  "tvdb_id": null,
+  "languages": [],
+  "url": "https://toonstream.love/movies/super-bear/",
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/q7kMzXQz1uQu/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://filemoon.to/e/ztxc25tmbklo/_Toonhub4u__Super_Bear__40_2019_41___Hindi_-_Eng__720p.mp4"
+    },
+    {
+      "option": 3,
+      "real_video": "https://streamsb.net/e/ehl3b460f1yx.html"
+    },
+    {
+      "option": 4,
+      "real_video": "https://filepress.lol/video/637249b2b0c1449631dd812c"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "series": "BLUE LOCK Multi Audio",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/sTDTy73OYmKY51EK94Mc6AxogzR.jpg",
+  "season": 1,
+  "episode": 23,
+  "episode_title": "Episode 23",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/sTDTy73OYmKY51EK94Mc6AxogzR.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/buytu8R9oVv4QIAA0FW9swSGBTB.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/buytu8R9oVv4QIAA0FW9swSGBTB.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/JKYpymw9wV5G/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/9wkytwshfpkp.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://short.icu/puMJFagMt"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/lxvr0na"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/rpkvx0g"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/b6owwo0"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/8613985ec49eb8f757ae6439e879bb2a"
+    }
+  ]
+}

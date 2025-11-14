@@ -1,0 +1,49 @@
+{
+  "series": "TRILLION GAME",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/uDOZ9Qhrl7RXBKAAODWIQvlArUr.jpg",
+  "season": 1,
+  "episode": 5,
+  "episode_title": "Episode 5",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/uDOZ9Qhrl7RXBKAAODWIQvlArUr.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/fFe3FZHVXsGwWPlrbk00ZPFlIFa.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/fFe3FZHVXsGwWPlrbk00ZPFlIFa.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/M9xK00RXG3nV/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/JfodSbRoa"
+    },
+    {
+      "option": 3,
+      "real_video": "https://rubystm.com/e/dliw8kkmmu84.html"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/ljbok57"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/dk4g3re"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/mpqtlq2"
+    },
+    {
+      "option": 7,
+      "real_video": "https://emturbovid.com/t/6743a6ac464e3"
+    },
+    {
+      "option": 8,
+      "real_video": "https://animedekho.net/moly.php?url=5r6nu4ipwla3"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/5705e1164a8394aace6018e27d20d237"
+    }
+  ]
+}

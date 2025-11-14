@@ -1,0 +1,41 @@
+{
+  "series": "Log Horizon",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/vrCAD2KvtGJPwABIPd4z0gChi4g.jpg",
+  "season": 2,
+  "episode": 13,
+  "episode_title": "Episode 13",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/vrCAD2KvtGJPwABIPd4z0gChi4g.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/nBo4j15ElWjD3S7SwfaQVQ88q9C.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/nBo4j15ElWjD3S7SwfaQVQ88q9C.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/Gz7rerZCzG5L/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/10p7kerdl41y.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://short.icu/eJ2G1JyWY"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/z9o46ds"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/c9dxnna"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/soke880"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/0663a4ddceacb40b095eda264a85f15c"
+    }
+  ]
+}

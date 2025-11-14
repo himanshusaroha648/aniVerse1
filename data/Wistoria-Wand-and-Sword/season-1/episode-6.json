@@ -1,0 +1,41 @@
+{
+  "series": "Wistoria: Wand and Sword",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/5zfCyzblaQ1Cq654rNjEHYTmgMZ.jpg",
+  "season": 1,
+  "episode": 6,
+  "episode_title": "Episode 6",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/5zfCyzblaQ1Cq654rNjEHYTmgMZ.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/hvZzyGam9CqZGO773jDkylmO6y2.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/hvZzyGam9CqZGO773jDkylmO6y2.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/lvMq0vPXeDUC/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/zjjuzlh9wf82.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://short.icu/xle03epRA"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/drl65b4"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/x3xsuof"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/i3x78ih"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/7501e5d4da87ac39d782741cd794002d"
+    }
+  ]
+}

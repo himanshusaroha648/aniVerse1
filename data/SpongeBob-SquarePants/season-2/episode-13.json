@@ -1,0 +1,33 @@
+{
+  "series": "SpongeBob SquarePants",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/amvtZgiTty0GHIgD56gpouBWrcy.jpg",
+  "season": 2,
+  "episode": 13,
+  "episode_title": "Episode 13",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/amvtZgiTty0GHIgD56gpouBWrcy.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/qwAcl8ySmjE7LURkVbsv0DG6G70.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/qwAcl8ySmjE7LURkVbsv0DG6G70.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/2BxZFQR3A"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/vtnj3qa"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/p37hfsi"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/pcuepoj"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/qIYXBHpBkbKA/"
+    }
+  ]
+}

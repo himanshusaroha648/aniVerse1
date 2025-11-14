@@ -1,0 +1,33 @@
+{
+  "series": "Tokyo Revengers",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/arB3L9pZZBSzUPSC8BEv8c3X0bF.jpg",
+  "season": 1,
+  "episode": 50,
+  "episode_title": "Episode 50",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/arB3L9pZZBSzUPSC8BEv8c3X0bF.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/ulNJV64WEy6t5TfxyRIY3odgtv6.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/ulNJV64WEy6t5TfxyRIY3odgtv6.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/eJlykkxea"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/a3qliiur4dr8.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://strmup.to/DJopt1hcWpv8"
+    },
+    {
+      "option": 4,
+      "real_video": "https://cloudy.upns.one/#85ixjn"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/uEB6TkaDMgxt/"
+    }
+  ]
+}

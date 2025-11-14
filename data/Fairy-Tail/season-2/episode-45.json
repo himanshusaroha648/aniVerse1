@@ -1,0 +1,49 @@
+{
+  "series": "Fairy Tail",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/inIVJlVRcE0sui79vFvWAeV0NGU.jpg",
+  "season": 2,
+  "episode": 45,
+  "episode_title": "Episode 45",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/inIVJlVRcE0sui79vFvWAeV0NGU.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/o0ngFajCA0SKpRy2ukAEwDQbRP.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/o0ngFajCA0SKpRy2ukAEwDQbRP.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://rubystm.com/e/yd07gn2t1cyq.html"
+    },
+    {
+      "option": 2,
+      "real_video": "https://cloudy.upns.one/#ghqahf"
+    },
+    {
+      "option": 3,
+      "real_video": "https://strmup.to/9Q4aTdKmW3x61"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/v9tza2i"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/wpepwoj"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/bzuff5x"
+    },
+    {
+      "option": 7,
+      "real_video": "https://emturbovid.com/t/6894c92be5383"
+    },
+    {
+      "option": 8,
+      "real_video": "https://vidmoly.net/embed-v3kfbrafqk8y.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://short.icu/Ptf2-sGk2"
+    }
+  ]
+}

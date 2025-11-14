@@ -1,0 +1,21 @@
+{
+  "series": "Monster",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/n5XNKXnoXpoXyfiCtXHOf8q8PFM.jpg",
+  "season": 1,
+  "episode": 33,
+  "episode_title": "Episode 33",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/n5XNKXnoXpoXyfiCtXHOf8q8PFM.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/wLzZfg51P24TKL5zIOgqwz5kV8w.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/wLzZfg51P24TKL5zIOgqwz5kV8w.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/69Sme_Gv2"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/poe9CENaDyT8/"
+    }
+  ]
+}

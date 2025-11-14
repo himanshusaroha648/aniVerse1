@@ -1,0 +1,25 @@
+{
+  "series": "Bleach",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
+  "season": 1,
+  "episode": 77,
+  "episode_title": "Episode 77",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/6SPwAxTvsfdIv0YIFfkRqu5fnID.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/6SPwAxTvsfdIv0YIFfkRqu5fnID.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/i6xFWs1iy"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/t0usx1d"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/QXFVShIhanmw/"
+    }
+  ]
+}

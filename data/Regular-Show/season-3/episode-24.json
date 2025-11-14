@@ -1,0 +1,33 @@
+{
+  "series": "Regular Show",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/mS5SLxMYcKfUxA0utBSR5MOAWWr.jpg",
+  "season": 3,
+  "episode": 24,
+  "episode_title": "Episode 24",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/mS5SLxMYcKfUxA0utBSR5MOAWWr.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/8wRs1lovM1o3HkTMwMSk72qWAlg.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/8wRs1lovM1o3HkTMwMSk72qWAlg.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/SdnqMGNC9"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/fer9i68"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/ki6wxuu"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/ah0xrq7"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/JZy81YibxohH/"
+    }
+  ]
+}

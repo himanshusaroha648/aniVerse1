@@ -1,0 +1,41 @@
+{
+  "series": "The Elusive Samurai",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/wVJjyUbns2USXo1bolF2vGanvf6.jpg",
+  "season": 1,
+  "episode": 7,
+  "episode_title": "Episode 7",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/wVJjyUbns2USXo1bolF2vGanvf6.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/vOyG9kvTt7TFRHJTWGVGbAF3tBu.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/vOyG9kvTt7TFRHJTWGVGbAF3tBu.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/h5WhUAfCBSa7/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/wzbdqvot4sls.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://short.icu/8dXwoQ-P1"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/z4glma2"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/mxdxluw"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/uvzz48p"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/7d771e0e8f3633ab54856925ecdefc5d"
+    }
+  ]
+}

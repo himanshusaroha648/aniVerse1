@@ -1,0 +1,29 @@
+{
+  "series": "One Piece",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/dum1wnm6kJOUos0XJqjB8s2UWi9.jpg",
+  "season": 21,
+  "episode": 89,
+  "episode_title": "Episode 89",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/dum1wnm6kJOUos0XJqjB8s2UWi9.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/42izmcmHyo2b2CXsBW7rfiRVZxd.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/42izmcmHyo2b2CXsBW7rfiRVZxd.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/xFbhRaAdvbRh/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/tWbVGPRs0"
+    },
+    {
+      "option": 3,
+      "real_video": "https://rubystm.com/e/vqux70hsiut3.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/H3rN9p2RanQd/"
+    }
+  ]
+}

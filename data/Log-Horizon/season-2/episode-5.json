@@ -1,0 +1,41 @@
+{
+  "series": "Log Horizon",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/vrCAD2KvtGJPwABIPd4z0gChi4g.jpg",
+  "season": 2,
+  "episode": 5,
+  "episode_title": "Episode 5",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/vrCAD2KvtGJPwABIPd4z0gChi4g.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/nLKzhCXiL5Ksi79KYA8TSOSmdtS.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/nLKzhCXiL5Ksi79KYA8TSOSmdtS.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreamnew.xyz/v/kNHjC3UywfZC/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/nce4tv6rgtgx.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://short.icu/5lNNiyWjnH"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/wbw9sga"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/my7jznz"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/knd54os"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/90db9da4fc5414ab55a9fe495d555c06"
+    }
+  ]
+}

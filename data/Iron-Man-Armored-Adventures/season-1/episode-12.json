@@ -1,0 +1,21 @@
+{
+  "series": "Iron Man: Armored Adventures",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/uwMIL8PR1jHpHQksIq7kzdeqg2A.jpg",
+  "season": 1,
+  "episode": 12,
+  "episode_title": "Episode 12",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/uwMIL8PR1jHpHQksIq7kzdeqg2A.jpg",
+  "episode_card_thumbnail": "https://toonstream.love/wp-content/themes/torofilm/public/img/cnt/noimg-episode.png",
+  "episode_list_thumbnail": "https://toonstream.love/wp-content/themes/torofilm/public/img/cnt/noimg-episode.png",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/2iFHeo5TXhPf/"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/1138d90ef0a0848a542e57d1595f58ea"
+    }
+  ]
+}

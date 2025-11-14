@@ -1,0 +1,53 @@
+{
+  "series": "The Gorilla God's Go-To Girl",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/wsVUjE78BP7v2KayDnlAKbiY3Av.jpg",
+  "season": 1,
+  "episode": 2,
+  "episode_title": "Episode 2",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/wsVUjE78BP7v2KayDnlAKbiY3Av.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/2H4AYcEUAkTwj3GcHs38cAZ2Avd.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/2H4AYcEUAkTwj3GcHs38cAZ2Avd.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/H8KPRU8V5bCS/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/i1vhQKU-u"
+    },
+    {
+      "option": 3,
+      "real_video": "https://rubystm.com/e/9bvo6x7wqmu4.html"
+    },
+    {
+      "option": 4,
+      "real_video": "https://cloudy.upns.one/#miq6dt"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/tibfenr"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/mqqhz9q"
+    },
+    {
+      "option": 7,
+      "real_video": "https://gdmirrorbot.nl/embed/ygq1c9j"
+    },
+    {
+      "option": 8,
+      "real_video": "https://emturbovid.com/t/6817d2d0c9760"
+    },
+    {
+      "option": 9,
+      "real_video": "https://raretoonsindia.co/ex/xXwZUP9TuyCLrFa"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/91fd7b300a09c5d358306361b2ea17b3"
+    }
+  ]
+}

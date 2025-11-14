@@ -1,0 +1,41 @@
+{
+  "series": "Frieren: Beyond Journey's End",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/dqZENchTd7lp5zht7BdlqM7RBhD.jpg",
+  "season": 1,
+  "episode": 8,
+  "episode_title": "Episode 8",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/dqZENchTd7lp5zht7BdlqM7RBhD.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/6cTOIPmU3KEUU68KosHHnWarx3E.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/6cTOIPmU3KEUU68KosHHnWarx3E.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/V2VbMPYkNJpx/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/6mqesrkhzlt9.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://short.icu/EaQWI1CH1"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/ky5yuf4"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/l2bex7b"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/qbjx80t"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/42a85a0102b0a64d8737ffd2e00a57f4"
+    }
+  ]
+}

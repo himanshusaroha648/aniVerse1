@@ -1,0 +1,21 @@
+{
+  "series": "A Sign of Affection",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/xRHlM1Gs4Ws9QNXyYrZGdQ0V45F.jpg",
+  "season": 1,
+  "episode": 11,
+  "episode_title": "Episode 11",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/xRHlM1Gs4Ws9QNXyYrZGdQ0V45F.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/dcr4RbYGANqtLRut2BAZUTy70Mw.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/dcr4RbYGANqtLRut2BAZUTy70Mw.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/7QycEE3Gn"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/lgX0lnVFMioO/"
+    }
+  ]
+}

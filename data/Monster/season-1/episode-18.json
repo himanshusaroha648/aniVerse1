@@ -1,0 +1,21 @@
+{
+  "series": "Monster",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/n5XNKXnoXpoXyfiCtXHOf8q8PFM.jpg",
+  "season": 1,
+  "episode": 18,
+  "episode_title": "Episode 18",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/n5XNKXnoXpoXyfiCtXHOf8q8PFM.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/vujsVa6Pl2eRnYbqL6gwpOkENxQ.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/vujsVa6Pl2eRnYbqL6gwpOkENxQ.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/i-UuiU9Cj"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/UBL8M9Laf1hq/"
+    }
+  ]
+}

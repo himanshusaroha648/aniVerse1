@@ -1,0 +1,45 @@
+{
+  "series": "ThunderCats",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/d2ii5RufpXgpKBudPstkbeVEJBC.jpg",
+  "season": 1,
+  "episode": 20,
+  "episode_title": "Episode 20",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/d2ii5RufpXgpKBudPstkbeVEJBC.jpg",
+  "episode_card_thumbnail": "https://toonstream.love/wp-content/themes/torofilm/public/img/cnt/noimg-episode.png",
+  "episode_list_thumbnail": "https://toonstream.love/wp-content/themes/torofilm/public/img/cnt/noimg-episode.png",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/Djhsq7HxQ"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/gg55k9ogfrez.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#texgo"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/bswf4hx"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/x995l1w"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/ludqnju"
+    },
+    {
+      "option": 7,
+      "real_video": "https://emturbovid.com/t/675af5265a5c0"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/fDaFnW02055w/"
+    }
+  ]
+}

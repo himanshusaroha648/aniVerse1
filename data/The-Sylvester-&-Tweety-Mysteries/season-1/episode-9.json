@@ -1,0 +1,45 @@
+{
+  "series": "The Sylvester & Tweety Mysteries",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/b8AkMeacC71nABALm5GgT1x5nMo.jpg",
+  "season": 1,
+  "episode": 9,
+  "episode_title": "Episode 9",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/b8AkMeacC71nABALm5GgT1x5nMo.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/qSscVS9wooyNxkMdtvfzb13Erc4.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/qSscVS9wooyNxkMdtvfzb13Erc4.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/R2VPJgSSs"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/s0fx50ij3p2l.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#mnrnv"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/zkdzhmu"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/qu5002g"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/bnco70c"
+    },
+    {
+      "option": 7,
+      "real_video": "https://emturbovid.com/t/675d37fdef1a3"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/8vYiNa8lQqTT/"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "series": "Jujutsu Kaisen",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/3yFHMtdhriig4sm1w8oMQfA2gFN.jpg",
+  "season": 1,
+  "episode": 13,
+  "episode_title": "Episode 13",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/3yFHMtdhriig4sm1w8oMQfA2gFN.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/ritCXU7BUcNodAVMMiTOAkrSigF.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/ritCXU7BUcNodAVMMiTOAkrSigF.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/IjaafKFrP607/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/iidqqdy02mz2.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://embedwish.com/e/q4qs8032zp7k"
+    },
+    {
+      "option": 4,
+      "real_video": "https://filemoon.to/e/kfecwr2z6emb/_Toonhub4u__Jujutsu_Kaisen_S01E13__BDRip_480p_x264___Multi_Audio__ESub"
+    },
+    {
+      "option": 5,
+      "real_video": "https://filelions.online/v/hdfwgvlbsf1r"
+    },
+    {
+      "option": 6,
+      "real_video": "https://vidstreaming.xyz/v/t4EhWZzeW8wr/"
+    },
+    {
+      "option": 7,
+      "real_video": "https://short.icu/4sktQSi6r"
+    },
+    {
+      "option": 8,
+      "real_video": "https://rubystm.come/vgdymxw37nev.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/JhNtxQiQ0Id9/"
+    }
+  ]
+}

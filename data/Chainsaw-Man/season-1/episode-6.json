@@ -1,0 +1,41 @@
+{
+  "series": "Chainsaw Man",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/npdB6eFzizki0WaZ1OvKcJrWe97.jpg",
+  "season": 1,
+  "episode": 6,
+  "episode_title": "Episode 6",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/npdB6eFzizki0WaZ1OvKcJrWe97.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/1gtFS9ch884GtW543RK4Ma0xAwW.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/1gtFS9ch884GtW543RK4Ma0xAwW.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/0vwdl2C8rfOU/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/jul91ykzzswm.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://short.icu/08cjfzWtD"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/pc1likt"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/d09f0zu"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/ec3wcb6"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/83e8ef518174e1eb6be4a0778d050c9d"
+    }
+  ]
+}

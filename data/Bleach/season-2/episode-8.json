@@ -1,0 +1,25 @@
+{
+  "series": "Bleach",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
+  "season": 2,
+  "episode": 8,
+  "episode_title": "Episode 8",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/aeWsKgsAm2ZazD7tOo1l0SkWZAX.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/aeWsKgsAm2ZazD7tOo1l0SkWZAX.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/9nmRPGkmFW"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/l51txc2"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/VtDleqShNaxI/"
+    }
+  ]
+}

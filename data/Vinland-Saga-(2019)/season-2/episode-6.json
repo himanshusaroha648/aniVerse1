@@ -1,0 +1,53 @@
+{
+  "series": "Vinland Saga (2019)",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/vUHlpA5c1NXkds59reY3HMb4Abs.jpg",
+  "season": 2,
+  "episode": 6,
+  "episode_title": "Episode 6",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/vUHlpA5c1NXkds59reY3HMb4Abs.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/2mNJhJqqGMdRUUSjH8rTyvonXHc.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/2mNJhJqqGMdRUUSjH8rTyvonXHc.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/6OeoEd84c"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/i5656ohppfk9.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#ncdz8w"
+    },
+    {
+      "option": 4,
+      "real_video": "https://strmup.to/MliTc95txFhSJ"
+    },
+    {
+      "option": 5,
+      "real_video": "https://turbovidhls.com/t/67dae6d75244a"
+    },
+    {
+      "option": 6,
+      "real_video": "https://vidmoly.net/embed-ajt67s62gtqj.html"
+    },
+    {
+      "option": 7,
+      "real_video": "https://gdmirrorbot.nl/embed/z9wxn62"
+    },
+    {
+      "option": 8,
+      "real_video": "https://gdmirrorbot.nl/embed/zch7q95"
+    },
+    {
+      "option": 9,
+      "real_video": "https://gdmirrorbot.nl/embed/lrsj4t9"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/8d420fa35754d1f1c19969c88780314d"
+    }
+  ]
+}

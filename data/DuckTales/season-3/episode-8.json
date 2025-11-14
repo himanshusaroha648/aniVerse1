@@ -1,0 +1,17 @@
+{
+  "series": "DuckTales",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/muplnM90daPCQ5Bn1olcwN1EO22.jpg",
+  "season": 3,
+  "episode": 8,
+  "episode_title": "Episode 8",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/muplnM90daPCQ5Bn1olcwN1EO22.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/uVgDMiAjj6ZIX7LpCHAQKTLwlo6.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/uVgDMiAjj6ZIX7LpCHAQKTLwlo6.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/KKaPGgib3FLV/"
+    }
+  ]
+}

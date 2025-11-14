@@ -1,0 +1,41 @@
+{
+  "series": "Vampire Dormitory",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/jmfNa7BQfI7DN1kFSx6jkBwYDGG.jpg",
+  "season": 1,
+  "episode": 10,
+  "episode_title": "Episode 10",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/jmfNa7BQfI7DN1kFSx6jkBwYDGG.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/buk4wG3pBVALnC3AHl4qLADBSoJ.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/buk4wG3pBVALnC3AHl4qLADBSoJ.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/51o5jaGalrbV/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/i0r0j1wkce3p.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://short.icu/ChGDdoIhS"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/m3utuu8"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/isce9qx"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/tmlx1wc"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/10cc088a48f313ab3b1f4e6e76353dd4"
+    }
+  ]
+}

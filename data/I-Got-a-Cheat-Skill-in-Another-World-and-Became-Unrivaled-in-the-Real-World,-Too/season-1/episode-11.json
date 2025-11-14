@@ -1,0 +1,41 @@
+{
+  "series": "I Got a Cheat Skill in Another World and Became Unrivaled in the Real World, Too",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/2kTYmmOU8SsDxSijIDpz9vkT9la.jpg",
+  "season": 1,
+  "episode": 11,
+  "episode_title": "Episode 11",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/2kTYmmOU8SsDxSijIDpz9vkT9la.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/mVhziawAJvFc0JZ81xoMA2JfaG9.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/mVhziawAJvFc0JZ81xoMA2JfaG9.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/Jy68jK1gdtUV/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/yysz41m7ilva.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://short.icu/oEJP30mtH"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/je4ypbg"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/o6xl2w8"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/e9d1816"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/51681a7c14879f9eca39669df858f75b"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "series": "Sword Art Online",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/kuXL3UDa5TqCRat0az62hCJDeYE.jpg",
+  "season": 1,
+  "episode": 23,
+  "episode_title": "Episode 23",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/kuXL3UDa5TqCRat0az62hCJDeYE.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/2OrvGXAS28CGhEs96FCAjkHDAUJ.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/2OrvGXAS28CGhEs96FCAjkHDAUJ.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/WLQavT0xprT0/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/yX2SO2f5P"
+    },
+    {
+      "option": 3,
+      "real_video": "https://rubystm.com/e/reaz8v40e7cn.html"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/xcg33yl"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/qnlosn2"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/bripwti"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/ce93b7b0e618ad3ba298514c691dfad1"
+    }
+  ]
+}

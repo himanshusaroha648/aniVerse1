@@ -1,0 +1,41 @@
+{
+  "series": "The Wrong Way to Use Healing Magic",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/uQEbcmuUwDfPiVUIRCF6d57eErM.jpg",
+  "season": 1,
+  "episode": 6,
+  "episode_title": "Episode 6",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/uQEbcmuUwDfPiVUIRCF6d57eErM.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/sA9MCWAUmBDigdVWCfw8ylTEOqi.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/sA9MCWAUmBDigdVWCfw8ylTEOqi.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/kauLza0zTuCw/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/6s83ll5t8k2f.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://short.icu/YZ0q7gb1R"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/v02kl6g"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/qmfk1p5"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/dm2qxkd"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/d958e1f17d03638bba20ad39b2fb989e"
+    }
+  ]
+}

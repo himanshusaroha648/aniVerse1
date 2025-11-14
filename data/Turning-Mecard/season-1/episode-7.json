@@ -1,0 +1,45 @@
+{
+  "series": "Turning Mecard",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/jCB2LIAChvAFyWe19U48H0uMrFb.jpg",
+  "season": 1,
+  "episode": 7,
+  "episode_title": "Episode 7",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/jCB2LIAChvAFyWe19U48H0uMrFb.jpg",
+  "episode_card_thumbnail": "https://toonstream.love/wp-content/themes/torofilm/public/img/cnt/noimg-episode.png",
+  "episode_list_thumbnail": "https://toonstream.love/wp-content/themes/torofilm/public/img/cnt/noimg-episode.png",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/gbpRPFw7c"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/d9xs22azm3ne.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#ufmmt"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/l9h5a07"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/an5op4q"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/yivjivm"
+    },
+    {
+      "option": 7,
+      "real_video": "https://emturbovid.com/t/676d6d8a16511"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/4o98YU6QAFmI/"
+    }
+  ]
+}

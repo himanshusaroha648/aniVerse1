@@ -1,0 +1,33 @@
+{
+  "series": "Popeye the Sailor",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/tQPDl1S1pRg2jzCQWtVUuauZSqa.jpg",
+  "season": 2,
+  "episode": 4,
+  "episode_title": "Episode 4",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/tQPDl1S1pRg2jzCQWtVUuauZSqa.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/pEi9CUoLTFHDFGTbk1oY3eFgXgL.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/pEi9CUoLTFHDFGTbk1oY3eFgXgL.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/Rm5nFhRXq"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/qfmfb0p"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/pdskjha"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/ah5km5n"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/bCzloAu9YlGK/"
+    }
+  ]
+}

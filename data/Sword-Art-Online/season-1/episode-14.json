@@ -1,0 +1,41 @@
+{
+  "series": "Sword Art Online",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/kuXL3UDa5TqCRat0az62hCJDeYE.jpg",
+  "season": 1,
+  "episode": 14,
+  "episode_title": "Episode 14",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/kuXL3UDa5TqCRat0az62hCJDeYE.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/fcnSuM0WQyKODZ6BD1yUGJpDbIf.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/fcnSuM0WQyKODZ6BD1yUGJpDbIf.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/eeC18nbJJRTV/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/lwWnru1U7"
+    },
+    {
+      "option": 3,
+      "real_video": "https://rubystm.com/e/5bjbiteghi27.html"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/znpavvz"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/vhk56qd"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/mhqm5lo"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/3b63d1d64de8f499eadb49b53aa90964"
+    }
+  ]
+}

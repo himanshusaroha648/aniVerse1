@@ -1,0 +1,29 @@
+{
+  "series": "Iron Man",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/zOTJT7JbzSrMBX2OCGPqUnkQA4y.jpg",
+  "season": 1,
+  "episode": 12,
+  "episode_title": "Episode 12",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/zOTJT7JbzSrMBX2OCGPqUnkQA4y.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/qKAZXN9FXP4a8dUH6gNdVk3bfrC.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/qKAZXN9FXP4a8dUH6gNdVk3bfrC.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://streamsb.net/e/izls3e4w6gr4.html"
+    },
+    {
+      "option": 2,
+      "real_video": "https://filemoon.to/e/vue2dvf7tsx6/_Toonhub4u__Marvel_Anime__Iron_Man_Episode_12_in_Multi_Audio_480p.mp4"
+    },
+    {
+      "option": 3,
+      "real_video": "https://filepress.lol/video/63a9c06e556fb84564c35599"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/cKp6ZaF1OznU/"
+    }
+  ]
+}

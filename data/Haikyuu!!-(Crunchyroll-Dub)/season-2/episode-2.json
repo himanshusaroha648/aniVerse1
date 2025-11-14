@@ -1,0 +1,45 @@
+{
+  "series": "Haikyuu!! (Crunchyroll Dub)",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/zfOWZf3rMkgaXXNKOSTL33RBchx.jpg",
+  "season": 2,
+  "episode": 2,
+  "episode_title": "Episode 2",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/zfOWZf3rMkgaXXNKOSTL33RBchx.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/gAoOftCQ3bhMzdsnZXIWaP94rHg.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/gAoOftCQ3bhMzdsnZXIWaP94rHg.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/e3TxQFcqRC4a/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/2om7mhvx9ykn.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://short.icu/6CbHudHCu"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/c7zzo3u"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/mteg4f2"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/prxjok8"
+    },
+    {
+      "option": 7,
+      "real_video": "https://raretoonsindia.co/ex/f7XhP7CBHWkyBGu"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/5444df470d67382653f5c5600221ddb7"
+    }
+  ]
+}

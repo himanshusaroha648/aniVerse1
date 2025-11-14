@@ -1,0 +1,41 @@
+{
+  "series": "Dragon Ball Super",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/qEUrbXJ2qt4Rg84Btlx4STOhgte.jpg",
+  "season": 1,
+  "episode": 130,
+  "episode_title": "Episode 130",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/qEUrbXJ2qt4Rg84Btlx4STOhgte.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/uqq5mYfTFhnpHgWYYKj9dc9n9fp.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/uqq5mYfTFhnpHgWYYKj9dc9n9fp.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/SbC-7Rw9t"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/lsy44kqicg3w.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#skfu9i"
+    },
+    {
+      "option": 4,
+      "real_video": "https://strmup.to/syVh5aEF9XUcW"
+    },
+    {
+      "option": 5,
+      "real_video": "https://turbovidhls.com/t/68b69468de3d4"
+    },
+    {
+      "option": 6,
+      "real_video": "https://vidmoly.net/embed-zue1xzn99x7z.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/204904e461002b28511d5880e1c36a0f"
+    }
+  ]
+}

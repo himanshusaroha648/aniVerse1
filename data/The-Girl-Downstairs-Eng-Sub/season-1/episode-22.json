@@ -1,0 +1,25 @@
+{
+  "series": "The Girl Downstairs Eng Sub",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/8uO9UNjikqQU1BsFrodVVGVvzpe.jpg",
+  "season": 1,
+  "episode": 22,
+  "episode_title": "Episode 22",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/8uO9UNjikqQU1BsFrodVVGVvzpe.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/lZzKoN0U0fTzzYmY6qlRvXqtEam.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/lZzKoN0U0fTzzYmY6qlRvXqtEam.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/wKZEEeJGkI"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/axacr1t"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/nbpCrw0TZNFC/"
+    }
+  ]
+}

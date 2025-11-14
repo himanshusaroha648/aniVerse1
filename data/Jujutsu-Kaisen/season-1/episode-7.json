@@ -1,0 +1,49 @@
+{
+  "series": "Jujutsu Kaisen",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/3yFHMtdhriig4sm1w8oMQfA2gFN.jpg",
+  "season": 1,
+  "episode": 7,
+  "episode_title": "Episode 7",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/3yFHMtdhriig4sm1w8oMQfA2gFN.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/ggoWW4AChFzqNkVNr941EhRqTiX.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/ggoWW4AChFzqNkVNr941EhRqTiX.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/aCYXl4qDyymG/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/7h7hk34swtq2.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://embedwish.com/e/h9sfjt7dbmy5"
+    },
+    {
+      "option": 4,
+      "real_video": "https://filemoon.to/e/3tvpuzgplztj/_Toonhub4u__Jujutsu_Kaisen_S01E07__BDRip_480p_x264___Multi_Audio__ESub"
+    },
+    {
+      "option": 5,
+      "real_video": "https://filelions.online/v/fracflkvkay9"
+    },
+    {
+      "option": 6,
+      "real_video": "https://vidstreaming.xyz/v/SAbkkaRCtO2P/"
+    },
+    {
+      "option": 7,
+      "real_video": "https://short.icu/FIlHXTUTu"
+    },
+    {
+      "option": 8,
+      "real_video": "https://rubystm.come/z43rhrpmanp4.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/QA4xf1UuiUA2/"
+    }
+  ]
+}

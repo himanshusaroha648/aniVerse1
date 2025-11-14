@@ -1,0 +1,33 @@
+{
+  "series": "Haikyu!!",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/ecQ84z2sR0XapZu435MnFuEBzD8.jpg",
+  "season": 2,
+  "episode": 19,
+  "episode_title": "Episode 19",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/ecQ84z2sR0XapZu435MnFuEBzD8.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/boTsMwp1QAMNhkr7Q50m2DrkK3g.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/boTsMwp1QAMNhkr7Q50m2DrkK3g.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/8BZ2IiajZA"
+    },
+    {
+      "option": 2,
+      "real_video": "https://vidmoly.net/embed-l6zi9963cw3n.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://vidstreaming.xyz/v/gtgJuFCC2gov/"
+    },
+    {
+      "option": 4,
+      "real_video": "https://short.icu/tRy5bSczg"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/VDdG9bxnK4aY/"
+    }
+  ]
+}

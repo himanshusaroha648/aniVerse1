@@ -1,0 +1,29 @@
+{
+  "series": "Sgt. Frog",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/irBnC4N8XcVTnvKs8BqBmwyYBxC.jpg",
+  "season": 1,
+  "episode": 49,
+  "episode_title": "Episode 49",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/irBnC4N8XcVTnvKs8BqBmwyYBxC.jpg",
+  "episode_card_thumbnail": "https://toonstream.love/wp-content/themes/torofilm/public/img/cnt/noimg-episode.png",
+  "episode_list_thumbnail": "https://toonstream.love/wp-content/themes/torofilm/public/img/cnt/noimg-episode.png",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://rubystm.com/e/ae9qvms8eogl.html"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/CQ_tiQ0Oj"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/qrzaksp"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/aCpo08EPPwET/"
+    }
+  ]
+}

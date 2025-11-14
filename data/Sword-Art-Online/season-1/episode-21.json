@@ -1,0 +1,41 @@
+{
+  "series": "Sword Art Online",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/kuXL3UDa5TqCRat0az62hCJDeYE.jpg",
+  "season": 1,
+  "episode": 21,
+  "episode_title": "Episode 21",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/kuXL3UDa5TqCRat0az62hCJDeYE.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/9AZUXEji3uy6yu7rtnb2iRuapYm.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/9AZUXEji3uy6yu7rtnb2iRuapYm.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/r5WHXAKB0Bf5/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/IPAGlD5Hy"
+    },
+    {
+      "option": 3,
+      "real_video": "https://rubystm.com/e/4yv3fhgi0t3a.html"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/na1905y"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/ugmh1y3"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/nwk6lis"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/7ad2e4fc29a62f8e86213a998a5675b2"
+    }
+  ]
+}

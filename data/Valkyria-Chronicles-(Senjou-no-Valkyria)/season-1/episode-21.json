@@ -1,0 +1,53 @@
+{
+  "series": "Valkyria Chronicles (Senjou no Valkyria)",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/dhhUR4iDsM0ODztgzOOc8KoG0jP.jpg",
+  "season": 1,
+  "episode": 21,
+  "episode_title": "Episode 21",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/dhhUR4iDsM0ODztgzOOc8KoG0jP.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/77XjdhyEl8oj20bZboVHL5yKRU9.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/77XjdhyEl8oj20bZboVHL5yKRU9.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/0dpq-I0_m"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/q6alvz3rqb4t.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#mery9x"
+    },
+    {
+      "option": 4,
+      "real_video": "https://strmup.to/UpjVIy1mG4Jb9"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/w9dipkq"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/tigag1d"
+    },
+    {
+      "option": 7,
+      "real_video": "https://gdmirrorbot.nl/embed/uek4aq5"
+    },
+    {
+      "option": 8,
+      "real_video": "https://emturbovid.com/t/686278d203941"
+    },
+    {
+      "option": 9,
+      "real_video": "https://vidmoly.net/embed-463yfpa1shxr.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/3d7a8f67f51564c349478f7d52abee3b"
+    }
+  ]
+}

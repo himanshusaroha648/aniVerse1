@@ -1,0 +1,41 @@
+{
+  "series": "Dragon Ball Z Kai",
+  "thumbnail": "https://i.imgur.com/zZzbUql.jpg",
+  "season": 6,
+  "episode": 20,
+  "episode_title": "Episode 20",
+  "episode_main_poster": "https://i.imgur.com/zZzbUql.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/33eR1MhcSkbvUK4ZHgd9KMB898H.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/33eR1MhcSkbvUK4ZHgd9KMB898H.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/fDnKf6kTd"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/k5qvnm89zt2f.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#9dbguc"
+    },
+    {
+      "option": 4,
+      "real_video": "https://strmup.to/ukFqHdyO2ic6N"
+    },
+    {
+      "option": 5,
+      "real_video": "https://turbovidhls.com/t/68b336c945a3b"
+    },
+    {
+      "option": 6,
+      "real_video": "https://vidmoly.net/embed-hmxfa9jj31kn.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/2288f691b58edecadcc9a8691762b4fd"
+    }
+  ]
+}

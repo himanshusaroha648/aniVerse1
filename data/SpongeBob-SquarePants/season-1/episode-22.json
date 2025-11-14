@@ -1,0 +1,33 @@
+{
+  "series": "SpongeBob SquarePants",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/amvtZgiTty0GHIgD56gpouBWrcy.jpg",
+  "season": 1,
+  "episode": 22,
+  "episode_title": "Episode 22",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/amvtZgiTty0GHIgD56gpouBWrcy.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/AvNQkQECAOza2WEUDksxexnKujh.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/AvNQkQECAOza2WEUDksxexnKujh.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/v2YqHFyn8"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/to6ntog"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/g818jtt"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/vpy5boz"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/G9MK6cPOhyq0/"
+    }
+  ]
+}

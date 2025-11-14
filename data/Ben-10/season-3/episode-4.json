@@ -1,0 +1,25 @@
+{
+  "series": "Ben 10",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/pT0NlYVIkwM2zAw9oUkePwrOlxW.jpg",
+  "season": 3,
+  "episode": 4,
+  "episode_title": "Episode 4",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/pT0NlYVIkwM2zAw9oUkePwrOlxW.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/to3qRX9IjSumh9ZnbeoR0czl5zv.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/to3qRX9IjSumh9ZnbeoR0czl5zv.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://filemoon.to/e/ahw3my59rpjo/_Toonhub4u__S03E04-_Ben_10_-_Merry_Christmas_Multi_Audio_720p.mkv"
+    },
+    {
+      "option": 2,
+      "real_video": "https://streamsb.net/e/hjmnnp5evk4n.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/ghGGybch84zy/"
+    }
+  ]
+}

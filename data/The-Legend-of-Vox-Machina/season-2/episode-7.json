@@ -1,0 +1,37 @@
+{
+  "series": "The Legend of Vox Machina",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/b5A0qkGrZJTyVv3gT6b8clFEz9R.jpg",
+  "season": 2,
+  "episode": 7,
+  "episode_title": "Episode 7",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/b5A0qkGrZJTyVv3gT6b8clFEz9R.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/e6o67ERb1xSvI8yJkKblxkZTO34.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/e6o67ERb1xSvI8yJkKblxkZTO34.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/qJdIVu57mZSn/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/Pe1YPbuPo"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/uwrbgif"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/ifg43vr"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/umu52i0"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/fd92a703e837c873aca02bf1edfafcfe"
+    }
+  ]
+}

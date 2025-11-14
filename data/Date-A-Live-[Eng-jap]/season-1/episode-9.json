@@ -1,0 +1,21 @@
+{
+  "series": "Date A Live [Eng-jap]",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/kD1Gu7dcELnUUnm3eMxZuG6jKtA.jpg",
+  "season": 1,
+  "episode": 9,
+  "episode_title": "Episode 9",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/kD1Gu7dcELnUUnm3eMxZuG6jKtA.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/pJH1qqQRLr4rD03Pqp9SS0cA7Db.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/pJH1qqQRLr4rD03Pqp9SS0cA7Db.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/u6-lpypLm"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/85vOnV7ghF3l/"
+    }
+  ]
+}

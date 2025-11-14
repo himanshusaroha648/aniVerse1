@@ -1,0 +1,53 @@
+{
+  "series": "New Saga",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/dmZ74VyWi3I8ZqJ1m3Fmcc1etgp.jpg",
+  "season": 1,
+  "episode": 4,
+  "episode_title": "Episode 4",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/dmZ74VyWi3I8ZqJ1m3Fmcc1etgp.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/77Wb2IBiIJ88lE07MF8mxMymYKX.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/77Wb2IBiIJ88lE07MF8mxMymYKX.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/W2CjG69l_s"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/afp9zikm7th9.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#5zprng"
+    },
+    {
+      "option": 4,
+      "real_video": "https://strmup.to/ZOKVfNJSHY3qc"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/bpei8gz"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/i29dzn5"
+    },
+    {
+      "option": 7,
+      "real_video": "https://gdmirrorbot.nl/embed/kd4s86m"
+    },
+    {
+      "option": 8,
+      "real_video": "https://emturbovid.com/t/689d890f44680"
+    },
+    {
+      "option": 9,
+      "real_video": "https://vidmoly.net/embed-dtyxjdhfcir3.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/406c841592c4176af37a6fc376bef0b6"
+    }
+  ]
+}

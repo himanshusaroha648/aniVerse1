@@ -1,0 +1,41 @@
+{
+  "series": "Junji Ito Collection",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/umJEelwoLi3x123sbJ9pMTPA5Lt.jpg",
+  "season": 1,
+  "episode": 9,
+  "episode_title": "Episode 9",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/umJEelwoLi3x123sbJ9pMTPA5Lt.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/ydMpUmbpPTyIKXlUtuDoIIV9kqV.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/ydMpUmbpPTyIKXlUtuDoIIV9kqV.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/dVmJtYCFLB0C/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/9kis5o93m8ma.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://short.icu/xaPLfhk-0"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/k2mpm8m"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/qdt3a4w"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/qykm9f7"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/9523147e5a6707baf674941812ee5c94"
+    }
+  ]
+}

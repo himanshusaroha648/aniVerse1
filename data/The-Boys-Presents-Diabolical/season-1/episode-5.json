@@ -1,0 +1,33 @@
+{
+  "series": "The Boys Presents: Diabolical",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/kZKfZWwFOAicgoKS2IO7oM1GuHZ.jpg",
+  "season": 1,
+  "episode": 5,
+  "episode_title": "Episode 5",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/kZKfZWwFOAicgoKS2IO7oM1GuHZ.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/ySiJWuDZMrk8bLDLRJMwNTLzDFk.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/ySiJWuDZMrk8bLDLRJMwNTLzDFk.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/lt_tbkKDm"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/vte9g5i"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/gr9p1dx"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/xgoy7lj"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/B2cwwaaORoUI/"
+    }
+  ]
+}

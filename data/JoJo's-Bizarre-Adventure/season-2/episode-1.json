@@ -1,0 +1,33 @@
+{
+  "series": "JoJo's Bizarre Adventure",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/kX9noqY0YpOPKwXpRXYg1hEIqmM.jpg",
+  "season": 2,
+  "episode": 1,
+  "episode_title": "Episode 1",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/kX9noqY0YpOPKwXpRXYg1hEIqmM.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/scuOivodwsDs5BNZkUY2jS13sg8.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/scuOivodwsDs5BNZkUY2jS13sg8.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/cuZWj00NJn32/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/ksmWPG9DG"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#tapm9t"
+    },
+    {
+      "option": 4,
+      "real_video": "https://emturbovid.com/t/681b83569382c"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/ffe10e9c76e6c72bf05ab38c20f8431a"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "title": "Arthur Christmas",
+  "description": "Watch Arthur Christmas online for free in HD on ToonStream. Available in Hindi, Tamil, Telugu & More dubbed versions. Stream or Download now! Each",
+  "release_year": 2011,
+  "genres": [
+    "Animation",
+    "Animation & Cartoon Movies",
+    "Comedy",
+    "Drama",
+    "Family"
+  ],
+  "thumbnail": "https://image.tmdb.org/t/p/w185/yF7SNheAGWavNnjbAronedwjC1N.jpg",
+  "movie_poster": "https://image.tmdb.org/t/p/w185/yF7SNheAGWavNnjbAronedwjC1N.jpg",
+  "tmdb_id": null,
+  "tvdb_id": null,
+  "languages": [],
+  "url": "https://toonstream.love/movies/arthur-christmas/",
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/eeXdtAJ7nYao/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/embed-ioyvnr5iz8s2.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://short.icu/3tU1YoFrZ"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/zu6q9gj"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/f3y0elq"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/c9snpkj"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "series": "Super Robot Monkey Team Hyperforce Go!",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/gcTY3iHLC1wm9wB4pKn2vvCxCfK.jpg",
+  "season": 4,
+  "episode": 3,
+  "episode_title": "Episode 3",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/gcTY3iHLC1wm9wB4pKn2vvCxCfK.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/wOy0qZMef5m85bpYLUWeEDtL1QV.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/wOy0qZMef5m85bpYLUWeEDtL1QV.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/MzTh4faXFKvN/"
+    }
+  ]
+}

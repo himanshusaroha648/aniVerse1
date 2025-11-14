@@ -1,0 +1,41 @@
+{
+  "series": "Junji Ito Collection",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/umJEelwoLi3x123sbJ9pMTPA5Lt.jpg",
+  "season": 1,
+  "episode": 2,
+  "episode_title": "Episode 2",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/umJEelwoLi3x123sbJ9pMTPA5Lt.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/m9Z0Mw5DplQ7MskGRueXGdlrc0M.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/m9Z0Mw5DplQ7MskGRueXGdlrc0M.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/8FYU9J5O45Y2/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/ifw2kw1luaxo.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://short.icu/d1AOC0D9c"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/mpih5i0"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/sva87t5"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/hr6gcu7"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/9d405c24be657bbf7a5244815a908922"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "series": "Dragon Ball DAIMA",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/cIDPZMGsiVHkHA6HPJmEmGcgyyw.jpg",
+  "season": 1,
+  "episode": 10,
+  "episode_title": "Episode 10",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/cIDPZMGsiVHkHA6HPJmEmGcgyyw.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/pF73h1gpZX0x887ph38IfDsQRkc.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/pF73h1gpZX0x887ph38IfDsQRkc.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/3ivMgpjVpyLa/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/qkWIjRYzy"
+    },
+    {
+      "option": 3,
+      "real_video": "https://rubystm.com/e/lr2x4j4oj0fb.html"
+    },
+    {
+      "option": 4,
+      "real_video": "https://cloudy.upns.one/#d6tvc"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/ziuu9vi"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/jwwl1tz"
+    },
+    {
+      "option": 7,
+      "real_video": "https://gdmirrorbot.nl/embed/j84qblu"
+    },
+    {
+      "option": 8,
+      "real_video": "https://emturbovid.com/t/6782a0176b0af"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/7070baed1f0e21d1234a4b00082a1bea"
+    }
+  ]
+}

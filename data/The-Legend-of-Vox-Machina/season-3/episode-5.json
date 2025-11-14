@@ -1,0 +1,41 @@
+{
+  "series": "The Legend of Vox Machina",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/b5A0qkGrZJTyVv3gT6b8clFEz9R.jpg",
+  "season": 3,
+  "episode": 5,
+  "episode_title": "Episode 5",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/b5A0qkGrZJTyVv3gT6b8clFEz9R.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/slal8YUCZjeqFWQZmaKx6hcLXuN.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/slal8YUCZjeqFWQZmaKx6hcLXuN.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/lkh5yicIPgHa/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/HVYp4BR6m"
+    },
+    {
+      "option": 3,
+      "real_video": "https://rubystm.com/e/dkb2qqr7wlke.html"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/i3u72cs"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/h2btg66"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/ep7385q"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/28bbd522fee8ef2020ff5828be644942"
+    }
+  ]
+}

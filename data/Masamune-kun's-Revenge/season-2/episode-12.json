@@ -1,0 +1,41 @@
+{
+  "series": "Masamune-kun's Revenge",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/50jjmuwSwMxlXAP1jQ48kr1xrcN.jpg",
+  "season": 2,
+  "episode": 12,
+  "episode_title": "Episode 12",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/50jjmuwSwMxlXAP1jQ48kr1xrcN.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/kGMlEBVvq40ffXHiia5dyw11ZXP.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/kGMlEBVvq40ffXHiia5dyw11ZXP.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/8xGiEWahYkxM/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/294y7nsf9pi1.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://short.icu/XuWUfmh7W"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/jolh6m3"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/al07u5b"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/eeb8vum"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/6562a2c4889bc3e203ab869723a40f7e"
+    }
+  ]
+}

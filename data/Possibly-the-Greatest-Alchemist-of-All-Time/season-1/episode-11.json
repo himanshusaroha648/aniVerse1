@@ -1,0 +1,49 @@
+{
+  "series": "Possibly the Greatest Alchemist of All Time",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/4TyTS9O7ECH3mXpazQ6GpJXCqNm.jpg",
+  "season": 1,
+  "episode": 11,
+  "episode_title": "Episode 11",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/4TyTS9O7ECH3mXpazQ6GpJXCqNm.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/e6hISBiEkBExZ1k0V3m8y5ALIBz.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/e6hISBiEkBExZ1k0V3m8y5ALIBz.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/gFrdKrQWh2wv/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/QTszSRv2A"
+    },
+    {
+      "option": 3,
+      "real_video": "https://rubystm.com/e/5492xas27zqre5wg.html"
+    },
+    {
+      "option": 4,
+      "real_video": "https://cloudy.upns.one/#6ho6ww"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/rk18mfm"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/e0erten"
+    },
+    {
+      "option": 7,
+      "real_video": "https://gdmirrorbot.nl/embed/u63x1yh"
+    },
+    {
+      "option": 8,
+      "real_video": "https://emturbovid.com/t/67ee031861839"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/8b8f66308ee7c3ad5d1031a5721f0753"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "series": "That Time I Got Reincarnated as a Slime",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/cujISgFwbIhZkvH9C1uOM5wv2Sa.jpg",
+  "season": 3,
+  "episode": 13,
+  "episode_title": "Episode 13",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/cujISgFwbIhZkvH9C1uOM5wv2Sa.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/3zBjNDMUpcRVjgFjZocBEGqAT9F.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/3zBjNDMUpcRVjgFjZocBEGqAT9F.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/lKoNKABC7OYF/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/c4zG0rEwj"
+    },
+    {
+      "option": 3,
+      "real_video": "https://rubystm.com/e/maara2udmvbb.html"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/h1t89dk"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/zuj2xkm"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/pdcp98d"
+    },
+    {
+      "option": 7,
+      "real_video": "https://emturbovid.com/t/6753cca6e56ef"
+    },
+    {
+      "option": 8,
+      "real_video": "https://cloudy.upns.one/#b6upnj"
+    },
+    {
+      "option": 9,
+      "real_video": "https://strmup.to/f02UoRzjCaMJq"
+    },
+    {
+      "option": 10,
+      "real_video": "https://emturbovid.com/t/6753cca6e56ef"
+    },
+    {
+      "option": 11,
+      "real_video": "https://vidmoly.net/embed-jmc2edmjl2k0.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/bc6d753857fe3dd4275dff707dedf329"
+    }
+  ]
+}

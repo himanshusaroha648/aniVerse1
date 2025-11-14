@@ -1,0 +1,33 @@
+{
+  "series": "Ronja the Robber's Daughter",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/pTnFZlLettuek3T9nSDQv1MAfjL.jpg",
+  "season": 1,
+  "episode": 16,
+  "episode_title": "Episode 16",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/pTnFZlLettuek3T9nSDQv1MAfjL.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/vGfiGcBDzB7bDC7OFidi2604hDx.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/vGfiGcBDzB7bDC7OFidi2604hDx.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://rubystm.com/e/goaw7zxv5tcv.html"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/dj6q98v"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/z0x3xk9"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/bip11ee"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/jpOF4YuqEbCj/"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "series": "Quality Assurance in Another World",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/toNVPhr8BpCbJ4LUGdiOGJpcy80.jpg",
+  "season": 1,
+  "episode": 10,
+  "episode_title": "Episode 10",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/toNVPhr8BpCbJ4LUGdiOGJpcy80.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/nDKrRffc3K0ULQMgJfSGKnopq7Z.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/nDKrRffc3K0ULQMgJfSGKnopq7Z.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/YQmh0B5tjujC/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/nfyxlx2bw2z4.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://short.icu/TTB56jn-R"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/jx5kyvy"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/udkq5s6"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/qfo3rft"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/3937230de3c8041e4da6ac3246a888e8"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "series": "Iron Man: Armored Adventures",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/uwMIL8PR1jHpHQksIq7kzdeqg2A.jpg",
+  "season": 2,
+  "episode": 22,
+  "episode_title": "Episode 22",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/uwMIL8PR1jHpHQksIq7kzdeqg2A.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/aLAcDRMshAKRypA0TRkNjGBxo6R.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/aLAcDRMshAKRypA0TRkNjGBxo6R.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/HmLUckb3rNlv/"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/d8a4e572d866aa45da78418d9d2ff9f9"
+    }
+  ]
+}

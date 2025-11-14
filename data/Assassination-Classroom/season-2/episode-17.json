@@ -1,0 +1,41 @@
+{
+  "series": "Assassination Classroom",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/leBY2xtNXG4cwT9K4zxlBUS86Sz.jpg",
+  "season": 2,
+  "episode": 17,
+  "episode_title": "Episode 17",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/leBY2xtNXG4cwT9K4zxlBUS86Sz.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/3k7R2ma7S2Jlq0w6PolGMNureBI.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/3k7R2ma7S2Jlq0w6PolGMNureBI.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/lhhkT2lRqNGE/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/embed-69bgqyzsm8xi.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://short.icu/0HTNCpp8J"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/eaflszh"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/u42v09s"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/o2popra"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/70feb62b69f16e0238f741fab228fec2"
+    }
+  ]
+}

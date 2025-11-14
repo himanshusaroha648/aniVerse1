@@ -1,0 +1,33 @@
+{
+  "series": "The Looney Tunes Show",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/zZuQ4RHiy52r6EyXOT4AwmBroZQ.jpg",
+  "season": 1,
+  "episode": 19,
+  "episode_title": "Episode 19",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/zZuQ4RHiy52r6EyXOT4AwmBroZQ.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/vEGf0Fio0NCJSxW8ncO70juK94p.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/vEGf0Fio0NCJSxW8ncO70juK94p.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/7It-WV83t"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/ry9u07x"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/prqpobe"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/nhxpwk7"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/UU8L8MZ5AA7r/"
+    }
+  ]
+}

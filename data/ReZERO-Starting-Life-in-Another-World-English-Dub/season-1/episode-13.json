@@ -1,0 +1,25 @@
+{
+  "series": "Re:ZERO -Starting Life in Another World-English Dub",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/yh3Md7RDxSPLRzIZZBQJU7txEeU.jpg",
+  "season": 1,
+  "episode": 13,
+  "episode_title": "Episode 13",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/yh3Md7RDxSPLRzIZZBQJU7txEeU.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/asWBcOfUseX0o3ljYQzx6kA28DZ.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/asWBcOfUseX0o3ljYQzx6kA28DZ.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/TsgUM9EY4"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/a9b69vm"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/GOBW3pRk2ZZ8/"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "series": "Teen Titans Go!",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/mTMAxrRaDp0TFpdFVinD3grrqr9.jpg",
+  "season": 1,
+  "episode": 44,
+  "episode_title": "Episode 44",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/mTMAxrRaDp0TFpdFVinD3grrqr9.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/bjw8PRMDrhgNLOYVoqn4rclxgVC.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/bjw8PRMDrhgNLOYVoqn4rclxgVC.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/Dmi3a3-Iw"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/fuy2kq8"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/rp9vpvs"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/z0v77fy"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/a01mKBH7WOKT/"
+    }
+  ]
+}

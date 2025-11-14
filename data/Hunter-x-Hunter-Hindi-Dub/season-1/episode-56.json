@@ -1,0 +1,49 @@
+{
+  "series": "Hunter x Hunter Hindi Dub",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/9dubj2UQ2xJkzT1AEng6DaGRvLa.jpg",
+  "season": 1,
+  "episode": 56,
+  "episode_title": "Episode 56",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/9dubj2UQ2xJkzT1AEng6DaGRvLa.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/aSUAx7yRqzrdK1aamiHkwpml1dn.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/aSUAx7yRqzrdK1aamiHkwpml1dn.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/1kGPS5u7g"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/mrqe6kcwuv8e.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#q3ycbx"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/ss09jkr"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/wfygx01"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/fb3h30l"
+    },
+    {
+      "option": 7,
+      "real_video": "https://emturbovid.com/t/67f54574f16ce"
+    },
+    {
+      "option": 8,
+      "real_video": "https://raretoonsindia.co/ex/JXtsA9S3xhZY8LD"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/P0KfKDXaPnwf/"
+    }
+  ]
+}

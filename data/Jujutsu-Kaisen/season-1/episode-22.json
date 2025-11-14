@@ -1,0 +1,53 @@
+{
+  "series": "Jujutsu Kaisen",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/3yFHMtdhriig4sm1w8oMQfA2gFN.jpg",
+  "season": 1,
+  "episode": 22,
+  "episode_title": "Episode 22",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/3yFHMtdhriig4sm1w8oMQfA2gFN.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/OdE55RF3yQLzFkW9g1Bhja8f93.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/OdE55RF3yQLzFkW9g1Bhja8f93.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/UfaaOS270Hgl/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/gokj5sdc41fo.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://embedwish.com/e/6v13wtu4nj09"
+    },
+    {
+      "option": 4,
+      "real_video": "https://filemoon.to/e/q5a9s38xnbf1/Toonhub4u_Jujutsu_Kaisen_S01E22_BDRip_480p_Multi_Audio_ESub"
+    },
+    {
+      "option": 5,
+      "real_video": "https://filelions.online/v/fmrpfjzxi3c0"
+    },
+    {
+      "option": 6,
+      "real_video": "https://vidstreaming.xyz/v/0qwf7LXGAj0M/"
+    },
+    {
+      "option": 7,
+      "real_video": "https://rubystm.com/e/getefkbbxv4w.html"
+    },
+    {
+      "option": 8,
+      "real_video": "https://short.icu/YOcDJyGIY"
+    },
+    {
+      "option": 9,
+      "real_video": "https://gdmirrorbot.nl/embed/pyeul3a"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/zoY4qflROYmT/"
+    }
+  ]
+}

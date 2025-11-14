@@ -1,0 +1,37 @@
+{
+  "series": "One Piece",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/dum1wnm6kJOUos0XJqjB8s2UWi9.jpg",
+  "season": 22,
+  "episode": 60,
+  "episode_title": "Episode 60",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/dum1wnm6kJOUos0XJqjB8s2UWi9.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/dsaslYmBUHpMzDUg01g5MFl2wcK.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/dsaslYmBUHpMzDUg01g5MFl2wcK.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://rubystm.com/e/9anfzi9n49fo.html"
+    },
+    {
+      "option": 2,
+      "real_video": "https://cloudy.upns.one/#q51ccj"
+    },
+    {
+      "option": 3,
+      "real_video": "https://strmup.to/XLmhgy7V0ecQY"
+    },
+    {
+      "option": 4,
+      "real_video": "https://turbovidhls.com/t/690c3d06a49bd"
+    },
+    {
+      "option": 5,
+      "real_video": "https://vidmoly.net/embed-62o17e7my65w.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://short.icu/s6idj9cip"
+    }
+  ]
+}

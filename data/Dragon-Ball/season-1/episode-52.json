@@ -1,0 +1,73 @@
+{
+  "series": "Dragon Ball",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/vU50hlN4ZHeCSuyhpIfo52TxKR4.jpg",
+  "season": 1,
+  "episode": 52,
+  "episode_title": "Episode 52",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/vU50hlN4ZHeCSuyhpIfo52TxKR4.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/uZSuMKidnieO8I8CsnK5KsgJ1J1.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/uZSuMKidnieO8I8CsnK5KsgJ1J1.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/woQa3f9zKSj2/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/cdXJu-MKRe"
+    },
+    {
+      "option": 3,
+      "real_video": "https://emturbovid.com/t/67275ebca8a79"
+    },
+    {
+      "option": 4,
+      "real_video": "https://vidstreaming.xyz/v/BNVvi9bZ1IIk/"
+    },
+    {
+      "option": 5,
+      "real_video": "https://short.icu/V_GrgLB-x"
+    },
+    {
+      "option": 6,
+      "real_video": "https://rubystm.com/e/bjdxme9tzel7.html"
+    },
+    {
+      "option": 7,
+      "real_video": "https://gdmirrorbot.nl/embed/thh8o7b"
+    },
+    {
+      "option": 8,
+      "real_video": "https://gdmirrorbot.nl/embed/erq0fr1"
+    },
+    {
+      "option": 9,
+      "real_video": "https://gdmirrorbot.nl/embed/bbost18"
+    },
+    {
+      "option": 10,
+      "real_video": "https://emturbovid.com/t/67278cd017ed7"
+    },
+    {
+      "option": 11,
+      "real_video": "https://blakiteapi.xyz/embed/12609/4-7"
+    },
+    {
+      "option": 12,
+      "real_video": "https://cloudy.upns.one/#6salzx"
+    },
+    {
+      "option": 13,
+      "real_video": "https://strmup.to/q9HCbs4yUgBzx"
+    },
+    {
+      "option": 14,
+      "real_video": "https://vidmoly.net/embed-ji84lsbcaqmv.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/cfa5301358b9fcbe7aa45b1ceea088c6"
+    }
+  ]
+}

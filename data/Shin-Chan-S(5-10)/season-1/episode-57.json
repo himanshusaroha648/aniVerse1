@@ -1,0 +1,17 @@
+{
+  "series": "Shin Chan S(5-10)",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/zg19Paur3lVVSh8J4LJVO1wgBIg.jpg",
+  "season": 1,
+  "episode": 57,
+  "episode_title": "Episode 57",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/zg19Paur3lVVSh8J4LJVO1wgBIg.jpg",
+  "episode_card_thumbnail": "https://toonstream.love/wp-content/themes/torofilm/public/img/cnt/noimg-episode.png",
+  "episode_list_thumbnail": "https://toonstream.love/wp-content/themes/torofilm/public/img/cnt/noimg-episode.png",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/Tba6ZHaaEKRv/"
+    }
+  ]
+}

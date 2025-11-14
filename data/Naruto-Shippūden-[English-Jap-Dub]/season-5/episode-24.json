@@ -1,0 +1,17 @@
+{
+  "series": "Naruto Shippūden [English-Jap Dub]",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/lufFEkkD5JMrDgiVYh4s1ksx4nv.jpg",
+  "season": 5,
+  "episode": 24,
+  "episode_title": "Episode 24",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/lufFEkkD5JMrDgiVYh4s1ksx4nv.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/8nksz2F3y5lGP2wZM40DiBWK9cR.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/8nksz2F3y5lGP2wZM40DiBWK9cR.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": null,
+      "real_video": "https://www.youtube.com/embed/v8OhPW-Yb0k"
+    }
+  ]
+}

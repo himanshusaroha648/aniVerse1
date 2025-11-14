@@ -1,0 +1,37 @@
+{
+  "series": "BLUE LOCK Multi Audio",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/sTDTy73OYmKY51EK94Mc6AxogzR.jpg",
+  "season": 1,
+  "episode": 8,
+  "episode_title": "Episode 8",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/sTDTy73OYmKY51EK94Mc6AxogzR.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/jGx7T6LLxzGY4YukGTA9cYCPot8.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/jGx7T6LLxzGY4YukGTA9cYCPot8.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/fzSbOBgIUR4d/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/GA2yHOW8z"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/q6u2k4l"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/lkji7ps"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/adayhgx"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/65b9eea6e1cc6bb9f0cd2a47751a186f"
+    }
+  ]
+}

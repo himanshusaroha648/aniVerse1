@@ -1,0 +1,21 @@
+{
+  "series": "Hunter x Hunter",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/ucpgmUR1h5Te1BYegKItoPjOeF7.jpg",
+  "season": 1,
+  "episode": 21,
+  "episode_title": "Episode 21",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/ucpgmUR1h5Te1BYegKItoPjOeF7.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/v3V2wFLlfDJePv8r539fvZc4d4O.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/v3V2wFLlfDJePv8r539fvZc4d4O.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://filemoon.to/e/l430v45nxcf3/_Toonhub4u__Hunter__C3__Hunter_S01E21__480p_BD_Multi_Audio__ESub"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/ZTePJA0Augxi/"
+    }
+  ]
+}

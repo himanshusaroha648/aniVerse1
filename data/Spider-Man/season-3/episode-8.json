@@ -1,0 +1,17 @@
+{
+  "series": "Spider-Man",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/peN9aqevr0edVoctVKGZDWFdTRl.jpg",
+  "season": 3,
+  "episode": 8,
+  "episode_title": "Episode 8",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/peN9aqevr0edVoctVKGZDWFdTRl.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/bdtJkySm2h88945ptD9iQcQiRY2.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/bdtJkySm2h88945ptD9iQcQiRY2.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/FYaTffCc0vFy/"
+    }
+  ]
+}

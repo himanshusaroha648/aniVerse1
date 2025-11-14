@@ -1,0 +1,33 @@
+{
+  "series": "The Looney Tunes Show",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/zZuQ4RHiy52r6EyXOT4AwmBroZQ.jpg",
+  "season": 2,
+  "episode": 11,
+  "episode_title": "Episode 11",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/zZuQ4RHiy52r6EyXOT4AwmBroZQ.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/tXbQQiC3MrttxbySqbjz1JGrcsE.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/tXbQQiC3MrttxbySqbjz1JGrcsE.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/J_V7QKcoe"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/r9gdfy8"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/hesxidh"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/fmeqqmo"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/FmgqGHupi3gS/"
+    }
+  ]
+}

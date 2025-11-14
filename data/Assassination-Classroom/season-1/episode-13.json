@@ -1,0 +1,41 @@
+{
+  "series": "Assassination Classroom",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/leBY2xtNXG4cwT9K4zxlBUS86Sz.jpg",
+  "season": 1,
+  "episode": 13,
+  "episode_title": "Episode 13",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/leBY2xtNXG4cwT9K4zxlBUS86Sz.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/d2f4685BTxxxvrpJnidX7BMiFQU.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/d2f4685BTxxxvrpJnidX7BMiFQU.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/LC6qhgP10IyY/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/embed-sce2k53xkce7.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://short.icu/zLossS1BP"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/yuvz0bn"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/aegx87n"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/m5oqnse"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/0c0a7566915f4f24853fc4192689aa7e"
+    }
+  ]
+}

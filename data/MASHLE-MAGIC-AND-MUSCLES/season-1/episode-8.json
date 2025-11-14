@@ -1,0 +1,53 @@
+{
+  "series": "MASHLE: MAGIC AND MUSCLES",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/dzCABR0joqtA0flLYpWAXc8mML1.jpg",
+  "season": 1,
+  "episode": 8,
+  "episode_title": "Episode 8",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/dzCABR0joqtA0flLYpWAXc8mML1.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/94Jx029j907EIqxZXbslIDcW07X.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/94Jx029j907EIqxZXbslIDcW07X.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/zhNn16Ic9599/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/ek_QQ6c64"
+    },
+    {
+      "option": 3,
+      "real_video": "https://rubystm.com/e/pjnr8ffusoc1.html"
+    },
+    {
+      "option": 4,
+      "real_video": "https://cloudy.upns.one/#shnjq"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/uzne0wk"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/oa6vd43"
+    },
+    {
+      "option": 7,
+      "real_video": "https://gdmirrorbot.nl/embed/k307dfx"
+    },
+    {
+      "option": 8,
+      "real_video": "https://emturbovid.com/t/67b1915c95ed4"
+    },
+    {
+      "option": 9,
+      "real_video": "https://raretoonsindia.co/ex/yLK1XEeVtEXI5mF"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/a62344a91db0bb372d136f651af0ac97"
+    }
+  ]
+}

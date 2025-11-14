@@ -1,0 +1,53 @@
+{
+  "series": "Tokyo 24th Ward",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/3NYB8HfKALKQ4cHGx8Rx4Dhd0YE.jpg",
+  "season": 1,
+  "episode": 9,
+  "episode_title": "Episode 9",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/3NYB8HfKALKQ4cHGx8Rx4Dhd0YE.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/67TQ5n96P3c39tM66nLzSHiBRHZ.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/67TQ5n96P3c39tM66nLzSHiBRHZ.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/t_RxkiL3x"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/4ts5l2uriwzy.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#dq6tos"
+    },
+    {
+      "option": 4,
+      "real_video": "https://strmup.to/ziKXRMWIsqu1w"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/fim4cq5"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/zm7zc27"
+    },
+    {
+      "option": 7,
+      "real_video": "https://gdmirrorbot.nl/embed/qon50kp"
+    },
+    {
+      "option": 8,
+      "real_video": "https://turbovidhls.com/t/68b17dec86029"
+    },
+    {
+      "option": 9,
+      "real_video": "https://vidmoly.net/embed-1ccms8uokcum.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/2175f8c5cd9604f6b1e576b252d4c86e"
+    }
+  ]
+}

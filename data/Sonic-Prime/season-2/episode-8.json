@@ -1,0 +1,17 @@
+{
+  "series": "Sonic Prime",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/1Hie7gCDsvt7wtPRuUAk4ZzaoQa.jpg",
+  "season": 2,
+  "episode": 8,
+  "episode_title": "Episode 8",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/1Hie7gCDsvt7wtPRuUAk4ZzaoQa.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/s6dIBpp9FW0EgtTGzgkgtdXZEIT.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/s6dIBpp9FW0EgtTGzgkgtdXZEIT.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/428b8e0c8ae876e78e551367212ae73b"
+    }
+  ]
+}

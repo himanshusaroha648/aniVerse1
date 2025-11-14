@@ -1,0 +1,29 @@
+{
+  "series": "One Piece",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/dum1wnm6kJOUos0XJqjB8s2UWi9.jpg",
+  "season": 22,
+  "episode": 37,
+  "episode_title": "Episode 37",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/dum1wnm6kJOUos0XJqjB8s2UWi9.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/ll38LCEtwZecUAldRTjMOHTITmR.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/ll38LCEtwZecUAldRTjMOHTITmR.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/tW12cpN1k"
+    },
+    {
+      "option": 2,
+      "real_video": "https://cloudy.upns.one/#rqpbmq"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/fw2vy8k"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/Ff9CqnnePMwT/"
+    }
+  ]
+}

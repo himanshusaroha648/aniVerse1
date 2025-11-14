@@ -1,0 +1,33 @@
+{
+  "series": "Scooby-Doo! Mystery Incorporated",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/mu8zU2jQfPbGO5bC6RHYrSypxUd.jpg",
+  "season": 1,
+  "episode": 14,
+  "episode_title": "Episode 14",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/mu8zU2jQfPbGO5bC6RHYrSypxUd.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/gT72cJFflRKaUg7PRDJTML8LWdF.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/gT72cJFflRKaUg7PRDJTML8LWdF.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/KdZdkK2wy"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/bchuxib"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/zfu0115"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/v1guix2"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/ZcEzmwHjapGQ/"
+    }
+  ]
+}

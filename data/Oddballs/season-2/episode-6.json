@@ -1,0 +1,33 @@
+{
+  "series": "Oddballs",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/cCJ60PDEXgavJ1vxWAjW1PMuZd6.jpg",
+  "season": 2,
+  "episode": 6,
+  "episode_title": "Episode 6",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/cCJ60PDEXgavJ1vxWAjW1PMuZd6.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/aoP3GVEyWzxhsSKzqJmuPEf6F8X.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/aoP3GVEyWzxhsSKzqJmuPEf6F8X.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/2zLFcPEx7f1y/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://streamsb.net/e/7hszw5h1gkfh.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://filemoon.to/e/uqnmwonej3is/_Toonhub4u__Oddballs_Season_2_Episode_6_in__Hindi_-_Eng__720p.mp4"
+    },
+    {
+      "option": 4,
+      "real_video": "https://streamhide.to/e/7tj00ju68aa1"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/831bb3dd5d09fb053fc65257e81b28f8"
+    }
+  ]
+}

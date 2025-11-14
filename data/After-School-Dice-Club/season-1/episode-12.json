@@ -1,0 +1,57 @@
+{
+  "series": "After School Dice Club",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/2i8kS6Lyy3PX6bkQWPhKwMx0xvX.jpg",
+  "season": 1,
+  "episode": 12,
+  "episode_title": "Episode 12",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/2i8kS6Lyy3PX6bkQWPhKwMx0xvX.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/dnP935l65OBy8QxrGSO2FKK0Juj.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/dnP935l65OBy8QxrGSO2FKK0Juj.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/F0dA7TUa66"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/8odkfetxz47u.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#loixkb"
+    },
+    {
+      "option": 4,
+      "real_video": "https://strmup.to/nR2gJWhFNmwtE"
+    },
+    {
+      "option": 5,
+      "real_video": "https://turbovidhls.com/t/68d5800019488"
+    },
+    {
+      "option": 6,
+      "real_video": "https://vidmoly.net/embed-zu0qo9ym61et.html"
+    },
+    {
+      "option": 7,
+      "real_video": "https://gdmirrorbot.nl/embed/jl3w1do"
+    },
+    {
+      "option": 8,
+      "real_video": "https://gdmirrorbot.nl/embed/ax457ad"
+    },
+    {
+      "option": 9,
+      "real_video": "https://gdmirrorbot.nl/embed/jjuf2ka"
+    },
+    {
+      "option": 10,
+      "real_video": "https://play.zephyrflick.top/video/9bbebcea7798629dd977598d42980e84"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/a4ad68f61b704a2073c3952bc5ceb1c8"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "series": "Turning Mecard",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/jCB2LIAChvAFyWe19U48H0uMrFb.jpg",
+  "season": 1,
+  "episode": 22,
+  "episode_title": "Episode 22",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/jCB2LIAChvAFyWe19U48H0uMrFb.jpg",
+  "episode_card_thumbnail": "https://toonstream.love/wp-content/themes/torofilm/public/img/cnt/noimg-episode.png",
+  "episode_list_thumbnail": "https://toonstream.love/wp-content/themes/torofilm/public/img/cnt/noimg-episode.png",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/ilo_3W4Fmh"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/8ormzfro9uu3.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#qurtk"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/i9gj3pa"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/noy7xzd"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/h9pc4qb"
+    },
+    {
+      "option": 7,
+      "real_video": "https://emturbovid.com/t/679b8e11afba6"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/tPOMQlEf62cK/"
+    }
+  ]
+}

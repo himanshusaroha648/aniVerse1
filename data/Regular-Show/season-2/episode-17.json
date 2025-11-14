@@ -1,0 +1,33 @@
+{
+  "series": "Regular Show",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/mS5SLxMYcKfUxA0utBSR5MOAWWr.jpg",
+  "season": 2,
+  "episode": 17,
+  "episode_title": "Episode 17",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/mS5SLxMYcKfUxA0utBSR5MOAWWr.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/cObvuGsdmk3Az902yqrGjzKdh4d.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/cObvuGsdmk3Az902yqrGjzKdh4d.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/K14t81LVx"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/jxclunk"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/xzojkf9"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/duft1gb"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/GnRS8PnGDBS9/"
+    }
+  ]
+}

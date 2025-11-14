@@ -1,0 +1,61 @@
+{
+  "series": "A Couple of Cuckoos",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/tdPYDpjvapdSdxroFidhiXvKY4B.jpg",
+  "season": 1,
+  "episode": 6,
+  "episode_title": "Episode 6",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/tdPYDpjvapdSdxroFidhiXvKY4B.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/vCV6FOcm4bSIH0FWOXAVZlzffEV.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/vCV6FOcm4bSIH0FWOXAVZlzffEV.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/TKh2xpgJnN1b/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/embed-88m8zt8o4645.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://short.icu/fuucjqTPe"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/wcoa8de"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/cwyq338"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/cwr0eqi"
+    },
+    {
+      "option": 7,
+      "real_video": "https://cloudy.upns.one/#puts6d"
+    },
+    {
+      "option": 8,
+      "real_video": "https://strmup.to/rToYfaURGgdCt"
+    },
+    {
+      "option": 9,
+      "real_video": "https://emturbovid.com/t/68897ad230e95"
+    },
+    {
+      "option": 10,
+      "real_video": "https://vidmoly.net/embed-zrecsi0j2dj5.html"
+    },
+    {
+      "option": 11,
+      "real_video": "https://blakiteapi.xyz/embed/122587/1-6"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/cc0e1713aa0e2bcba6f5edf1436b81ef"
+    }
+  ]
+}

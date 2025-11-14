@@ -1,0 +1,41 @@
+{
+  "series": "Black Clover",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/kZ3ZGOGrUvYKA1erts8ckynMduv.jpg",
+  "season": 1,
+  "episode": 31,
+  "episode_title": "Episode 31",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/kZ3ZGOGrUvYKA1erts8ckynMduv.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/4fSeA6UL1yDxa2MYmW6KJzaORog.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/4fSeA6UL1yDxa2MYmW6KJzaORog.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/gDaYuyNltFHc/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/fM8zr5yD_"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/lmigkos"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/ju43y45"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/bvpo2mf"
+    },
+    {
+      "option": 6,
+      "real_video": "https://raretoonsindia.co/ex/Rlh3SnkA8PWi0Rl"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/44a2e0804995faf8d2e3b084a1e2db1d"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "series": "Regular Show",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/mS5SLxMYcKfUxA0utBSR5MOAWWr.jpg",
+  "season": 2,
+  "episode": 18,
+  "episode_title": "Episode 18",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/mS5SLxMYcKfUxA0utBSR5MOAWWr.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/88FPODCLta8Bl4Zywpp6XPDVbOl.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/88FPODCLta8Bl4Zywpp6XPDVbOl.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/T5XNM0taB"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/tg7tgk0"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/g6iwncu"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/ioiqtnk"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/LNQJkrnQeYMi/"
+    }
+  ]
+}

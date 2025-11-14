@@ -1,0 +1,45 @@
+{
+  "series": "Scooby-Doo and Scrappy-Doo",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/ctxdYzdqSlrfKrqEo3bLSrrMLSP.jpg",
+  "season": 2,
+  "episode": 33,
+  "episode_title": "Episode 33",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/ctxdYzdqSlrfKrqEo3bLSrrMLSP.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/ngoD5Pjc0WWjgvYNFdyonAE6sEd.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/ngoD5Pjc0WWjgvYNFdyonAE6sEd.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/HWZTyBzVG"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/kfglg6hufwje.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#tafj3h"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/bsutwdo"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/fwuim0i"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/ygt5p7f"
+    },
+    {
+      "option": 7,
+      "real_video": "https://emturbovid.com/t/67d9a25345f6b"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/oa3uBTfhg5PL/"
+    }
+  ]
+}

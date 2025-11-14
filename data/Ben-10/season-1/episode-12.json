@@ -1,0 +1,33 @@
+{
+  "series": "Ben 10",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/pT0NlYVIkwM2zAw9oUkePwrOlxW.jpg",
+  "season": 1,
+  "episode": 12,
+  "episode_title": "Episode 12",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/pT0NlYVIkwM2zAw9oUkePwrOlxW.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/xrBsnkBLPvmlUBJdt9OvEmELRRP.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/xrBsnkBLPvmlUBJdt9OvEmELRRP.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/P4bqiZaFx"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/embed-0xuasza9qokd.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/cdnokua"
+    },
+    {
+      "option": 4,
+      "real_video": "https://emturbovid.com/t/6741b0d51f6e1"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/8m5CaXkLa7MO/"
+    }
+  ]
+}

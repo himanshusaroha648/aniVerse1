@@ -1,0 +1,33 @@
+{
+  "series": "SpongeBob SquarePants",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/amvtZgiTty0GHIgD56gpouBWrcy.jpg",
+  "season": 1,
+  "episode": 23,
+  "episode_title": "Episode 23",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/amvtZgiTty0GHIgD56gpouBWrcy.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/rEGfjm8Jyoyxl5mX1b9o2i1Oo0P.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/rEGfjm8Jyoyxl5mX1b9o2i1Oo0P.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/1b6-YKxa4"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/zjndth6"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/web8n8s"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/bsg4x4q"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/brX4Wh2Kxdob/"
+    }
+  ]
+}

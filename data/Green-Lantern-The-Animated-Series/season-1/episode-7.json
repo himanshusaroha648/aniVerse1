@@ -1,0 +1,33 @@
+{
+  "series": "Green Lantern: The Animated Series",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/qSSFP3va0q2WL2a2DzcdcjVe463.jpg",
+  "season": 1,
+  "episode": 7,
+  "episode_title": "Episode 7",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/qSSFP3va0q2WL2a2DzcdcjVe463.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/chfwynj2TTrVf3Z86qOk4va28SU.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/chfwynj2TTrVf3Z86qOk4va28SU.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/Zg-MuQ-Tq"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/bvn532n"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/f0jl1fv"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/fnjz33o"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/vK0LzPATFcpT/"
+    }
+  ]
+}

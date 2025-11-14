@@ -1,0 +1,37 @@
+{
+  "series": "One Piece",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/dum1wnm6kJOUos0XJqjB8s2UWi9.jpg",
+  "season": 22,
+  "episode": 5,
+  "episode_title": "Episode 5",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/dum1wnm6kJOUos0XJqjB8s2UWi9.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/5FXufOiOl4TQGueeLIKGorZ9XPi.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/5FXufOiOl4TQGueeLIKGorZ9XPi.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/FV7J4veYl5Ub/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/bXoThRCMt"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#br9qt"
+    },
+    {
+      "option": 4,
+      "real_video": "https://short.icu/zDqk8OMEa"
+    },
+    {
+      "option": 5,
+      "real_video": "https://emturbovid.com/t/676401a88e6f3"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/TcjxcqpJiMZS/"
+    }
+  ]
+}

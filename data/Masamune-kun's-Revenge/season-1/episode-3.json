@@ -1,0 +1,25 @@
+{
+  "series": "Masamune-kun's Revenge",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/50jjmuwSwMxlXAP1jQ48kr1xrcN.jpg",
+  "season": 1,
+  "episode": 3,
+  "episode_title": "Episode 3",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/50jjmuwSwMxlXAP1jQ48kr1xrcN.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/dDWgRChuZBa0M3VVOXXUb0cWsBW.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/dDWgRChuZBa0M3VVOXXUb0cWsBW.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/_fZYUviRS"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/wy749d6"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/LaK1Sa39TCHi/"
+    }
+  ]
+}

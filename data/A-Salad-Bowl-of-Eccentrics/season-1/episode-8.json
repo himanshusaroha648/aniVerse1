@@ -1,0 +1,41 @@
+{
+  "series": "A Salad Bowl of Eccentrics",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/98YXik8PxInfxO2qw8Lo48PrvCh.jpg",
+  "season": 1,
+  "episode": 8,
+  "episode_title": "Episode 8",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/98YXik8PxInfxO2qw8Lo48PrvCh.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/zI7IjrfkhevUDd9CltBuo66oY6H.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/zI7IjrfkhevUDd9CltBuo66oY6H.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/XVcajR28lex4/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/embed-bi3ui2hg6y8g.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://short.icu/ZxDTjwBgg"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/siy0i0x"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/dh5j3u4"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/z39jhn3"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/ee88c0f86505bcab820bb84ad06e895e"
+    }
+  ]
+}

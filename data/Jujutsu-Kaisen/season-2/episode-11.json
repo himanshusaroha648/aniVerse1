@@ -1,0 +1,53 @@
+{
+  "series": "Jujutsu Kaisen",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/3yFHMtdhriig4sm1w8oMQfA2gFN.jpg",
+  "season": 2,
+  "episode": 11,
+  "episode_title": "Episode 11",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/3yFHMtdhriig4sm1w8oMQfA2gFN.jpg",
+  "episode_card_thumbnail": "https://i.ibb.co/M5xWgg9/image.png",
+  "episode_list_thumbnail": "https://i.ibb.co/M5xWgg9/image.png",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://rubystm.come/4dl7ywoqrpds.html"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/SB3QqVwtF"
+    },
+    {
+      "option": 3,
+      "real_video": "https://multimovies.cloud/e/p6zax3br8qfr"
+    },
+    {
+      "option": 4,
+      "real_video": "https://filemoon.to/e/3dyc2izzghir/Toonhub4u_Jujutsu_Kaisen_S02E11_480p_WEB-DL_Multi_Audio_MSub"
+    },
+    {
+      "option": 5,
+      "real_video": "https://filelions.online/v/z5mk7gzzojwf"
+    },
+    {
+      "option": 6,
+      "real_video": "https://vidstreaming.xyz/v/ABlvQeaPSGjo/"
+    },
+    {
+      "option": 7,
+      "real_video": "https://vidstreaming.xyz/v/lQP2WiBdpiUd/"
+    },
+    {
+      "option": 8,
+      "real_video": "https://short.icu/ZFo2X-gFz"
+    },
+    {
+      "option": 9,
+      "real_video": "https://gdmirrorbot.nl/embed/jhvmmro"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/Ra8omtoxEGo1/"
+    }
+  ]
+}

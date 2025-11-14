@@ -1,0 +1,33 @@
+{
+  "series": "Yo-kai Watch",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/k8EM9rl22UAGtR2YUHNHsnMWggn.jpg",
+  "season": 1,
+  "episode": 6,
+  "episode_title": "Episode 6",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/k8EM9rl22UAGtR2YUHNHsnMWggn.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/A930muEvcmm6npP1e9IqJUbgk8W.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/A930muEvcmm6npP1e9IqJUbgk8W.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/cXK-s9_RU"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/xbzy7pj"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/zmxmgx6"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/pjbppgu"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/VQ6zai0eVFxm/"
+    }
+  ]
+}

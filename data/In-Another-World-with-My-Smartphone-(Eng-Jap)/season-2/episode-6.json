@@ -1,0 +1,25 @@
+{
+  "series": "In Another World with My Smartphone (Eng-Jap)",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/xlXdtc8QfwALtJW1o4UwRLt31Qy.jpg",
+  "season": 2,
+  "episode": 6,
+  "episode_title": "Episode 6",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/xlXdtc8QfwALtJW1o4UwRLt31Qy.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/4NsFyWeePlJtIKtSK9sxnvfEZwO.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/4NsFyWeePlJtIKtSK9sxnvfEZwO.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/U21Roy8MB"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/u6q62db"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/kkk5wj0j6hc4/"
+    }
+  ]
+}

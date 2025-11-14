@@ -1,0 +1,21 @@
+{
+  "series": "TONIKAWA: Over the Moon for You",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/jJKTrIfZKoFV66HGMzSa4tkObK0.jpg",
+  "season": 2,
+  "episode": 3,
+  "episode_title": "Episode 3",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/jJKTrIfZKoFV66HGMzSa4tkObK0.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/nhHtZaUBva55NOtlTwH2dvjupRu.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/nhHtZaUBva55NOtlTwH2dvjupRu.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/YwYx6s1UxM"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/4yhT3K0YUJcQ/"
+    }
+  ]
+}

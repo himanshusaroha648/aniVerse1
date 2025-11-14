@@ -1,0 +1,33 @@
+{
+  "series": "Ragna Crimson",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/oGmNWwV3wgp1DZXTOLSAYZZgh3X.jpg",
+  "season": 1,
+  "episode": 10,
+  "episode_title": "Episode 10",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/oGmNWwV3wgp1DZXTOLSAYZZgh3X.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/4LkcI9SMsShBYy4crKatB8ECSEg.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/4LkcI9SMsShBYy4crKatB8ECSEg.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidcloud.upns.ink/#mhk1pz"
+    },
+    {
+      "option": 2,
+      "real_video": "https://turbovidhls.com/t/69100bb9e58c1"
+    },
+    {
+      "option": 3,
+      "real_video": "https://vidmoly.net/embed-ercivapym6vp.html"
+    },
+    {
+      "option": 4,
+      "real_video": "https://play.zephyrflick.top/video/098f2ddd79cd296bad7b7b41c2b68a3b"
+    },
+    {
+      "option": null,
+      "real_video": "https://short.icu/hpLIJCE9u"
+    }
+  ]
+}

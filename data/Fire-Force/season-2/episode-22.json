@@ -1,0 +1,53 @@
+{
+  "series": "Fire Force",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/GXPzNvuDGzWikMEduV99kocohn.jpg",
+  "season": 2,
+  "episode": 22,
+  "episode_title": "Episode 22",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/GXPzNvuDGzWikMEduV99kocohn.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/jQps7RD3DjW1L4KJNVFO3n69GUO.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/jQps7RD3DjW1L4KJNVFO3n69GUO.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/Lb84QgDEcCLW/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/HKTVbg5eQ"
+    },
+    {
+      "option": 3,
+      "real_video": "https://rubystm.com/e/9baxtgqfnone.html"
+    },
+    {
+      "option": 4,
+      "real_video": "https://cloudy.upns.one/#paiw5"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/cpq2rrc"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/cfzeptf"
+    },
+    {
+      "option": 7,
+      "real_video": "https://gdmirrorbot.nl/embed/ewg4t85"
+    },
+    {
+      "option": 8,
+      "real_video": "https://emturbovid.com/t/67722598d9d2c"
+    },
+    {
+      "option": 9,
+      "real_video": "https://raretoonsindia.co/ex/FdFKRfcyE8jbnL0"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/b18336c06954cf0a92113517ca2bdd29"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "series": "The Apothecary Diaries",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/oWiZZpg3LwY6WSnaE63Cc453lcw.jpg",
+  "season": 2,
+  "episode": 23,
+  "episode_title": "Episode 23",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/oWiZZpg3LwY6WSnaE63Cc453lcw.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/d6bh5ReV4bruLInJZlGoUXy1Qcp.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/d6bh5ReV4bruLInJZlGoUXy1Qcp.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/vPruuHHE5"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/t67gc8n3ysdw.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#b6ul11"
+    },
+    {
+      "option": 4,
+      "real_video": "https://strmup.to/U7Jjv1DplCMyK"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/qnnj3ko"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/w1s8jqx"
+    },
+    {
+      "option": 7,
+      "real_video": "https://gdmirrorbot.nl/embed/anwhnzk"
+    },
+    {
+      "option": 8,
+      "real_video": "https://emturbovid.com/t/687bb3096aa6b"
+    },
+    {
+      "option": 9,
+      "real_video": "https://vidmoly.net/embed-8hfme8ve87e7.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/037a15f03246f075193b2a295ba4c466"
+    }
+  ]
+}

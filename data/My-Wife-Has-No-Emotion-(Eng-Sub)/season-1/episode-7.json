@@ -1,0 +1,25 @@
+{
+  "series": "My Wife Has No Emotion (Eng Sub)",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/ttaknfJP0qjg7kMKwH0w29fcE6d.jpg",
+  "season": 1,
+  "episode": 7,
+  "episode_title": "Episode 7",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/ttaknfJP0qjg7kMKwH0w29fcE6d.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/r4ctnNsbU7gqLHQZXK2dSUB6ZQV.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/r4ctnNsbU7gqLHQZXK2dSUB6ZQV.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/IhobvCXXp"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/agi8yfs"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/3JVYeZ1F1yNB/"
+    }
+  ]
+}

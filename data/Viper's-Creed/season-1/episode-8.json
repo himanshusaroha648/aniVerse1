@@ -1,0 +1,49 @@
+{
+  "series": "Viper's Creed",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/3UiSM3pcJnjKZxJYE70BXueAtCv.jpg",
+  "season": 1,
+  "episode": 8,
+  "episode_title": "Episode 8",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/3UiSM3pcJnjKZxJYE70BXueAtCv.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/l9uM1dP3RuPOf5kVM1loE35TVUF.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/l9uM1dP3RuPOf5kVM1loE35TVUF.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/U-7NuYVpW"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/8xb3ft9yzxyh.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#ghnbuz"
+    },
+    {
+      "option": 4,
+      "real_video": "https://strmup.to/OZcPgN1SWFpqM"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/pb1svus"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/lcu480b"
+    },
+    {
+      "option": 7,
+      "real_video": "https://emturbovid.com/t/6888df3414d73"
+    },
+    {
+      "option": 8,
+      "real_video": "https://vidmoly.net/embed-vp3dtwg0w0lw.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/9aad93328ed02110438566b1162f48b8"
+    }
+  ]
+}

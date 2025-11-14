@@ -1,0 +1,53 @@
+{
+  "series": "May I Ask for One Final Thing?",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/u5kCaEFoDX30k68RwP4F6bsYQbb.jpg",
+  "season": 1,
+  "episode": 2,
+  "episode_title": "Episode 2",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/u5kCaEFoDX30k68RwP4F6bsYQbb.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/vFArQePozZeuMyogHgtWEeZORHz.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/vFArQePozZeuMyogHgtWEeZORHz.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/M7Feoicp3"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/3x9gvsvnlot7.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#ghbb53"
+    },
+    {
+      "option": 4,
+      "real_video": "https://strmup.to/lBvoFbVysYgej"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/zdkrgk6"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/lbs0nly"
+    },
+    {
+      "option": 7,
+      "real_video": "https://gdmirrorbot.nl/embed/d13m1nm"
+    },
+    {
+      "option": 8,
+      "real_video": "https://emturbovid.com/t/68e018751ff32"
+    },
+    {
+      "option": 9,
+      "real_video": "https://vidmoly.net/embed-q90mljo55itj.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/8dbc071404cb803bffef3f83439ba2b4"
+    }
+  ]
+}

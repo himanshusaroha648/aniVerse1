@@ -1,0 +1,29 @@
+{
+  "series": "The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/kBiPU7I7TEJdDXu8tHgVrgL5zAU.jpg",
+  "season": 1,
+  "episode": 5,
+  "episode_title": "Episode 5",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/kBiPU7I7TEJdDXu8tHgVrgL5zAU.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/d11ozhBG09YrQakGAw8mbA9Fs7S.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/d11ozhBG09YrQakGAw8mbA9Fs7S.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/WidmcoKEwa"
+    },
+    {
+      "option": 2,
+      "real_video": "https://cloudy.upns.one/#vzjmvp"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/h7er61v"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/RnByq4wyQoMo/"
+    }
+  ]
+}

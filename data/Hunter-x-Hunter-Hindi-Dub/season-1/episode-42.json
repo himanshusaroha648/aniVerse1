@@ -1,0 +1,49 @@
+{
+  "series": "Hunter x Hunter Hindi Dub",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/9dubj2UQ2xJkzT1AEng6DaGRvLa.jpg",
+  "season": 1,
+  "episode": 42,
+  "episode_title": "Episode 42",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/9dubj2UQ2xJkzT1AEng6DaGRvLa.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/6BejwIjXKOawFKSDF6jpGRuCC39.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/6BejwIjXKOawFKSDF6jpGRuCC39.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/P8WlUzkVv"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/5gtj185z2pwq.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#kdczih"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/elzi5id"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/b2cow1x"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/knzb4zs"
+    },
+    {
+      "option": 7,
+      "real_video": "https://emturbovid.com/t/67e2d1fe30ccf"
+    },
+    {
+      "option": 8,
+      "real_video": "https://raretoonsindia.co/ex/vZI1UWhcwEVpmyg"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/6NkkAfzaRfDO/"
+    }
+  ]
+}

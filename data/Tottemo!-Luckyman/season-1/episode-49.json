@@ -1,0 +1,41 @@
+{
+  "series": "Tottemo! Luckyman",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/ojOOavQH2rNWNhG5NAw2l76czQJ.jpg",
+  "season": 1,
+  "episode": 49,
+  "episode_title": "Episode 49",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/ojOOavQH2rNWNhG5NAw2l76czQJ.jpg",
+  "episode_card_thumbnail": "https://toonstream.love/wp-content/themes/torofilm/public/img/cnt/noimg-episode.png",
+  "episode_list_thumbnail": "https://toonstream.love/wp-content/themes/torofilm/public/img/cnt/noimg-episode.png",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/6VZ4LAlWQ"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/xr21sdqirn48.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#l6ln1"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/otawtij"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/rqy27td"
+    },
+    {
+      "option": 6,
+      "real_video": "https://emturbovid.com/t/679c4e49d5104"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/4qyO5DWHLt7C/"
+    }
+  ]
+}

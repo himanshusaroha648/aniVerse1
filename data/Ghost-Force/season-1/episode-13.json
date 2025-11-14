@@ -1,0 +1,29 @@
+{
+  "series": "Ghost Force",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/u2GaUHtzwqUEoR9BYXdbFGwIUI7.jpg",
+  "season": 1,
+  "episode": 13,
+  "episode_title": "Episode 13",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/u2GaUHtzwqUEoR9BYXdbFGwIUI7.jpg",
+  "episode_card_thumbnail": "https://i.imgur.com/iFsJKLT.jpg",
+  "episode_list_thumbnail": "https://i.imgur.com/iFsJKLT.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://watchsb.com/e/natztclbxsu1.html"
+    },
+    {
+      "option": 2,
+      "real_video": "https://filemoon.to/e/6bprtulpgd05/_Toonhub4u__Ghostforce_Season_1_Episode_13_Multi_Audio_480p.mp4"
+    },
+    {
+      "option": 3,
+      "real_video": "https://filepress.lol/video/63b02a91bc2e53f25461c0a6"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/HGGuZRWPGz48/"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "series": "The Testament of Sister New Devil",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/4yrW5uBgcx7GSehJotlxWjAD0NQ.jpg",
+  "season": 1,
+  "episode": 2,
+  "episode_title": "Episode 2",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/4yrW5uBgcx7GSehJotlxWjAD0NQ.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/blIHTW8yzgXaSMj4GCrbPsrC256.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/blIHTW8yzgXaSMj4GCrbPsrC256.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/DVD-9KYBxm"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/gDJxj2qMjPUh/"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "series": "Aladdin",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/nlaiczW81kY46GBdfIcTrBIqr8I.jpg",
+  "season": 1,
+  "episode": 2,
+  "episode_title": "Episode 2",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/nlaiczW81kY46GBdfIcTrBIqr8I.jpg",
+  "episode_card_thumbnail": "https://toonstream.love/wp-content/themes/torofilm/public/img/cnt/noimg-episode.png",
+  "episode_list_thumbnail": "https://toonstream.love/wp-content/themes/torofilm/public/img/cnt/noimg-episode.png",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://rubystm.com/embed-i1cywzdvjzf7.html"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/FHVE-5g3Cd"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/i4iighf"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/gy9q36y"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/bg7u8zt"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/DmEia5Ke6mpS/"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "series": "Transformers: Prime",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/ilOKsGRHYc78R2tSMusAd3xGJWq.jpg",
+  "season": 1,
+  "episode": 14,
+  "episode_title": "Episode 14",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/ilOKsGRHYc78R2tSMusAd3xGJWq.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/zSZXz4LD9DQbt1whfbLjMVK2KH8.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/zSZXz4LD9DQbt1whfbLjMVK2KH8.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/yDmn5oK6XJdb/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://vidstreaming.xyz/v/iUgcJCxvi54k/"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/075b24b68eb3cb44b3fa4e331d86db89"
+    }
+  ]
+}

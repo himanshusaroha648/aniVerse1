@@ -1,0 +1,25 @@
+{
+  "series": "One Piece",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/dum1wnm6kJOUos0XJqjB8s2UWi9.jpg",
+  "season": 20,
+  "episode": 3,
+  "episode_title": "Episode 3",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/dum1wnm6kJOUos0XJqjB8s2UWi9.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/qudqiz6QjYt6WGeYINL4UlijKEM.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/qudqiz6QjYt6WGeYINL4UlijKEM.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://rubystm.com/e/gj8n41ko4yuz.html"
+    },
+    {
+      "option": 2,
+      "real_video": "https://strmup.to/Jh2zkh4ZHeF6"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/hfILTLR3plT2/"
+    }
+  ]
+}

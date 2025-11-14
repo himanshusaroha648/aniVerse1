@@ -1,0 +1,37 @@
+{
+  "series": "The Case Study of Vanitas",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/fvqoSfyfQG0hH9nJAvubq730ymR.jpg",
+  "season": 1,
+  "episode": 13,
+  "episode_title": "Episode 13",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/fvqoSfyfQG0hH9nJAvubq730ymR.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/lj9z8YrHWgrcDpK4khAxHxBEkDT.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/lj9z8YrHWgrcDpK4khAxHxBEkDT.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/5Z7BRJfCT0fk/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/zuzkqek6Bk"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/fi3853v"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/igh00ca"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/r6e07ez"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/51fd081fb2f037078fc8a4e037daabe4"
+    }
+  ]
+}

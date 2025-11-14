@@ -1,0 +1,21 @@
+{
+  "series": "Doraemon",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/bHMqPDsW7Lb71CVHXq4PuEvQ4NY.jpg",
+  "season": 4,
+  "episode": 44,
+  "episode_title": "Episode 44",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/bHMqPDsW7Lb71CVHXq4PuEvQ4NY.jpg",
+  "episode_card_thumbnail": "https://toonstream.love/wp-content/themes/torofilm/public/img/cnt/noimg-episode.png",
+  "episode_list_thumbnail": "https://toonstream.love/wp-content/themes/torofilm/public/img/cnt/noimg-episode.png",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/XXLDHJk2xXg1/"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/1d0932d7f57ce74d9d9931a2c6db8a06"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "series": "Hunter x Hunter",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/ucpgmUR1h5Te1BYegKItoPjOeF7.jpg",
+  "season": 1,
+  "episode": 10,
+  "episode_title": "Episode 10",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/ucpgmUR1h5Te1BYegKItoPjOeF7.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/iwZQOYXqojkNzVIa23t6kY3QBoJ.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/iwZQOYXqojkNzVIa23t6kY3QBoJ.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://streamsb.net/e/k9ik6e51pg3w.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/gFjVZl5vzi5r/"
+    }
+  ]
+}

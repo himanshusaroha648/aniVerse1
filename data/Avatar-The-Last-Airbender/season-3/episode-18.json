@@ -1,0 +1,29 @@
+{
+  "series": "Avatar: The Last Airbender",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/cHFZA8Tlv03nKTGXhLOYOLtqoSm.jpg",
+  "season": 3,
+  "episode": 18,
+  "episode_title": "Episode 18",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/cHFZA8Tlv03nKTGXhLOYOLtqoSm.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/ubU5kNjRCCEyXSfPOsRi62Zcqnf.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/ubU5kNjRCCEyXSfPOsRi62Zcqnf.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://rubystm.com/e/uk09gbc5mz9d.html"
+    },
+    {
+      "option": 2,
+      "real_video": "https://cloudy.upns.one/#nczlnt"
+    },
+    {
+      "option": 3,
+      "real_video": "https://strmup.to/MJdQjBfv7oO0"
+    },
+    {
+      "option": null,
+      "real_video": "https://short.icu/LsGMjve1W"
+    }
+  ]
+}

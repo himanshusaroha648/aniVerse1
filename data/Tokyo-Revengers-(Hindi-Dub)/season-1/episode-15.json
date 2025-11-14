@@ -1,0 +1,41 @@
+{
+  "series": "Tokyo Revengers (Hindi Dub)",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/arB3L9pZZBSzUPSC8BEv8c3X0bF.jpg",
+  "season": 1,
+  "episode": 15,
+  "episode_title": "Episode 15",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/arB3L9pZZBSzUPSC8BEv8c3X0bF.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/vhjIqpf7K75fAGIpH9PJVI8YKyP.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/vhjIqpf7K75fAGIpH9PJVI8YKyP.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/DRO8t2hpKStG/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/u9rjvv0uC"
+    },
+    {
+      "option": 3,
+      "real_video": "https://rubystm.com/e/9hfjj1r802ni.html"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/em8gbvv"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/w3qiau0"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/k39uvwr"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/d1fe173d08e959397adf34b1d77e88d7"
+    }
+  ]
+}

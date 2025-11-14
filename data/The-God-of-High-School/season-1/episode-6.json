@@ -1,0 +1,49 @@
+{
+  "series": "The God of High School",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/830bvxoehm3W8nIfgB8ZtxKnK4r.jpg",
+  "season": 1,
+  "episode": 6,
+  "episode_title": "Episode 6",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/830bvxoehm3W8nIfgB8ZtxKnK4r.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/vXsCtGU9EXfJyMOUkwZH06WNhx.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/vXsCtGU9EXfJyMOUkwZH06WNhx.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/JjUuVKECORPy/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/qj_8cSpiu"
+    },
+    {
+      "option": 3,
+      "real_video": "https://rubystm.com/e/w9173dyogrph.html"
+    },
+    {
+      "option": 4,
+      "real_video": "https://cloudy.upns.one/#epkr5t"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/yh22tqt"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/er05oq3"
+    },
+    {
+      "option": 7,
+      "real_video": "https://gdmirrorbot.nl/embed/s3jchhr"
+    },
+    {
+      "option": 8,
+      "real_video": "https://emturbovid.com/t/67d12118b751d"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/652040ab6d88c96e6f3d269a3e9d1615"
+    }
+  ]
+}

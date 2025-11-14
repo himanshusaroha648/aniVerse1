@@ -1,0 +1,41 @@
+{
+  "series": "Frieren: Beyond Journey's End",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/dqZENchTd7lp5zht7BdlqM7RBhD.jpg",
+  "season": 1,
+  "episode": 24,
+  "episode_title": "Episode 24",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/dqZENchTd7lp5zht7BdlqM7RBhD.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/8j2gGS7XAEDeNnEmIl3F3a4ozQx.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/8j2gGS7XAEDeNnEmIl3F3a4ozQx.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/n6tlqjll8Cw2/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/c3d3poax40k8.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://short.icu/NPGjq8hxi"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/w98jlv9"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/vzayoln"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/t0iozcr"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/b0bf8b3daf61246d13276dc8dcdfb87d"
+    }
+  ]
+}

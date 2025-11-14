@@ -1,0 +1,41 @@
+{
+  "series": "Black Clover",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/kZ3ZGOGrUvYKA1erts8ckynMduv.jpg",
+  "season": 1,
+  "episode": 35,
+  "episode_title": "Episode 35",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/kZ3ZGOGrUvYKA1erts8ckynMduv.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/7aVwoJixXXfwDQrYZCmKfx1uhej.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/7aVwoJixXXfwDQrYZCmKfx1uhej.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/5Jvu1wurhack/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/UrvYRA8Cx"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/k6igwf5"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/gzsgv15"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/j2zka0x"
+    },
+    {
+      "option": 6,
+      "real_video": "https://raretoonsindia.co/ex/thgoh4fJ0dJMgpf"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/c45008212f7bdf6eab6050c2a564435a"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "series": "Mobile Suit Gundam GQuuuuuuX",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/cbYoRnnHg36vgpERK6TD7zUciph.jpg",
+  "season": 1,
+  "episode": 9,
+  "episode_title": "Episode 9",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/cbYoRnnHg36vgpERK6TD7zUciph.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/u7A6byeFP3p2VmyGpCrLnzcqf2X.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/u7A6byeFP3p2VmyGpCrLnzcqf2X.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/jP8IXujxSVSx/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/J82umiA-j"
+    },
+    {
+      "option": 3,
+      "real_video": "https://rubystm.com/e/480cgbsb6tza.html"
+    },
+    {
+      "option": 4,
+      "real_video": "https://cloudy.upns.one/#8tl13y"
+    },
+    {
+      "option": 5,
+      "real_video": "https://emturbovid.com/t/683f2f2d0fd1b"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/d7852cd2408d9d3205dc75b59a6ce22e"
+    }
+  ]
+}

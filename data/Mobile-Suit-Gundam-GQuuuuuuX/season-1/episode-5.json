@@ -1,0 +1,49 @@
+{
+  "series": "Mobile Suit Gundam GQuuuuuuX",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/cbYoRnnHg36vgpERK6TD7zUciph.jpg",
+  "season": 1,
+  "episode": 5,
+  "episode_title": "Episode 5",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/cbYoRnnHg36vgpERK6TD7zUciph.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/c3fwOOgvksq9qXKaU0akul3NvQw.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/c3fwOOgvksq9qXKaU0akul3NvQw.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/NjidruWaZPKg/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/Je189TfUs"
+    },
+    {
+      "option": 3,
+      "real_video": "https://rubystm.com/e/nt0y3z8s27jd.html"
+    },
+    {
+      "option": 4,
+      "real_video": "https://cloudy.upns.one/#urfy89"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/dbsa9h2"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/b0sc996"
+    },
+    {
+      "option": 7,
+      "real_video": "https://gdmirrorbot.nl/embed/q7ee9e0"
+    },
+    {
+      "option": 8,
+      "real_video": "https://emturbovid.com/t/681a7d71b0b76"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/618491e20a9b686b79e158c293ab4f91"
+    }
+  ]
+}

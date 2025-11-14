@@ -1,0 +1,21 @@
+{
+  "series": "The Misfit of Demon King Academy",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/6VjUfaGkt3DJPLlNmnm1ALEhSfv.jpg",
+  "season": 1,
+  "episode": 7,
+  "episode_title": "Episode 7",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/6VjUfaGkt3DJPLlNmnm1ALEhSfv.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/c0TYBO1uYejw3jvc8jFvT8bV55h.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/c0TYBO1uYejw3jvc8jFvT8bV55h.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/Fx1OcR16Ht"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/k4JOmen1ylPV/"
+    }
+  ]
+}

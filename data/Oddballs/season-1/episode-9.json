@@ -1,0 +1,25 @@
+{
+  "series": "Oddballs",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/cCJ60PDEXgavJ1vxWAjW1PMuZd6.jpg",
+  "season": 1,
+  "episode": 9,
+  "episode_title": "Episode 9",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/cCJ60PDEXgavJ1vxWAjW1PMuZd6.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/swtgrygDpOnAvtExQNGnWkvl6w.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/swtgrygDpOnAvtExQNGnWkvl6w.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://watchsb.com/e/p8to704xcuzj.html"
+    },
+    {
+      "option": 2,
+      "real_video": "https://filepress.online/video/634d852e5a3afb64cb8377cd"
+    },
+    {
+      "option": null,
+      "real_video": "https://filemoon.to/e/dx397a8pcwtk/_Toonhub4u__Oddballs_Season_1_Episode_9_Dual_Audio__Hindi_-_Eng__1080p_HD.mp4"
+    }
+  ]
+}

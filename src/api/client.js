@@ -1,0 +1,48 @@
+const BASE_URL = '/api';
+
+async function handleResponse(response) {
+        if (!response.ok) {
+                const error = await response.json().catch(() => ({}));
+                const message = error?.error || error?.message || 'Request failed';
+                throw new Error(message);
+        }
+        return response.json();
+}
+
+async function fetchWithErrorHandling(url) {
+        try {
+                const response = await fetch(url);
+                return handleResponse(response);
+        } catch (error) {
+                if (error.message === 'Failed to fetch' || error.name === 'TypeError') {
+                        console.error('❌ Backend server not reachable. Make sure:');
+                        console.error('   1. Backend server is running on port 4000');
+                        console.error('   2. Run "npm start" to start both servers');
+                        console.error('   3. Check if data/ folder exists');
+                        throw new Error('Cannot connect to backend server. Please ensure backend is running on port 4000.');
+                }
+                throw error;
+        }
+}
+
+export async function fetchLibrary() {
+        return fetchWithErrorHandling(`${BASE_URL}/library`);
+}
+
+export async function fetchSeriesMetadata(slug) {
+        return fetchWithErrorHandling(`${BASE_URL}/series/${encodeURIComponent(slug)}`);
+}
+
+export async function fetchMovieMetadata(slug) {
+        return fetchWithErrorHandling(`${BASE_URL}/movies/${encodeURIComponent(slug)}`);
+}
+
+export async function fetchEpisode(slug, season, episode) {
+        return fetchWithErrorHandling(
+                `${BASE_URL}/series/${encodeURIComponent(slug)}/episode/${season}-${episode}`
+        );
+}
+
+export async function fetchLatestEpisodes() {
+        return fetchWithErrorHandling(`${BASE_URL}/latest-episodes`);
+}

@@ -1,0 +1,45 @@
+{
+  "series": "Scooby-Doo and Scrappy-Doo",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/ctxdYzdqSlrfKrqEo3bLSrrMLSP.jpg",
+  "season": 2,
+  "episode": 36,
+  "episode_title": "Episode 36",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/ctxdYzdqSlrfKrqEo3bLSrrMLSP.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/w1SGjfj1YsvZYFNUbfyTqfnU7OR.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/w1SGjfj1YsvZYFNUbfyTqfnU7OR.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/FHh1B11kI"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/3k0i1tslbk79.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#oncpup"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/pggpduk"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/vpbudhc"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/sw9rijq"
+    },
+    {
+      "option": 7,
+      "real_video": "https://emturbovid.com/t/67db08ac8958a"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/HZkSL33DNUau/"
+    }
+  ]
+}

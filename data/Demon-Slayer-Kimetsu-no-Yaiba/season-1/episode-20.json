@@ -1,0 +1,45 @@
+{
+  "series": "Demon Slayer: Kimetsu no Yaiba",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/ctR9Kv2MNhuIjgb96wARbT1BNts.jpg",
+  "season": 1,
+  "episode": 20,
+  "episode_title": "Episode 20",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/ctR9Kv2MNhuIjgb96wARbT1BNts.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/zEBhEj2Dt58vqAUsEWv6DOCz5RJ.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/zEBhEj2Dt58vqAUsEWv6DOCz5RJ.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/ucyDVe_4z"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/txlm4dmgd4bm.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://blakiteapi.xyz/embed/85937/1-20"
+    },
+    {
+      "option": 4,
+      "real_video": "https://cloudy.upns.one/#3aiova"
+    },
+    {
+      "option": 5,
+      "real_video": "https://strmup.to/aeScZKBJ4xMWT"
+    },
+    {
+      "option": 6,
+      "real_video": "https://emturbovid.com/t/688ee92cf3913"
+    },
+    {
+      "option": 7,
+      "real_video": "https://vidmoly.net/embed-vll83qowtkci.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/944bdd9636749a0801c39b6e449dbedc"
+    }
+  ]
+}

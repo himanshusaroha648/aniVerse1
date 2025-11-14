@@ -1,0 +1,25 @@
+{
+  "series": "Phineas and Ferb",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/oSLwJMOOQGAsyJNMi4Y3MO44iAJ.jpg",
+  "season": 3,
+  "episode": 7,
+  "episode_title": "Episode 7",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/oSLwJMOOQGAsyJNMi4Y3MO44iAJ.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/rSAB8N0HAwit4rGcwkkL3s8bW3P.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/rSAB8N0HAwit4rGcwkkL3s8bW3P.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/VPyuag0aT87r/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/FSA2fSaDG"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/97008ea27052082be055447be9e85612"
+    }
+  ]
+}

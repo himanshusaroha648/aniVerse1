@@ -1,0 +1,25 @@
+{
+  "series": "Zatch Bell!",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/1JaCkXXU7gB8tHmvuzpu36CgGr1.jpg",
+  "season": 1,
+  "episode": 34,
+  "episode_title": "Episode 34",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/1JaCkXXU7gB8tHmvuzpu36CgGr1.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/pU8Uad73BqIpEgOGe1dRRWfzQMr.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/pU8Uad73BqIpEgOGe1dRRWfzQMr.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/AZWbz9gU9"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/frfa1ah"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/tdH08ZPDZGl0/"
+    }
+  ]
+}

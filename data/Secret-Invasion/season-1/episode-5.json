@@ -1,0 +1,25 @@
+{
+  "series": "Secret Invasion",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/3rINdUPSy9AklJg74jWHOyUXuZd.jpg",
+  "season": 1,
+  "episode": 5,
+  "episode_title": "Episode 5",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/3rINdUPSy9AklJg74jWHOyUXuZd.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/psEdUcyKqyFJA5QJkLDpsB5OaCI.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/psEdUcyKqyFJA5QJkLDpsB5OaCI.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://filemoon.to/e/nf8dwpep93h2/Secret_Invasion_S01E05_480p_WEB-DL_HIN-ENG_MSub-KatmovieHD_ma"
+    },
+    {
+      "option": 2,
+      "real_video": "https://filelions.online/v/h8nrg0nn6vfi"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/vWtagILMARUD/"
+    }
+  ]
+}

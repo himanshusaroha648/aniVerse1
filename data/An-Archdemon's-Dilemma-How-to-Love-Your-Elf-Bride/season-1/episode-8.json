@@ -1,0 +1,41 @@
+{
+  "series": "An Archdemon's Dilemma: How to Love Your Elf Bride",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/yrtmTLOnHWJxlqDHNyxm0eUHr1U.jpg",
+  "season": 1,
+  "episode": 8,
+  "episode_title": "Episode 8",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/yrtmTLOnHWJxlqDHNyxm0eUHr1U.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/69Kan36xSxeVirvxGYcRp6Ye4LH.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/69Kan36xSxeVirvxGYcRp6Ye4LH.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/TS7AzWaLCFRV/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/embed-ab0vuz7aqyus.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://short.icu/u42bt4IZH"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/zkqkbcx"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/gqzx88v"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/hhnawn5"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/7cc5a75432e9a547200e3668c3761ae7"
+    }
+  ]
+}

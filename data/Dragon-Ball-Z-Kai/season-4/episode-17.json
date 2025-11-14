@@ -1,0 +1,41 @@
+{
+  "series": "Dragon Ball Z Kai",
+  "thumbnail": "https://i.imgur.com/zZzbUql.jpg",
+  "season": 4,
+  "episode": 17,
+  "episode_title": "Episode 17",
+  "episode_main_poster": "https://i.imgur.com/zZzbUql.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/4LHNiTq2iDh5UgDWwagFtlVpQV3.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/4LHNiTq2iDh5UgDWwagFtlVpQV3.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/H5n2vQDY-"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/50hdl3earh85.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#qts9g3"
+    },
+    {
+      "option": 4,
+      "real_video": "https://strmup.to/Vjn45qBUR7YiI"
+    },
+    {
+      "option": 5,
+      "real_video": "https://turbovidhls.com/t/68b304e29c8a6"
+    },
+    {
+      "option": 6,
+      "real_video": "https://vidmoly.net/embed-ub338hnnvkh9.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/f7696a9b362ac5a51c3dc8f098b73923"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "series": "My One-Hit Kill Sister",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/hQEgYVrTUxV0yXqLxdwdXIaofGt.jpg",
+  "season": 1,
+  "episode": 1,
+  "episode_title": "Episode 1",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/hQEgYVrTUxV0yXqLxdwdXIaofGt.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/zA4PF6ea2Ptyw3K3XF2RH5LWdxH.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/zA4PF6ea2Ptyw3K3XF2RH5LWdxH.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/r4b0Xlj4nE1y/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://streamsb.net/e/cl43jxzdi0tx.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://rubystm.com/e/fbjxhxvmz213.html"
+    },
+    {
+      "option": 4,
+      "real_video": "https://filemoon.to/e/2ytbedojyv2r/_Toonhub4u__My_One_Hit_Kill_Sister_Season_1_Episode_1_in_Hindi_720p.mp4"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/e834cb114d33f729dbc9c7fb0c6bb607"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "series": "Ed, Edd n Eddy",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/8BguP5zLyf3AzlTgRRhpXdz9bnS.jpg",
+  "season": 2,
+  "episode": 2,
+  "episode_title": "Episode 2",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/8BguP5zLyf3AzlTgRRhpXdz9bnS.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/mXt2UfiQYhfKDTbCJlxnz1Wik8f.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/mXt2UfiQYhfKDTbCJlxnz1Wik8f.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/v8EEl8kWm"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/73ozc3kxue89.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#p5es5"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/qtiyqlz"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/yb5mk4p"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/colw3x6"
+    },
+    {
+      "option": 7,
+      "real_video": "https://emturbovid.com/t/676121a62a450"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/rEHEADbOENy2/"
+    }
+  ]
+}

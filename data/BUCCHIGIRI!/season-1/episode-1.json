@@ -1,0 +1,49 @@
+{
+  "series": "BUCCHIGIRI?!",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/bhtkmLdMleHtGTq267VqhePgp5S.jpg",
+  "season": 1,
+  "episode": 1,
+  "episode_title": "Episode 1",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/bhtkmLdMleHtGTq267VqhePgp5S.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/pE1zPEUsc6N1XhhNRoJkGJdEbxI.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/pE1zPEUsc6N1XhhNRoJkGJdEbxI.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/NpUEeaARRn5c/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/au5ui7yed99l.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://vidmoly.me/w/dq3bpo9xsbsg"
+    },
+    {
+      "option": 4,
+      "real_video": "https://short.icu/-ykwPqJ5S"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/okqscvo"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/boa9ruv"
+    },
+    {
+      "option": 7,
+      "real_video": "https://gdmirrorbot.nl/embed/elm9ts2"
+    },
+    {
+      "option": 8,
+      "real_video": "https://animeworld.site/embed/226905/1-1"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/53e3a7161e428b65688f14b84d61c610"
+    }
+  ]
+}

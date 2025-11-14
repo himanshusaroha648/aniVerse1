@@ -1,0 +1,21 @@
+{
+  "series": "Monster",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/n5XNKXnoXpoXyfiCtXHOf8q8PFM.jpg",
+  "season": 1,
+  "episode": 7,
+  "episode_title": "Episode 7",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/n5XNKXnoXpoXyfiCtXHOf8q8PFM.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/iVIw85BQXHZaZVhPk4QDPTWqZxc.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/iVIw85BQXHZaZVhPk4QDPTWqZxc.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/8O7ZAKbpt"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/tlQVck8QkgAA/"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "series": "One Piece",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/dum1wnm6kJOUos0XJqjB8s2UWi9.jpg",
+  "season": 21,
+  "episode": 110,
+  "episode_title": "Episode 110",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/dum1wnm6kJOUos0XJqjB8s2UWi9.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/tvHkSTela9Says3Chicy1gENx4n.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/tvHkSTela9Says3Chicy1gENx4n.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/g1nF68XXiAyQ/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/XJUbv42jM"
+    },
+    {
+      "option": 3,
+      "real_video": "https://rubystm.com/e/5zh6iff6unua.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/SKwriHDA5zLm/"
+    }
+  ]
+}

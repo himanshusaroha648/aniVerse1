@@ -1,0 +1,45 @@
+{
+  "series": "Campfire Cooking in Another World with My Absurd Skill",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/rAfnEjWKCam13IFFIrzAzep4hIH.jpg",
+  "season": 1,
+  "episode": 8,
+  "episode_title": "Episode 8",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/rAfnEjWKCam13IFFIrzAzep4hIH.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/yo5IIz4VKasBR6TJe8mQqfTHyFX.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/yo5IIz4VKasBR6TJe8mQqfTHyFX.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/pqhZGreC9DEK/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/cfa4PWzGb"
+    },
+    {
+      "option": 3,
+      "real_video": "https://rubystm.com/e/3tj9dogt9142.html"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/nflahqn"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/e2ukx7p"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/e5q1cml"
+    },
+    {
+      "option": 7,
+      "real_video": "https://emturbovid.com/t/672b3a3f30a45"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/f47d0ad31c4c49061b9e505593e3db98"
+    }
+  ]
+}

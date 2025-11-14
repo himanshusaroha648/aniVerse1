@@ -1,0 +1,33 @@
+{
+  "series": "Scooby-Doo and Guess Who?",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/g7vQXsELihik4oHJwqhL6WuTJ3j.jpg",
+  "season": 1,
+  "episode": 1,
+  "episode_title": "Episode 1",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/g7vQXsELihik4oHJwqhL6WuTJ3j.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/mqA6GMX5Afzjp5gNILbymUlUlfO.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/mqA6GMX5Afzjp5gNILbymUlUlfO.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/nPqNI8w1M"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/zpqcs7o"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/opa2ypr"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/bln36g5"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/daj1J5KiEt9a/"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "series": "Welcome to the Outcast's Restaurant!",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/1IJigiaXgp8qvjwlRVFYhP71z8Q.jpg",
+  "season": 1,
+  "episode": 4,
+  "episode_title": "Episode 4",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/1IJigiaXgp8qvjwlRVFYhP71z8Q.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/m8zR0wv4aFLeD2JcynX8QIRkJjb.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/m8zR0wv4aFLeD2JcynX8QIRkJjb.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/S-gVvDlDy"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/jw9h9a6mp2py.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#85m51m"
+    },
+    {
+      "option": 4,
+      "real_video": "https://strmup.to/16mCqvUKNzoby"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/bj1pw6w"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/dqvd92r"
+    },
+    {
+      "option": 7,
+      "real_video": "https://gdmirrorbot.nl/embed/a016rrk"
+    },
+    {
+      "option": 8,
+      "real_video": "https://emturbovid.com/t/68825ee76cf7c"
+    },
+    {
+      "option": 9,
+      "real_video": "https://vidmoly.net/embed-ldy6pvvtiti0.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/636b1370d6dfae91f2042eef96c994b1"
+    }
+  ]
+}

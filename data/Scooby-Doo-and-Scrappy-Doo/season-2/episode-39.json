@@ -1,0 +1,45 @@
+{
+  "series": "Scooby-Doo and Scrappy-Doo",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/ctxdYzdqSlrfKrqEo3bLSrrMLSP.jpg",
+  "season": 2,
+  "episode": 39,
+  "episode_title": "Episode 39",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/ctxdYzdqSlrfKrqEo3bLSrrMLSP.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/aO9QTTMls902nRw1shVvFO6PAzx.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/aO9QTTMls902nRw1shVvFO6PAzx.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/L93Qja2-E"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/vnvu8whmxu31.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#s9dgh1"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/ykmnso1"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/rtkj4wy"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/xeomz9v"
+    },
+    {
+      "option": 7,
+      "real_video": "https://emturbovid.com/t/67db08b11c8f4"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/WazuT9ncxufU/"
+    }
+  ]
+}

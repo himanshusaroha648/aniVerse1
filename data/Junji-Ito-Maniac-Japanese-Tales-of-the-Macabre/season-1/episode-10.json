@@ -1,0 +1,25 @@
+{
+  "series": "Junji Ito Maniac: Japanese Tales of the Macabre",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/eE3vyu2F8upsQujhS8IP7QiG8Hm.jpg",
+  "season": 1,
+  "episode": 10,
+  "episode_title": "Episode 10",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/eE3vyu2F8upsQujhS8IP7QiG8Hm.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/ZBrUBQjVqCphSDOVYQUUEE5OUr.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/ZBrUBQjVqCphSDOVYQUUEE5OUr.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/MwOlDi5ii"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/ewdrzfb"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/MafbmW3HmFrD/"
+    }
+  ]
+}

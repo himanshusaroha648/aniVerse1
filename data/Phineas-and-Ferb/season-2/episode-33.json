@@ -1,0 +1,25 @@
+{
+  "series": "Phineas and Ferb",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/oSLwJMOOQGAsyJNMi4Y3MO44iAJ.jpg",
+  "season": 2,
+  "episode": 33,
+  "episode_title": "Episode 33",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/oSLwJMOOQGAsyJNMi4Y3MO44iAJ.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/aZsDcqdD4z0nZBEfvjeQ0jRAs5n.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/aZsDcqdD4z0nZBEfvjeQ0jRAs5n.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/GbKgU4UYXxIy/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/-9X-eUHM0"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/70d5212dd052b2ef06e5e562f6f9ab9c"
+    }
+  ]
+}

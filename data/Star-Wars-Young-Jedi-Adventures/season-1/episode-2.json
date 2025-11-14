@@ -1,0 +1,25 @@
+{
+  "series": "Star Wars: Young Jedi Adventures",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/oqTS9LOmp8ibRY1nsjBjP660mCb.jpg",
+  "season": 1,
+  "episode": 2,
+  "episode_title": "Episode 2",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/oqTS9LOmp8ibRY1nsjBjP660mCb.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/yvkoHkL6ak6Wji4HCjDXqKYru9v.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/yvkoHkL6ak6Wji4HCjDXqKYru9v.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://streamsb.net/e/762nd7fcwio2.html"
+    },
+    {
+      "option": 2,
+      "real_video": "https://filemoon.to/e/fwlqjzxjtp20/_Toonhub4u__Star_Wars__Young_Jedi_Adventures_Season_1_Episode_2_in__Hindi_-English__480p.mp4"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/YRGRVdh7Hi6o/"
+    }
+  ]
+}

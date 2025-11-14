@@ -1,0 +1,17 @@
+{
+  "series": "Spider-Man",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/peN9aqevr0edVoctVKGZDWFdTRl.jpg",
+  "season": 2,
+  "episode": 9,
+  "episode_title": "Episode 9",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/peN9aqevr0edVoctVKGZDWFdTRl.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/ybwsVFY1R5kaTE7kpdRG7pS9yWV.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/ybwsVFY1R5kaTE7kpdRG7pS9yWV.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/mbSDZFmLh3FL/"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "series": "Gachiakuta",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/sBLRgBF1xgj17uuGYkIpIWyUIJQ.jpg",
+  "season": 1,
+  "episode": 5,
+  "episode_title": "Episode 5",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/sBLRgBF1xgj17uuGYkIpIWyUIJQ.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/ztEDVMzddKRUQtvExgKaOVd8pHw.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/ztEDVMzddKRUQtvExgKaOVd8pHw.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/NHJmDP2XDp"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/qjkobll1evxu.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#unfnj3"
+    },
+    {
+      "option": 4,
+      "real_video": "https://strmup.to/Wm3lfJqrxMjsh"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/g6k0lys"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/oi4q7l4"
+    },
+    {
+      "option": 7,
+      "real_video": "https://gdmirrorbot.nl/embed/wuh5egh"
+    },
+    {
+      "option": 8,
+      "real_video": "https://emturbovid.com/t/6898bc2fb9bbe"
+    },
+    {
+      "option": 9,
+      "real_video": "https://vidmoly.net/embed-4xjyuaegmvxn.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/a2bb46e362d70a83673a822206f5062e"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "series": "Wolverine",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/cXPQEgUEbDz5NERfBJxeKFqUGwa.jpg",
+  "season": 1,
+  "episode": 1,
+  "episode_title": "Episode 1",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/cXPQEgUEbDz5NERfBJxeKFqUGwa.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/iIC2Ezeal10TED5dclpKZv8JG3j.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/iIC2Ezeal10TED5dclpKZv8JG3j.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://streamhide.to/e/ouyat4m48cwp"
+    },
+    {
+      "option": 2,
+      "real_video": "https://streamsb.net/e/3nj48msp9ml9.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://filepress.lol/video/63abe75a4e43043be80b0f38"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/CWfjMYaAIq1P/"
+    }
+  ]
+}

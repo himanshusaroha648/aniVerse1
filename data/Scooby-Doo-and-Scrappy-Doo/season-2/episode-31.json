@@ -1,0 +1,45 @@
+{
+  "series": "Scooby-Doo and Scrappy-Doo",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/ctxdYzdqSlrfKrqEo3bLSrrMLSP.jpg",
+  "season": 2,
+  "episode": 31,
+  "episode_title": "Episode 31",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/ctxdYzdqSlrfKrqEo3bLSrrMLSP.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/812nzz5zCKwnT2nWCYjboa6WUEX.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/812nzz5zCKwnT2nWCYjboa6WUEX.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/lyGqtl3ni"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/5gvv161rtsgc.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#mip1xq"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/yvuuwo0"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/klwlpfs"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/ycjxmp8"
+    },
+    {
+      "option": 7,
+      "real_video": "https://emturbovid.com/t/67d9a24f87d16"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/ZkJgAHg0W4ux/"
+    }
+  ]
+}

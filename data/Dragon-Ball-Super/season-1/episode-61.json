@@ -1,0 +1,41 @@
+{
+  "series": "Dragon Ball Super",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/qEUrbXJ2qt4Rg84Btlx4STOhgte.jpg",
+  "season": 1,
+  "episode": 61,
+  "episode_title": "Episode 61",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/qEUrbXJ2qt4Rg84Btlx4STOhgte.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/xWzmlvcuS9ThMjjnPzmLf1TjDhv.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/xWzmlvcuS9ThMjjnPzmLf1TjDhv.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/PB8bBMuBJ"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/49dyucnb44qw.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#elzs8l"
+    },
+    {
+      "option": 4,
+      "real_video": "https://strmup.to/oLvcq0nHOXb1x"
+    },
+    {
+      "option": 5,
+      "real_video": "https://turbovidhls.com/t/68b691f2bba09"
+    },
+    {
+      "option": 6,
+      "real_video": "https://vidmoly.net/embed-oe9v07bwz6ft.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/10ffbba2ec9025b945acc154f3403aec"
+    }
+  ]
+}

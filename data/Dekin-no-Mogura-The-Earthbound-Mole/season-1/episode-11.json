@@ -1,0 +1,53 @@
+{
+  "series": "Dekin no Mogura: The Earthbound Mole",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/xnEForFiNATvYS4MUwYyFuPyiok.jpg",
+  "season": 1,
+  "episode": 11,
+  "episode_title": "Episode 11",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/xnEForFiNATvYS4MUwYyFuPyiok.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/2Ygwt1MMhbNiRbZ1hDyduxcqhqE.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/2Ygwt1MMhbNiRbZ1hDyduxcqhqE.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/peQLsPYMN"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/c15j9zfyw1f7.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#5zruup"
+    },
+    {
+      "option": 4,
+      "real_video": "https://strmup.to/qUK4Osfzyhxta"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/xpvnoln"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/iu6gk4x"
+    },
+    {
+      "option": 7,
+      "real_video": "https://gdmirrorbot.nl/embed/cy5d16n"
+    },
+    {
+      "option": 8,
+      "real_video": "https://emturbovid.com/t/68c6eecad8eac"
+    },
+    {
+      "option": 9,
+      "real_video": "https://vidmoly.net/embed-zq63nfxf29my.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/5aa69473df6673476b7fbcbdf4455955"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "series": "Catch Me at the Ballpark!",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/houD2aVEHtM43abTMKNFL5ggCkX.jpg",
+  "season": 1,
+  "episode": 10,
+  "episode_title": "Episode 10",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/houD2aVEHtM43abTMKNFL5ggCkX.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/5quhDUSL88MlZPSUd51C3QZjJ71.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/5quhDUSL88MlZPSUd51C3QZjJ71.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://animeworld.site/embed/277222/1-10"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/0NYjWjY5f"
+    },
+    {
+      "option": 3,
+      "real_video": "https://rubystm.com/e/50i0fow28fkp.html"
+    },
+    {
+      "option": 4,
+      "real_video": "https://cloudy.upns.one/#n8korg"
+    },
+    {
+      "option": 5,
+      "real_video": "https://strmup.to/1y9sPCcZ3AfGO"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/mircq43"
+    },
+    {
+      "option": 7,
+      "real_video": "https://gdmirrorbot.nl/embed/t39unrf"
+    },
+    {
+      "option": 8,
+      "real_video": "https://gdmirrorbot.nl/embed/ka88nbf"
+    },
+    {
+      "option": 9,
+      "real_video": "https://emturbovid.com/t/6865076100324"
+    },
+    {
+      "option": 10,
+      "real_video": "https://vidmoly.net/embed-mxpdiwbyfwt8.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/14ee3cfc17b13a0f35bc3c22476ff77f"
+    }
+  ]
+}

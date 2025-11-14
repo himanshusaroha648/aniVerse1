@@ -1,0 +1,53 @@
+{
+  "series": "The Apothecary Diaries",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/oWiZZpg3LwY6WSnaE63Cc453lcw.jpg",
+  "season": 2,
+  "episode": 20,
+  "episode_title": "Episode 20",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/oWiZZpg3LwY6WSnaE63Cc453lcw.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/1eegNC86EGijXZtJfVhsAHAmR8d.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/1eegNC86EGijXZtJfVhsAHAmR8d.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/WtINOZRBc"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/9gntmtga8hg2.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#x6a1in"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/ywxg4gd"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/t5v553p"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/q8xido7"
+    },
+    {
+      "option": 7,
+      "real_video": "https://emturbovid.com/t/68578466c439a"
+    },
+    {
+      "option": 8,
+      "real_video": "https://streamup.ws/boCYwrOXlUqeD"
+    },
+    {
+      "option": 9,
+      "real_video": "https://raretoonsindia.co/fx/l3oQ1BZWQ72aVjM"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/ba5558f4dc6ca08e242176924887026b"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "series": "High School D×D",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/nuGXXJMsinqGAva3niLI00x1h3K.jpg",
+  "season": 2,
+  "episode": 9,
+  "episode_title": "Episode 9",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/nuGXXJMsinqGAva3niLI00x1h3K.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/sQJlI9PqHCy836OPzPhmBcQdHOC.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/sQJlI9PqHCy836OPzPhmBcQdHOC.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/50Wd2z2XI"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/QeFmYzFYXNSC/"
+    }
+  ]
+}

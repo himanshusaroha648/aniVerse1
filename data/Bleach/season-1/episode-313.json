@@ -1,0 +1,25 @@
+{
+  "series": "Bleach",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
+  "season": 1,
+  "episode": 313,
+  "episode_title": "Episode 313",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/tOjwa8TgzOLOtar92oCj4guruFE.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/tOjwa8TgzOLOtar92oCj4guruFE.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/AD4iuc1uk"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/vr727q8"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/p7A71NXlWHgd/"
+    }
+  ]
+}

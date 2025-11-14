@@ -1,0 +1,53 @@
+{
+  "series": "Radiant",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/o19uFUrC9gLa366Sr41kSJM8vRz.jpg",
+  "season": 1,
+  "episode": 3,
+  "episode_title": "Episode 3",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/o19uFUrC9gLa366Sr41kSJM8vRz.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/q9762gpdWi4l6BF46RsJpzDo4TB.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/q9762gpdWi4l6BF46RsJpzDo4TB.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/yokLmSDJE"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/98su52evp5he.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#5z9jng"
+    },
+    {
+      "option": 4,
+      "real_video": "https://strmup.to/wN8U4cdECeKHY"
+    },
+    {
+      "option": 5,
+      "real_video": "https://turbovidhls.com/t/680a4433edd34"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/a6r39ky"
+    },
+    {
+      "option": 7,
+      "real_video": "https://gdmirrorbot.nl/embed/fprs8xe"
+    },
+    {
+      "option": 8,
+      "real_video": "https://gdmirrorbot.nl/embed/bul2ic7"
+    },
+    {
+      "option": 9,
+      "real_video": "https://vidmoly.net/embed-3y8mettxd4ca.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/51fda174c360f4ea5d21de87c4c9a792"
+    }
+  ]
+}

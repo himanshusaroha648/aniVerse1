@@ -1,0 +1,33 @@
+{
+  "series": "Agent Elvis",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/9iFMG4zyAkLnvfEwNqIiiEEQ342.jpg",
+  "season": 1,
+  "episode": 3,
+  "episode_title": "Episode 3",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/9iFMG4zyAkLnvfEwNqIiiEEQ342.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/cgL9ALDKGWWrZIbAiGw5yHwIX93.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/cgL9ALDKGWWrZIbAiGw5yHwIX93.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/16GhW2G6kFRO/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://streamsb.net/e/z1jl8070rn1s.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://filemoon.to/e/sotre0crlng3/_Toonhub4u__Agent_Elvis_Season_1_Episode_3_in__Hindi-Eng__720p.mp4"
+    },
+    {
+      "option": 4,
+      "real_video": "https://streamhide.com/e/11xz4x4snp7m"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/58ea24488cdaba86635a7cf8f963089c"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Luck",
+  "description": "Watch Luck online for free in HD on ToonStream. Available in Hindi, Tamil, Telugu & More dubbed versions. Stream or Download now! Suddenly finding herself",
+  "release_year": 2022,
+  "genres": [
+    "Adventure",
+    "Animation",
+    "Comedy",
+    "Fantasy"
+  ],
+  "thumbnail": "https://image.tmdb.org/t/p/w185/1HOYvwGFioUFL58UVvDRG6beEDm.jpg",
+  "movie_poster": "https://image.tmdb.org/t/p/w185/1HOYvwGFioUFL58UVvDRG6beEDm.jpg",
+  "tmdb_id": null,
+  "tvdb_id": null,
+  "languages": [],
+  "url": "https://toonstream.love/movies/luck/",
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/WQZuHafR0Qo0/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://filemoon.to/e/k70oxy9mwc8s/_Toonhub4u__Luck__2022__Dual_Audio__Hindi-Eng__Download_720p_HD.mp4"
+    },
+    {
+      "option": 3,
+      "real_video": "https://streamsb.net/e/t9qgnnq7aloa.html"
+    },
+    {
+      "option": 4,
+      "real_video": "https://filepress.online/video/6357af6d7cb0d53a1dcd9e1b"
+    }
+  ]
+}

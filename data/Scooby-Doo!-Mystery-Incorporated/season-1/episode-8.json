@@ -1,0 +1,33 @@
+{
+  "series": "Scooby-Doo! Mystery Incorporated",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/mu8zU2jQfPbGO5bC6RHYrSypxUd.jpg",
+  "season": 1,
+  "episode": 8,
+  "episode_title": "Episode 8",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/mu8zU2jQfPbGO5bC6RHYrSypxUd.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/8uymmWz2s8y5KuyLOv5YkDHrVLc.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/8uymmWz2s8y5KuyLOv5YkDHrVLc.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/SVAH78EXB"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/tu4zahs"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/dcg384i"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/r5e2u7n"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/XbruFqAUmdcN/"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "series": "Overlord",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/zjSAukWORQxJAJjpR1KBk5X77PP.jpg",
+  "season": 2,
+  "episode": 11,
+  "episode_title": "Episode 11",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/zjSAukWORQxJAJjpR1KBk5X77PP.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/is8hObrVoJhOUi5s5S7eMAEmEOF.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/is8hObrVoJhOUi5s5S7eMAEmEOF.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/kIkOlNql6XWP/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/VYI6f5B9r"
+    },
+    {
+      "option": 3,
+      "real_video": "https://rubystm.com/e/bcbbgtxq72rc.html"
+    },
+    {
+      "option": 4,
+      "real_video": "https://cloudy.upns.one/#9oania"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/pm87c7c"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/bjln63t"
+    },
+    {
+      "option": 7,
+      "real_video": "https://gdmirrorbot.nl/embed/wnahupr"
+    },
+    {
+      "option": 8,
+      "real_video": "https://emturbovid.com/t/681a230d1e719"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/50d758cc9ab8bb51177b071d370caac2"
+    }
+  ]
+}

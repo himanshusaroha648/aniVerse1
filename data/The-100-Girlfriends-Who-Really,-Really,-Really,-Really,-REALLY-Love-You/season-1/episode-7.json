@@ -1,0 +1,29 @@
+{
+  "series": "The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/kBiPU7I7TEJdDXu8tHgVrgL5zAU.jpg",
+  "season": 1,
+  "episode": 7,
+  "episode_title": "Episode 7",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/kBiPU7I7TEJdDXu8tHgVrgL5zAU.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/6cxCrb8hdk5K59y1P2t2uediiNb.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/6cxCrb8hdk5K59y1P2t2uediiNb.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/N9nXusvkQ"
+    },
+    {
+      "option": 2,
+      "real_video": "https://cloudy.upns.one/#gezkgj"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/k8wvwfs"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/ZqiePeM0Tuab/"
+    }
+  ]
+}

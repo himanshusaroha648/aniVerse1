@@ -1,0 +1,37 @@
+{
+  "series": "One Piece",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/dum1wnm6kJOUos0XJqjB8s2UWi9.jpg",
+  "season": 22,
+  "episode": 51,
+  "episode_title": "Episode 51",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/dum1wnm6kJOUos0XJqjB8s2UWi9.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/7VhvUUOeDXvj8dvdOTeJQ1ENcRr.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/7VhvUUOeDXvj8dvdOTeJQ1ENcRr.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://rubystm.com/e/9pedromardt0.html"
+    },
+    {
+      "option": 2,
+      "real_video": "https://cloudy.upns.one/#oq5rre"
+    },
+    {
+      "option": 3,
+      "real_video": "https://strmup.to/LKbyjxwPgC9hd"
+    },
+    {
+      "option": 4,
+      "real_video": "https://turbovidhls.com/t/690c3cf4a0a24"
+    },
+    {
+      "option": 5,
+      "real_video": "https://vidmoly.net/embed-a9ai8y305x2d.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://short.icu/aJy4LeWdU"
+    }
+  ]
+}

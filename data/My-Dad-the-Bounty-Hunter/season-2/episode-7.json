@@ -1,0 +1,29 @@
+{
+  "series": "My Dad the Bounty Hunter",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/cWSPHOTFFf5hs77gamKeLDhxNvm.jpg",
+  "season": 2,
+  "episode": 7,
+  "episode_title": "Episode 7",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/cWSPHOTFFf5hs77gamKeLDhxNvm.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/7QLEqHLeWzu9UVJjRO4O1jYJ0wz.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/7QLEqHLeWzu9UVJjRO4O1jYJ0wz.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://filemoon.to/e/08bpdzvg5fbu/_Toonhub4u__My_Dad_the_Bounty_Hunter_S02E07_480p_NF_WEB-DL__Hindi-Eng__ESub"
+    },
+    {
+      "option": 2,
+      "real_video": "https://embedwish.com/e/uxi6ycs8y9oa"
+    },
+    {
+      "option": 3,
+      "real_video": "https://filelions.live/f/km60h7h80b4c"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/MgawHDVke24P/"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "series": "Zatch Bell!",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/1JaCkXXU7gB8tHmvuzpu36CgGr1.jpg",
+  "season": 1,
+  "episode": 79,
+  "episode_title": "Episode 79",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/1JaCkXXU7gB8tHmvuzpu36CgGr1.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/40vS3cDuQmWubzw2r8A5jeIRfvN.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/40vS3cDuQmWubzw2r8A5jeIRfvN.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/Tr5YdyR_b"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/p67gdao"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/45pb9UPczCCA/"
+    }
+  ]
+}

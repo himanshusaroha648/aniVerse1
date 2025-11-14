@@ -1,0 +1,41 @@
+{
+  "series": "The Legend of Korra",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/nhP0VGO2GSZbL4PUgmA6Vja48aM.jpg",
+  "season": 1,
+  "episode": 2,
+  "episode_title": "Episode 2",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/nhP0VGO2GSZbL4PUgmA6Vja48aM.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/7FnBpFDNORX6YGPa0SqbJP5QBKI.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/7FnBpFDNORX6YGPa0SqbJP5QBKI.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/d1h_4t-l6"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/ivjrgso6ioxb.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#xiuzyl"
+    },
+    {
+      "option": 4,
+      "real_video": "https://strmup.to/hyZUvWre9qPTV"
+    },
+    {
+      "option": 5,
+      "real_video": "https://emturbovid.com/t/687a1ad71b5a8"
+    },
+    {
+      "option": 6,
+      "real_video": "https://vidmoly.net/embed-8rmowgz9o2zf.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/77c493ec14246d748db3ee8fce0092db"
+    }
+  ]
+}

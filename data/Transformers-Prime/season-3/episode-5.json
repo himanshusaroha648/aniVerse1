@@ -1,0 +1,21 @@
+{
+  "series": "Transformers: Prime",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/ilOKsGRHYc78R2tSMusAd3xGJWq.jpg",
+  "season": 3,
+  "episode": 5,
+  "episode_title": "Episode 5",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/ilOKsGRHYc78R2tSMusAd3xGJWq.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/lR5omvVLVviqBrNMR1Di8fBa7Ax.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/lR5omvVLVviqBrNMR1Di8fBa7Ax.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/549urEcuuL35/"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/4e2ecebbfafe27a7c00e0462fad0873a"
+    }
+  ]
+}

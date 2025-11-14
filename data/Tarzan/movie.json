@@ -1,0 +1,46 @@
+{
+  "title": "Tarzan",
+  "description": "Watch Tarzan online for free in HD on ToonStream. Available in Hindi, Tamil, Telugu & More dubbed versions. Stream or Download now! Tarzan was a small",
+  "release_year": 1999,
+  "genres": [
+    "Adventure",
+    "Animation",
+    "Animation & Cartoon Movies",
+    "Disney",
+    "Drama",
+    "Family",
+    "NetFlix"
+  ],
+  "thumbnail": "https://image.tmdb.org/t/p/w185/bTvHlcqiOjGa3lFtbrTLTM3zasY.jpg",
+  "movie_poster": "https://image.tmdb.org/t/p/w185/bTvHlcqiOjGa3lFtbrTLTM3zasY.jpg",
+  "tmdb_id": null,
+  "tvdb_id": null,
+  "languages": [],
+  "url": "https://toonstream.love/movies/tarzan/",
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/Em7ZUdt40keC/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/embed-gl1qz701ihrt.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://short.icu/s_yop5oEH"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/cn7fkev"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/u8m2arx"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/tq782g0"
+    }
+  ]
+}

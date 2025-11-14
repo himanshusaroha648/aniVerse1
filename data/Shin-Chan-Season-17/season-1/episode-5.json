@@ -1,0 +1,37 @@
+{
+  "series": "Shin Chan Season 17",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/2fV83573hGUljQ2Mlly632fgUx6.jpg",
+  "season": 1,
+  "episode": 5,
+  "episode_title": "Episode 5",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/2fV83573hGUljQ2Mlly632fgUx6.jpg",
+  "episode_card_thumbnail": "https://toonstream.love/wp-content/themes/torofilm/public/img/cnt/noimg-episode.png",
+  "episode_list_thumbnail": "https://toonstream.love/wp-content/themes/torofilm/public/img/cnt/noimg-episode.png",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://rubystm.com/e/tt56g5qzugxg.html"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/xQKMmvSyb"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/zu9e8h7"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/ttyje1w"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/mo27okt"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/cYi37kjA1d1i/"
+    }
+  ]
+}

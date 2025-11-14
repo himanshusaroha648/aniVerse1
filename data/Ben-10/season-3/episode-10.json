@@ -1,0 +1,25 @@
+{
+  "series": "Ben 10",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/pT0NlYVIkwM2zAw9oUkePwrOlxW.jpg",
+  "season": 3,
+  "episode": 10,
+  "episode_title": "Episode 10",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/pT0NlYVIkwM2zAw9oUkePwrOlxW.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/jUeKCdZMhgKqAWq4diL4O6a6Scm.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/jUeKCdZMhgKqAWq4diL4O6a6Scm.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://filemoon.to/e/a6t9rwjy6d9r/_Toonhub4u__S03E07-Ben_10_-_Monster_Weather_Multi_Audio_720p.mkv"
+    },
+    {
+      "option": 2,
+      "real_video": "https://streamsb.net/e/pgitmloezmg9.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/DhLaqdv4iayG/"
+    }
+  ]
+}

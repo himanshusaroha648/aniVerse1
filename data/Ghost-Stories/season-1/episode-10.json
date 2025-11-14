@@ -1,0 +1,21 @@
+{
+  "series": "Ghost Stories",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/9muUVVBl5gpBzZTGUmvjzKWUge9.jpg",
+  "season": 1,
+  "episode": 10,
+  "episode_title": "Episode 10",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/9muUVVBl5gpBzZTGUmvjzKWUge9.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/2TUGjzqFcI5CE3ynXUUCf1xU0Bk.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/2TUGjzqFcI5CE3ynXUUCf1xU0Bk.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/UPm1jaCElmHq/"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/Z5hl8nivSmVC/"
+    }
+  ]
+}

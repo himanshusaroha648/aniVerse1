@@ -1,0 +1,33 @@
+{
+  "series": "One Punch Man",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/iE3s0lG5QVdEHOEZnoAxjmMtvne.jpg",
+  "season": 2,
+  "episode": 11,
+  "episode_title": "Episode 11",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/iE3s0lG5QVdEHOEZnoAxjmMtvne.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/gkpapTjLwcjejU1WrLdAhH8O2aG.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/gkpapTjLwcjejU1WrLdAhH8O2aG.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/8qmFiVxuG"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/p587ff631ful.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#9dt8ny"
+    },
+    {
+      "option": 4,
+      "real_video": "https://emturbovid.com/t/68774afc5fcf7"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/G5NI999aDw47/"
+    }
+  ]
+}

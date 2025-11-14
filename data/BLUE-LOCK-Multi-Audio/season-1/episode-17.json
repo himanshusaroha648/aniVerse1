@@ -1,0 +1,41 @@
+{
+  "series": "BLUE LOCK Multi Audio",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/sTDTy73OYmKY51EK94Mc6AxogzR.jpg",
+  "season": 1,
+  "episode": 17,
+  "episode_title": "Episode 17",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/sTDTy73OYmKY51EK94Mc6AxogzR.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/7oiLxFCYUHt1EvnD6aKrKZB9eRF.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/7oiLxFCYUHt1EvnD6aKrKZB9eRF.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/IkLjji9GoW2o/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/lb79by2dlzk6.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://short.icu/elfBS22d-"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/tdd28e7"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/pgz0kdb"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/i3p1gfq"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/26657d5ff9020d2abefe558796b99584"
+    }
+  ]
+}

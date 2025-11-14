@@ -1,0 +1,25 @@
+{
+  "series": "Popeye the Sailor",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/tQPDl1S1pRg2jzCQWtVUuauZSqa.jpg",
+  "season": 1,
+  "episode": 29,
+  "episode_title": "Episode 29",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/tQPDl1S1pRg2jzCQWtVUuauZSqa.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/lX4arqLuihSzppvksvn97HFuC5y.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/lX4arqLuihSzppvksvn97HFuC5y.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/nWrPIdYy6"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/ldylxdw"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/MGdUGURNvRrm/"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "series": "Goblin Slayer",
+  "thumbnail": "https://media.themoviedb.org/t/p/w440_and_h660_face/n2AA5w3hhsphCGqk8kihpHhfpgk.jpg",
+  "season": 1,
+  "episode": 4,
+  "episode_title": "Episode 4",
+  "episode_main_poster": "https://media.themoviedb.org/t/p/w440_and_h660_face/n2AA5w3hhsphCGqk8kihpHhfpgk.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/dk3jDsMo3bRqfimtQB7IXzHR2P9.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/dk3jDsMo3bRqfimtQB7IXzHR2P9.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/COf6PwVPvo4C/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/XSRa0W0IE"
+    },
+    {
+      "option": 3,
+      "real_video": "https://rubystm.com/e/4ommzk7nw5hv.html"
+    },
+    {
+      "option": 4,
+      "real_video": "https://cloudy.upns.one/#epamac"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/gd1oev2"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/o8k3sj9"
+    },
+    {
+      "option": 7,
+      "real_video": "https://gdmirrorbot.nl/embed/xaqesyi"
+    },
+    {
+      "option": 8,
+      "real_video": "https://emturbovid.com/t/68332c01cab91"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/a72dddf884c1fd3602200e6effac1bb7"
+    }
+  ]
+}

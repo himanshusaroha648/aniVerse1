@@ -1,0 +1,33 @@
+{
+  "series": "Shikimori's Not Just a Cutie",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/i6WK5JY3ziYdCARgG2l1ragQ5fI.jpg",
+  "season": 1,
+  "episode": 11,
+  "episode_title": "Episode 11",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/i6WK5JY3ziYdCARgG2l1ragQ5fI.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/ar5i95cZXtG49CUAl1tR5MqLMx8.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/ar5i95cZXtG49CUAl1tR5MqLMx8.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/HIxs67AjP"
+    },
+    {
+      "option": 2,
+      "real_video": "https://vidstreaming.xyz/v/90bkR1qDp1Ln/"
+    },
+    {
+      "option": 3,
+      "real_video": "https://short.icu/fIlE93yo1"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/her93pa"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/DhaiDkBFxf4N/"
+    }
+  ]
+}

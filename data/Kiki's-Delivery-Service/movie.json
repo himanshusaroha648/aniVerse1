@@ -1,0 +1,43 @@
+{
+  "title": "Kiki's Delivery Service",
+  "description": "Watch Kiki's Delivery Service online for free in HD on ToonStream. Available in Hindi, Tamil, Telugu & More dubbed versions. Stream or Download now! A",
+  "release_year": 1989,
+  "genres": [
+    "Animation",
+    "Anime Movies",
+    "Family",
+    "Fantasy"
+  ],
+  "thumbnail": "https://image.tmdb.org/t/p/w185/Aufa4YdZIv4AXpR9rznwVA5SEfd.jpg",
+  "movie_poster": "https://image.tmdb.org/t/p/w185/Aufa4YdZIv4AXpR9rznwVA5SEfd.jpg",
+  "tmdb_id": null,
+  "tvdb_id": null,
+  "languages": [],
+  "url": "https://toonstream.love/movies/kikis-delivery-service/",
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/l59Lm62KQYcR/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/embed-5i9125c24uru.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://short.icu/VV6wWCB2l"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/ayv0v59"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/hzgbl1x"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/li463m7"
+    }
+  ]
+}

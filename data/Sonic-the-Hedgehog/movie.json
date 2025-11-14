@@ -1,0 +1,51 @@
+{
+  "title": "Sonic the Hedgehog",
+  "description": "Watch Sonic the Hedgehog online for free in HD on ToonStream. Available in Hindi, Tamil, Telugu & More dubbed versions. Stream or Download now! Powered",
+  "release_year": 2020,
+  "genres": [
+    "Action",
+    "Comedy",
+    "Family",
+    "Science Fiction"
+  ],
+  "thumbnail": "https://image.tmdb.org/t/p/w185/aQvJ5WPzZgYVDrxLX4R6cLJCEaQ.jpg",
+  "movie_poster": "https://image.tmdb.org/t/p/w185/aQvJ5WPzZgYVDrxLX4R6cLJCEaQ.jpg",
+  "tmdb_id": null,
+  "tvdb_id": null,
+  "languages": [],
+  "url": "https://toonstream.love/movies/sonic-the-hedgehog/",
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/q2T7GSaQWiQm/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/Qnd7Qcvf_"
+    },
+    {
+      "option": 3,
+      "real_video": "https://rubystm.com/embed-ler8zpsvw1p9.html"
+    },
+    {
+      "option": 4,
+      "real_video": "https://cloudy.upns.one/#6b3pc"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/g9ccayf"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/zmswsot"
+    },
+    {
+      "option": 7,
+      "real_video": "https://gdmirrorbot.nl/embed/h0uo2mk"
+    },
+    {
+      "option": 8,
+      "real_video": "https://emturbovid.com/t/67a595f722fb3"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "series": "Mob Psycho 100 English Dub",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/vR7hwaGQ0ySRoq1WobiNRaPs4WO.jpg",
+  "season": 2,
+  "episode": 12,
+  "episode_title": "Episode 12",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/vR7hwaGQ0ySRoq1WobiNRaPs4WO.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/mWy9ZkNPO5yfoYQ3X2gzvXDAc91.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/mWy9ZkNPO5yfoYQ3X2gzvXDAc91.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/7ss4DyQU3"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/tx5lu2l"
+    },
+    {
+      "option": 3,
+      "real_video": "https://vidstreaming.xyz/v/ucuBnnYmz2Yz/"
+    },
+    {
+      "option": 4,
+      "real_video": "https://short.icu/7ss4DyQU3"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/tx5lu2l"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/ucuBnnYmz2Yz/"
+    }
+  ]
+}

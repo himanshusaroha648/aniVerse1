@@ -1,0 +1,53 @@
+{
+  "series": "The Summer Hikaru Died",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/x0wiTO87UMiVCUe24nKaHlp7AIc.jpg",
+  "season": 1,
+  "episode": 6,
+  "episode_title": "Episode 6",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/x0wiTO87UMiVCUe24nKaHlp7AIc.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/bgEajeKWJlcAo9pJ4BD7K9MUrzk.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/bgEajeKWJlcAo9pJ4BD7K9MUrzk.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/JMhdTKCUd"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/2h5u08mtkamf.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#ca1blv"
+    },
+    {
+      "option": 4,
+      "real_video": "https://strmup.to/GvBwW2DXboc8H"
+    },
+    {
+      "option": 5,
+      "real_video": "https://turbovidhls.com/t/6906129fee37d"
+    },
+    {
+      "option": 6,
+      "real_video": "https://vidmoly.net/embed-dmndxffe56uk.html"
+    },
+    {
+      "option": 7,
+      "real_video": "https://gdmirrorbot.nl/embed/sn48u6v"
+    },
+    {
+      "option": 8,
+      "real_video": "https://gdmirrorbot.nl/embed/pxmwazz"
+    },
+    {
+      "option": 9,
+      "real_video": "https://gdmirrorbot.nl/embed/njoh25t"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/6a1eb08082e599be20b641013fb8901c"
+    }
+  ]
+}

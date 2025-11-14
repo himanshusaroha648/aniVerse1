@@ -1,0 +1,37 @@
+{
+  "series": "Hunter x Hunter",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/ucpgmUR1h5Te1BYegKItoPjOeF7.jpg",
+  "season": 1,
+  "episode": 44,
+  "episode_title": "Episode 44",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/ucpgmUR1h5Te1BYegKItoPjOeF7.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/n2DWd1Lt80aqIFeMtFzSgpjn18X.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/n2DWd1Lt80aqIFeMtFzSgpjn18X.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://rubystm.com/e/n2aniw0122kb.html"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/IFZuE_gHU"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/f0voq4a"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/vn9eyob"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/wooq8ix"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/a9NCLdYILJBH/"
+    }
+  ]
+}

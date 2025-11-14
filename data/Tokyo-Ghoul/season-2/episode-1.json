@@ -1,0 +1,37 @@
+{
+  "series": "Tokyo Ghoul",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/y2roOFsew9nJKKVwwJCHSyzgpK9.jpg",
+  "season": 2,
+  "episode": 1,
+  "episode_title": "Episode 1",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/y2roOFsew9nJKKVwwJCHSyzgpK9.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/gg6LreQEWb3XvMFQLl4YmRxPuKs.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/gg6LreQEWb3XvMFQLl4YmRxPuKs.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://rubystm.com/e/rihyy1eksuy8.html"
+    },
+    {
+      "option": 2,
+      "real_video": "https://cloudy.upns.one/#6p9qgd"
+    },
+    {
+      "option": 3,
+      "real_video": "https://strmup.to/Y0KW4RGmSLEjq"
+    },
+    {
+      "option": 4,
+      "real_video": "https://turbovidhls.com/t/690246e960d84"
+    },
+    {
+      "option": 5,
+      "real_video": "https://vidmoly.net/embed-o2vaauofr8hp.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://short.icu/JklmIwgDw"
+    }
+  ]
+}

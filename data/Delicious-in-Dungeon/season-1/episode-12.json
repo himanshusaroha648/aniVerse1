@@ -1,0 +1,41 @@
+{
+  "series": "Delicious in Dungeon",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/saveaoAwq632sDlppmhEIjNOpC.jpg",
+  "season": 1,
+  "episode": 12,
+  "episode_title": "Episode 12",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/saveaoAwq632sDlppmhEIjNOpC.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/uiPXtexfgpzBBWfgWWdIHDVULH1.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/uiPXtexfgpzBBWfgWWdIHDVULH1.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/7tkaRcJDnRNN/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/abaglja5z3no.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://short.icu/S4kzGCBPn"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/p0j89jh"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/tbo2uqf"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/goyc50n"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/652c208b21f13f6e995bfc1154a1a2e5"
+    }
+  ]
+}

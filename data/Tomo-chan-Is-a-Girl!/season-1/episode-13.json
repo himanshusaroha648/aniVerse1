@@ -1,0 +1,37 @@
+{
+  "series": "Tomo-chan Is a Girl!",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/h9TN2BltJ9Q7FZ5BYGQcHfYfEGp.jpg",
+  "season": 1,
+  "episode": 13,
+  "episode_title": "Episode 13",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/h9TN2BltJ9Q7FZ5BYGQcHfYfEGp.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/vlf0YYLSaQcACizSgeUEcmlV222.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/vlf0YYLSaQcACizSgeUEcmlV222.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/8SlLRLhqvGnX/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/iElsjyKaY"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/i6rftah"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/qs83b4r"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/a5jz53z"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/38220e6a22eec2e5e3d21001f7d859df"
+    }
+  ]
+}

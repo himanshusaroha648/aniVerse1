@@ -1,0 +1,25 @@
+{
+  "series": "The Foolish Angel Dances with the Devil",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/tyay9L58bSNIxVUXIGNxkjKMRuD.jpg",
+  "season": 1,
+  "episode": 11,
+  "episode_title": "Episode 11",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/tyay9L58bSNIxVUXIGNxkjKMRuD.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/pnnKdMXamXxTaN36OiM2zUPLvws.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/pnnKdMXamXxTaN36OiM2zUPLvws.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/rJjh7OWyQ"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/trtybkr"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/1caOp5nmNNEV/"
+    }
+  ]
+}

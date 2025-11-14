@@ -1,0 +1,41 @@
+{
+  "series": "Delicious in Dungeon",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/saveaoAwq632sDlppmhEIjNOpC.jpg",
+  "season": 1,
+  "episode": 17,
+  "episode_title": "Episode 17",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/saveaoAwq632sDlppmhEIjNOpC.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/3kV9hqNBMFu5KwhYcIDzfH5UDuW.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/3kV9hqNBMFu5KwhYcIDzfH5UDuW.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/bRYrpvFeBNvX/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/3zn1zevtwkn5.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://short.icu/xsoce_Xqz"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/sg41b03"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/rqitdp1"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/b2mcc6x"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/293c3b96edea6588bc4b9415c3be4e66"
+    }
+  ]
+}

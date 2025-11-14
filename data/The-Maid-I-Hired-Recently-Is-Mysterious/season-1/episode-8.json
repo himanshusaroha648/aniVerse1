@@ -1,0 +1,53 @@
+{
+  "series": "The Maid I Hired Recently Is Mysterious",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/iGv5HouvyQvWF1SCEzzMtej9zhP.jpg",
+  "season": 1,
+  "episode": 8,
+  "episode_title": "Episode 8",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/iGv5HouvyQvWF1SCEzzMtej9zhP.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/q80eBNXOb0lorv6KjdgZCmt8vfb.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/q80eBNXOb0lorv6KjdgZCmt8vfb.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/B1E2p6De-"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e//8nqnshljnnfy.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#5zh5wg"
+    },
+    {
+      "option": 4,
+      "real_video": "https://strmup.to/yC8S6YktUilL2"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/waoun5a"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/f60r3f7"
+    },
+    {
+      "option": 7,
+      "real_video": "https://gdmirrorbot.nl/embed/opgn4wt"
+    },
+    {
+      "option": 8,
+      "real_video": "https://turbovidhls.com/t/6890c1cae7e9b"
+    },
+    {
+      "option": 9,
+      "real_video": "https://vidmoly.net/embed-1cznf8pos4jc.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/4b009c2f8e8d230c498c2db26678dd77"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "series": "One Punch Man",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/iE3s0lG5QVdEHOEZnoAxjmMtvne.jpg",
+  "season": 2,
+  "episode": 1,
+  "episode_title": "Episode 1",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/iE3s0lG5QVdEHOEZnoAxjmMtvne.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/wNeKfTka6lIDQCGpZuOMATv0UJD.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/wNeKfTka6lIDQCGpZuOMATv0UJD.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/0W9EVBwqs"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/yrao9mhcm2hh.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/o915ok8"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/pfumqh2"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/san2h5d"
+    },
+    {
+      "option": 6,
+      "real_video": "https://emturbovid.com/t/671e512a6d6bd"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/TScyAAQhwomt/"
+    }
+  ]
+}

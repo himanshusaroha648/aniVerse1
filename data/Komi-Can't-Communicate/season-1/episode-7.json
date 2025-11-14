@@ -1,0 +1,21 @@
+{
+  "series": "Komi Can't Communicate",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/rOEaKS6jdZacivHnM56NQ4yhccW.jpg",
+  "season": 1,
+  "episode": 7,
+  "episode_title": "Episode 7",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/rOEaKS6jdZacivHnM56NQ4yhccW.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/fHEFkJPDEj1Aq9JaqCuMKAdtQe.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/fHEFkJPDEj1Aq9JaqCuMKAdtQe.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/MbXoiJ4x1afa/"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/ofZCeR4RV7yL/"
+    }
+  ]
+}

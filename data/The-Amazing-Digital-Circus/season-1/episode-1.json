@@ -1,0 +1,33 @@
+{
+  "series": "The Amazing Digital Circus",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/DP3elz7gDEkZbYnDyZk60CX7AA.jpg",
+  "season": 1,
+  "episode": 1,
+  "episode_title": "Episode 1",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/DP3elz7gDEkZbYnDyZk60CX7AA.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/xonR1txXqYwyXhHnjZjEv0Yxpcs.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/xonR1txXqYwyXhHnjZjEv0Yxpcs.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/kVfcQEIorD"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/e5h37d1zdc1o.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/hxousqq"
+    },
+    {
+      "option": 4,
+      "real_video": "https://animedekho.net/moly.php?url=d08p0k3e5g7s"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/o2JAN6vPNfg3/"
+    }
+  ]
+}

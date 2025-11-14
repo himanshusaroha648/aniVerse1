@@ -1,0 +1,49 @@
+{
+  "series": "Banished from the Hero's Party, I Decided to Live a Quiet Life in the Countryside",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/ly6ivrd6NVJ6axtrvqWTrZxMHFE.jpg",
+  "season": 2,
+  "episode": 12,
+  "episode_title": "Episode 12",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/ly6ivrd6NVJ6axtrvqWTrZxMHFE.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/zi2TcqjhzZmyOcNl8lyQeEmgxv.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/zi2TcqjhzZmyOcNl8lyQeEmgxv.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/PzbFlM6bHvOH/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/VAS-IzzFS"
+    },
+    {
+      "option": 3,
+      "real_video": "https://rubystm.com/embed-lybqsgnaj613.html"
+    },
+    {
+      "option": 4,
+      "real_video": "https://cloudy.upns.one/#xcxu1"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/x713wsx"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/wky5wem"
+    },
+    {
+      "option": 7,
+      "real_video": "https://gdmirrorbot.nl/embed/l3jccfl"
+    },
+    {
+      "option": 8,
+      "real_video": "https://emturbovid.com/t/67813b5a0f847"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/5011bf6d8a37692913fce3a15a51f070"
+    }
+  ]
+}

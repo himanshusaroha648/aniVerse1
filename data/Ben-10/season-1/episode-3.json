@@ -1,0 +1,33 @@
+{
+  "series": "Ben 10",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/pT0NlYVIkwM2zAw9oUkePwrOlxW.jpg",
+  "season": 1,
+  "episode": 3,
+  "episode_title": "Episode 3",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/pT0NlYVIkwM2zAw9oUkePwrOlxW.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/78WIuyLWSAXoxhZt5cRR2gJIe6G.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/78WIuyLWSAXoxhZt5cRR2gJIe6G.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/aHo3CqwNt"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/embed-zdtqdv4hx28o.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/q7jaf5j"
+    },
+    {
+      "option": 4,
+      "real_video": "https://emturbovid.com/t/6741b0c5133ce"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/nxj7a4ycEBzV/"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "series": "Akebi's Sailor Uniform",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/OYFPuwKz7rs0yH5RkaExrOKVz7.jpg",
+  "season": 1,
+  "episode": 4,
+  "episode_title": "Episode 4",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/OYFPuwKz7rs0yH5RkaExrOKVz7.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/vuKZXyILh6geCN0T4nKxCq5lZAR.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/vuKZXyILh6geCN0T4nKxCq5lZAR.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://animeworld.site/embed/121792/1-4"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/UMHPkyOhy"
+    },
+    {
+      "option": 3,
+      "real_video": "https://rubystm.com/e/rs508bobtheb.html"
+    },
+    {
+      "option": 4,
+      "real_video": "https://cloudy.upns.one/#mi18hp"
+    },
+    {
+      "option": 5,
+      "real_video": "https://strmup.to/7PjEvn1gDx9zs"
+    },
+    {
+      "option": 6,
+      "real_video": "https://blakiteapi.xyz/embed/121792/1-4"
+    },
+    {
+      "option": 7,
+      "real_video": "https://turbovidhls.com/t/6808fa22105dc"
+    },
+    {
+      "option": 8,
+      "real_video": "https://gdmirrorbot.nl/embed/b5jiyhv"
+    },
+    {
+      "option": 9,
+      "real_video": "https://gdmirrorbot.nl/embed/tzv2zcr"
+    },
+    {
+      "option": 10,
+      "real_video": "https://gdmirrorbot.nl/embed/kblx92r"
+    },
+    {
+      "option": 11,
+      "real_video": "https://vidmoly.net/embed-xc2bkdkyvdkz.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/8c5f6ecd29a0eb234459190ca51c16dd"
+    }
+  ]
+}

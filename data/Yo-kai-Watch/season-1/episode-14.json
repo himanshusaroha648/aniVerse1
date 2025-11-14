@@ -1,0 +1,33 @@
+{
+  "series": "Yo-kai Watch",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/k8EM9rl22UAGtR2YUHNHsnMWggn.jpg",
+  "season": 1,
+  "episode": 14,
+  "episode_title": "Episode 14",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/k8EM9rl22UAGtR2YUHNHsnMWggn.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/mpJGWcxtnt4ZWvgLc1BWxVPmH29.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/mpJGWcxtnt4ZWvgLc1BWxVPmH29.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/jruVQ5ZPC"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/f5yhsd6"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/hbsihil"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/j0zj4cu"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/16BFAxBE4SaH/"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "series": "One Piece Wano Arc",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/uiIB9ctqZFbfRXXimtpmZb5dusi.jpg",
+  "season": 1,
+  "episode": 51,
+  "episode_title": "Episode 51",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/uiIB9ctqZFbfRXXimtpmZb5dusi.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/v6LG9uvEPo202jxo9BIOFHoc98r.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/v6LG9uvEPo202jxo9BIOFHoc98r.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/k8VF3CykS"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/ld3szp5uwmae.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#isptjn"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/sfc04om"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/uec76xp"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/s80oth4"
+    },
+    {
+      "option": 7,
+      "real_video": "https://emturbovid.com/t/67c886f528c09"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/KuZ7ZRRDoL9k/"
+    }
+  ]
+}

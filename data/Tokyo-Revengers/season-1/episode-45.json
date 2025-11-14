@@ -1,0 +1,33 @@
+{
+  "series": "Tokyo Revengers",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/arB3L9pZZBSzUPSC8BEv8c3X0bF.jpg",
+  "season": 1,
+  "episode": 45,
+  "episode_title": "Episode 45",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/arB3L9pZZBSzUPSC8BEv8c3X0bF.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/xnL5eEZNfx3Dh0aavgGDYHp37UU.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/xnL5eEZNfx3Dh0aavgGDYHp37UU.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/VaUc6LOa3"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/ifb2i3ar7nh3.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://strmup.to/7oB0EeLM5IqX"
+    },
+    {
+      "option": 4,
+      "real_video": "https://cloudy.upns.one/#qt6bn9"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/78J5akeaYYhu/"
+    }
+  ]
+}

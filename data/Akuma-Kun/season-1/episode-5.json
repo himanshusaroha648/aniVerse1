@@ -1,0 +1,53 @@
+{
+  "series": "Akuma Kun",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/zPPYeLhEFbZjImIvGcfvZEIBFQl.jpg",
+  "season": 1,
+  "episode": 5,
+  "episode_title": "Episode 5",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/zPPYeLhEFbZjImIvGcfvZEIBFQl.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/802gsiw1QO7iCMs43cBP3pxLa5t.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/802gsiw1QO7iCMs43cBP3pxLa5t.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/LWzBMHffQ5"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/5hcsyvl9m4q2.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#5zecfs"
+    },
+    {
+      "option": 4,
+      "real_video": "https://strmup.to/MgwDSfdrCJqHA"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/vnt6pqa"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/yp7ae5t"
+    },
+    {
+      "option": 7,
+      "real_video": "https://gdmirrorbot.nl/embed/k1fghft"
+    },
+    {
+      "option": 8,
+      "real_video": "https://emturbovid.com/t/6888d8e51aff9"
+    },
+    {
+      "option": 9,
+      "real_video": "https://vidmoly.net/embed-jfge92jp7j9t.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/b9b37cdd198e940b73969ea6ba7aaf72"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "series": "Teen Titans Go!",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/mTMAxrRaDp0TFpdFVinD3grrqr9.jpg",
+  "season": 1,
+  "episode": 28,
+  "episode_title": "Episode 28",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/mTMAxrRaDp0TFpdFVinD3grrqr9.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/ubAlRx2q7iSzWm50TXHwqmVNDpb.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/ubAlRx2q7iSzWm50TXHwqmVNDpb.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/yLg6KZZo7"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/f4cseri"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/ompvqs5"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/wvztd7v"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/S6ijDUCtOGa1/"
+    }
+  ]
+}

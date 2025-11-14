@@ -1,0 +1,49 @@
+{
+  "series": "365 Days to the Wedding",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/lMVkOrMaWEkHZLdPksKGcdi6hJg.jpg",
+  "season": 1,
+  "episode": 10,
+  "episode_title": "Episode 10",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/lMVkOrMaWEkHZLdPksKGcdi6hJg.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/hBO7VcPyCKv5hEeNyPK1d0nedvL.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/hBO7VcPyCKv5hEeNyPK1d0nedvL.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/ASGA72KdMCVQ/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/Zc1Y1UpRP"
+    },
+    {
+      "option": 3,
+      "real_video": "https://rubystm.com/embed-s6lwsdfhnwpi.html"
+    },
+    {
+      "option": 4,
+      "real_video": "https://cloudy.upns.one/#i3y6f"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/izg28sj"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/goip3f6"
+    },
+    {
+      "option": 7,
+      "real_video": "https://gdmirrorbot.nl/embed/zbpaj3h"
+    },
+    {
+      "option": 8,
+      "real_video": "https://emturbovid.com/t/676e73ec16b4d"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/1796a48fa1968edd5c5d10d42c7b1813"
+    }
+  ]
+}

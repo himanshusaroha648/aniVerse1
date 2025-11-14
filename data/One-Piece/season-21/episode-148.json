@@ -1,0 +1,29 @@
+{
+  "series": "One Piece",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/dum1wnm6kJOUos0XJqjB8s2UWi9.jpg",
+  "season": 21,
+  "episode": 148,
+  "episode_title": "Episode 148",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/dum1wnm6kJOUos0XJqjB8s2UWi9.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/fwAqqxzUaPH8VoUBU2xgKMwDO9K.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/fwAqqxzUaPH8VoUBU2xgKMwDO9K.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/Tv2318pzW4Fm/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/Ei4tn4B8i"
+    },
+    {
+      "option": 3,
+      "real_video": "https://rubystm.com/e/ih7cl4hx9izv.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/2XQnWg6YUDyW/"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "series": "Bottom-Tier Character Tomozaki",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/spDlNOiLxhcJ6ToZkcKgNUDwi3V.jpg",
+  "season": 2,
+  "episode": 12,
+  "episode_title": "Episode 12",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/spDlNOiLxhcJ6ToZkcKgNUDwi3V.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/oLFzTZNgFbabzbOl4MV9uUdzg0J.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/oLFzTZNgFbabzbOl4MV9uUdzg0J.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/KybsoDF3b"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/XHZM23xdS-"
+    },
+    {
+      "option": 3,
+      "real_video": "https://rubystm.com/e/0vqcgu4212ie.html"
+    },
+    {
+      "option": 4,
+      "real_video": "https://cloudy.upns.one/#n3q8ch"
+    },
+    {
+      "option": 5,
+      "real_video": "https://strmup.to/iS9BoqYReK6pI"
+    },
+    {
+      "option": 6,
+      "real_video": "https://turbovidhls.com/t/68e9fe68bad2d"
+    },
+    {
+      "option": 7,
+      "real_video": "https://vidmoly.net/embed-t8129unz398q.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/bhLZaa1Yjd1a/"
+    }
+  ]
+}

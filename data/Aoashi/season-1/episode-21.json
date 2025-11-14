@@ -1,0 +1,37 @@
+{
+  "series": "Aoashi",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/jz0agPanYP6MsjYSeGpZoAfUPjp.jpg",
+  "season": 1,
+  "episode": 21,
+  "episode_title": "Episode 21",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/jz0agPanYP6MsjYSeGpZoAfUPjp.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/vuhsKYLGRcwVUzfgV8MXOC4FL2y.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/vuhsKYLGRcwVUzfgV8MXOC4FL2y.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/rX7j4DT7P"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/nhm5k08pl5p1.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#me6rds"
+    },
+    {
+      "option": 4,
+      "real_video": "https://strmup.to/NKGqT2ZSj05lR"
+    },
+    {
+      "option": 5,
+      "real_video": "https://emturbovid.com/t/6852cb7a9ed48"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/feddfedc98490ed7e123db392f076fa1"
+    }
+  ]
+}

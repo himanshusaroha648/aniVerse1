@@ -1,0 +1,41 @@
+{
+  "series": "Mission: Yozakura Family (Eng-Jap)",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/dTtXbR0DenriganfBidZxFLk4Xx.jpg",
+  "season": 1,
+  "episode": 14,
+  "episode_title": "Episode 14",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/dTtXbR0DenriganfBidZxFLk4Xx.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/ySgo3be6RPu5BCNXh10LcfFA2kC.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/ySgo3be6RPu5BCNXh10LcfFA2kC.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://rubystm.com/e/uymqjue9o9qc.html"
+    },
+    {
+      "option": 2,
+      "real_video": "https://strmup.to//8VBQCeRlYfxim"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/htcc79i"
+    },
+    {
+      "option": 4,
+      "real_video": "https://turbovidhls.com/t/68a6b4be947d1"
+    },
+    {
+      "option": 5,
+      "real_video": "https://vidmoly.net/embed-eo03ydvvq4jx.html"
+    },
+    {
+      "option": 6,
+      "real_video": "https://cloudy.upns.one/#85hbj8"
+    },
+    {
+      "option": null,
+      "real_video": "https://short.icu/cWsnI10aF"
+    }
+  ]
+}

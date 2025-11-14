@@ -1,0 +1,49 @@
+{
+  "series": "Let This Grieving Soul Retire",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/egViTAdBqUyUFI2sIBsGbnH5Sun.jpg",
+  "season": 1,
+  "episode": 9,
+  "episode_title": "Episode 9",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/egViTAdBqUyUFI2sIBsGbnH5Sun.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/dXy253rKyCWDY4HrbuEOLflz5Ur.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/dXy253rKyCWDY4HrbuEOLflz5Ur.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/h0OpPHga3OQl/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/ysBivB_x9"
+    },
+    {
+      "option": 3,
+      "real_video": "https://rubystm.com/e/i0k8d49behu8.html"
+    },
+    {
+      "option": 4,
+      "real_video": "https://cloudy.upns.one/#x6ove3"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/mg22aei"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/wsrii0n"
+    },
+    {
+      "option": 7,
+      "real_video": "https://gdmirrorbot.nl/embed/m2nw8fn"
+    },
+    {
+      "option": 8,
+      "real_video": "https://emturbovid.com/t/6801319fd3d27"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/b79b48dd646ef0af02646b332a92d855"
+    }
+  ]
+}

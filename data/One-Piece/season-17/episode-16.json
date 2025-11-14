@@ -1,0 +1,25 @@
+{
+  "series": "One Piece",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/dum1wnm6kJOUos0XJqjB8s2UWi9.jpg",
+  "season": 17,
+  "episode": 16,
+  "episode_title": "Episode 16",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/dum1wnm6kJOUos0XJqjB8s2UWi9.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/wT3lNeKb1StziWmseEykGbRU0up.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/wT3lNeKb1StziWmseEykGbRU0up.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://rubystm.com/e/f4f4094tdj2y.html"
+    },
+    {
+      "option": 2,
+      "real_video": "https://strmup.to/mqnUvKAIgpk9"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/7xPpSD3a8Xdb/"
+    }
+  ]
+}

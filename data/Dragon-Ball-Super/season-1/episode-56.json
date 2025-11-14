@@ -1,0 +1,41 @@
+{
+  "series": "Dragon Ball Super",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/qEUrbXJ2qt4Rg84Btlx4STOhgte.jpg",
+  "season": 1,
+  "episode": 56,
+  "episode_title": "Episode 56",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/qEUrbXJ2qt4Rg84Btlx4STOhgte.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/emcQ2oX4sjYCkVuztSZykym79vH.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/emcQ2oX4sjYCkVuztSZykym79vH.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/JB-3EQhfo"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/m4a5mukzhlqi.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#xitgoz"
+    },
+    {
+      "option": 4,
+      "real_video": "https://strmup.to/ZPNWlSEQ0GDO4"
+    },
+    {
+      "option": 5,
+      "real_video": "https://turbovidhls.com/t/68b691eb3cd3c"
+    },
+    {
+      "option": 6,
+      "real_video": "https://vidmoly.net/embed-uorlvrfyji75.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/e0308d73972d8dd5e2dd27853106386e"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "series": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/h97iHupymkJXBv0gyr4qlePhKAk.jpg",
+  "season": 4,
+  "episode": 7,
+  "episode_title": "Episode 7",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/h97iHupymkJXBv0gyr4qlePhKAk.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/2Fe1fLtJe8vyymsGTGB0p4qrwPf.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/2Fe1fLtJe8vyymsGTGB0p4qrwPf.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/WSyAJOqVLn"
+    },
+    {
+      "option": 2,
+      "real_video": "https://vidmoly.net/embed-za0ebmabvnl4.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/kcqMBHXkC1Z0/"
+    }
+  ]
+}

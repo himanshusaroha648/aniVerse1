@@ -1,0 +1,53 @@
+{
+  "series": "My Hero Academia: Vigilantes",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/iv0cXt6uJGlTryWZNQMGyum4Pme.jpg",
+  "season": 1,
+  "episode": 2,
+  "episode_title": "My Hero Academia: Vigilantes 1x2 - Toonstream",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/iv0cXt6uJGlTryWZNQMGyum4Pme.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/kveOWw2d13KkPsjMOiYJrgOTrQi.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/kveOWw2d13KkPsjMOiYJrgOTrQi.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#mhuyrc"
+    },
+    {
+      "option": 4,
+      "real_video": "https://strmup.to/h8cr4CRujg7JS"
+    },
+    {
+      "option": 7,
+      "real_video": "https://gdmirrorbot.nl/embed/vks7y1y"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/urpgt4z"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/ffmkdeq"
+    },
+    {
+      "option": 1,
+      "real_video": "https://short.icu/BZ3l0vrSz"
+    },
+    {
+      "option": 8,
+      "real_video": "https://turbovidhls.com/t/6915443a5ab47"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/kyp9g2tbg9u1.html"
+    },
+    {
+      "option": 9,
+      "real_video": "https://vidmoly.net/embed-iiikm78xyhn1.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/93a8ddcf73bbed27cf3904a0c2ea323c"
+    }
+  ]
+}

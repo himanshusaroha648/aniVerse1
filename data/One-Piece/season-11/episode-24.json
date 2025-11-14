@@ -1,0 +1,25 @@
+{
+  "series": "One Piece",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/dum1wnm6kJOUos0XJqjB8s2UWi9.jpg",
+  "season": 11,
+  "episode": 24,
+  "episode_title": "Episode 24",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/dum1wnm6kJOUos0XJqjB8s2UWi9.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/xvxUUWMAHFlHT5mjGElQNvvx9jY.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/xvxUUWMAHFlHT5mjGElQNvvx9jY.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://rubystm.com/e/lrmp7b3m7rkk.html"
+    },
+    {
+      "option": 2,
+      "real_video": "https://strmup.to/w8v976WYbghv"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/A1a2FLrheUiA/"
+    }
+  ]
+}

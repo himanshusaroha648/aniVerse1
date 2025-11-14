@@ -1,0 +1,57 @@
+{
+  "series": "Baki Hanma",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/rRprMmPmeAWowqplv3k0v6glxqS.jpg",
+  "season": 2,
+  "episode": 13,
+  "episode_title": "Episode 13",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/rRprMmPmeAWowqplv3k0v6glxqS.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/yZT28IRhicVDJPvItRC34PQ1w5B.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/yZT28IRhicVDJPvItRC34PQ1w5B.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://rubystm.com/e/c9gbq6kseq88.html"
+    },
+    {
+      "option": 2,
+      "real_video": "https://cloudy.upns.one/#ghrhpr"
+    },
+    {
+      "option": 3,
+      "real_video": "https://strmup.to/HyawtblckRJAK"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/anllpwb"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/wgar0ou"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/yopeyvu"
+    },
+    {
+      "option": 7,
+      "real_video": "https://emturbovid.com/t/687a29f8b5c5f"
+    },
+    {
+      "option": 8,
+      "real_video": "https://vidmoly.net/embed-6jp6e6a9yg88.html"
+    },
+    {
+      "option": 9,
+      "real_video": "https://play.zephyrflick.top/video/6b41fd33b36a1ce27fc0a3b8f9d8df4c"
+    },
+    {
+      "option": 10,
+      "real_video": "https://blakiteapi.xyz/embed/129600/2-13"
+    },
+    {
+      "option": null,
+      "real_video": "https://short.icu/AglQL3Mt7"
+    }
+  ]
+}

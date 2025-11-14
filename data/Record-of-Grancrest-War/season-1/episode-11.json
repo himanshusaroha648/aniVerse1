@@ -1,0 +1,25 @@
+{
+  "series": "Record of Grancrest War",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/tECUAfNnSrNp7IS1HwXboLvg1FQ.jpg",
+  "season": 1,
+  "episode": 11,
+  "episode_title": "Episode 11",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/tECUAfNnSrNp7IS1HwXboLvg1FQ.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/6hVXowz8DL9ejl7ZbC8KZbT8oQ2.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/6hVXowz8DL9ejl7ZbC8KZbT8oQ2.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/heDYU7Tim"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/a9gnjxe"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/6H3Dn7fKTcaS/"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "series": "Dragon Ball",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/vU50hlN4ZHeCSuyhpIfo52TxKR4.jpg",
+  "season": 1,
+  "episode": 43,
+  "episode_title": "Episode 43",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/vU50hlN4ZHeCSuyhpIfo52TxKR4.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/jU6zr9Lwx9d1iggH5e1hVGihyAB.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/jU6zr9Lwx9d1iggH5e1hVGihyAB.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/y3haaoJFZoFF/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/Frh-571O3"
+    },
+    {
+      "option": 3,
+      "real_video": "https://rubystm.com/e/2pyaf2kbyxof.html"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/go4t9ui"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/k5lk0ik"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/fn4v2rk"
+    },
+    {
+      "option": 7,
+      "real_video": "https://emturbovid.com/t/6714fc9c747ce"
+    },
+    {
+      "option": 8,
+      "real_video": "https://blakiteapi.xyz/embed/12609/3-15"
+    },
+    {
+      "option": 9,
+      "real_video": "https://cloudy.upns.one/#9dxngf"
+    },
+    {
+      "option": 10,
+      "real_video": "https://strmup.to/ae658OPzM7phE"
+    },
+    {
+      "option": 11,
+      "real_video": "https://vidmoly.net/embed-gtw5m0ieqlby.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/42a3964579017f3cb42b26605b9ae8ef"
+    }
+  ]
+}

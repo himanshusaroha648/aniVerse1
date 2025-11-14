@@ -1,0 +1,37 @@
+{
+  "series": "The Case Study of Vanitas",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/fvqoSfyfQG0hH9nJAvubq730ymR.jpg",
+  "season": 1,
+  "episode": 24,
+  "episode_title": "Episode 24",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/fvqoSfyfQG0hH9nJAvubq730ymR.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/eXeA7F7DakLxr62DuYMtGjnQSy7.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/eXeA7F7DakLxr62DuYMtGjnQSy7.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/QWvxPjpHh94O/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/nGNEK5fXY"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/gqhkx16"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/q8ha9m6"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/t1ux5ry"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/aa495e18c7e3a21a4e48923b92048a61"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "series": "Superbook",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/4gxPU54vvA5ZGaICzwDXAQY5SvR.jpg",
+  "season": 1,
+  "episode": 8,
+  "episode_title": "Episode 8",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/4gxPU54vvA5ZGaICzwDXAQY5SvR.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/e3cT0PpdDbNowlnsvnjcfqe0xh9.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/e3cT0PpdDbNowlnsvnjcfqe0xh9.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/RU35hdX_V"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/wi6nh5x"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/mdlj571"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/w0la1hc"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/m0zLunmmbCS8/"
+    }
+  ]
+}

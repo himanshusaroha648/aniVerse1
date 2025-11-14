@@ -1,0 +1,33 @@
+{
+  "series": "Love, Death & Robots",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/vvRpJJxAw1sB4w4r0hsOdqa9eJc.jpg",
+  "season": 1,
+  "episode": 10,
+  "episode_title": "Episode 10",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/vvRpJJxAw1sB4w4r0hsOdqa9eJc.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/g5Pif6iKPtuVSRjvCwJcBAQGvm0.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/g5Pif6iKPtuVSRjvCwJcBAQGvm0.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/QHL1bBpItepu/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/R182hQ0ux"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/sfl5hci"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/bxlvd9y"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/ca0525bfe5cab4c577d169d3343a5452"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "series": "WIND BREAKER",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/gZfLoXRNCtZO0PuQ989xEPLkWWr.jpg",
+  "season": 2,
+  "episode": 9,
+  "episode_title": "Episode 9",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/gZfLoXRNCtZO0PuQ989xEPLkWWr.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/rGh7lUZM788l2uVpMYpAbSc7YDK.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/rGh7lUZM788l2uVpMYpAbSc7YDK.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/L_vB40e21"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/wqgam3p5opwi.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#5zdgpo"
+    },
+    {
+      "option": 4,
+      "real_video": "https://strmup.to/EJQnU4bViWoms"
+    },
+    {
+      "option": 5,
+      "real_video": "https://turbovidhls.com/t/6855097195c45"
+    },
+    {
+      "option": 6,
+      "real_video": "https://vidmoly.net/embed-82wuhdqbxj0s.html"
+    },
+    {
+      "option": 7,
+      "real_video": "https://gdmirrorbot.nl/embed/gyujhoe"
+    },
+    {
+      "option": 8,
+      "real_video": "https://gdmirrorbot.nl/embed/pvyxvhz"
+    },
+    {
+      "option": 9,
+      "real_video": "https://gdmirrorbot.nl/embed/i3m9pwt"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/674b1117ecbd3cbd34c71f328b1c49a5"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "series": "Sword Art Online",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/kuXL3UDa5TqCRat0az62hCJDeYE.jpg",
+  "season": 2,
+  "episode": 22,
+  "episode_title": "Episode 22",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/kuXL3UDa5TqCRat0az62hCJDeYE.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/lwKmF4mpen4czxhWoUDEfJCrbSm.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/lwKmF4mpen4czxhWoUDEfJCrbSm.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/16HLd46mP87H/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/e2PzizECg"
+    },
+    {
+      "option": 3,
+      "real_video": "https://rubystm.com/e/b87al0elis5j.html"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/oeidma0"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/jfsr9ri"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/p0z6p2c"
+    },
+    {
+      "option": 7,
+      "real_video": "https://emturbovid.com/t/671e4980841fd"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/5ca90602d3acd9a8f30b8a7cac1bdbb5"
+    }
+  ]
+}

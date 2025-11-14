@@ -1,0 +1,33 @@
+{
+  "series": "The Reincarnation of the Strongest Exorcist in Another World",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/AvVe8mmY3FY3CJwbw5sCYubzaTj.jpg",
+  "season": 1,
+  "episode": 9,
+  "episode_title": "Episode 9",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/AvVe8mmY3FY3CJwbw5sCYubzaTj.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/4RocfgPQVAHv6DA5ke6SYeR6OSa.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/4RocfgPQVAHv6DA5ke6SYeR6OSa.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/hva7rp01SZMD/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/1srl7wevnbuq.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://vidmoly.me/w/j7e018vyy4ag"
+    },
+    {
+      "option": 4,
+      "real_video": "https://short.icu/ttH9W7D8a"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/35bf98501edec1431e0c2fabe948da66"
+    }
+  ]
+}

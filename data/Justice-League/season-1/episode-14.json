@@ -1,0 +1,33 @@
+{
+  "series": "Justice League",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/caIAQIoM9NLZofT8fz8t47W1gYe.jpg",
+  "season": 1,
+  "episode": 14,
+  "episode_title": "Episode 14",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/caIAQIoM9NLZofT8fz8t47W1gYe.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/nteErBB1bPjJRJMFGLWSdsYkaVV.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/nteErBB1bPjJRJMFGLWSdsYkaVV.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/9jCSxtR5f"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/bkwvfnp"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/sq60msy"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/z3ysbnd"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/Sq5pzEtFIXEY/"
+    }
+  ]
+}

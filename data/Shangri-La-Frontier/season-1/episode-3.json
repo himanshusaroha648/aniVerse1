@@ -1,0 +1,49 @@
+{
+  "series": "Shangri-La Frontier",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/qidGq2WJSIWAPH4jfJNkjriRqiu.jpg",
+  "season": 1,
+  "episode": 3,
+  "episode_title": "Episode 3",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/qidGq2WJSIWAPH4jfJNkjriRqiu.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/utyinw0Tj6kQYJfLEFT1TPEmx6k.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/utyinw0Tj6kQYJfLEFT1TPEmx6k.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/jTdHLIQxAmQN/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/LvNtvqU1f"
+    },
+    {
+      "option": 3,
+      "real_video": "https://rubystm.com/e/3jl7hvzmozxx.html"
+    },
+    {
+      "option": 4,
+      "real_video": "https://cloudy.upns.one/#j6gly"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/lkvw6qu"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/u63fa2k"
+    },
+    {
+      "option": 7,
+      "real_video": "https://gdmirrorbot.nl/embed/ej5i89e"
+    },
+    {
+      "option": 8,
+      "real_video": "https://emturbovid.com/t/6772abd5a9c07"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/846c260d715e5b854ffad5f70a516c88"
+    }
+  ]
+}

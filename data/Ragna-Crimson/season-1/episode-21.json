@@ -1,0 +1,33 @@
+{
+  "series": "Ragna Crimson",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/oGmNWwV3wgp1DZXTOLSAYZZgh3X.jpg",
+  "season": 1,
+  "episode": 21,
+  "episode_title": "Episode 21",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/oGmNWwV3wgp1DZXTOLSAYZZgh3X.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/krj5RPWibgMXf7BNfIS4BwnVZnr.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/krj5RPWibgMXf7BNfIS4BwnVZnr.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidcloud.upns.ink/#hknmdo"
+    },
+    {
+      "option": 2,
+      "real_video": "https://turbovidhls.com/t/69100bcb870be"
+    },
+    {
+      "option": 3,
+      "real_video": "https://vidmoly.net/embed-p0eu5dkgc7hj.html"
+    },
+    {
+      "option": 4,
+      "real_video": "https://play.zephyrflick.top/video/65b22292b232047ac742de249504db02"
+    },
+    {
+      "option": null,
+      "real_video": "https://short.icu/zvxJnOOPP"
+    }
+  ]
+}

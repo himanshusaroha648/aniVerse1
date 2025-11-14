@@ -1,0 +1,53 @@
+{
+  "series": "Takopi's Original Sin",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/xPXDVhVKt0XM34ihoUVMHtLYTw8.jpg",
+  "season": 1,
+  "episode": 3,
+  "episode_title": "Episode 3",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/xPXDVhVKt0XM34ihoUVMHtLYTw8.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/zzPPYmbMg0tk13pzU9FWujMOT1C.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/zzPPYmbMg0tk13pzU9FWujMOT1C.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/I36mk61Ip"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/yy96xjbe8k4v.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#r8uadp"
+    },
+    {
+      "option": 4,
+      "real_video": "https://strmup.to/FMXkDOo26AP4i"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/ywl4wem"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/db2xway"
+    },
+    {
+      "option": 7,
+      "real_video": "https://gdmirrorbot.nl/embed/tsm283k"
+    },
+    {
+      "option": 8,
+      "real_video": "https://emturbovid.com/t/68dd65fa6e72f"
+    },
+    {
+      "option": 9,
+      "real_video": "https://vidmoly.net/embed-e9v6ayjy8u73.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/59a6cd2175a468225a105a7cd7f20ec4"
+    }
+  ]
+}

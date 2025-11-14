@@ -1,0 +1,41 @@
+{
+  "series": "Quality Assurance in Another World",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/toNVPhr8BpCbJ4LUGdiOGJpcy80.jpg",
+  "season": 1,
+  "episode": 2,
+  "episode_title": "Episode 2",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/toNVPhr8BpCbJ4LUGdiOGJpcy80.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/ckDnY1D8XfQ2jkUlA5nOL6uvD3V.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/ckDnY1D8XfQ2jkUlA5nOL6uvD3V.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/eXR6aBxpKl4a/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/3cjndw2byh8z.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://short.icu/NMscckBnG"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/mo8hclb"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/nghx3o3"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/etatgzb"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/c3535febaff29fcb7c0d20cbe94391c7"
+    }
+  ]
+}

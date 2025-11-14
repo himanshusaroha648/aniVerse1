@@ -1,0 +1,25 @@
+{
+  "series": "Phineas and Ferb",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/oSLwJMOOQGAsyJNMi4Y3MO44iAJ.jpg",
+  "season": 2,
+  "episode": 39,
+  "episode_title": "Episode 39",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/oSLwJMOOQGAsyJNMi4Y3MO44iAJ.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/gDm7WfKSUdUxPKAW4k30EtFjiy3.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/gDm7WfKSUdUxPKAW4k30EtFjiy3.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/abjNL0RN5HKa/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/ciqyGrr88"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/fe7ecc4de28b2c83c016b5c6c2acd826"
+    }
+  ]
+}

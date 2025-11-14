@@ -1,0 +1,17 @@
+{
+  "series": "Gintama",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/f7vK8pzZIqhyA8sYmBpWmp9Ae7.jpg",
+  "season": 3,
+  "episode": 8,
+  "episode_title": "Episode 8",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/f7vK8pzZIqhyA8sYmBpWmp9Ae7.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/wgiABheis5dxTtHlRiT88O4XPGh.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/wgiABheis5dxTtHlRiT88O4XPGh.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/zjSkM746n2GL/"
+    }
+  ]
+}

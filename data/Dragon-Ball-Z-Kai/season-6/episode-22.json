@@ -1,0 +1,41 @@
+{
+  "series": "Dragon Ball Z Kai",
+  "thumbnail": "https://i.imgur.com/zZzbUql.jpg",
+  "season": 6,
+  "episode": 22,
+  "episode_title": "Episode 22",
+  "episode_main_poster": "https://i.imgur.com/zZzbUql.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/j8NFJNl6Ywdi84P9Cb9JXHgQ56w.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/j8NFJNl6Ywdi84P9Cb9JXHgQ56w.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/2wTI7aU0-"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/v0kttnfwrnyh.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#3a9o5y"
+    },
+    {
+      "option": 4,
+      "real_video": "https://strmup.to/VYQEq8abNLyG0"
+    },
+    {
+      "option": 5,
+      "real_video": "https://turbovidhls.com/t/68b336cd7bc3a"
+    },
+    {
+      "option": 6,
+      "real_video": "https://vidmoly.net/embed-h9cewjn4dgd3.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/eb0ecdb070a1a0ac46de0cd733d39cf3"
+    }
+  ]
+}

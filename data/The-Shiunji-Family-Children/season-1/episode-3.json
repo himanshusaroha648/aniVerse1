@@ -1,0 +1,45 @@
+{
+  "series": "The Shiunji Family Children",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/vBrmvblWj4VviPvJM7Vjxmd2biN.jpg",
+  "season": 1,
+  "episode": 3,
+  "episode_title": "Episode 3",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/vBrmvblWj4VviPvJM7Vjxmd2biN.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/7YXhWD4nGtO1pyO5FpsVvGsEmt7.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/7YXhWD4nGtO1pyO5FpsVvGsEmt7.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/1nyhbbJ8Q"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/6pgdk50qzbqk.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#6h3myp"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/avl6vq7"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/ju7te84"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/wr5aiqd"
+    },
+    {
+      "option": 7,
+      "real_video": "https://emturbovid.com/t/682465ba766dd"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/20d534ef3fe79831c525d1a218cc2818"
+    }
+  ]
+}

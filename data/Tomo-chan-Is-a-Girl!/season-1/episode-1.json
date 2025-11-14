@@ -1,0 +1,37 @@
+{
+  "series": "Tomo-chan Is a Girl!",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/h9TN2BltJ9Q7FZ5BYGQcHfYfEGp.jpg",
+  "season": 1,
+  "episode": 1,
+  "episode_title": "Episode 1",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/h9TN2BltJ9Q7FZ5BYGQcHfYfEGp.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/kw8OqUhlcxD4MCAVtyH7jCjzbNy.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/kw8OqUhlcxD4MCAVtyH7jCjzbNy.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/hAGdrbHRtwWe/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/3GzZ6k85L"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/foelace"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/mhneac0"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/ex3v3hk"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/a9cf46a38a9b05e959f33215e5cdc38a"
+    }
+  ]
+}

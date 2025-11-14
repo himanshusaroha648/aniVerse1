@@ -1,0 +1,21 @@
+{
+  "series": "kimi ni todoke -From Me to You-",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/kka0aBfSmhxYopCW0FzDWzljRhG.jpg",
+  "season": 1,
+  "episode": 22,
+  "episode_title": "Episode 22",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/kka0aBfSmhxYopCW0FzDWzljRhG.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/xXpMR5cG6KfmJHo1oAjC9ucRW9P.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/xXpMR5cG6KfmJHo1oAjC9ucRW9P.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/aP6Ey8wkc"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/Z6fLaip82uxI/"
+    }
+  ]
+}

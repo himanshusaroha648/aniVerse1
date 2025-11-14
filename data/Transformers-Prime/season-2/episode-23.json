@@ -1,0 +1,21 @@
+{
+  "series": "Transformers: Prime",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/ilOKsGRHYc78R2tSMusAd3xGJWq.jpg",
+  "season": 2,
+  "episode": 23,
+  "episode_title": "Episode 23",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/ilOKsGRHYc78R2tSMusAd3xGJWq.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/jqSR7r5qT53YVoUKdHw3vkAI0jn.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/jqSR7r5qT53YVoUKdHw3vkAI0jn.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/JEdToGbS2THU/"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/ef0eff6088e2ed94f6caf720239f40d5"
+    }
+  ]
+}

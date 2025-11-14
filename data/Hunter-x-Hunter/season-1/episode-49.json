@@ -1,0 +1,37 @@
+{
+  "series": "Hunter x Hunter",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/ucpgmUR1h5Te1BYegKItoPjOeF7.jpg",
+  "season": 1,
+  "episode": 49,
+  "episode_title": "Episode 49",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/ucpgmUR1h5Te1BYegKItoPjOeF7.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/m06AjUYeKIoGAyb1SlSXEdaHMrT.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/m06AjUYeKIoGAyb1SlSXEdaHMrT.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/ykAC6a6sg"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/9jyz1oaxbv1w.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/keztw5c"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/w6ui0ec"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/lg71zjv"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/RWSa5ZY5Qwpv/"
+    }
+  ]
+}

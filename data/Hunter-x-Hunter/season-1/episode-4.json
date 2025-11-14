@@ -1,0 +1,29 @@
+{
+  "series": "Hunter x Hunter",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/ucpgmUR1h5Te1BYegKItoPjOeF7.jpg",
+  "season": 1,
+  "episode": 4,
+  "episode_title": "Episode 4",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/ucpgmUR1h5Te1BYegKItoPjOeF7.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/4guXoOOo3DEN4OkSdlC5Cf6EZey.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/4guXoOOo3DEN4OkSdlC5Cf6EZey.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://filelions.online/v/9ovltm4i4t6l"
+    },
+    {
+      "option": 2,
+      "real_video": "https://streamsb.net/e/csu6jbwx5vk0"
+    },
+    {
+      "option": 3,
+      "real_video": "https://filemoon.to/e/nbml34xbq1ph/_Toonhub4u__Hunter___Hunter__2011__Season_1_Episode_4_in_Multi_Audio_480p"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/6hPDoSzU55EP/"
+    }
+  ]
+}

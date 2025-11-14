@@ -1,0 +1,37 @@
+{
+  "series": "Reign of the Seven Spellblades",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/kqjLHtt539Sm6aasMvlJ7tuBr4i.jpg",
+  "season": 1,
+  "episode": 2,
+  "episode_title": "Episode 2",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/kqjLHtt539Sm6aasMvlJ7tuBr4i.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/dLSssuOw0nDXn3ccdCgg62YQFdK.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/dLSssuOw0nDXn3ccdCgg62YQFdK.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/wr1SnpiDCueH/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/W1iEBxxrb"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/zftagwc"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/qpr9ko9"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/efztqr2"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/f1903f234d3ba4da38a18aa25751457d"
+    }
+  ]
+}

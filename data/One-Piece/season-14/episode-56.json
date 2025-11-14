@@ -1,0 +1,25 @@
+{
+  "series": "One Piece",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/dum1wnm6kJOUos0XJqjB8s2UWi9.jpg",
+  "season": 14,
+  "episode": 56,
+  "episode_title": "Episode 56",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/dum1wnm6kJOUos0XJqjB8s2UWi9.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/oyifQ0n4LGKqaPSJ4Ieri5uTJ90.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/oyifQ0n4LGKqaPSJ4Ieri5uTJ90.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://rubystm.com/e/a5quiyb6csb8.html"
+    },
+    {
+      "option": 2,
+      "real_video": "https://strmup.to/bcYsEkUe1kDN"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/XlBkiDCbqjtP/"
+    }
+  ]
+}

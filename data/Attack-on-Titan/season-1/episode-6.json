@@ -1,0 +1,53 @@
+{
+  "series": "Attack on Titan",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/hTP1DtLGFamjfu8WqjnuQdP1n4i.jpg",
+  "season": 1,
+  "episode": 6,
+  "episode_title": "Episode 6",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/hTP1DtLGFamjfu8WqjnuQdP1n4i.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/m7Yzfqhvv3SAwiLwI0iWtj8px9v.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/m7Yzfqhvv3SAwiLwI0iWtj8px9v.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/8FpZerxM2ekL/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/uX3LFKOhJ"
+    },
+    {
+      "option": 3,
+      "real_video": "https://rubystm.com/embed-ppx3x9k5sdpm.html"
+    },
+    {
+      "option": 4,
+      "real_video": "https://cloudy.upns.one/#hiqtz"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/gv6y8di"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/f7y174b"
+    },
+    {
+      "option": 7,
+      "real_video": "https://gdmirrorbot.nl/embed/aj9mhe5"
+    },
+    {
+      "option": 8,
+      "real_video": "https://emturbovid.com/t/676f684941547"
+    },
+    {
+      "option": 9,
+      "real_video": "https://raretoonsindia.co/ex/8wxPX4uTkPjGcco"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/2c75cf2681788adaca63aa95ae028b22"
+    }
+  ]
+}

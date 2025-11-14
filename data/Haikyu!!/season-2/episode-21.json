@@ -1,0 +1,33 @@
+{
+  "series": "Haikyu!!",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/ecQ84z2sR0XapZu435MnFuEBzD8.jpg",
+  "season": 2,
+  "episode": 21,
+  "episode_title": "Episode 21",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/ecQ84z2sR0XapZu435MnFuEBzD8.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/sSaU2gFQwX4m6MJB9bgnytU3tos.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/sSaU2gFQwX4m6MJB9bgnytU3tos.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/6bkICT7Sy3"
+    },
+    {
+      "option": 2,
+      "real_video": "https://vidmoly.net/embed-nc7oijiifgp6.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://vidstreaming.xyz/v/5NHoYIKrx4i7/"
+    },
+    {
+      "option": 4,
+      "real_video": "https://short.icu/Q2JNKE8yc"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/bDMnKFvV4Leg/"
+    }
+  ]
+}

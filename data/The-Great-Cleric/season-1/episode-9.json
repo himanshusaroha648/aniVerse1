@@ -1,0 +1,53 @@
+{
+  "series": "The Great Cleric",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/zkzYTYdhaNqRaGyKsBunt3y5vs0.jpg",
+  "season": 1,
+  "episode": 9,
+  "episode_title": "Episode 9",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/zkzYTYdhaNqRaGyKsBunt3y5vs0.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/tSjTaGp2rk5XlX1WvMKBFuXU1Vx.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/tSjTaGp2rk5XlX1WvMKBFuXU1Vx.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/iNng_q-Op"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/9zdt5e91adr0.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#6swd5v"
+    },
+    {
+      "option": 4,
+      "real_video": "https://strmup.to/Umbal2V0EkhHD"
+    },
+    {
+      "option": 5,
+      "real_video": "https://turbovidhls.com/t/68bf19f5a52c0"
+    },
+    {
+      "option": 6,
+      "real_video": "https://vidmoly.net/embed-4w1h8ufpppcj.html"
+    },
+    {
+      "option": 7,
+      "real_video": "https://gdmirrorbot.nl/embed/zshuyew"
+    },
+    {
+      "option": 8,
+      "real_video": "https://gdmirrorbot.nl/embed/ymig2fq"
+    },
+    {
+      "option": 9,
+      "real_video": "https://gdmirrorbot.nl/embed/qrfuyhv"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/9f2b49181d2539e79439f4c6a6716836"
+    }
+  ]
+}

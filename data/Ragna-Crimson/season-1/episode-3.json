@@ -1,0 +1,33 @@
+{
+  "series": "Ragna Crimson",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/oGmNWwV3wgp1DZXTOLSAYZZgh3X.jpg",
+  "season": 1,
+  "episode": 3,
+  "episode_title": "Episode 3",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/oGmNWwV3wgp1DZXTOLSAYZZgh3X.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/c7ZRPxZQ784DHa88MXKMK6thQZM.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/c7ZRPxZQ784DHa88MXKMK6thQZM.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidcloud.upns.ink/#poq6ra"
+    },
+    {
+      "option": 2,
+      "real_video": "https://turbovidhls.com/t/69100bb00ff8e"
+    },
+    {
+      "option": 3,
+      "real_video": "https://vidmoly.net/embed-mrsv0qiqugic.html"
+    },
+    {
+      "option": 4,
+      "real_video": "https://play.zephyrflick.top/video/eecd4fe60bb446cb4d122bf2f14191f8"
+    },
+    {
+      "option": null,
+      "real_video": "https://short.icu/8NUZNXgLCN"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "series": "Ben 10: Omniverse",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/Re9I5tauOspaJxYCIqRqavKT4F.jpg",
+  "season": 2,
+  "episode": 8,
+  "episode_title": "Episode 8",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/Re9I5tauOspaJxYCIqRqavKT4F.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/tRjiH3xd2zvsGJMDjL6yYhPj8IQ.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/tRjiH3xd2zvsGJMDjL6yYhPj8IQ.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/rBI_NCGN9"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/zzjnhkmzr4k9.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#melb5a"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/1Brgu9ukd650/"
+    }
+  ]
+}

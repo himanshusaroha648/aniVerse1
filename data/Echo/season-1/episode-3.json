@@ -1,0 +1,25 @@
+{
+  "series": "Echo",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/vFyJH630cF68LohVYjQW49074Sy.jpg",
+  "season": 1,
+  "episode": 3,
+  "episode_title": "Episode 3",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/vFyJH630cF68LohVYjQW49074Sy.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/qKGQs1FVGxzzAxsW9aScdmor1t7.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/qKGQs1FVGxzzAxsW9aScdmor1t7.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://rubystm.com/e/5i4l602swsz5.html"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/tscvktt"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/cwMUn0ReTBbc/"
+    }
+  ]
+}

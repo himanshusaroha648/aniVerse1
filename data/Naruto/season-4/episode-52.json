@@ -1,0 +1,53 @@
+{
+  "series": "Naruto",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/vauCEnR7CiyBDzRCeElKkCaXIYu.jpg",
+  "season": 4,
+  "episode": 52,
+  "episode_title": "Episode 52",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/vauCEnR7CiyBDzRCeElKkCaXIYu.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/6Wla1YK3UkzReV03qHvn2L78q8N.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/6Wla1YK3UkzReV03qHvn2L78q8N.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/eWXeQAVpY"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/hij4zy6"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/dw8jifg"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/z7x9mw4"
+    },
+    {
+      "option": 5,
+      "real_video": "https://rubystm.com/e/h4xejfdasvh5.html"
+    },
+    {
+      "option": 6,
+      "real_video": "https://cloudy.upns.one/#ghxnka"
+    },
+    {
+      "option": 7,
+      "real_video": "https://strmup.to/pNQVI7AqCYWGJ"
+    },
+    {
+      "option": 8,
+      "real_video": "https://emturbovid.com/t/68e2aadbb4f0b"
+    },
+    {
+      "option": 9,
+      "real_video": "https://vidmoly.net/embed-v1ola1dhd695.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/941e1aaaba585b952b62c14a3a175a61"
+    }
+  ]
+}

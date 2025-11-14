@@ -1,0 +1,25 @@
+{
+  "series": "One Piece",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/dum1wnm6kJOUos0XJqjB8s2UWi9.jpg",
+  "season": 15,
+  "episode": 8,
+  "episode_title": "Episode 8",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/dum1wnm6kJOUos0XJqjB8s2UWi9.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/qGKca4w4jEa1LImTuuVXD10JmmT.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/qGKca4w4jEa1LImTuuVXD10JmmT.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://rubystm.com/e/y7r7khjpndmg.html"
+    },
+    {
+      "option": 2,
+      "real_video": "https://strmup.to/VWEr1xTwx5Bl"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/bFOWFnbaX1aB/"
+    }
+  ]
+}

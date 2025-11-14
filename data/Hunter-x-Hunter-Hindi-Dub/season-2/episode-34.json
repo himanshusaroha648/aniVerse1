@@ -1,0 +1,53 @@
+{
+  "series": "Hunter x Hunter Hindi Dub",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/9dubj2UQ2xJkzT1AEng6DaGRvLa.jpg",
+  "season": 2,
+  "episode": 34,
+  "episode_title": "Episode 34",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/9dubj2UQ2xJkzT1AEng6DaGRvLa.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/4m3ynMxxe5sxDauIF1grM0VgrLk.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/4m3ynMxxe5sxDauIF1grM0VgrLk.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/1G4Sb_urv"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/9t5l22c29b45.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#oqnpiw"
+    },
+    {
+      "option": 4,
+      "real_video": "https://strmup.to/CuaPjFkQWpv2J"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/oocxkta"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/zzasw6e"
+    },
+    {
+      "option": 7,
+      "real_video": "https://gdmirrorbot.nl/embed/i1mcbgm"
+    },
+    {
+      "option": 8,
+      "real_video": "https://emturbovid.com/t/68f110bf53e2a"
+    },
+    {
+      "option": 9,
+      "real_video": "https://vidmoly.net/embed-9nez6f7657ab.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/22fbcf3708d8f7c3ab8c89b7fa8ffcd9"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "title": "Scoob!",
+  "description": "Watch Scoob! online for free in HD on ToonStream. Available in Hindi, Tamil, Telugu & More dubbed versions. Stream or Download now! Scoob - In",
+  "release_year": 2020,
+  "genres": [
+    "Animation",
+    "Comedy",
+    "Family",
+    "Mystery"
+  ],
+  "thumbnail": "https://image.tmdb.org/t/p/w185/jHo2M1OiH9Re33jYtUQdfzPeUkx.jpg",
+  "movie_poster": "https://image.tmdb.org/t/p/w185/jHo2M1OiH9Re33jYtUQdfzPeUkx.jpg",
+  "tmdb_id": null,
+  "tvdb_id": null,
+  "languages": [],
+  "url": "https://toonstream.love/movies/scoob/",
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/qzqrll6gEkFa/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://streamsb.net/e/9xon6dl2jhmg.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://filemoon.to/e/b8vw1p0l384j/_Toonhub4u__Scoob!__40_2020_41__in__Hindi-English__480p.mp4"
+    }
+  ]
+}

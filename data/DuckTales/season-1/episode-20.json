@@ -1,0 +1,17 @@
+{
+  "series": "DuckTales",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/muplnM90daPCQ5Bn1olcwN1EO22.jpg",
+  "season": 1,
+  "episode": 20,
+  "episode_title": "Episode 20",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/muplnM90daPCQ5Bn1olcwN1EO22.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/vSFR6ICQVqEWaDR0bCRQ4WJP9V9.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/vSFR6ICQVqEWaDR0bCRQ4WJP9V9.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/d5pw0o0PgRMo/"
+    }
+  ]
+}

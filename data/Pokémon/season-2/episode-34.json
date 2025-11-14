@@ -1,0 +1,17 @@
+{
+  "series": "Pokémon",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/rOuGm07PxBhEsK9TaGPRQVJQm1X.jpg",
+  "season": 2,
+  "episode": 34,
+  "episode_title": "Episode 34",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/rOuGm07PxBhEsK9TaGPRQVJQm1X.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/kx3nPP6uM3O1bbhBByjnKizePHx.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/kx3nPP6uM3O1bbhBByjnKizePHx.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/aC4BgDmV1W8D/"
+    }
+  ]
+}

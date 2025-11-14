@@ -1,0 +1,33 @@
+{
+  "series": "Shikimori's Not Just a Cutie",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/i6WK5JY3ziYdCARgG2l1ragQ5fI.jpg",
+  "season": 1,
+  "episode": 5,
+  "episode_title": "Episode 5",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/i6WK5JY3ziYdCARgG2l1ragQ5fI.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/8sOhru1AWRZNGJDpRYpxKMdCGQs.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/8sOhru1AWRZNGJDpRYpxKMdCGQs.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/hTpLjhVNQ"
+    },
+    {
+      "option": 2,
+      "real_video": "https://vidstreaming.xyz/v/YJ3P9DtY0DuF/"
+    },
+    {
+      "option": 3,
+      "real_video": "https://short.icu/keqf_wgGb"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/n6vfyah"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/U2nWd3Km7J9p/"
+    }
+  ]
+}

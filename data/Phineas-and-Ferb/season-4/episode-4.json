@@ -1,0 +1,25 @@
+{
+  "series": "Phineas and Ferb",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/oSLwJMOOQGAsyJNMi4Y3MO44iAJ.jpg",
+  "season": 4,
+  "episode": 4,
+  "episode_title": "Episode 4",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/oSLwJMOOQGAsyJNMi4Y3MO44iAJ.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/8sC0B3l0z7ZqkN5idTADXI5AqO5.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/8sC0B3l0z7ZqkN5idTADXI5AqO5.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/01qRgbAwe2ay/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/RISx0H-2h"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/46fc943ecd56441056a560ba37d0b9e8"
+    }
+  ]
+}

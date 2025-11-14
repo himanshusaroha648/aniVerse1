@@ -1,0 +1,41 @@
+{
+  "series": "Mission: Yozakura Family (Eng-Jap)",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/dTtXbR0DenriganfBidZxFLk4Xx.jpg",
+  "season": 1,
+  "episode": 7,
+  "episode_title": "Episode 7",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/dTtXbR0DenriganfBidZxFLk4Xx.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/vBdb0vVmRysU0phEBXQz3bMvZZe.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/vBdb0vVmRysU0phEBXQz3bMvZZe.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://rubystm.com/e/fchieepogwo3.html"
+    },
+    {
+      "option": 2,
+      "real_video": "https://strmup.to//rsznFHaYpSv2j"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/druxzzt"
+    },
+    {
+      "option": 4,
+      "real_video": "https://turbovidhls.com/t/68a6b4b05a388"
+    },
+    {
+      "option": 5,
+      "real_video": "https://vidmoly.net/embed-ul8yp83iye1m.html"
+    },
+    {
+      "option": 6,
+      "real_video": "https://cloudy.upns.one/#ojxasf"
+    },
+    {
+      "option": null,
+      "real_video": "https://short.icu/cqTllYliQ"
+    }
+  ]
+}

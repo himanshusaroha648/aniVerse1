@@ -1,0 +1,25 @@
+{
+  "series": "Dead End: Paranormal Park",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/iB9h1cBIFFjnufhZF4lNGQmt3c5.jpg",
+  "season": 1,
+  "episode": 3,
+  "episode_title": "Episode 3",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/iB9h1cBIFFjnufhZF4lNGQmt3c5.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/b7rFR1CtdA5p3h8vKKqTuvBIFBA.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/b7rFR1CtdA5p3h8vKKqTuvBIFBA.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://watchsb.com/e/9y6jrz3am3xm.html"
+    },
+    {
+      "option": 2,
+      "real_video": "https://filepress.online/video/63521e19ed4688cf2f3a8cf8"
+    },
+    {
+      "option": null,
+      "real_video": "https://filemoon.to/e/uut8mvtxpke9/_Toonhub4u__Dead_End__Paranormal_Park_S01_E03_Dual_Audio_720p_HD.mp4"
+    }
+  ]
+}

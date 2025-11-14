@@ -1,0 +1,25 @@
+{
+  "series": "One Piece",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/dum1wnm6kJOUos0XJqjB8s2UWi9.jpg",
+  "season": 9,
+  "episode": 20,
+  "episode_title": "Episode 20",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/dum1wnm6kJOUos0XJqjB8s2UWi9.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/8gFga1nFH6ydry3tRAwexd9tf0e.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/8gFga1nFH6ydry3tRAwexd9tf0e.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://rubystm.com/e/jzfkpayfh064.html"
+    },
+    {
+      "option": 2,
+      "real_video": "https://strmup.to/7n1GXyAIQgX"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/vSdiepRBpr1N/"
+    }
+  ]
+}

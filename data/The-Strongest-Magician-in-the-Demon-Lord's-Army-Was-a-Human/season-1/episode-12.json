@@ -1,0 +1,41 @@
+{
+  "series": "The Strongest Magician in the Demon Lord's Army Was a Human",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/kCOho8tk5Gz0LB9hACQ8uDs1dTg.jpg",
+  "season": 1,
+  "episode": 12,
+  "episode_title": "Episode 12",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/kCOho8tk5Gz0LB9hACQ8uDs1dTg.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/wYVsvynK7DFXC5ksMLuom5GWn6I.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/wYVsvynK7DFXC5ksMLuom5GWn6I.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/Ma3y6fqw98QO/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/-_jMT86VV"
+    },
+    {
+      "option": 3,
+      "real_video": "https://rubystm.com/e/ikooqe2vccgu.html"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/fypo68f"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/d8d96uc"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/hif4jlh"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/0d73a25092e5c1c9769a9f3255caa65a"
+    }
+  ]
+}

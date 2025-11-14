@@ -1,0 +1,57 @@
+{
+  "series": "Baki Hanma",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/rRprMmPmeAWowqplv3k0v6glxqS.jpg",
+  "season": 2,
+  "episode": 15,
+  "episode_title": "Episode 15",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/rRprMmPmeAWowqplv3k0v6glxqS.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/4fGluGKn5qvzJJBKQhnpZioo8pa.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/4fGluGKn5qvzJJBKQhnpZioo8pa.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://rubystm.com/e/9z0hrsgvb584.html"
+    },
+    {
+      "option": 2,
+      "real_video": "https://cloudy.upns.one/#xiois9"
+    },
+    {
+      "option": 3,
+      "real_video": "https://strmup.to/YUJgGfk6T1KX3"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/sg7rjs1"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/dej6rfy"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/jsdotoi"
+    },
+    {
+      "option": 7,
+      "real_video": "https://emturbovid.com/t/687a2c7c3b5fa"
+    },
+    {
+      "option": 8,
+      "real_video": "https://vidmoly.net/embed-jrn8ojrqcspe.html"
+    },
+    {
+      "option": 9,
+      "real_video": "https://play.zephyrflick.top/video/1f30c0ce8636ff2c424549971dcab5d8"
+    },
+    {
+      "option": 10,
+      "real_video": "https://blakiteapi.xyz/embed/129600/2-15"
+    },
+    {
+      "option": null,
+      "real_video": "https://short.icu/q96C9ljZh"
+    }
+  ]
+}

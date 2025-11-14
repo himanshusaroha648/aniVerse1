@@ -1,0 +1,25 @@
+{
+  "series": "The Girl Downstairs Eng Sub",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/8uO9UNjikqQU1BsFrodVVGVvzpe.jpg",
+  "season": 1,
+  "episode": 14,
+  "episode_title": "Episode 14",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/8uO9UNjikqQU1BsFrodVVGVvzpe.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/sMLt9kt50a7FcekcHPqoRevoViH.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/sMLt9kt50a7FcekcHPqoRevoViH.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/deI2Sm4ma5"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/qh2rmpu"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/vG6enlgVlJwz/"
+    }
+  ]
+}

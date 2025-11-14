@@ -1,0 +1,17 @@
+{
+  "series": "Sonic Prime",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/1Hie7gCDsvt7wtPRuUAk4ZzaoQa.jpg",
+  "season": 1,
+  "episode": 6,
+  "episode_title": "Episode 6",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/1Hie7gCDsvt7wtPRuUAk4ZzaoQa.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/9jkQKujUHTnv5VKI9iFiv71pOmw.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/9jkQKujUHTnv5VKI9iFiv71pOmw.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/0cc24cb7c26586310cc95c8cb1a81cbc"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "series": "Demon Slayer: Kimetsu no Yaiba",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/ctR9Kv2MNhuIjgb96wARbT1BNts.jpg",
+  "season": 3,
+  "episode": 9,
+  "episode_title": "Episode 9",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/ctR9Kv2MNhuIjgb96wARbT1BNts.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/6EgVImJC0fn0jshgw12NHRf5Rzd.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/6EgVImJC0fn0jshgw12NHRf5Rzd.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/tUqdKPuLM"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/god7vr1fv657.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://blakiteapi.xyz/embed/85937/3-9"
+    },
+    {
+      "option": 4,
+      "real_video": "https://cloudy.upns.one/#9dagxg"
+    },
+    {
+      "option": 5,
+      "real_video": "https://strmup.to/XYhqP0VpzCL5j"
+    },
+    {
+      "option": 6,
+      "real_video": "https://emturbovid.com/t/688f09ee31df3"
+    },
+    {
+      "option": 7,
+      "real_video": "https://vidmoly.net/embed-6vih8eicgc0d.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/9dcb88e0137649590b755372b040afad"
+    }
+  ]
+}

@@ -1,0 +1,208 @@
+{
+    "series": [
+      {
+        "id": "campfire-cooking",
+        "slug": "campfire-cooking",
+        "title": "Campfire Cooking in Another World",
+        "poster": "/placeholder.jpg",
+        "year": 2023,
+        "status": "Airing",
+        "totalEpisodes": 24,
+        "synopsis": "Mukouda meets ancient beasts, contracts familiar spirits, and finds joy in culinary quests. This sample description stands in for data provided by your content pipeline.",
+        "genres": ["Adventure", "Fantasy", "Gourmet"],
+        "episodes": [
+          {
+            "id": "ep1",
+            "number": 1,
+            "title": "Summoned with Spices",
+            "duration": "23m",
+            "releaseDate": "Jan 4, 2023",
+            "thumbnail": "/placeholder.jpg",
+            "description": "Our hero discovers pantry powers and the joy of camp cooking."
+          },
+          {
+            "id": "ep2",
+            "number": 2,
+            "title": "Bond of Familiars",
+            "duration": "24m",
+            "releaseDate": "Jan 11, 2023",
+            "thumbnail": "/placeholder.jpg",
+            "description": "New familiar Fel devours everything in sight."
+          },
+          {
+            "id": "ep3",
+            "number": 3,
+            "title": "Forest Feast",
+            "duration": "24m",
+            "releaseDate": "Jan 18, 2023",
+            "thumbnail": "/placeholder.jpg",
+            "description": "Recipe experiments with forest herbs ignite tastebuds."
+          },
+          {
+            "id": "ep4",
+            "number": 4,
+            "title": "Frozen Market",
+            "duration": "23m",
+            "releaseDate": "Jan 25, 2023",
+            "thumbnail": "/placeholder.jpg",
+            "description": "Arctic ingredients shape a hearty stew challenge."
+          },
+          {
+            "id": "ep5",
+            "number": 5,
+            "title": "Festival of Flames",
+            "duration": "24m",
+            "releaseDate": "Feb 1, 2023",
+            "thumbnail": "/placeholder.jpg",
+            "description": "Street vendors and spice blends celebrate a fiery festival."
+          }
+        ]
+      },
+      {
+        "id": "hunter-x-hunter-hindi",
+        "slug": "hunter-x-hunter-hindi",
+        "title": "Hunter x Hunter (Hindi Dub)",
+        "poster": "/placeholder.jpg",
+        "year": 2011,
+        "status": "Completed",
+        "totalEpisodes": 148,
+        "synopsis": "Gon Freecss sets out to become a Hunter and reunite with his father. Sample data to demonstrate metadata rendering.",
+        "genres": ["Action", "Adventure", "Shounen"],
+        "episodes": [
+          {
+            "id": "ep120",
+            "number": 120,
+            "title": "Deflection × And × Separation",
+            "duration": "22m",
+            "releaseDate": "Jan 8, 2014",
+            "thumbnail": "/placeholder.jpg",
+            "description": "The assault on Meruem continues with strategies unfolding."
+          },
+          {
+            "id": "ep121",
+            "number": 121,
+            "title": "Defeat × And × Dignity",
+            "duration": "22m",
+            "releaseDate": "Jan 15, 2014",
+            "thumbnail": "/placeholder.jpg",
+            "description": "Royal Guards clash as sacrifice weighs heavy."
+          },
+          {
+            "id": "ep122",
+            "number": 122,
+            "title": "Pose × And × Name",
+            "duration": "22m",
+            "releaseDate": "Jan 22, 2014",
+            "thumbnail": "/placeholder.jpg",
+            "description": "Killua rushes to save Gon while Palm battles despair."
+          },
+          {
+            "id": "ep123",
+            "number": 123,
+            "title": "Centipede × And × Memory",
+            "duration": "22m",
+            "releaseDate": "Jan 29, 2014",
+            "thumbnail": "/placeholder.jpg",
+            "description": "Ikalgo faces moral conflicts and infiltrates enemy lines."
+          },
+          {
+            "id": "ep124",
+            "number": 124,
+            "title": "Breakdown × And × Awakening",
+            "duration": "22m",
+            "releaseDate": "Feb 5, 2014",
+            "thumbnail": "/placeholder.jpg",
+            "description": "Gon's rage erupts in a pivotal confrontation."
+          }
+        ]
+      },
+      {
+        "id": "food-wars",
+        "slug": "food-wars",
+        "title": "Food Wars! Shokugeki no Soma",
+        "poster": "/placeholder.jpg",
+        "year": 2015,
+        "status": "Completed",
+        "totalEpisodes": 86,
+        "synopsis": "Sōma Yukihira enrolls at an elite culinary academy. This sample dataset powers the UI without a live API.",
+        "genres": ["Comedy", "Culinary", "School"],
+        "episodes": [
+          {
+            "id": "ep17",
+            "number": 17,
+            "title": "Spice of Discovery",
+            "duration": "24m",
+            "releaseDate": "Aug 1, 2015",
+            "thumbnail": "/placeholder.jpg",
+            "description": "Arena battles heat up with creative spice pairings."
+          },
+          {
+            "id": "ep18",
+            "number": 18,
+            "title": "Roast of Resolve",
+            "duration": "24m",
+            "releaseDate": "Aug 8, 2015",
+            "thumbnail": "/placeholder.jpg",
+            "description": "Sōma challenges expectations in a meat showdown."
+          },
+          {
+            "id": "ep19",
+            "number": 19,
+            "title": "Soup of Survival",
+            "duration": "24m",
+            "releaseDate": "Aug 15, 2015",
+            "thumbnail": "/placeholder.jpg",
+            "description": "Regional dishes collide in a simmering contest."
+          },
+          {
+            "id": "ep20",
+            "number": 20,
+            "title": "Harmony of Foie Gras",
+            "duration": "24m",
+            "releaseDate": "Aug 22, 2015",
+            "thumbnail": "/placeholder.jpg",
+            "description": "Classic French cuisine meets daring experimentation."
+          },
+          {
+            "id": "ep21",
+            "number": 21,
+            "title": "Final Flame",
+            "duration": "24m",
+            "releaseDate": "Aug 29, 2015",
+            "thumbnail": "/placeholder.jpg",
+            "description": "Shokugeki stakes rise with academy reputation on the line."
+          }
+        ]
+      }
+    ],
+    "trending": [
+      {
+        "id": "tr-1",
+        "title": "Wind Breaker",
+        "category": "Action",
+        "rank": "#1",
+        "viewers": 2380000
+      },
+      {
+        "id": "tr-2",
+        "title": "Solo Leveling",
+        "category": "Fantasy",
+        "rank": "#2",
+        "viewers": 1980000
+      },
+      {
+        "id": "tr-3",
+        "title": "Frieren: Beyond Journey's End",
+        "category": "Adventure",
+        "rank": "#3",
+        "viewers": 1430000
+      },
+      {
+        "id": "tr-4",
+        "title": "Spy x Family",
+        "category": "Comedy",
+        "rank": "#4",
+        "viewers": 1120000
+      }
+    ]
+  }

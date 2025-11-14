@@ -1,0 +1,61 @@
+{
+  "series": "BoBoiBoy",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/zRZ1Y90mhKXrLDYnnfJf4By8hca.jpg",
+  "season": 1,
+  "episode": 11,
+  "episode_title": "Episode 11",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/zRZ1Y90mhKXrLDYnnfJf4By8hca.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/54bhK9uJX1k27iBIQ1zYuW7tj2X.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/54bhK9uJX1k27iBIQ1zYuW7tj2X.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/QZdXnDPZn04E/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/Jo9e82qqm"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/j3ny874"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/mxkczf4"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/clmxcdn"
+    },
+    {
+      "option": 6,
+      "real_video": "https://vidstreaming.xyz/v/yIYL6A5AMFcz/"
+    },
+    {
+      "option": 7,
+      "real_video": "https://short.icu/RbpD1JHW93"
+    },
+    {
+      "option": 8,
+      "real_video": "https://gdmirrorbot.nl/embed/xax2zpx"
+    },
+    {
+      "option": 9,
+      "real_video": "https://vidstreaming.xyz/v/lG78xxJBzW7w/"
+    },
+    {
+      "option": 10,
+      "real_video": "https://short.icu/ejuBUjIdi"
+    },
+    {
+      "option": 11,
+      "real_video": "https://gdmirrorbot.nl/embed/p4n319h"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/884ce4bb65d328ecb03c598409e2b168"
+    }
+  ]
+}

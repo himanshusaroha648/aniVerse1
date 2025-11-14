@@ -1,0 +1,41 @@
+{
+  "series": "JoJo's Bizarre Adventure",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/kX9noqY0YpOPKwXpRXYg1hEIqmM.jpg",
+  "season": 2,
+  "episode": 12,
+  "episode_title": "Episode 12",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/kX9noqY0YpOPKwXpRXYg1hEIqmM.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/3QC9GTMDCFMpKAQV4YquiNffeVO.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/3QC9GTMDCFMpKAQV4YquiNffeVO.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/9oGEDBEgZF4V/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/jP0wlble4"
+    },
+    {
+      "option": 3,
+      "real_video": "https://rubystm.com/e/zhl4tj20zx9c.html"
+    },
+    {
+      "option": 4,
+      "real_video": "https://cloudy.upns.one/#djm6pc"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/vjp32c7"
+    },
+    {
+      "option": 6,
+      "real_video": "https://emturbovid.com/t/682a96f5eda1f"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/ea9416ea03a73c0167c0e4a0063d9c14"
+    }
+  ]
+}

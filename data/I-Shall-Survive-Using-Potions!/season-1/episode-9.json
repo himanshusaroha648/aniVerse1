@@ -1,0 +1,41 @@
+{
+  "series": "I Shall Survive Using Potions!",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/gQfeSDEMZ6QgqOR7cHV6y4DoKNP.jpg",
+  "season": 1,
+  "episode": 9,
+  "episode_title": "Episode 9",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/gQfeSDEMZ6QgqOR7cHV6y4DoKNP.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/3gtRxGpubzPUGW6WKD1AZilTPXb.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/3gtRxGpubzPUGW6WKD1AZilTPXb.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/vT03SSxfDDiq/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/fvh1u0sfwavt.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://short.icu/-xR7hmYaud"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/zm3uj6f"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/dj8wbjm"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/fpxddjz"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/1ecfb463472ec9115b10c292ef8bc986"
+    }
+  ]
+}

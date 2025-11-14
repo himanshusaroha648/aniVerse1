@@ -1,0 +1,33 @@
+{
+  "series": "The Kingdoms of Ruin",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/uHSFGSZFR1VH3nG5x48gImWePeL.jpg",
+  "season": 1,
+  "episode": 1,
+  "episode_title": "Episode 1",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/uHSFGSZFR1VH3nG5x48gImWePeL.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/iG2qtp6r5HFPakBAD17Kx5ysmT8.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/iG2qtp6r5HFPakBAD17Kx5ysmT8.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/hm747EhVW9s"
+    },
+    {
+      "option": 2,
+      "real_video": "https://vidmoly.net/embed-z5kuu644unwt.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://vidstreaming.xyz/v/pn3hVfkcgGdp/"
+    },
+    {
+      "option": 4,
+      "real_video": "https://short.icu/gvzZJqwzP"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/LNt5ErpgmZa5/"
+    }
+  ]
+}

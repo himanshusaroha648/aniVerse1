@@ -1,0 +1,49 @@
+{
+  "series": "BLUE LOCK Multi Audio",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/sTDTy73OYmKY51EK94Mc6AxogzR.jpg",
+  "season": 2,
+  "episode": 5,
+  "episode_title": "Episode 5",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/sTDTy73OYmKY51EK94Mc6AxogzR.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/fbRSuvxoN998M9EGCJGFjfMBFUn.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/fbRSuvxoN998M9EGCJGFjfMBFUn.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/U29jHUohgaEz/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/xYh2H1M6i"
+    },
+    {
+      "option": 3,
+      "real_video": "https://rubystm.com/e/24aktzjsiad6.html"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/qn8azkf"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/d7uap4w"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/dulyti2"
+    },
+    {
+      "option": 7,
+      "real_video": "https://emturbovid.com/t/6743a64068fa1"
+    },
+    {
+      "option": 8,
+      "real_video": "https://animedekho.net/moly.php?url=c4fjagvrem6m"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/eb160de1de89d9058fcb0b968dbbbd68"
+    }
+  ]
+}

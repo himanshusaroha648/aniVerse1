@@ -1,0 +1,41 @@
+{
+  "series": "True Beauty",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/9gpc8kIhNEG7r0VTkyI9aVBxdO3.jpg",
+  "season": 1,
+  "episode": 6,
+  "episode_title": "Episode 6",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/9gpc8kIhNEG7r0VTkyI9aVBxdO3.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/lNMt1efMPxLnOFyy0ut04szVGJW.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/lNMt1efMPxLnOFyy0ut04szVGJW.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/eYyO6uDui8tj/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/79wylxnfT"
+    },
+    {
+      "option": 3,
+      "real_video": "https://rubystm.com/e/r05mjy1qt15m.html"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/fix4gdn"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/pr8wp1n"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/en5y6qw"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/20568692db622456cc42a2e853ca21f8"
+    }
+  ]
+}

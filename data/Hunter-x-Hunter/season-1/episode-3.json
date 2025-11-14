@@ -1,0 +1,29 @@
+{
+  "series": "Hunter x Hunter",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/ucpgmUR1h5Te1BYegKItoPjOeF7.jpg",
+  "season": 1,
+  "episode": 3,
+  "episode_title": "Episode 3",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/ucpgmUR1h5Te1BYegKItoPjOeF7.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/wBvtNJypYY0Jm2nb3B9K7IAC5N2.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/wBvtNJypYY0Jm2nb3B9K7IAC5N2.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://filelions.online/v/hcfqx6rbyubo"
+    },
+    {
+      "option": 2,
+      "real_video": "https://streamsb.net/e/1njrrdgx9ddt"
+    },
+    {
+      "option": 3,
+      "real_video": "https://filemoon.to/e/b233t3t4g2sf/_Toonhub4u__Hunter___Hunter__2011__Season_1_Episode_3_in_Multi_Audio_720p"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/W160jQN6OZa3/"
+    }
+  ]
+}

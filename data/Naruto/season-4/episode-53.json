@@ -1,0 +1,53 @@
+{
+  "series": "Naruto",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/vauCEnR7CiyBDzRCeElKkCaXIYu.jpg",
+  "season": 4,
+  "episode": 53,
+  "episode_title": "Episode 53",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/vauCEnR7CiyBDzRCeElKkCaXIYu.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/lX3f7IXDoklEQK8znodJ0EIo4K2.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/lX3f7IXDoklEQK8znodJ0EIo4K2.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/Y8c_-0Uxl"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/r34azll"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/b89xwjp"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/pz4mocm"
+    },
+    {
+      "option": 5,
+      "real_video": "https://rubystm.com/e/excr6kwg2yks.html"
+    },
+    {
+      "option": 6,
+      "real_video": "https://cloudy.upns.one/#6smju1"
+    },
+    {
+      "option": 7,
+      "real_video": "https://strmup.to/kT8NEHl1ptuKa"
+    },
+    {
+      "option": 8,
+      "real_video": "https://emturbovid.com/t/68e2aaddb3287"
+    },
+    {
+      "option": 9,
+      "real_video": "https://vidmoly.net/embed-xy6b2vflv3es.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/f5f8590cd58a54e94377e6ae2eded4d9"
+    }
+  ]
+}

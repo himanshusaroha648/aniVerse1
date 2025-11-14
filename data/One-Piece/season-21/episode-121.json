@@ -1,0 +1,29 @@
+{
+  "series": "One Piece",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/dum1wnm6kJOUos0XJqjB8s2UWi9.jpg",
+  "season": 21,
+  "episode": 121,
+  "episode_title": "Episode 121",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/dum1wnm6kJOUos0XJqjB8s2UWi9.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/1rf0pkpbFZyn5yV0S9T7IN28Svd.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/1rf0pkpbFZyn5yV0S9T7IN28Svd.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/XhVML950rv2R/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/SZOyQ62Ec"
+    },
+    {
+      "option": 3,
+      "real_video": "https://rubystm.com/e/l3f6ds3phka1.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/lCcEfboFNUkR/"
+    }
+  ]
+}

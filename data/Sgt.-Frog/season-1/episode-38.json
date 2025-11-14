@@ -1,0 +1,29 @@
+{
+  "series": "Sgt. Frog",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/irBnC4N8XcVTnvKs8BqBmwyYBxC.jpg",
+  "season": 1,
+  "episode": 38,
+  "episode_title": "Episode 38",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/irBnC4N8XcVTnvKs8BqBmwyYBxC.jpg",
+  "episode_card_thumbnail": "https://toonstream.love/wp-content/themes/torofilm/public/img/cnt/noimg-episode.png",
+  "episode_list_thumbnail": "https://toonstream.love/wp-content/themes/torofilm/public/img/cnt/noimg-episode.png",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://rubystm.com/e/j1o4pchh6uqu.html"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/8pPQDm3ee"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/iyt2gpv"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/nJE0U2ccMIST/"
+    }
+  ]
+}

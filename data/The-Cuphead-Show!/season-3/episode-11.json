@@ -1,0 +1,29 @@
+{
+  "series": "The Cuphead Show!",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/l6nGUyxKCi7ODvyfc8qQShliVEd.jpg",
+  "season": 3,
+  "episode": 11,
+  "episode_title": "Episode 11",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/l6nGUyxKCi7ODvyfc8qQShliVEd.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/4dwbiPhBhw9gEHO8DsOFwbtSNw2.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/4dwbiPhBhw9gEHO8DsOFwbtSNw2.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://filemoon.to/e/wxftrve0ohd8/_Toonhub4u__The_Cuphead_Show!_Season_3_Episode_11_in__Hindi_-_Eng__HD.mp4"
+    },
+    {
+      "option": 2,
+      "real_video": "https://watchsb.com/e/w0y3izfcu112.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://filepress.lol/video/63985f4f76e47edf7a72d72e"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/fw7jrfDhbOcf/"
+    }
+  ]
+}

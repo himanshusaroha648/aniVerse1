@@ -1,0 +1,29 @@
+{
+  "series": "One Piece",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/dum1wnm6kJOUos0XJqjB8s2UWi9.jpg",
+  "season": 21,
+  "episode": 99,
+  "episode_title": "Episode 99",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/dum1wnm6kJOUos0XJqjB8s2UWi9.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/AfGpOa7JgchNLynkur5gPHL0LlY.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/AfGpOa7JgchNLynkur5gPHL0LlY.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/blgEqljT7fOA/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/mJX5ez4WY"
+    },
+    {
+      "option": 3,
+      "real_video": "https://rubystm.com/e/9o0rgtogemgt.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/PiI9i7T54JZh/"
+    }
+  ]
+}

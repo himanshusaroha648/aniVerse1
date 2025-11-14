@@ -1,0 +1,41 @@
+{
+  "series": "Sword Art Online Alternative: Gun Gale Online",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/mkFSXuWzPemM1Ok0sBHl0SAsFbX.jpg",
+  "season": 1,
+  "episode": 7,
+  "episode_title": "Episode 7",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/mkFSXuWzPemM1Ok0sBHl0SAsFbX.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/y710YXjyoVzah3Lk78u2TQCdjuq.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/y710YXjyoVzah3Lk78u2TQCdjuq.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/bm6rMoDpED7y/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/onE0y2Svb"
+    },
+    {
+      "option": 3,
+      "real_video": "https://rubystm.com/e/1v05bslp59k7.html"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/z78jvug"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/n0ipqcs"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/g6hqvc5"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/da0d1111d2dc5d489242e60ebcbaf988"
+    }
+  ]
+}

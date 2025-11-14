@@ -1,0 +1,25 @@
+{
+  "series": "One Piece",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/dum1wnm6kJOUos0XJqjB8s2UWi9.jpg",
+  "season": 7,
+  "episode": 19,
+  "episode_title": "Episode 19",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/dum1wnm6kJOUos0XJqjB8s2UWi9.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/hbw0OqqQM531Z3VyhT1ml8ryEjo.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/hbw0OqqQM531Z3VyhT1ml8ryEjo.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://rubystm.com/e/rvioloqbbljo.html"
+    },
+    {
+      "option": 2,
+      "real_video": "https://strmup.to/mBUNpSR8cIwJ"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/fxCRWUESMN61/"
+    }
+  ]
+}

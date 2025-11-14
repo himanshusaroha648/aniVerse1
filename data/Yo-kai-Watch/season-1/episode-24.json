@@ -1,0 +1,33 @@
+{
+  "series": "Yo-kai Watch",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/k8EM9rl22UAGtR2YUHNHsnMWggn.jpg",
+  "season": 1,
+  "episode": 24,
+  "episode_title": "Episode 24",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/k8EM9rl22UAGtR2YUHNHsnMWggn.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/y41ckSDsG3IxKQjLcn6ESpnT7Q5.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/y41ckSDsG3IxKQjLcn6ESpnT7Q5.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/oTRxENMbO"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/mftshzr"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/yrw8ld4"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/fu6s2hv"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/TzWu8ai3qhfK/"
+    }
+  ]
+}

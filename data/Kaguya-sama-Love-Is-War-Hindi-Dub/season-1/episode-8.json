@@ -1,0 +1,49 @@
+{
+  "series": "Kaguya-sama: Love Is War Hindi Dub",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/5khbC6AuNgnvnoDbjIMKCOhEtIc.jpg",
+  "season": 1,
+  "episode": 8,
+  "episode_title": "Episode 8",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/5khbC6AuNgnvnoDbjIMKCOhEtIc.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/mcLkDQq4Kvn6tMoDIPwv10RpuHd.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/mcLkDQq4Kvn6tMoDIPwv10RpuHd.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/crJQUN1kUyaf/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/YOU7Z0DDU"
+    },
+    {
+      "option": 3,
+      "real_video": "https://rubystm.com/e/tpm897ed4jwv.html"
+    },
+    {
+      "option": 4,
+      "real_video": "https://cloudy.upns.one/#vz9c3k"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/q8sauhw"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/sck1cax"
+    },
+    {
+      "option": 7,
+      "real_video": "https://gdmirrorbot.nl/embed/d0cbr46"
+    },
+    {
+      "option": 8,
+      "real_video": "https://emturbovid.com/t/681b2475c3e09"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/ff7cc29289db44861ce4b3e5e56fe234"
+    }
+  ]
+}

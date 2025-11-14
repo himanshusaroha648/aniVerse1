@@ -1,0 +1,33 @@
+{
+  "series": "Mechamato The Animated Series",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/1rkM4tLoNKC33sLVyAWgogZGo3B.jpg",
+  "season": 2,
+  "episode": 3,
+  "episode_title": "Episode 3",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/1rkM4tLoNKC33sLVyAWgogZGo3B.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/eVmtq9xqgMFoLttufPuneTXdJfE.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/eVmtq9xqgMFoLttufPuneTXdJfE.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/iSdfM5Tk7"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/lwiey65"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/m0cyncf"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/zf54our"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/hO7ZtW4ttznt/"
+    }
+  ]
+}

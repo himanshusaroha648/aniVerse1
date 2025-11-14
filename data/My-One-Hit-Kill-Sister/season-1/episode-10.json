@@ -1,0 +1,29 @@
+{
+  "series": "My One-Hit Kill Sister",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/hQEgYVrTUxV0yXqLxdwdXIaofGt.jpg",
+  "season": 1,
+  "episode": 10,
+  "episode_title": "Episode 10",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/hQEgYVrTUxV0yXqLxdwdXIaofGt.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/6tCca2Lws4ZzjikCkwPTkWw4GTb.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/6tCca2Lws4ZzjikCkwPTkWw4GTb.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/VvuV85adhibU/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://filelions.online/v/0hm54qvb3b24"
+    },
+    {
+      "option": 3,
+      "real_video": "https://filemoon.to/e/ubumkz9ch8bx/_Toonhub4u__My_One_Hit_Kill_Sister_Season_1_Episode_10_in_Hindi_mp4"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/6f8805c87ad80ed936bcd5ce4bebe65d"
+    }
+  ]
+}

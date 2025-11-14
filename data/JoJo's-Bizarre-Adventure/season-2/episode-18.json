@@ -1,0 +1,37 @@
+{
+  "series": "JoJo's Bizarre Adventure",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/kX9noqY0YpOPKwXpRXYg1hEIqmM.jpg",
+  "season": 2,
+  "episode": 18,
+  "episode_title": "Episode 18",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/kX9noqY0YpOPKwXpRXYg1hEIqmM.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/aENpJDDr3ushwPog85QES5yrgRP.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/aENpJDDr3ushwPog85QES5yrgRP.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/TbbxLEUZbBT5/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/VWDyPpGU0"
+    },
+    {
+      "option": 3,
+      "real_video": "https://rubystm.com/e/j8g1ijflmcm1.html"
+    },
+    {
+      "option": 4,
+      "real_video": "https://cloudy.upns.one/#epaga8"
+    },
+    {
+      "option": 5,
+      "real_video": "https://emturbovid.com/t/6832234d41c86"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/22dabd20ca39458b881ee5a1a2404281"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "series": "The Dreaming Boy Is a Realist",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/85EoiGOOG58oP9HlvxiWjvgkMNR.jpg",
+  "season": 1,
+  "episode": 6,
+  "episode_title": "Episode 6",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/85EoiGOOG58oP9HlvxiWjvgkMNR.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/8UgxyqhKPRC6WkGR4dZqJGmZ7mV.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/8UgxyqhKPRC6WkGR4dZqJGmZ7mV.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://rubystm.com/e/pxjam50ryxy9.html"
+    },
+    {
+      "option": 2,
+      "real_video": "https://cloudy.upns.one/#6sreps"
+    },
+    {
+      "option": null,
+      "real_video": "https://short.icu/LbWXJgv2t"
+    }
+  ]
+}

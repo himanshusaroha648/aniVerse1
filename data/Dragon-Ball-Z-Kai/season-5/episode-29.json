@@ -1,0 +1,41 @@
+{
+  "series": "Dragon Ball Z Kai",
+  "thumbnail": "https://i.imgur.com/zZzbUql.jpg",
+  "season": 5,
+  "episode": 29,
+  "episode_title": "Episode 29",
+  "episode_main_poster": "https://i.imgur.com/zZzbUql.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/6n0Jmdrlr1sWplmjsw87zcHnJU.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/6n0Jmdrlr1sWplmjsw87zcHnJU.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/SOp21MLuq"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/5d66hjclt8mx.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#metvyc"
+    },
+    {
+      "option": 4,
+      "real_video": "https://strmup.to/4coapXvdGgfMB"
+    },
+    {
+      "option": 5,
+      "real_video": "https://turbovidhls.com/t/68b335fc6ba57"
+    },
+    {
+      "option": 6,
+      "real_video": "https://vidmoly.net/embed-f1940or2lige.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/9824f9c1543628a85bb51d2dd6fcf8a3"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "series": "Dragon Ball Super",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/qEUrbXJ2qt4Rg84Btlx4STOhgte.jpg",
+  "season": 1,
+  "episode": 72,
+  "episode_title": "Episode 72",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/qEUrbXJ2qt4Rg84Btlx4STOhgte.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/iDikUuFkBFNNPiqkGsiTHxRlORz.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/iDikUuFkBFNNPiqkGsiTHxRlORz.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/HHlUv_tia"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/ou1t77ojo0g1.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#ungdwe"
+    },
+    {
+      "option": 4,
+      "real_video": "https://strmup.to/gD74l8SZeC0MX"
+    },
+    {
+      "option": 5,
+      "real_video": "https://turbovidhls.com/t/68b692065b03b"
+    },
+    {
+      "option": 6,
+      "real_video": "https://vidmoly.net/embed-cibtp3xno376.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/0d98b597aa732aea606bde680c3b57d8"
+    }
+  ]
+}

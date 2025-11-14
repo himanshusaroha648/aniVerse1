@@ -1,0 +1,25 @@
+{
+  "series": "Hunter x Hunter",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/ucpgmUR1h5Te1BYegKItoPjOeF7.jpg",
+  "season": 1,
+  "episode": 25,
+  "episode_title": "Episode 25",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/ucpgmUR1h5Te1BYegKItoPjOeF7.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/yk0Mv0GuGVjyPF9dvHOY5feL5bo.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/yk0Mv0GuGVjyPF9dvHOY5feL5bo.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://filelions.online/v/w0g988csbbfo"
+    },
+    {
+      "option": 2,
+      "real_video": "https://filemoon.to/e/5o5otq1g1cv6/_Toonhub4u__Hunter__C3__Hunter_S01E25__480p_BD_Multi_Audio__ESub"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/ovES1qzQMSB5/"
+    }
+  ]
+}

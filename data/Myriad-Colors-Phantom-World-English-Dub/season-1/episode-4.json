@@ -1,0 +1,25 @@
+{
+  "series": "Myriad Colors Phantom World English Dub",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/3ky8gx87AIsrx54AN7k6eolPHK2.jpg",
+  "season": 1,
+  "episode": 4,
+  "episode_title": "Episode 4",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/3ky8gx87AIsrx54AN7k6eolPHK2.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/gloxvyHWfEbZwdBa6pTIDs4mLpA.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/gloxvyHWfEbZwdBa6pTIDs4mLpA.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/6vWmaIVdf"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/e086a1g"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/E02D9JyyBLEf/"
+    }
+  ]
+}

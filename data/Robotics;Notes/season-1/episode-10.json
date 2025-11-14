@@ -1,0 +1,53 @@
+{
+  "series": "Robotics;Notes",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/4OPubWATWt2crtoE4Ik9Z60w2mk.jpg",
+  "season": 1,
+  "episode": 10,
+  "episode_title": "Episode 10",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/4OPubWATWt2crtoE4Ik9Z60w2mk.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/uMQeDa6MWZNEGKLlQVcqlwjvt1D.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/uMQeDa6MWZNEGKLlQVcqlwjvt1D.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/MsAb21V79"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/7upiypwfobr2.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#h9xjww"
+    },
+    {
+      "option": 4,
+      "real_video": "https://strmup.to/AuCbFa1DxkgN7"
+    },
+    {
+      "option": 5,
+      "real_video": "https://turbovidhls.com/t/68cf00f46fd7d"
+    },
+    {
+      "option": 6,
+      "real_video": "https://vidmoly.net/embed-eo2kcnep570i.html"
+    },
+    {
+      "option": 7,
+      "real_video": "https://gdmirrorbot.nl/embed/ongnchg"
+    },
+    {
+      "option": 8,
+      "real_video": "https://gdmirrorbot.nl/embed/q41chln"
+    },
+    {
+      "option": 9,
+      "real_video": "https://gdmirrorbot.nl/embed/n7rztgl"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/523f43693bfa6c607d2fe43b43ba96fd"
+    }
+  ]
+}

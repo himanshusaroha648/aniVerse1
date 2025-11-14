@@ -1,0 +1,33 @@
+{
+  "series": "Regular Show",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/mS5SLxMYcKfUxA0utBSR5MOAWWr.jpg",
+  "season": 3,
+  "episode": 39,
+  "episode_title": "Episode 39",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/mS5SLxMYcKfUxA0utBSR5MOAWWr.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/yrULrf1MJEMZkwukkpPU0PzlBg0.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/yrULrf1MJEMZkwukkpPU0PzlBg0.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/Sr8iqKKLd"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/ix5xm4b"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/e6xoyix"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/rcek8rd"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/Sq9F8nFWgWBe/"
+    }
+  ]
+}

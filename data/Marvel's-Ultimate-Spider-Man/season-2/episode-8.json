@@ -1,0 +1,21 @@
+{
+  "series": "Marvel's Ultimate Spider-Man",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/ye6H7F8kKTd3betEfyGpuVD549a.jpg",
+  "season": 2,
+  "episode": 8,
+  "episode_title": "Episode 8",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/ye6H7F8kKTd3betEfyGpuVD549a.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/4joY50YrInyII6vnm7sszPvod37.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/4joY50YrInyII6vnm7sszPvod37.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/GalocxOXZAKf/"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/cfe795a0a3c7bc1683f2efd8837dde0c"
+    }
+  ]
+}

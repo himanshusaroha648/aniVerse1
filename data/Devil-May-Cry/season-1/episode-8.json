@@ -1,0 +1,49 @@
+{
+  "series": "Devil May Cry",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/qm6Mi9051Ws1eG1mtfUbetJunvI.jpg",
+  "season": 1,
+  "episode": 8,
+  "episode_title": "Episode 8",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/qm6Mi9051Ws1eG1mtfUbetJunvI.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/b4a7be1TBke4CV2AJ0m7xcsloWI.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/b4a7be1TBke4CV2AJ0m7xcsloWI.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/pvmpT9v7LtKW/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/8wGK_wsLg"
+    },
+    {
+      "option": 3,
+      "real_video": "https://rubystm.com/e/sbgtj3c01fmf.html"
+    },
+    {
+      "option": 4,
+      "real_video": "https://cloudy.upns.one/#pk8k1k"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/ck003xe"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/f6rot95"
+    },
+    {
+      "option": 7,
+      "real_video": "https://gdmirrorbot.nl/embed/kymfq7d"
+    },
+    {
+      "option": 8,
+      "real_video": "https://emturbovid.com/t/67ee6c3d204ec"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/1764183ef03fc7324eb58c3842bd9a57"
+    }
+  ]
+}

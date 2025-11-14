@@ -1,0 +1,45 @@
+{
+  "series": "Turning Mecard",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/jCB2LIAChvAFyWe19U48H0uMrFb.jpg",
+  "season": 1,
+  "episode": 12,
+  "episode_title": "Episode 12",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/jCB2LIAChvAFyWe19U48H0uMrFb.jpg",
+  "episode_card_thumbnail": "https://toonstream.love/wp-content/themes/torofilm/public/img/cnt/noimg-episode.png",
+  "episode_list_thumbnail": "https://toonstream.love/wp-content/themes/torofilm/public/img/cnt/noimg-episode.png",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/ioUgYhojq"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/a6glatcr15kc.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#i58gc"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/bv5ee1d"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/epysvq3"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/muugf3q"
+    },
+    {
+      "option": 7,
+      "real_video": "https://emturbovid.com/t/6777586a3cc26"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/7hTFrTX6mATc/"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "series": "Oshi no Ko",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/rFp74PFpz14AHrtlVPrLyrSng47.jpg",
+  "season": 1,
+  "episode": 11,
+  "episode_title": "Episode 11",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/rFp74PFpz14AHrtlVPrLyrSng47.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/rPjI9wOlKxzbfjiBjFDdjuKmkwt.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/rPjI9wOlKxzbfjiBjFDdjuKmkwt.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/fVOK5kgo9g"
+    },
+    {
+      "option": 2,
+      "real_video": "https://vidstreaming.xyz/v/gC85Ek4anauS/"
+    },
+    {
+      "option": 3,
+      "real_video": "https://short.icu/C3L31Q8xx"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/BkEoN88RQeRt/"
+    }
+  ]
+}

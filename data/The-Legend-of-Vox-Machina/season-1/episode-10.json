@@ -1,0 +1,37 @@
+{
+  "series": "The Legend of Vox Machina",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/b5A0qkGrZJTyVv3gT6b8clFEz9R.jpg",
+  "season": 1,
+  "episode": 10,
+  "episode_title": "Episode 10",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/b5A0qkGrZJTyVv3gT6b8clFEz9R.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/85UQM8CFLJUBaL4Izvy7XLOAFUz.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/85UQM8CFLJUBaL4Izvy7XLOAFUz.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/hyHxqLINiTIc/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/NYwGxTGl2"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/te85ire"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/zy79871"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/fm2ak7f"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/e94a37c9b33d6a973b40a831d810b0c6"
+    }
+  ]
+}

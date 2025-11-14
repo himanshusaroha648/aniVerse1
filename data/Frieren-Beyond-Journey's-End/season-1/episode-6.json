@@ -1,0 +1,37 @@
+{
+  "series": "Frieren: Beyond Journey's End",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/dqZENchTd7lp5zht7BdlqM7RBhD.jpg",
+  "season": 1,
+  "episode": 6,
+  "episode_title": "Episode 6",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/dqZENchTd7lp5zht7BdlqM7RBhD.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/p7ZDx4J3K4IRyu7LitvOdyC0vtV.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/p7ZDx4J3K4IRyu7LitvOdyC0vtV.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/7288eEFfdr3L/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/4p52gqkobice.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/xsochkp"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/bq42s0c"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/csv2d6y"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/363ce3cd61389226b4a55b2aee2dacd7"
+    }
+  ]
+}

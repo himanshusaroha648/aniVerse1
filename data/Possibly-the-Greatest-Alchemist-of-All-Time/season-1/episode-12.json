@@ -1,0 +1,49 @@
+{
+  "series": "Possibly the Greatest Alchemist of All Time",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/4TyTS9O7ECH3mXpazQ6GpJXCqNm.jpg",
+  "season": 1,
+  "episode": 12,
+  "episode_title": "Episode 12",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/4TyTS9O7ECH3mXpazQ6GpJXCqNm.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/lug7nXnXpOieqwnMcN6WDiOqs5D.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/lug7nXnXpOieqwnMcN6WDiOqs5D.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/ZdpGH4pBSSaL/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/AXbDeNmbv"
+    },
+    {
+      "option": 3,
+      "real_video": "https://rubystm.com/e/oj6cljbksjjd.html"
+    },
+    {
+      "option": 4,
+      "real_video": "https://cloudy.upns.one/#8tbxus"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/kbaxl1o"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/vmh7r4c"
+    },
+    {
+      "option": 7,
+      "real_video": "https://gdmirrorbot.nl/embed/g6xj5sx"
+    },
+    {
+      "option": 8,
+      "real_video": "https://emturbovid.com/t/67f7b4395d1a7"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/fb51aea2099d8fbdfe50a5cd69ff8e50"
+    }
+  ]
+}

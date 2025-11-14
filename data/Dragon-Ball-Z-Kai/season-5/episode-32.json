@@ -1,0 +1,41 @@
+{
+  "series": "Dragon Ball Z Kai",
+  "thumbnail": "https://i.imgur.com/zZzbUql.jpg",
+  "season": 5,
+  "episode": 32,
+  "episode_title": "Episode 32",
+  "episode_main_poster": "https://i.imgur.com/zZzbUql.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/6ZsJcCiPPMnMgfWq80dyEZ7DFG5.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/6ZsJcCiPPMnMgfWq80dyEZ7DFG5.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/1X1OgEBbQ"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/lc4q7wxh9zzk.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#h9zf6i"
+    },
+    {
+      "option": 4,
+      "real_video": "https://strmup.to/54aXSzysjFYLm"
+    },
+    {
+      "option": 5,
+      "real_video": "https://turbovidhls.com/t/68b336026c4db"
+    },
+    {
+      "option": 6,
+      "real_video": "https://vidmoly.net/embed-30ucvk1mukfe.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/0747b9be4f90056c30eb5241f06bfe9b"
+    }
+  ]
+}

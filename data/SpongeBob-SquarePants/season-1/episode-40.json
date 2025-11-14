@@ -1,0 +1,33 @@
+{
+  "series": "SpongeBob SquarePants",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/amvtZgiTty0GHIgD56gpouBWrcy.jpg",
+  "season": 1,
+  "episode": 40,
+  "episode_title": "Episode 40",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/amvtZgiTty0GHIgD56gpouBWrcy.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/1LpoWS3dNi6PmxRJl4h1eNcDxBq.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/1LpoWS3dNi6PmxRJl4h1eNcDxBq.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/BBfBoaEoY"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/sif31ce"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/e8nfnrm"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/avkgqjr"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/QB1JTyJmb8r6/"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "series": "Beyblade",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/l6ZQhEHjtOd9t6lOvVGzs5YEHcG.jpg",
+  "season": 3,
+  "episode": 24,
+  "episode_title": "Episode 24",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/l6ZQhEHjtOd9t6lOvVGzs5YEHcG.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/fR5b99Qd28ECEkIYTB3xTuNudWL.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/fR5b99Qd28ECEkIYTB3xTuNudWL.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/mj48eG0bf"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/tpwpi8c"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/Zcc9Iaa8LfOG/"
+    }
+  ]
+}

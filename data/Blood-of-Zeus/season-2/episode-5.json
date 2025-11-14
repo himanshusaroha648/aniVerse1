@@ -1,0 +1,37 @@
+{
+  "series": "Blood of Zeus",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/eUMDEIwpz3NjLMHwA4SF5KO1ZzT.jpg",
+  "season": 2,
+  "episode": 5,
+  "episode_title": "Episode 5",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/eUMDEIwpz3NjLMHwA4SF5KO1ZzT.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/pwzAV61b1czKm5RyhtlcQoAtOs7.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/pwzAV61b1czKm5RyhtlcQoAtOs7.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/pbVTrJhHfDuC/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/Wtw40hE5y"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/fbu9jh4"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/tpj231t"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/gq3xtai"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/ebf59110c0306610e192bd156d58c4e3"
+    }
+  ]
+}

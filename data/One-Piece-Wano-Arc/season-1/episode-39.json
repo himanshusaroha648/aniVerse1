@@ -1,0 +1,45 @@
+{
+  "series": "One Piece Wano Arc",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/uiIB9ctqZFbfRXXimtpmZb5dusi.jpg",
+  "season": 1,
+  "episode": 39,
+  "episode_title": "Episode 39",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/uiIB9ctqZFbfRXXimtpmZb5dusi.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/vIEwxwXtYCCz14DHZeXiaJluNWV.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/vIEwxwXtYCCz14DHZeXiaJluNWV.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/X5H3HGA30"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/c2rps0d4oe1j.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#v36ox"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/syoeeja"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/bm3tr23"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/snj37j6"
+    },
+    {
+      "option": 7,
+      "real_video": "https://emturbovid.com/t/67a8ad3be6f78"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/kAByvXm5B3L1/"
+    }
+  ]
+}

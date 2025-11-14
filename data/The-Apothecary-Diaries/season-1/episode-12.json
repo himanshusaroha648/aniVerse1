@@ -1,0 +1,41 @@
+{
+  "series": "The Apothecary Diaries",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/oWiZZpg3LwY6WSnaE63Cc453lcw.jpg",
+  "season": 1,
+  "episode": 12,
+  "episode_title": "Episode 12",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/oWiZZpg3LwY6WSnaE63Cc453lcw.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/xa9CovqvQIgYENhpHdqun3JTn4A.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/xa9CovqvQIgYENhpHdqun3JTn4A.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/xBV6aTT7Tmc7/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/QN-6WogA-"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/uuet4x3"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/imoof1j"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/zv77o9q"
+    },
+    {
+      "option": 6,
+      "real_video": "https://raretoonsindia.co/ex/naBRHam1ntjVTrt"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/8d1de7457fa769ece8d93a13a59c8552"
+    }
+  ]
+}

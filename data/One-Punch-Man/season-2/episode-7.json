@@ -1,0 +1,37 @@
+{
+  "series": "One Punch Man",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/iE3s0lG5QVdEHOEZnoAxjmMtvne.jpg",
+  "season": 2,
+  "episode": 7,
+  "episode_title": "Episode 7",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/iE3s0lG5QVdEHOEZnoAxjmMtvne.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/c9QhXBPVwOaayJ04FBt3OXjmafV.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/c9QhXBPVwOaayJ04FBt3OXjmafV.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/XYZLgPqtX"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/8x8fgmlgm12g.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#3amyzp"
+    },
+    {
+      "option": 4,
+      "real_video": "https://strmup.to/Gpgbm2M1HCeXo"
+    },
+    {
+      "option": 5,
+      "real_video": "https://emturbovid.com/t/68774af5b3c8c"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/FUH35GijWu06/"
+    }
+  ]
+}

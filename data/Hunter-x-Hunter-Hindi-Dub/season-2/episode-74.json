@@ -1,0 +1,53 @@
+{
+  "series": "Hunter x Hunter Hindi Dub",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/9dubj2UQ2xJkzT1AEng6DaGRvLa.jpg",
+  "season": 2,
+  "episode": 74,
+  "episode_title": "Hunter x Hunter Hindi Dub 2x74 - Toonstream",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/9dubj2UQ2xJkzT1AEng6DaGRvLa.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/bIyWvXxB3ZpseUYdlsvATK2U3pv.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/bIyWvXxB3ZpseUYdlsvATK2U3pv.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/WvOsJ224a"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/rfenbfw"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/v9crzqo9lsl1.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/4f8b5dedab6f650dbf1b2532aa11f646"
+    },
+    {
+      "option": 7,
+      "real_video": "https://gdmirrorbot.nl/embed/kf2kkkw"
+    },
+    {
+      "option": 8,
+      "real_video": "https://emturbovid.com/t/68d4171533259"
+    },
+    {
+      "option": 9,
+      "real_video": "https://vidmoly.net/embed-e44ieifkm5i4.html"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/sitjy9o"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#6syn5e&dl=1"
+    },
+    {
+      "option": 4,
+      "real_video": "https://strmup.to/Fnw0PIJCRylGu"
+    }
+  ]
+}

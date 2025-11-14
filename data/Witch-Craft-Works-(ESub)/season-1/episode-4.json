@@ -1,0 +1,25 @@
+{
+  "series": "Witch Craft Works (ESub)",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/elt434eNLMhZQBM0tPu4mUkPqGo.jpg",
+  "season": 1,
+  "episode": 4,
+  "episode_title": "Episode 4",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/elt434eNLMhZQBM0tPu4mUkPqGo.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/8MoTs4kRjDTnFcboC4dP9CQwLu3.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/8MoTs4kRjDTnFcboC4dP9CQwLu3.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/yJR3uFpMe"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/fn3kgoa"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/ZgSUTyrjPeVL/"
+    }
+  ]
+}

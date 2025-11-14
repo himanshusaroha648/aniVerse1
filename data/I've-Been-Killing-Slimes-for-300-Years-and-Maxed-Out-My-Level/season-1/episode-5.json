@@ -1,0 +1,45 @@
+{
+  "series": "I've Been Killing Slimes for 300 Years and Maxed Out My Level",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/oN8fY2He8Fb87uL67I7ctf63mR4.jpg",
+  "season": 1,
+  "episode": 5,
+  "episode_title": "Episode 5",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/oN8fY2He8Fb87uL67I7ctf63mR4.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/3UfYUHcpsUR8fScdRTFDDTEXa6I.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/3UfYUHcpsUR8fScdRTFDDTEXa6I.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/5Z_d1G1Ga"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/3b2df9km5yn6.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#epydvk"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/tbkhy1q"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/w92qc4s"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/lrec1vb"
+    },
+    {
+      "option": 7,
+      "real_video": "https://emturbovid.com/t/6852dafd6fb7c"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/40e4e42fc620ace091854042c732894d"
+    }
+  ]
+}

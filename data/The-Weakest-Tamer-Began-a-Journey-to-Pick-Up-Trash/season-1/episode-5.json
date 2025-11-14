@@ -1,0 +1,45 @@
+{
+  "series": "The Weakest Tamer Began a Journey to Pick Up Trash",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/fpcB53bIP5h4140ZGliJK1CyfAq.jpg",
+  "season": 1,
+  "episode": 5,
+  "episode_title": "Episode 5",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/fpcB53bIP5h4140ZGliJK1CyfAq.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/6lk8WIkQOM4ERKsPLvJXGGUZbTR.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/6lk8WIkQOM4ERKsPLvJXGGUZbTR.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/aWQPHcyzJWE9/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/17bgyfwhkonq.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://vidmoly.net/embed-guuomwfudbn0.html"
+    },
+    {
+      "option": 4,
+      "real_video": "https://short.icu/Ywef1i2Oyk"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/s4ebxoi"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/ehmp6mg"
+    },
+    {
+      "option": 7,
+      "real_video": "https://gdmirrorbot.nl/embed/k941el0"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/60a0dd962e40d6cb0456e5e1910230e8"
+    }
+  ]
+}

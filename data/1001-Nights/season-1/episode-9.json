@@ -1,0 +1,33 @@
+{
+  "series": "1001 Nights",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/yEr23ZTYkz5cv3aSdLvlzuI3thI.jpg",
+  "season": 1,
+  "episode": 9,
+  "episode_title": "Episode 9",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/yEr23ZTYkz5cv3aSdLvlzuI3thI.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/s4Xw7LBnECQkaoiEwFrjfkdohVH.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/s4Xw7LBnECQkaoiEwFrjfkdohVH.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/U1RcL8DE0"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/tlkhr8k"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/vfdttcw"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/mwqnqlm"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/EkFauk6KJvyx/"
+    }
+  ]
+}

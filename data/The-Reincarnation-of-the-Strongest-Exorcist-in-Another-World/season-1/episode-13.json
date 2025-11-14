@@ -1,0 +1,41 @@
+{
+  "series": "The Reincarnation of the Strongest Exorcist in Another World",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/AvVe8mmY3FY3CJwbw5sCYubzaTj.jpg",
+  "season": 1,
+  "episode": 13,
+  "episode_title": "Episode 13",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/AvVe8mmY3FY3CJwbw5sCYubzaTj.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/l7UiMEqvFpy6EkyDFiiuW6a9jC8.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/l7UiMEqvFpy6EkyDFiiuW6a9jC8.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/uf8rrnYfR1Ra/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/oiugmr7j24ba.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://short.icu/ipIUarpQI"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/wmwzzjc"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/zhrs0u0"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/nlqyxnp"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/0a93091da5efb0d9d5649e7f6b2ad9d7"
+    }
+  ]
+}

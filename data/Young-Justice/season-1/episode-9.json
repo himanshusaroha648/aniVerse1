@@ -1,0 +1,29 @@
+{
+  "series": "Young Justice",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/y6oejQ0RGFZYILobsvze8F0xWEY.jpg",
+  "season": 1,
+  "episode": 9,
+  "episode_title": "Episode 9",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/y6oejQ0RGFZYILobsvze8F0xWEY.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/6aJv1mMzbS6X8SQVSt87V1sHBfJ.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/6aJv1mMzbS6X8SQVSt87V1sHBfJ.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/dlU8fAKka70g/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://streamsb.net/e/4h3c27vwm0nx.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://filemoon.to/e/31byj3se32f5/_Toonhub4u__Young_Justice_Season_1_Episode_9_in_Multi_Audio_480p.mp4"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/70162fe655ec381ac6312ebf026aac54"
+    }
+  ]
+}

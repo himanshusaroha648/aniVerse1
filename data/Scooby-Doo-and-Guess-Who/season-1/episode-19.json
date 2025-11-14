@@ -1,0 +1,37 @@
+{
+  "series": "Scooby-Doo and Guess Who?",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/g7vQXsELihik4oHJwqhL6WuTJ3j.jpg",
+  "season": 1,
+  "episode": 19,
+  "episode_title": "Episode 19",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/g7vQXsELihik4oHJwqhL6WuTJ3j.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/xCjAAR12Q3r6xVtWK7V2fcUwCxe.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/xCjAAR12Q3r6xVtWK7V2fcUwCxe.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://rubystm.com/e/u63rir7g1pve.html"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/mjgRmId_x"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/t2so7sj"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/wrjjt8r"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/w1dy3h0"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/qBuaJkNDfchu/"
+    }
+  ]
+}

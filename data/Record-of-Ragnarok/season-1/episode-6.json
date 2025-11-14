@@ -1,0 +1,41 @@
+{
+  "series": "Record of Ragnarok",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/kTs2WNZOukpWdNhoRlH94pSJ3xf.jpg",
+  "season": 1,
+  "episode": 6,
+  "episode_title": "Episode 6",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/kTs2WNZOukpWdNhoRlH94pSJ3xf.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/iNXaSHJbtew9qbF3q9ZwOmFNkCz.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/iNXaSHJbtew9qbF3q9ZwOmFNkCz.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://rubystm.com/e/g7hbzmi2sf4h.html"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/_cjYG69qiW"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#sk5kqs"
+    },
+    {
+      "option": 4,
+      "real_video": "https://strmup.to/j5UWFs7KvqxP0"
+    },
+    {
+      "option": 5,
+      "real_video": "https://emturbovid.com/t/689207194737a"
+    },
+    {
+      "option": 6,
+      "real_video": "https://vidmoly.net/embed-1ehwfck3p6qk.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/RiOqME4ikYUK/"
+    }
+  ]
+}

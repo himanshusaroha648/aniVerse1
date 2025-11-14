@@ -1,0 +1,37 @@
+{
+  "series": "Blood of Zeus",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/eUMDEIwpz3NjLMHwA4SF5KO1ZzT.jpg",
+  "season": 1,
+  "episode": 2,
+  "episode_title": "Episode 2",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/eUMDEIwpz3NjLMHwA4SF5KO1ZzT.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/9Fqc9VsUejycJlx1BBzstWUYr2o.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/9Fqc9VsUejycJlx1BBzstWUYr2o.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/1ouBECcFZwfG/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/lNjOxbtiz"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/btfh9bz"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/s9g8qgo"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/dz735dy"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/bd0bbd6f4ca059d60e92b3d4cbfa976b"
+    }
+  ]
+}

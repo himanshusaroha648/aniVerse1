@@ -1,0 +1,41 @@
+{
+  "series": "BLUE LOCK Multi Audio",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/sTDTy73OYmKY51EK94Mc6AxogzR.jpg",
+  "season": 1,
+  "episode": 19,
+  "episode_title": "Episode 19",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/sTDTy73OYmKY51EK94Mc6AxogzR.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/1cE38jeGcVEoV8OzIHfTjC9boO5.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/1cE38jeGcVEoV8OzIHfTjC9boO5.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/Y7XRTrnt9fEt/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/kl2jnfrvpk48.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://short.icu/sdivIINOAU"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/nkbi26i"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/x8qujze"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/f8wpfq8"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/f4b9ec30ad9f68f89b29639786cb62ef"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "series": "Girls’ Frontline",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/ip5Zx3RWxzNuRUDYpPwPrjsPOo.jpg",
+  "season": 1,
+  "episode": 11,
+  "episode_title": "Episode 11",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/ip5Zx3RWxzNuRUDYpPwPrjsPOo.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/nO9O5PCGH3kyoerFmI8S0rdgIl1.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/nO9O5PCGH3kyoerFmI8S0rdgIl1.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/iIXPXvVoR"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/icikwxtxox3g.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#r8dt5t"
+    },
+    {
+      "option": 4,
+      "real_video": "https://strmup.to/nWqurvaj9FfcQ"
+    },
+    {
+      "option": 5,
+      "real_video": "https://turbovidhls.com/t/68e62213d7139"
+    },
+    {
+      "option": 6,
+      "real_video": "https://vidmoly.net/embed-mbfcrclixste.html"
+    },
+    {
+      "option": 7,
+      "real_video": "https://gdmirrorbot.nl/embed/wqdmuho"
+    },
+    {
+      "option": 8,
+      "real_video": "https://gdmirrorbot.nl/embed/kaphfhv"
+    },
+    {
+      "option": 9,
+      "real_video": "https://gdmirrorbot.nl/embed/u1vymxt"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/9831384e2ed3938f00b8fb98b3424649"
+    }
+  ]
+}

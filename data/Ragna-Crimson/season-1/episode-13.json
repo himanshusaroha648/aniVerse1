@@ -1,0 +1,33 @@
+{
+  "series": "Ragna Crimson",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/oGmNWwV3wgp1DZXTOLSAYZZgh3X.jpg",
+  "season": 1,
+  "episode": 13,
+  "episode_title": "Episode 13",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/oGmNWwV3wgp1DZXTOLSAYZZgh3X.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/hOtUT29knFaS6iEpT8KDv2Olj4Q.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/hOtUT29knFaS6iEpT8KDv2Olj4Q.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidcloud.upns.ink/#sujgde"
+    },
+    {
+      "option": 2,
+      "real_video": "https://turbovidhls.com/t/69100bc1a5f2e"
+    },
+    {
+      "option": 3,
+      "real_video": "https://vidmoly.net/embed-ys9to1frwtnh.html"
+    },
+    {
+      "option": 4,
+      "real_video": "https://play.zephyrflick.top/video/aabc3012bc828d9b6855535f836f146a"
+    },
+    {
+      "option": null,
+      "real_video": "https://short.icu/9dtGofH8G"
+    }
+  ]
+}

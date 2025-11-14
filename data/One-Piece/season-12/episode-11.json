@@ -1,0 +1,25 @@
+{
+  "series": "One Piece",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/dum1wnm6kJOUos0XJqjB8s2UWi9.jpg",
+  "season": 12,
+  "episode": 11,
+  "episode_title": "Episode 11",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/dum1wnm6kJOUos0XJqjB8s2UWi9.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/cP9ZuZMd7YDkXu4jZUwRNaVXBaO.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/cP9ZuZMd7YDkXu4jZUwRNaVXBaO.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://rubystm.com/e/drzn8vofsdna.html"
+    },
+    {
+      "option": 2,
+      "real_video": "https://strmup.to/hwHSDH360u2"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/tdGJKzoJjOGB/"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "series": "The Rising of the Shield Hero",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/yjq2n0agGJfmZQ9NpbYIhuBofcq.jpg",
+  "season": 3,
+  "episode": 11,
+  "episode_title": "Episode 11",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/yjq2n0agGJfmZQ9NpbYIhuBofcq.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/p2n9jaEfH8C1txGxNoaWUsAkXFw.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/p2n9jaEfH8C1txGxNoaWUsAkXFw.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://rubystm.com/e/2ao1pv4p2ju7.html"
+    },
+    {
+      "option": 2,
+      "real_video": "https://cloudy.upns.one/#tzx996"
+    },
+    {
+      "option": 3,
+      "real_video": "https://strmup.to/OEQlz1dfZ2JpD"
+    },
+    {
+      "option": 4,
+      "real_video": "https://turbovidhls.com/t/690f015dbc4e9"
+    },
+    {
+      "option": 5,
+      "real_video": "https://vidmoly.net/embed-b83937wqgeif.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://short.icu/19ISZMyiA"
+    }
+  ]
+}

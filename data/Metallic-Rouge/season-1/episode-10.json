@@ -1,0 +1,41 @@
+{
+  "series": "Metallic Rouge",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/dcUWxOeCiEM7n7KdIYk1O8Xzgzp.jpg",
+  "season": 1,
+  "episode": 10,
+  "episode_title": "Episode 10",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/dcUWxOeCiEM7n7KdIYk1O8Xzgzp.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/utJfwt1ZmAktLa2Y2OQtQBoYNyK.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/utJfwt1ZmAktLa2Y2OQtQBoYNyK.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/clLzP1zN7eMJ/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/70kgotzb223p.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://short.icu/AfSNn-vv7"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/t3t8vn5"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/p9wina1"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/k7b92tk"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/7fc346397dc202259f27edc7d2adec88"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "series": "Record of Ragnarok",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/kTs2WNZOukpWdNhoRlH94pSJ3xf.jpg",
+  "season": 2,
+  "episode": 12,
+  "episode_title": "Episode 12",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/kTs2WNZOukpWdNhoRlH94pSJ3xf.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/uzJEipxL96FHjRf0efarRwHdDW3.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/uzJEipxL96FHjRf0efarRwHdDW3.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://rubystm.com/e/gsqlqx15azo4.html"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/mgfGZR0We"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#xinike"
+    },
+    {
+      "option": 4,
+      "real_video": "https://strmup.to/2g5DoIByitWAS"
+    },
+    {
+      "option": 5,
+      "real_video": "https://emturbovid.com/t/6891e2478d6e0"
+    },
+    {
+      "option": 6,
+      "real_video": "https://vidmoly.net/embed-ky1pkbmlrjj2.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/6n7DkNciFCpS/"
+    }
+  ]
+}

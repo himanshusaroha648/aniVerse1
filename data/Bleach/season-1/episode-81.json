@@ -1,0 +1,25 @@
+{
+  "series": "Bleach",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
+  "season": 1,
+  "episode": 81,
+  "episode_title": "Episode 81",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/w0q64LsVKe7yqZ7UqXhMh2a3oPQ.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/w0q64LsVKe7yqZ7UqXhMh2a3oPQ.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/oJmqKmbeA"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/stek0j3"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/2YXxmjqQY7uu/"
+    }
+  ]
+}

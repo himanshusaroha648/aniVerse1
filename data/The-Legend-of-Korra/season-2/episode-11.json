@@ -1,0 +1,37 @@
+{
+  "series": "The Legend of Korra",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/nhP0VGO2GSZbL4PUgmA6Vja48aM.jpg",
+  "season": 2,
+  "episode": 11,
+  "episode_title": "Episode 11",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/nhP0VGO2GSZbL4PUgmA6Vja48aM.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/gPV6XQ8AKoXARsykHsVRvgVfSBg.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/gPV6XQ8AKoXARsykHsVRvgVfSBg.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://rubystm.com/e/2mo9et4kmhbw.html"
+    },
+    {
+      "option": 2,
+      "real_video": "https://cloudy.upns.one/#cvm5ru"
+    },
+    {
+      "option": 3,
+      "real_video": "https://strmup.to/EtYHVmJn0GBCM"
+    },
+    {
+      "option": 4,
+      "real_video": "https://emturbovid.com/t/687a1c04e8643"
+    },
+    {
+      "option": 5,
+      "real_video": "https://vidmoly.net/embed-ot1hmfo308qp.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://short.icu/ien1Qz8JJ"
+    }
+  ]
+}

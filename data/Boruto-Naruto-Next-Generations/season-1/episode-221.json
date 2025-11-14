@@ -1,0 +1,21 @@
+{
+  "series": "Boruto: Naruto Next Generations",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/e0B6i48kxdRkMcK4tR4YNfXGWOc.jpg",
+  "season": 1,
+  "episode": 221,
+  "episode_title": "Episode 221",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/e0B6i48kxdRkMcK4tR4YNfXGWOc.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/uG8pF35Hjv34lrHTafCKmwLIIGQ.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/uG8pF35Hjv34lrHTafCKmwLIIGQ.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/JuPZ-DIac"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/K6i8aw7xrP3h/"
+    }
+  ]
+}

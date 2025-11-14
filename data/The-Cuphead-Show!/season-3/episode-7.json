@@ -1,0 +1,29 @@
+{
+  "series": "The Cuphead Show!",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/l6nGUyxKCi7ODvyfc8qQShliVEd.jpg",
+  "season": 3,
+  "episode": 7,
+  "episode_title": "Episode 7",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/l6nGUyxKCi7ODvyfc8qQShliVEd.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/lr2kDF8Nad4zCwmE2T45uIfMjgr.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/lr2kDF8Nad4zCwmE2T45uIfMjgr.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://filemoon.to/e/gp7r3utxy2bv/_Toonhub4u__The_Cuphead_Show!_Season_3_Episode_7_in__Hindi_-_Eng__HD.mp4"
+    },
+    {
+      "option": 2,
+      "real_video": "https://watchsb.com/e/c41rwigf66og.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://filepress.lol/video/63985f3876e47edf7a72d316"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/E1zkb6Mk2UX2/"
+    }
+  ]
+}

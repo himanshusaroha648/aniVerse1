@@ -1,0 +1,41 @@
+{
+  "series": "Dragon Ball Super",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/qEUrbXJ2qt4Rg84Btlx4STOhgte.jpg",
+  "season": 1,
+  "episode": 30,
+  "episode_title": "Episode 30",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/qEUrbXJ2qt4Rg84Btlx4STOhgte.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/53lkGLr33Qr4P3pOQc6bVg7rr1j.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/53lkGLr33Qr4P3pOQc6bVg7rr1j.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/WnAcGR9fm"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/ibgvmq16g7it.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#twkthb"
+    },
+    {
+      "option": 4,
+      "real_video": "https://strmup.to/kvuVmE9UfgAw1"
+    },
+    {
+      "option": 5,
+      "real_video": "https://turbovidhls.com/t/68b58aa02cb84"
+    },
+    {
+      "option": 6,
+      "real_video": "https://vidmoly.net/embed-omykb974n4d6.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/271f17707d8bfd2cd45f7e5182298703"
+    }
+  ]
+}

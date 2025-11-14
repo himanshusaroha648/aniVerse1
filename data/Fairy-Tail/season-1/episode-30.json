@@ -1,0 +1,53 @@
+{
+  "series": "Fairy Tail",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/inIVJlVRcE0sui79vFvWAeV0NGU.jpg",
+  "season": 1,
+  "episode": 30,
+  "episode_title": "Episode 30",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/inIVJlVRcE0sui79vFvWAeV0NGU.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/wnmMvLgjFBQRmcUQAAkyMm3uJas.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/wnmMvLgjFBQRmcUQAAkyMm3uJas.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/BBCrqMAanh8k/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/-3F7CiUIi"
+    },
+    {
+      "option": 3,
+      "real_video": "https://rubystm.com/e/8uyyfkc4e4oi.html"
+    },
+    {
+      "option": 4,
+      "real_video": "https://cloudy.upns.one/#jkdts"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/sjr2esh"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/kwwfgkv"
+    },
+    {
+      "option": 7,
+      "real_video": "https://gdmirrorbot.nl/embed/y0p3jr6"
+    },
+    {
+      "option": 8,
+      "real_video": "https://emturbovid.com/t/679b90925adc1"
+    },
+    {
+      "option": 9,
+      "real_video": "https://raretoonsindia.co/ex/sIEKT7LxAAitH5J"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/4ee0932f46276313b51570f46266a608"
+    }
+  ]
+}

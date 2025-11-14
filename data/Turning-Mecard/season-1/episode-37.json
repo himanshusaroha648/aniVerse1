@@ -1,0 +1,45 @@
+{
+  "series": "Turning Mecard",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/jCB2LIAChvAFyWe19U48H0uMrFb.jpg",
+  "season": 1,
+  "episode": 37,
+  "episode_title": "Episode 37",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/jCB2LIAChvAFyWe19U48H0uMrFb.jpg",
+  "episode_card_thumbnail": "https://toonstream.love/wp-content/themes/torofilm/public/img/cnt/noimg-episode.png",
+  "episode_list_thumbnail": "https://toonstream.love/wp-content/themes/torofilm/public/img/cnt/noimg-episode.png",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/8Z9Ot9ckU"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/lxo8bu3k1wxm.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#q3tq3n"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/sq8ju53"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/fdcafwy"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/d2wrb3w"
+    },
+    {
+      "option": 7,
+      "real_video": "https://emturbovid.com/t/67cacec63b742"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/RaOJy37rQ8fT/"
+    }
+  ]
+}

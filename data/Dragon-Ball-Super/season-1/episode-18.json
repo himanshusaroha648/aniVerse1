@@ -1,0 +1,41 @@
+{
+  "series": "Dragon Ball Super",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/qEUrbXJ2qt4Rg84Btlx4STOhgte.jpg",
+  "season": 1,
+  "episode": 18,
+  "episode_title": "Episode 18",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/qEUrbXJ2qt4Rg84Btlx4STOhgte.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/luevT7XUlVy77XZtEvkNqTizO7h.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/luevT7XUlVy77XZtEvkNqTizO7h.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/N7f_-HAnG"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/tijqmk983zzt.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#h9zhcu"
+    },
+    {
+      "option": 4,
+      "real_video": "https://strmup.to/MYRCyo6NHdgTL"
+    },
+    {
+      "option": 5,
+      "real_video": "https://turbovidhls.com/t/68b58693e3e1f"
+    },
+    {
+      "option": 6,
+      "real_video": "https://vidmoly.net/embed-6u9fkj3rzlqk.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/83da7c539e1ab4e759623c38d8737e9e"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "series": "Doraemon",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/bHMqPDsW7Lb71CVHXq4PuEvQ4NY.jpg",
+  "season": 6,
+  "episode": 35,
+  "episode_title": "Episode 35",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/bHMqPDsW7Lb71CVHXq4PuEvQ4NY.jpg",
+  "episode_card_thumbnail": "https://toonstream.love/wp-content/themes/torofilm/public/img/cnt/noimg-episode.png",
+  "episode_list_thumbnail": "https://toonstream.love/wp-content/themes/torofilm/public/img/cnt/noimg-episode.png",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/K86Of0u1Ly8Y/"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/62e0973455fd26eb03e91d5741a4a3bb"
+    }
+  ]
+}

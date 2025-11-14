@@ -1,0 +1,21 @@
+{
+  "series": "Ghost Stories",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/9muUVVBl5gpBzZTGUmvjzKWUge9.jpg",
+  "season": 1,
+  "episode": 1,
+  "episode_title": "Episode 1",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/9muUVVBl5gpBzZTGUmvjzKWUge9.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/kLCs69kMVqsy87DIZc53VHPo05M.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/kLCs69kMVqsy87DIZc53VHPo05M.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/0w3mB68yP1k4/"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/Ut7mawCInhzZ/"
+    }
+  ]
+}

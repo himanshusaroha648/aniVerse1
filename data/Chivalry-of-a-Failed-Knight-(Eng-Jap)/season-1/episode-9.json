@@ -1,0 +1,25 @@
+{
+  "series": "Chivalry of a Failed Knight (Eng-Jap)",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/g2DoS2AwOtaRlJStUNlcTsm3pmS.jpg",
+  "season": 1,
+  "episode": 9,
+  "episode_title": "Episode 9",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/g2DoS2AwOtaRlJStUNlcTsm3pmS.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/ogtjpucA0LdWHjNFua336AWbKMh.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/ogtjpucA0LdWHjNFua336AWbKMh.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/ybaBOilNX"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/z09ps0t"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/1fF1bmhDz9xy/"
+    }
+  ]
+}

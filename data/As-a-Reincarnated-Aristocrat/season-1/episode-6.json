@@ -1,0 +1,53 @@
+{
+  "series": "As a Reincarnated Aristocrat",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/54Dj5enfCkGPxnxjRx9i01zPXbd.jpg",
+  "season": 1,
+  "episode": 6,
+  "episode_title": "Episode 6",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/54Dj5enfCkGPxnxjRx9i01zPXbd.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/tUpvx8nErabArphJ0r5ejvAygxf.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/tUpvx8nErabArphJ0r5ejvAygxf.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://play.zephyrflick.top/video/8337a7365ec44f3d65434a5ea4d73d17"
+    },
+    {
+      "option": 2,
+      "real_video": "https://vidstreaming.xyz/v/Yl830CEBur43/"
+    },
+    {
+      "option": 3,
+      "real_video": "https://short.icu/x2dAmpqdi"
+    },
+    {
+      "option": 4,
+      "real_video": "https://rubystm.com/embed-fmrqp2ywefp6.html"
+    },
+    {
+      "option": 5,
+      "real_video": "https://cloudy.upns.one/#6hsyk3"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/q8b8qe0"
+    },
+    {
+      "option": 7,
+      "real_video": "https://gdmirrorbot.nl/embed/zu3k5br"
+    },
+    {
+      "option": 8,
+      "real_video": "https://gdmirrorbot.nl/embed/mgr7nl0"
+    },
+    {
+      "option": 9,
+      "real_video": "https://emturbovid.com/t/67c9f3798ca3d"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/c97d0fb623809a739977f3cf12cba70c"
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "series": "Dragon Ball",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/vU50hlN4ZHeCSuyhpIfo52TxKR4.jpg",
+  "season": 1,
+  "episode": 49,
+  "episode_title": "Episode 49",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/vU50hlN4ZHeCSuyhpIfo52TxKR4.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/tLK336RCTRZgBkYuZN1nCb0CbS3.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/tLK336RCTRZgBkYuZN1nCb0CbS3.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/gcYwlMcFwiZ4/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/fbwBpyMsl-"
+    },
+    {
+      "option": 3,
+      "real_video": "https://emturbovid.com/t/67275dd749547"
+    },
+    {
+      "option": 4,
+      "real_video": "https://vidstreaming.xyz/v/EFIncHfBYw3G/"
+    },
+    {
+      "option": 5,
+      "real_video": "https://short.icu/ZtRxEv70O"
+    },
+    {
+      "option": 6,
+      "real_video": "https://rubystm.com/e/wo1zzzopem02.html"
+    },
+    {
+      "option": 7,
+      "real_video": "https://gdmirrorbot.nl/embed/se8za1s"
+    },
+    {
+      "option": 8,
+      "real_video": "https://gdmirrorbot.nl/embed/k8btqhr"
+    },
+    {
+      "option": 9,
+      "real_video": "https://gdmirrorbot.nl/embed/m9timm6"
+    },
+    {
+      "option": 10,
+      "real_video": "https://emturbovid.com/t/67278cca09de1"
+    },
+    {
+      "option": 11,
+      "real_video": "https://blakiteapi.xyz/embed/12609/4-4"
+    },
+    {
+      "option": 12,
+      "real_video": "https://cloudy.upns.one/#h91uyb"
+    },
+    {
+      "option": 13,
+      "real_video": "https://strmup.to/etDdArN8VsIb4"
+    },
+    {
+      "option": 14,
+      "real_video": "https://vidmoly.net/embed-a3ja8vehzawx.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/55c567fd4395ecef6d936cf77b8d5b2b"
+    }
+  ]
+}

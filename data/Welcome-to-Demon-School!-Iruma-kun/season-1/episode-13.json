@@ -1,0 +1,49 @@
+{
+  "series": "Welcome to Demon School! Iruma-kun",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/aed6I1EMR4Lbk8bdikWrndbn5Og.jpg",
+  "season": 1,
+  "episode": 13,
+  "episode_title": "Episode 13",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/aed6I1EMR4Lbk8bdikWrndbn5Og.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/9BRGtgNOcdCjVJqQyQC8Z5SGg2L.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/9BRGtgNOcdCjVJqQyQC8Z5SGg2L.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/FnXvdedUnj0H/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/XBhOELbsb"
+    },
+    {
+      "option": 3,
+      "real_video": "https://rubystm.com/e/9xul7v4wi75h.html"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/liydbbx"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/p8zp853"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/itbi8ar"
+    },
+    {
+      "option": 7,
+      "real_video": "https://najmin.upn.one/#6qeap"
+    },
+    {
+      "option": 8,
+      "real_video": "https://emturbovid.com/t/6758496bb31cc"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/e9507053dd36cb9217816ffb566c8720"
+    }
+  ]
+}

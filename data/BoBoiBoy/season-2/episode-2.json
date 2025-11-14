@@ -1,0 +1,37 @@
+{
+  "series": "BoBoiBoy",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/zRZ1Y90mhKXrLDYnnfJf4By8hca.jpg",
+  "season": 2,
+  "episode": 2,
+  "episode_title": "Episode 2",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/zRZ1Y90mhKXrLDYnnfJf4By8hca.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/9wEln7kl1oSeTylkCUhKkS1RFnf.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/9wEln7kl1oSeTylkCUhKkS1RFnf.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/puhq7SLB7ke7/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/f8nUSE_Zz"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/ffzzh17"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/v273rhw"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/wa6qibs"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/e034fb6b66aacc1d48f445ddfb08da98"
+    }
+  ]
+}

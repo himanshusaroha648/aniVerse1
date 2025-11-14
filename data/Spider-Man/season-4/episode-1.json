@@ -1,0 +1,17 @@
+{
+  "series": "Spider-Man",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/peN9aqevr0edVoctVKGZDWFdTRl.jpg",
+  "season": 4,
+  "episode": 1,
+  "episode_title": "Episode 1",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/peN9aqevr0edVoctVKGZDWFdTRl.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/fWSwSU5X2kzbtIipp3d7Gujwwlq.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/fWSwSU5X2kzbtIipp3d7Gujwwlq.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/ltta2wcE0KJx/"
+    }
+  ]
+}

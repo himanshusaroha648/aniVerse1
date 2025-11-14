@@ -1,0 +1,29 @@
+{
+  "series": "The Cuphead Show!",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/l6nGUyxKCi7ODvyfc8qQShliVEd.jpg",
+  "season": 2,
+  "episode": 13,
+  "episode_title": "Episode 13",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/l6nGUyxKCi7ODvyfc8qQShliVEd.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/bdYE8pImkmbGaNJgGoOghJHpyp6.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/bdYE8pImkmbGaNJgGoOghJHpyp6.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://filemoon.to/e/8bipagyf63gf/_Toonhub4u__The_Cuphead_Show!_Season_2_Episode_13_Dual_Audio__Hindi_-_Eng__720p_HD.mp4"
+    },
+    {
+      "option": 2,
+      "real_video": "https://watchsb.com/e/o5o1ghqfi0tb.htmlhttps://filemoon.to/d/8bipagyf63gf/_Toonhub4u__The_Cuphead_Show!_Season_2_Episode_13_Dual_Audio__Hindi_-_Eng__720p_HD.mp4"
+    },
+    {
+      "option": 3,
+      "real_video": "https://filepress.lol/video/63971e48e1adedb3046ff333"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/UnCCOhRIaYAO/"
+    }
+  ]
+}

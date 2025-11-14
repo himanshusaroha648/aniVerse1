@@ -1,0 +1,33 @@
+{
+  "series": "Bakugan Battle Brawlers",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/vptVwP1uej035bHzirMtEMSndn.jpg",
+  "season": 1,
+  "episode": 27,
+  "episode_title": "Episode 27",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/vptVwP1uej035bHzirMtEMSndn.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/kcINEx6UmfsNUTvXxwhhwR2tFsq.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/kcINEx6UmfsNUTvXxwhhwR2tFsq.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/mSFEqAL8M"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/psfxy63"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/qhylim5"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/jn1rs7g"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/mLCkJPNNv9n7/"
+    }
+  ]
+}

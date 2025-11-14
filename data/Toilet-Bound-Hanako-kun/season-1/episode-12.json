@@ -1,0 +1,53 @@
+{
+  "series": "Toilet-Bound Hanako-kun",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/wqB7rst3tJ1o177BjFMgxGIBfRa.jpg",
+  "season": 1,
+  "episode": 12,
+  "episode_title": "Episode 12",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/wqB7rst3tJ1o177BjFMgxGIBfRa.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/maSr3CExYBef6sc8ipi2UBwXC9E.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/maSr3CExYBef6sc8ipi2UBwXC9E.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/1kpFq9vpS"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/fwisbjph08qt.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#r8fsim"
+    },
+    {
+      "option": 4,
+      "real_video": "https://strmup.to/KT4qJkdPwIL6i"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/aix3el6"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/k6qdapd"
+    },
+    {
+      "option": 7,
+      "real_video": "https://gdmirrorbot.nl/embed/adxds8x"
+    },
+    {
+      "option": 8,
+      "real_video": "https://emturbovid.com/t/6888997c4ea73"
+    },
+    {
+      "option": 9,
+      "real_video": "https://vidmoly.net/embed-h4nheawnlh38.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/a7bf3f5462cc82062e41b3a2262e1a21"
+    }
+  ]
+}

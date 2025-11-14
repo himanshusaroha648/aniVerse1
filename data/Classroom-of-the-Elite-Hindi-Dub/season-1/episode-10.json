@@ -1,0 +1,53 @@
+{
+  "series": "Classroom of the Elite Hindi Dub",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/yuHanbUUIv2UWRxxQFt9n8jtmOJ.jpg",
+  "season": 1,
+  "episode": 10,
+  "episode_title": "Episode 10",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/yuHanbUUIv2UWRxxQFt9n8jtmOJ.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/gzzlScnfNVWE8EMM5rtWhwR2chj.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/gzzlScnfNVWE8EMM5rtWhwR2chj.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/C1tQSw4P2"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/wd8gax3xzy7e.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#bg8lk8"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/zj5oja8"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/x6j8un2"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/n3z836n"
+    },
+    {
+      "option": 7,
+      "real_video": "https://emturbovid.com/t/681b22705e87a"
+    },
+    {
+      "option": 8,
+      "real_video": "https://vidmoly.net/embed-zc4oss1zth2c.html"
+    },
+    {
+      "option": 9,
+      "real_video": "https://strmup.to/FfHZPhCNIylT4"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/40641914166f1cba1d06c020e462ff8e"
+    }
+  ]
+}

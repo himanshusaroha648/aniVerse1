@@ -1,0 +1,25 @@
+{
+  "series": "One Piece",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/dum1wnm6kJOUos0XJqjB8s2UWi9.jpg",
+  "season": 18,
+  "episode": 19,
+  "episode_title": "Episode 19",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/dum1wnm6kJOUos0XJqjB8s2UWi9.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/v0ycYDR67dbQQyOD0HLcdnPOYXO.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/v0ycYDR67dbQQyOD0HLcdnPOYXO.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://rubystm.com/e/xebwimagerzy.html"
+    },
+    {
+      "option": 2,
+      "real_video": "https://strmup.to/RdG8EmXP1gfR"
+    },
+    {
+      "option": null,
+      "real_video": "https://toonstream.love/?trembed=0&trid=7653&trtype=2"
+    }
+  ]
+}

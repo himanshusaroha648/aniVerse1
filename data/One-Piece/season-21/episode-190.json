@@ -1,0 +1,37 @@
+{
+  "series": "One Piece",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/dum1wnm6kJOUos0XJqjB8s2UWi9.jpg",
+  "season": 21,
+  "episode": 190,
+  "episode_title": "Episode 190",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/dum1wnm6kJOUos0XJqjB8s2UWi9.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/nGfOXT7YxbC1CF4TXkz2Z1Bg87n.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/nGfOXT7YxbC1CF4TXkz2Z1Bg87n.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/16nXKDjYf"
+    },
+    {
+      "option": 2,
+      "real_video": "https://vidstreaming.xyz/v/yyeBhq6gP98p/"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#xnk8c"
+    },
+    {
+      "option": 4,
+      "real_video": "https://emturbovid.com/t/676401966e7f8"
+    },
+    {
+      "option": 5,
+      "real_video": "https://short.icu/oJmA6U9jF"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/PD0azM2A6ilw/"
+    }
+  ]
+}

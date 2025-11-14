@@ -1,0 +1,29 @@
+{
+  "series": "One Piece",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/dum1wnm6kJOUos0XJqjB8s2UWi9.jpg",
+  "season": 21,
+  "episode": 106,
+  "episode_title": "Episode 106",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/dum1wnm6kJOUos0XJqjB8s2UWi9.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/d9Ir8DI2cI70EWKS77G80Xgm6K1.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/d9Ir8DI2cI70EWKS77G80Xgm6K1.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/Ebhr207toeRK/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/44ehWMlF_"
+    },
+    {
+      "option": 3,
+      "real_video": "https://rubystm.com/e/0llox6hi4gzc.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/32jIbTSAwX4n/"
+    }
+  ]
+}

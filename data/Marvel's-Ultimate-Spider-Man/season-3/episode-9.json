@@ -1,0 +1,21 @@
+{
+  "series": "Marvel's Ultimate Spider-Man",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/ye6H7F8kKTd3betEfyGpuVD549a.jpg",
+  "season": 3,
+  "episode": 9,
+  "episode_title": "Episode 9",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/ye6H7F8kKTd3betEfyGpuVD549a.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/foTXlOTRXWZZg5fbYhrwzOehO3M.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/foTXlOTRXWZZg5fbYhrwzOehO3M.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/Q7TZbCOqBkmu/"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/0f304eddb4ad6007a3093fd6d963a1d2"
+    }
+  ]
+}

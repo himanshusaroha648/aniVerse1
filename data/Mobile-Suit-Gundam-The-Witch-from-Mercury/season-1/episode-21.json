@@ -1,0 +1,37 @@
+{
+  "series": "Mobile Suit Gundam: The Witch from Mercury",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/9mBzvMqnzFtuRUoro2JEODDQ2lI.jpg",
+  "season": 1,
+  "episode": 21,
+  "episode_title": "Episode 21",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/9mBzvMqnzFtuRUoro2JEODDQ2lI.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/xIdvv6fTOxwd2fMO42bzAKAc2rO.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/xIdvv6fTOxwd2fMO42bzAKAc2rO.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/ExC01t5BcuaY/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/3jaB_6LYZ"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/mjywhqn"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/mmivzjp"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/m5h3767"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/07fc15c9d169ee48573edd749d25945d"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "series": "Scooby-Doo and Guess Who?",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/g7vQXsELihik4oHJwqhL6WuTJ3j.jpg",
+  "season": 1,
+  "episode": 26,
+  "episode_title": "Episode 26",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/g7vQXsELihik4oHJwqhL6WuTJ3j.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/sOJj9JPvAEfVe1jVU6b0hhJfwYj.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/sOJj9JPvAEfVe1jVU6b0hhJfwYj.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/ZfiLSkpEa"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/ystqit5hh4ii.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/zt4rpjj"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/zdjiwqm"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/eqtxwo2"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/4Wwo8yNbQnvS/"
+    }
+  ]
+}

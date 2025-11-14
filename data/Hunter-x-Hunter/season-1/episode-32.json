@@ -1,0 +1,37 @@
+{
+  "series": "Hunter x Hunter",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/ucpgmUR1h5Te1BYegKItoPjOeF7.jpg",
+  "season": 1,
+  "episode": 32,
+  "episode_title": "Episode 32",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/ucpgmUR1h5Te1BYegKItoPjOeF7.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/5bGFbChoHIYCjCabjG7X01ALSVo.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/5bGFbChoHIYCjCabjG7X01ALSVo.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://rubystm.com/e/kc6mdh7szli1.html"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/XT5542px_"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/hwf2az2"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/b73c1ga"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/zeh563k"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/Qf2SLiP04DPa/"
+    }
+  ]
+}

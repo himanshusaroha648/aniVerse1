@@ -1,0 +1,17 @@
+{
+  "series": "Sonic Prime",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/1Hie7gCDsvt7wtPRuUAk4ZzaoQa.jpg",
+  "season": 2,
+  "episode": 4,
+  "episode_title": "Episode 4",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/1Hie7gCDsvt7wtPRuUAk4ZzaoQa.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/bgmIJcknNpp0f62yJCH5JyORkdQ.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/bgmIJcknNpp0f62yJCH5JyORkdQ.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/c4525d4b0ad85bb7ed6e5f31fbe008ce"
+    }
+  ]
+}

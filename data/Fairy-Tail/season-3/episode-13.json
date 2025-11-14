@@ -1,0 +1,49 @@
+{
+  "series": "Fairy Tail",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/inIVJlVRcE0sui79vFvWAeV0NGU.jpg",
+  "season": 3,
+  "episode": 13,
+  "episode_title": "Episode 13",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/inIVJlVRcE0sui79vFvWAeV0NGU.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/1I6TEwca3GjRXlWeMIKHfx5Y5z8.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/1I6TEwca3GjRXlWeMIKHfx5Y5z8.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://rubystm.com/e/vup83fsai5wv.html"
+    },
+    {
+      "option": 2,
+      "real_video": "https://cloudy.upns.one/#3ap8nr"
+    },
+    {
+      "option": 3,
+      "real_video": "https://strmup.to/uM3OrhZzgJSnB"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/oly4bhf"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/yvcpb25"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/dyj9kdn"
+    },
+    {
+      "option": 7,
+      "real_video": "https://emturbovid.com/t/68a9ff875952a"
+    },
+    {
+      "option": 8,
+      "real_video": "https://vidmoly.net/embed-s0gir4fern4a.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://short.icu/L6iWVuX4d"
+    }
+  ]
+}

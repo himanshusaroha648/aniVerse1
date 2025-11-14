@@ -1,0 +1,17 @@
+{
+  "series": "Naruto Shippūden [English-Jap Dub]",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/lufFEkkD5JMrDgiVYh4s1ksx4nv.jpg",
+  "season": 8,
+  "episode": 4,
+  "episode_title": "Episode 4",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/lufFEkkD5JMrDgiVYh4s1ksx4nv.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/8pAl5NYIOJdVPyFIidrTO5ukW5F.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/8pAl5NYIOJdVPyFIidrTO5ukW5F.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/Zi7ukTZINJ53/"
+    }
+  ]
+}

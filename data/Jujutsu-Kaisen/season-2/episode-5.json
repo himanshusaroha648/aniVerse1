@@ -1,0 +1,41 @@
+{
+  "series": "Jujutsu Kaisen",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/3yFHMtdhriig4sm1w8oMQfA2gFN.jpg",
+  "season": 2,
+  "episode": 5,
+  "episode_title": "Episode 5",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/3yFHMtdhriig4sm1w8oMQfA2gFN.jpg",
+  "episode_card_thumbnail": "https://i.ibb.co/p42D78c/image.png",
+  "episode_list_thumbnail": "https://i.ibb.co/p42D78c/image.png",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://rubystm.com/e/dotirs1qay7i.html"
+    },
+    {
+      "option": 2,
+      "real_video": "https://vidstreaming.xyz/v/44A7vEF1Xw5A/"
+    },
+    {
+      "option": 3,
+      "real_video": "https://vidstreaming.xyz/v/zZItdgnvn5Dn/"
+    },
+    {
+      "option": 4,
+      "real_video": "https://rubystm.com/e/j7qorecuhzfd.html"
+    },
+    {
+      "option": 5,
+      "real_video": "https://vidmoly.me/w/4ya2y7nqw7jy"
+    },
+    {
+      "option": 6,
+      "real_video": "https://short.icu/EyUWnzQhE"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/EmQtK4vr6pAm/"
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "series": "Naruto Shippūden",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/rXD6lcg6zhRE8NDRVlQPNkViC3s.jpg",
+  "season": 2,
+  "episode": 7,
+  "episode_title": "Episode 7",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/rXD6lcg6zhRE8NDRVlQPNkViC3s.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/owaf7A2h80Z4wpO5uk7FyGI0aJC.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/owaf7A2h80Z4wpO5uk7FyGI0aJC.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/hHb-b84zA"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/vfayay4"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/bj511rl"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/y343set"
+    },
+    {
+      "option": 5,
+      "real_video": "https://short.icu/V5CUkDx6x"
+    },
+    {
+      "option": 6,
+      "real_video": "https://rubystm.com/epio13icnefys.html"
+    },
+    {
+      "option": 7,
+      "real_video": "https://cloudy.upns.one/#l6j1x"
+    },
+    {
+      "option": 8,
+      "real_video": "https://gdmirrorbot.nl/embed/g9h6121"
+    },
+    {
+      "option": 9,
+      "real_video": "https://emturbovid.com/t/67971d9af00b8"
+    },
+    {
+      "option": 10,
+      "real_video": "https://rubystm.com/e/30uyjs4rxsl5.html"
+    },
+    {
+      "option": 11,
+      "real_video": "https://cloudy.upns.one/#85jjib"
+    },
+    {
+      "option": 12,
+      "real_video": "https://strmup.to/bEQMAytvj1HNR"
+    },
+    {
+      "option": 13,
+      "real_video": "https://turbovidhls.com/t/68e514bc756f9"
+    },
+    {
+      "option": 14,
+      "real_video": "https://vidmoly.net/embed-qg9db7yce6if.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/55a7cf9c71f1c9c495413f934dd1a158"
+    }
+  ]
+}

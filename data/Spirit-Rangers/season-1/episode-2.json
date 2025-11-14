@@ -1,0 +1,25 @@
+{
+  "series": "Spirit Rangers",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/o7NV5naNFB1kv0NZTJMKPQ4H0gl.jpg",
+  "season": 1,
+  "episode": 2,
+  "episode_title": "Episode 2",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/o7NV5naNFB1kv0NZTJMKPQ4H0gl.jpg",
+  "episode_card_thumbnail": "https://akamai-images-content.com/t8e5xwkqk6z1_t.jpg",
+  "episode_list_thumbnail": "https://akamai-images-content.com/t8e5xwkqk6z1_t.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://watchsb.com/e/t8e5xwkqk6z1.html"
+    },
+    {
+      "option": 2,
+      "real_video": "https://filepress.online/video/635125c5c43eb5c89f59de73"
+    },
+    {
+      "option": null,
+      "real_video": "https://filemoon.to/e/no6dnxa0acrt/_Toonhub4u__Spirit_Rangers_Season_1_Episode_2_Multi_Audio_1080p_HD.mp4"
+    }
+  ]
+}

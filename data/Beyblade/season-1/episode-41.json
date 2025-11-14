@@ -1,0 +1,25 @@
+{
+  "series": "Beyblade",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/l6ZQhEHjtOd9t6lOvVGzs5YEHcG.jpg",
+  "season": 1,
+  "episode": 41,
+  "episode_title": "Episode 41",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/l6ZQhEHjtOd9t6lOvVGzs5YEHcG.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/uqE1nduMG8lQWOfmJqtPZMQD2YG.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/uqE1nduMG8lQWOfmJqtPZMQD2YG.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/An-z2xFlB"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/tqhpfma"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/E4U0eDDRNP78/"
+    }
+  ]
+}

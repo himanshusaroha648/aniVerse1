@@ -1,0 +1,45 @@
+{
+  "series": "TSUKIMICHI -Moonlit Fantasy-Multi",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/kkWkdoB5GbVALlmNfsALh9OdsPl.jpg",
+  "season": 1,
+  "episode": 6,
+  "episode_title": "Episode 6",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/kkWkdoB5GbVALlmNfsALh9OdsPl.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/5SdqqCz6ExAjJSaeLemQfxff7Q7.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/5SdqqCz6ExAjJSaeLemQfxff7Q7.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/GWAf5Il4Eupk/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/lktyk3v4rhhs.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://short.icu/BshOtjHpA"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/e2nox2g"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/iwabofi"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/s3agmyl"
+    },
+    {
+      "option": 7,
+      "real_video": "https://raretoonsindia.co/ex/LLkDAxQ3UDVljI7"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/7b951cd08a561a4284fe7ed5a8b79496"
+    }
+  ]
+}

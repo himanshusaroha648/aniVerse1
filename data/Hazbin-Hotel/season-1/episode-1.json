@@ -1,0 +1,37 @@
+{
+  "series": "Hazbin Hotel",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/rXojaQcxVUubPLSrFV8PD4xdjrs.jpg",
+  "season": 1,
+  "episode": 1,
+  "episode_title": "Episode 1",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/rXojaQcxVUubPLSrFV8PD4xdjrs.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/AjOX7VPEsUYPqEdhBnlYG8g0OI3.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/AjOX7VPEsUYPqEdhBnlYG8g0OI3.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidmoly.net/w/4xhjbw7smy8p.html"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/MPNDc07Ib"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/ay9zwfb"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/n18yjuv"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/pkfx6il"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/25926f529e257cfd6ee8ba86fd76cfe9"
+    }
+  ]
+}

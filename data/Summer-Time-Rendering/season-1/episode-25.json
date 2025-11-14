@@ -1,0 +1,49 @@
+{
+  "series": "Summer Time Rendering",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/9qFqCxPr1ebHbOmZ1vEmPAHLIM4.jpg",
+  "season": 1,
+  "episode": 25,
+  "episode_title": "Episode 25",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/9qFqCxPr1ebHbOmZ1vEmPAHLIM4.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/dte47isGfQJnjVyjZRMjwSdE6JX.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/dte47isGfQJnjVyjZRMjwSdE6JX.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://rubystm.com/e/m5mjfiqk5lrm.html"
+    },
+    {
+      "option": 2,
+      "real_video": "https://cloudy.upns.one/#puzca1"
+    },
+    {
+      "option": 3,
+      "real_video": "https://strmup.to//DUSCqYPVrL7sI"
+    },
+    {
+      "option": 4,
+      "real_video": "https://turbovidhls.com/t/682fca55d0339"
+    },
+    {
+      "option": 5,
+      "real_video": "https://vidmoly.net/embed-d7ktm32o1ebx.html"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/pshvao7"
+    },
+    {
+      "option": 7,
+      "real_video": "https://gdmirrorbot.nl/embed/vlritc3"
+    },
+    {
+      "option": 8,
+      "real_video": "https://gdmirrorbot.nl/embed/h43hb1p"
+    },
+    {
+      "option": null,
+      "real_video": "https://short.icu/jlBo3jFKH"
+    }
+  ]
+}

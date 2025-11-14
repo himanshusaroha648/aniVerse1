@@ -1,0 +1,41 @@
+{
+  "series": "Dragon Ball Z Kai",
+  "thumbnail": "https://i.imgur.com/zZzbUql.jpg",
+  "season": 7,
+  "episode": 2,
+  "episode_title": "Episode 2",
+  "episode_main_poster": "https://i.imgur.com/zZzbUql.jpg",
+  "episode_card_thumbnail": "https://toonstream.love/wp-content/themes/torofilm/public/img/cnt/noimg-episode.png",
+  "episode_list_thumbnail": "https://toonstream.love/wp-content/themes/torofilm/public/img/cnt/noimg-episode.png",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/4oXRCeGZp"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/tc5g9pvi8zow.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#j3hlc6"
+    },
+    {
+      "option": 4,
+      "real_video": "https://strmup.to/40GMRIWJ8Ahvp"
+    },
+    {
+      "option": 5,
+      "real_video": "https://turbovidhls.com/t/68b336d96fd16"
+    },
+    {
+      "option": 6,
+      "real_video": "https://vidmoly.net/embed-iurfnzjlocrb.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/42fe880812925e520249e808937738d2"
+    }
+  ]
+}

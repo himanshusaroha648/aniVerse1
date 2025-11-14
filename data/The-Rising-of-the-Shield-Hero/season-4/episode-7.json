@@ -1,0 +1,37 @@
+{
+  "series": "The Rising of the Shield Hero",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/yjq2n0agGJfmZQ9NpbYIhuBofcq.jpg",
+  "season": 4,
+  "episode": 7,
+  "episode_title": "Episode 7",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/yjq2n0agGJfmZQ9NpbYIhuBofcq.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/tV8KLYtfXT8yq2XlzxGtYfEHkTO.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/tV8KLYtfXT8yq2XlzxGtYfEHkTO.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://rubystm.com/e/s0sfasz6pnkd.html"
+    },
+    {
+      "option": 2,
+      "real_video": "https://cloudy.upns.one/#e9rawj"
+    },
+    {
+      "option": 3,
+      "real_video": "https://strmup.to/nQl82T7pZdE6t"
+    },
+    {
+      "option": 4,
+      "real_video": "https://turbovidhls.com/t/690f028cbc963"
+    },
+    {
+      "option": 5,
+      "real_video": "https://vidmoly.net/embed-mpy0d3wli430.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://short.icu/NtfmVxn_D"
+    }
+  ]
+}

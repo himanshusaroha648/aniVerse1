@@ -1,0 +1,36 @@
+{
+  "title": "Summer Ghost",
+  "description": "Watch Summer Ghost online for free in HD on ToonStream. Available in Hindi, Tamil, Telugu & More dubbed versions. Stream or Download now! An urban legend",
+  "release_year": 2021,
+  "genres": [
+    "Animation",
+    "Anime Movies",
+    "Drama",
+    "Fantasy",
+    "Mystery"
+  ],
+  "thumbnail": "https://image.tmdb.org/t/p/w185/mMXaAvvSw24hYNchhCtCM5z6fhB.jpg",
+  "movie_poster": "https://image.tmdb.org/t/p/w185/mMXaAvvSw24hYNchhCtCM5z6fhB.jpg",
+  "tmdb_id": null,
+  "tvdb_id": null,
+  "languages": [],
+  "url": "https://toonstream.love/movies/summer-ghost/",
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/ld7HabiDg4wo/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/embed-8k991kc4lym8.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://short.icu/sx_-RMucg"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/tyymdcq"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "series": "Amagami SS",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/fpMyFbUqu3eFl5Xm4sgGNEamrdE.jpg",
+  "season": 1,
+  "episode": 11,
+  "episode_title": "Episode 11",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/fpMyFbUqu3eFl5Xm4sgGNEamrdE.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/sRa6TESvjjdQifX4tEC3pqIRPfU.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/sRa6TESvjjdQifX4tEC3pqIRPfU.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/rDvYmPXFwniG/"
+    }
+  ]
+}

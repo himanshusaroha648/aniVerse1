@@ -1,0 +1,45 @@
+{
+  "series": "A Condition Called Love",
+  "thumbnail": "https://i.ibb.co/Jv1YyC0/image.png",
+  "season": 1,
+  "episode": 7,
+  "episode_title": "Episode 7",
+  "episode_main_poster": "https://i.ibb.co/Jv1YyC0/image.png",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/m8Qtu1J4gF07eHCVJIuRRzuiGRL.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/m8Qtu1J4gF07eHCVJIuRRzuiGRL.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/Pq7wG0AZ3aZf/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/embed-amc1dtjmtvld.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://short.icu/q987_Bd2X"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/uklcfl3"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/ih50vh4"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/xbhjo49"
+    },
+    {
+      "option": 7,
+      "real_video": "https://play.zephyrflick.top/video/d92871c9c3bdac4f3a6fb4458ca07c9a"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/3133f88cbe33bcd01a6ba439d75ae996"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "series": "Lookism",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/3b3C7FWpQQa15J02x2zp53D8imF.jpg",
+  "season": 1,
+  "episode": 8,
+  "episode_title": "Episode 8",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/3b3C7FWpQQa15J02x2zp53D8imF.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/95zQgitZW29ZOknCZ0j4IMbwtzN.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/95zQgitZW29ZOknCZ0j4IMbwtzN.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/woqxrcVdtLoa/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/pj4ga1f4wz5q.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://short.icu/l9IFMJIQ56"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/fqwpw00"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/dpha85e"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/naxg9ku"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/dfd7468ac613286cdbb40872c8ef3b06"
+    }
+  ]
+}

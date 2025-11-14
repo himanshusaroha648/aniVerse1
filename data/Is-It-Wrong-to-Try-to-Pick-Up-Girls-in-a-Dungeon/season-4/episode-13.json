@@ -1,0 +1,25 @@
+{
+  "series": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/h97iHupymkJXBv0gyr4qlePhKAk.jpg",
+  "season": 4,
+  "episode": 13,
+  "episode_title": "Episode 13",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/h97iHupymkJXBv0gyr4qlePhKAk.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/iT8iyYsBZib5G0Dl9GjA1pbIgMK.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/iT8iyYsBZib5G0Dl9GjA1pbIgMK.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/IaYcIfRl-3"
+    },
+    {
+      "option": 2,
+      "real_video": "https://vidmoly.net/embed-5id3z9um0530.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/vuyfZofy45ml/"
+    }
+  ]
+}

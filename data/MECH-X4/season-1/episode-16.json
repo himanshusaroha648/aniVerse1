@@ -1,0 +1,49 @@
+{
+  "series": "MECH-X4",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/acHYpTfMVKHxpI91Y6qjR4w75VC.jpg",
+  "season": 1,
+  "episode": 16,
+  "episode_title": "Episode 16",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/acHYpTfMVKHxpI91Y6qjR4w75VC.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/pRJCatx0aM4Fqu0sdcEFG4eGrGk.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/pRJCatx0aM4Fqu0sdcEFG4eGrGk.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://rubystm.com/e/lu9unk1gimes.html"
+    },
+    {
+      "option": 2,
+      "real_video": "https://cloudy.upns.one/#porvqd"
+    },
+    {
+      "option": 3,
+      "real_video": "https://strmup.to/XWdRAEMlQLimp"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/f7rmx2g"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/dgs0chp"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/uq47sge"
+    },
+    {
+      "option": 7,
+      "real_video": "https://turbovidhls.com/t/690250fd54162"
+    },
+    {
+      "option": 8,
+      "real_video": "https://vidmoly.net/embed-b7dcbd6n7mo0.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://short.icu/Pb2JhAy18"
+    }
+  ]
+}

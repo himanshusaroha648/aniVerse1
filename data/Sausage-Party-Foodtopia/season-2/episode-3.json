@@ -1,0 +1,53 @@
+{
+  "series": "Sausage Party: Foodtopia",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/cPLk5uvh0Am0UQlxRP4xqNcVQD3.jpg",
+  "season": 2,
+  "episode": 3,
+  "episode_title": "Episode 3",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/cPLk5uvh0Am0UQlxRP4xqNcVQD3.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/99DrGMR2G6ImnAYsAamqKhpSGhu.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/99DrGMR2G6ImnAYsAamqKhpSGhu.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://rubystm.com/e/aiv7ngo0ktz7.html"
+    },
+    {
+      "option": 2,
+      "real_video": "https://cloudy.upns.one/#lowfgr"
+    },
+    {
+      "option": 3,
+      "real_video": "https://strmup.to/ByQ78U3fqXsFR"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/jwhbpho"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/um638x8"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/qcnr6hi"
+    },
+    {
+      "option": 7,
+      "real_video": "https://emturbovid.com/t/689cb03eefe88"
+    },
+    {
+      "option": 8,
+      "real_video": "https://vidmoly.net/embed-3jhifx5apdtt.html"
+    },
+    {
+      "option": 9,
+      "real_video": "https://play.zephyrflick.top/video/3292c5c2ca71351a9406a9614e147ad3"
+    },
+    {
+      "option": null,
+      "real_video": "https://short.icu/yoLbN9Vb_"
+    }
+  ]
+}

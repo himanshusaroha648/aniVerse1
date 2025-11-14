@@ -1,0 +1,45 @@
+{
+  "series": "The Strongest Tank's Labyrinth Raids",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/3Uf8L7wl4dokMukJ855cBLVxQj5.jpg",
+  "season": 1,
+  "episode": 4,
+  "episode_title": "Episode 4",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/3Uf8L7wl4dokMukJ855cBLVxQj5.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/kj3sM3OHC5AtCBUVlfvRfpq3VdD.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/kj3sM3OHC5AtCBUVlfvRfpq3VdD.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/zlOhRmRj2TLd/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/5kios3exsz5p.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://vidmoly.me/embed-mgfh5xx9nkql.html"
+    },
+    {
+      "option": 4,
+      "real_video": "https://short.icu/imWi0ZSkN"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/sa0tjss"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/lu152jn"
+    },
+    {
+      "option": 7,
+      "real_video": "https://gdmirrorbot.nl/embed/f265vam"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/c5a73f074ec0f725cd2d51335da5ec77"
+    }
+  ]
+}

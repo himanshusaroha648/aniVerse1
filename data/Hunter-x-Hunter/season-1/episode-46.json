@@ -1,0 +1,37 @@
+{
+  "series": "Hunter x Hunter",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/ucpgmUR1h5Te1BYegKItoPjOeF7.jpg",
+  "season": 1,
+  "episode": 46,
+  "episode_title": "Episode 46",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/ucpgmUR1h5Te1BYegKItoPjOeF7.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/jxK8tVxssyrKQuxG3YCqHMu8cWs.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/jxK8tVxssyrKQuxG3YCqHMu8cWs.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://rubystm.com/e/nnjp4fnknrtw.html"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/Wtd3rY09d"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/m70vzgd"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/maad3t3"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/zvyzz8q"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/aytPezitpAil/"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "series": "Assassination Classroom",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/leBY2xtNXG4cwT9K4zxlBUS86Sz.jpg",
+  "season": 1,
+  "episode": 14,
+  "episode_title": "Episode 14",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/leBY2xtNXG4cwT9K4zxlBUS86Sz.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/cyIBKcwzrHPTT1PZa8V41Krh3f.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/cyIBKcwzrHPTT1PZa8V41Krh3f.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/vDF2b5l7XjFx/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/embed-2wfa08c489rc.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://short.icu/O2SfphQOH"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/xyjecqe"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/rs24csd"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/nre8ef5"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/2bd7f907b7f5b6bbd91822c0c7b835f6"
+    }
+  ]
+}

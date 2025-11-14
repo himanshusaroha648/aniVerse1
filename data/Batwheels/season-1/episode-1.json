@@ -1,0 +1,29 @@
+{
+  "series": "Batwheels",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/2ULWo7qnQvj6KkcgLEOYfwbkspQ.jpg",
+  "season": 1,
+  "episode": 1,
+  "episode_title": "Episode 1",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/2ULWo7qnQvj6KkcgLEOYfwbkspQ.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/aXVqlyjFZjRQ033GRhLK90qcRs4.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/aXVqlyjFZjRQ033GRhLK90qcRs4.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://streamsb.net/e/dsp72dqj2xi6.html"
+    },
+    {
+      "option": 2,
+      "real_video": "https://filelions.online/v/d99fbx8r0k92"
+    },
+    {
+      "option": 3,
+      "real_video": "https://filemoon.to/e/xea9edgjvca3/_Toonhub4u__Batwheels_Season_1_Episode_1_in_Multi_Audio_480p"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/4cAalO9E5ibf/"
+    }
+  ]
+}

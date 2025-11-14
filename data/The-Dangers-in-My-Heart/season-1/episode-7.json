@@ -1,0 +1,37 @@
+{
+  "series": "The Dangers in My Heart",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/mKhMmREBOKXtp3tlv9rnLRxZec5.jpg",
+  "season": 1,
+  "episode": 7,
+  "episode_title": "Episode 7",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/mKhMmREBOKXtp3tlv9rnLRxZec5.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/xO9aHj6z9sR5vzGwmaFk0MGibXM.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/xO9aHj6z9sR5vzGwmaFk0MGibXM.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/3Pr8-aWgJ"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/lf43rxc"
+    },
+    {
+      "option": 3,
+      "real_video": "https://vidstreaming.xyz/v/75C4FWLrToqL/"
+    },
+    {
+      "option": 4,
+      "real_video": "https://short.icu/4FtUd-P2R"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/ujieppo"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/8hYvP7frY3mx/"
+    }
+  ]
+}

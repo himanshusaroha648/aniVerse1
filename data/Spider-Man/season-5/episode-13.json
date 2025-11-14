@@ -1,0 +1,17 @@
+{
+  "series": "Spider-Man",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/peN9aqevr0edVoctVKGZDWFdTRl.jpg",
+  "season": 5,
+  "episode": 13,
+  "episode_title": "Episode 13",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/peN9aqevr0edVoctVKGZDWFdTRl.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/mSvy3PBKsjxYvik41UI1m6DtKXT.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/mSvy3PBKsjxYvik41UI1m6DtKXT.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/4FERl4EUxTor/"
+    }
+  ]
+}

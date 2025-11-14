@@ -1,0 +1,41 @@
+{
+  "series": "Log Horizon",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/vrCAD2KvtGJPwABIPd4z0gChi4g.jpg",
+  "season": 2,
+  "episode": 10,
+  "episode_title": "Episode 10",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/vrCAD2KvtGJPwABIPd4z0gChi4g.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/h59sSQKoMODWIfYAe3AVsMMINzg.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/h59sSQKoMODWIfYAe3AVsMMINzg.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/4000MOxoIOJw/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/tor9mu0r2esm.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://short.icu/jNo1Kl6tl4"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/locdvvo"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/u6v5ddx"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/w1ij0a8"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/a424ed4bd3a7d6aea720b86d4a360f75"
+    }
+  ]
+}

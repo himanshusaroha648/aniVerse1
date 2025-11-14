@@ -1,0 +1,33 @@
+{
+  "series": "Ben 10: Ultimate Alien",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/n4KwrlUKO9S4GvOdZzmnz4zOxx7.jpg",
+  "season": 1,
+  "episode": 6,
+  "episode_title": "Episode 6",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/n4KwrlUKO9S4GvOdZzmnz4zOxx7.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/u8r4h5BHOmY4n2CT2XZBiKHlfGA.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/u8r4h5BHOmY4n2CT2XZBiKHlfGA.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/3T2CqjYjo"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/embed-9h9cgehn4fue.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/zz39fbm"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/rvu6p5l"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/FN2qdQg6JH5L/"
+    }
+  ]
+}

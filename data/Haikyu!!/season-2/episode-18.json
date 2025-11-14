@@ -1,0 +1,33 @@
+{
+  "series": "Haikyu!!",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/ecQ84z2sR0XapZu435MnFuEBzD8.jpg",
+  "season": 2,
+  "episode": 18,
+  "episode_title": "Episode 18",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/ecQ84z2sR0XapZu435MnFuEBzD8.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/2FLRyKX0qLipLwghrK0W1a7V6ob.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/2FLRyKX0qLipLwghrK0W1a7V6ob.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/rRPhmZRUKI"
+    },
+    {
+      "option": 2,
+      "real_video": "https://vidmoly.net/embed-8de1haznstsg.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://vidstreaming.xyz/v/2XSJCaJkcQaS/"
+    },
+    {
+      "option": 4,
+      "real_video": "https://short.icu/OPPQDcL8J"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/xbIQTxNilBRG/"
+    }
+  ]
+}

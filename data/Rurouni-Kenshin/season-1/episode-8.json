@@ -1,0 +1,41 @@
+{
+  "series": "Rurouni Kenshin",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/jCMbKOH4iootEBXNa5e4jKoeTSU.jpg",
+  "season": 1,
+  "episode": 8,
+  "episode_title": "Episode 8",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/jCMbKOH4iootEBXNa5e4jKoeTSU.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/tODZiUYRms7CrgYVu0OGAvQNSCa.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/tODZiUYRms7CrgYVu0OGAvQNSCa.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/4ODUjcUu5DEM/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/h8lh09k8wtlr.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://short.icu/5y-5B1tw0"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/bkxjy56"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/egde3p2"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/zhy9lxu"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/1e6e0a04d20f50967c64dac2d639a577"
+    }
+  ]
+}

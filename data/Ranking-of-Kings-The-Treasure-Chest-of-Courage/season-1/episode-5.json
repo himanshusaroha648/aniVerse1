@@ -1,0 +1,53 @@
+{
+  "series": "Ranking of Kings: The Treasure Chest of Courage",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/9txbeJIHla2QXW3bGi3pgjIsVp5.jpg",
+  "season": 1,
+  "episode": 5,
+  "episode_title": "Episode 5",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/9txbeJIHla2QXW3bGi3pgjIsVp5.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/t5M7GUMZyfb4nR8nk7zxRwkN6q1.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/t5M7GUMZyfb4nR8nk7zxRwkN6q1.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/YXhE7itkp"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/fzvpznk6qtvb.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#v1te68"
+    },
+    {
+      "option": 4,
+      "real_video": "https://strmup.to/0sK15aHpZP2Ti"
+    },
+    {
+      "option": 5,
+      "real_video": "https://turbovidhls.com/t/680a4d9ef13e5"
+    },
+    {
+      "option": 6,
+      "real_video": "https://vidmoly.net/embed-wreo48703m1o.html"
+    },
+    {
+      "option": 7,
+      "real_video": "https://gdmirrorbot.nl/embed/z0ai310"
+    },
+    {
+      "option": 8,
+      "real_video": "https://gdmirrorbot.nl/embed/sdqpjhg"
+    },
+    {
+      "option": 9,
+      "real_video": "https://gdmirrorbot.nl/embed/gxy91w7"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/86b901f502ab8e135137f2083b91f3ec"
+    }
+  ]
+}

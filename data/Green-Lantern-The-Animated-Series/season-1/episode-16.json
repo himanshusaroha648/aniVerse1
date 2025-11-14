@@ -1,0 +1,33 @@
+{
+  "series": "Green Lantern: The Animated Series",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/qSSFP3va0q2WL2a2DzcdcjVe463.jpg",
+  "season": 1,
+  "episode": 16,
+  "episode_title": "Episode 16",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/qSSFP3va0q2WL2a2DzcdcjVe463.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/x1tjkULHTKsm5MUX9io0WwweU3Y.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/x1tjkULHTKsm5MUX9io0WwweU3Y.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/mdNVPTpXs"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/mclwi31"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/si5ttjo"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/un0nk0r"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/4AwAI9Evh3p0/"
+    }
+  ]
+}

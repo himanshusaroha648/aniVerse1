@@ -1,0 +1,57 @@
+{
+  "series": "Zatch Bell!",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/1JaCkXXU7gB8tHmvuzpu36CgGr1.jpg",
+  "season": 1,
+  "episode": 9,
+  "episode_title": "Episode 9",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/1JaCkXXU7gB8tHmvuzpu36CgGr1.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/p2sjE4JW604sqYYQYSzELTpFIy.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/p2sjE4JW604sqYYQYSzELTpFIy.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/JyWP1mKJo"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/zxmedosis6xk.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#h66wo"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/kjb9nm3"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/fkqjo37"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/b0kv5bn"
+    },
+    {
+      "option": 7,
+      "real_video": "https://emturbovid.com/t/67ab72b8eb502"
+    },
+    {
+      "option": 8,
+      "real_video": "https://vidstreaming.xyz/v/VuQEtyGBo5Z2/"
+    },
+    {
+      "option": 9,
+      "real_video": "https://short.icu/dvPqllTVa"
+    },
+    {
+      "option": 10,
+      "real_video": "https://gdmirrorbot.nl/embed/c0v9jc0"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/azlxXJHSfR3t/"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "series": "I'll Become a Villainess Who Goes Down in History",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/lTDWs3IjKwiBz00c8bzVmrgLa3A.jpg",
+  "season": 1,
+  "episode": 4,
+  "episode_title": "Episode 4",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/lTDWs3IjKwiBz00c8bzVmrgLa3A.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/u74UjSS69QikgtQ0GCeYXzGr7rq.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/u74UjSS69QikgtQ0GCeYXzGr7rq.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/DWb4wYCqwFdw/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/jXtWNVnxR"
+    },
+    {
+      "option": 3,
+      "real_video": "https://rubystm.com/e/w6s4yq8x6i0u.html"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/hoy31jh"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/o0vzdz8"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/mldw5db"
+    },
+    {
+      "option": 7,
+      "real_video": "https://emturbovid.com/t/6734807112477"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/f7f580e11d00a75814d2ded41fe8e8fe"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "series": "Wistoria: Wand and Sword",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/5zfCyzblaQ1Cq654rNjEHYTmgMZ.jpg",
+  "season": 1,
+  "episode": 12,
+  "episode_title": "Episode 12",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/5zfCyzblaQ1Cq654rNjEHYTmgMZ.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/2fxclTqjg9gf2Bn4NxtpQGo6wsk.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/2fxclTqjg9gf2Bn4NxtpQGo6wsk.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/x95otSLFjKeu/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/3sx8ahc0J"
+    },
+    {
+      "option": 3,
+      "real_video": "https://rubystm.com/e/4yv4phvmoeio.html"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/om52nom"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/lcxcx8n"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/uk7ysji"
+    },
+    {
+      "option": 7,
+      "real_video": "https://emturbovid.com/t/6715d5847ae35"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/90599c8fdd2f6e7a03ad173e2f535751"
+    }
+  ]
+}

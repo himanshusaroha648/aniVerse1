@@ -1,0 +1,53 @@
+{
+  "series": "Welcome to the Outcast's Restaurant!",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/1IJigiaXgp8qvjwlRVFYhP71z8Q.jpg",
+  "season": 1,
+  "episode": 7,
+  "episode_title": "Episode 7",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/1IJigiaXgp8qvjwlRVFYhP71z8Q.jpg",
+  "episode_card_thumbnail": "https://toonstream.love/wp-content/themes/torofilm/public/img/cnt/noimg-episode.png",
+  "episode_list_thumbnail": "https://toonstream.love/wp-content/themes/torofilm/public/img/cnt/noimg-episode.png",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/GQQmuoVZug"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/flwwxh581jdh.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#v1l86v"
+    },
+    {
+      "option": 4,
+      "real_video": "https://strmup.to/eJGv6hHcKBCrl"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/ftcq2a0"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/plr8lk7"
+    },
+    {
+      "option": 7,
+      "real_video": "https://gdmirrorbot.nl/embed/imist3z"
+    },
+    {
+      "option": 8,
+      "real_video": "https://emturbovid.com/t/689dfb90cb3ef"
+    },
+    {
+      "option": 9,
+      "real_video": "https://vidmoly.net/embed-yugkl40nbchq.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/30fdec73f395aaec13bbe56565be4353"
+    }
+  ]
+}

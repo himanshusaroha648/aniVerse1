@@ -1,0 +1,17 @@
+{
+  "series": "Dragon Raja -The Blazing Dawn-",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/4OxjZt3Evt0UY65Ozr4C4S895CO.jpg",
+  "season": 1,
+  "episode": 5,
+  "episode_title": "Episode 5",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/4OxjZt3Evt0UY65Ozr4C4S895CO.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/kDREZ1MpDPQ4DGtzdqMdQ4CQbmu.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/kDREZ1MpDPQ4DGtzdqMdQ4CQbmu.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/68SIZwMohmKQ/"
+    }
+  ]
+}

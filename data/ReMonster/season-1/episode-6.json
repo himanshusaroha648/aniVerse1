@@ -1,0 +1,37 @@
+{
+  "series": "Re:Monster",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/AmFrA0jX0p9twH1IKfxcGWVz2X3.jpg",
+  "season": 1,
+  "episode": 6,
+  "episode_title": "Episode 6",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/AmFrA0jX0p9twH1IKfxcGWVz2X3.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/nKd3TEFW3CQ6z6o4ueS4f9aUU8k.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/nKd3TEFW3CQ6z6o4ueS4f9aUU8k.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/c2X4zX6Mb"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/qqiy99rvmlzx"
+    },
+    {
+      "option": 3,
+      "real_video": "https://vidcloud.upns.ink/#ponaix"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/p307yg1"
+    },
+    {
+      "option": 5,
+      "real_video": "https://emturbovid.com/t/6906bf439c912"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/eb453b86e59bbc3c6c3ec9f352469319"
+    }
+  ]
+}

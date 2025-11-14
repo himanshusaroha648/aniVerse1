@@ -1,0 +1,33 @@
+{
+  "series": "Code Geass: Lelouch of the Rebellion",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/nF0qzl8jfQYxynra99WrC1zFq4C.jpg",
+  "season": 1,
+  "episode": 22,
+  "episode_title": "Episode 22",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/nF0qzl8jfQYxynra99WrC1zFq4C.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/72PdUuA7KqZnhoRRCLvfY9z7p1Y.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/72PdUuA7KqZnhoRRCLvfY9z7p1Y.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/elf8ez2u13Mq/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/p87r3qpzzmb4.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://vidmoly.me/w/23s5ffeuhr4p"
+    },
+    {
+      "option": 4,
+      "real_video": "https://short.icu/Vva_7S_6j"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/9fdef890a0a6f2496628626367d39280"
+    }
+  ]
+}

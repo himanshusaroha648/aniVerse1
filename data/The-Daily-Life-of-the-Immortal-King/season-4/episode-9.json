@@ -1,0 +1,41 @@
+{
+  "series": "The Daily Life of the Immortal King",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/yYcLpRqEZtfUpQCUqm1DGfl47d6.jpg",
+  "season": 4,
+  "episode": 9,
+  "episode_title": "Episode 9",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/yYcLpRqEZtfUpQCUqm1DGfl47d6.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/g60I9SCA39skbzRMMbIfvfR88sw.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/g60I9SCA39skbzRMMbIfvfR88sw.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/CzakawaZJp2d/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/n6aai01i1aup.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://short.icu/4845cNZof"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/ha99qqz"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/lcx5let"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/fyhnolm"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/ca75910166da03ff9d4655a0338e6b09"
+    }
+  ]
+}

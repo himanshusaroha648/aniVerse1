@@ -1,0 +1,25 @@
+{
+  "series": "Bleach",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
+  "season": 1,
+  "episode": 84,
+  "episode_title": "Episode 84",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/zKFFBGv3pSmp6V1h7VYljvgf1Oe.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/zKFFBGv3pSmp6V1h7VYljvgf1Oe.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/QnaMj2kOO"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/aa9hipx"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/6vrjNpMGNZP2/"
+    }
+  ]
+}

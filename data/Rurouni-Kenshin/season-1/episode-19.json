@@ -1,0 +1,41 @@
+{
+  "series": "Rurouni Kenshin",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/jCMbKOH4iootEBXNa5e4jKoeTSU.jpg",
+  "season": 1,
+  "episode": 19,
+  "episode_title": "Episode 19",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/jCMbKOH4iootEBXNa5e4jKoeTSU.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/sCRmUWdVUb1EB1Mju8nP0PgNhDr.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/sCRmUWdVUb1EB1Mju8nP0PgNhDr.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/7RvL9ULdvFEM/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/19uo5qzqe7mb.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://short.icu/uX82uhTqG"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/v0m3iqx"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/mxw3018"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/h83djdc"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/03f544613917945245041ea1581df0c2"
+    }
+  ]
+}

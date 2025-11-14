@@ -1,0 +1,25 @@
+{
+  "series": "The Ice Guy and His Cool Female Colleague",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/2nZrmcyMgYCHmNGKPX9NXfWEybH.jpg",
+  "season": 1,
+  "episode": 1,
+  "episode_title": "Episode 1",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/2nZrmcyMgYCHmNGKPX9NXfWEybH.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/5q4h8rKCeY2GmTJoc6VqVbFG6Lh.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/5q4h8rKCeY2GmTJoc6VqVbFG6Lh.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/VUkfI71Te"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/ttavwum"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/BW9IpEA3a5Vh/"
+    }
+  ]
+}

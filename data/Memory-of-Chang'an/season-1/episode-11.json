@@ -1,0 +1,21 @@
+{
+  "series": "Memory of Chang'an",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/qJEviUmd60NJmBG34DMy9leNz6.jpg",
+  "season": 1,
+  "episode": 11,
+  "episode_title": "Episode 11",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/qJEviUmd60NJmBG34DMy9leNz6.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/xYnEf4tEAY5i7mxDHPUOElZUGvU.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/xYnEf4tEAY5i7mxDHPUOElZUGvU.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/6r_zqTAxq"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/Gh2M48iN4S38/"
+    }
+  ]
+}

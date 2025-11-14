@@ -1,0 +1,33 @@
+{
+  "series": "The Perils of Penelope Pitstop",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/tEyhRt3ZlBdrIV03pdiK0OW4oZD.jpg",
+  "season": 1,
+  "episode": 4,
+  "episode_title": "Episode 4",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/tEyhRt3ZlBdrIV03pdiK0OW4oZD.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/fcH4MEpvAMTpk7yHs61T0bfNOG2.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/fcH4MEpvAMTpk7yHs61T0bfNOG2.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/V-548IfPQ"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/ceggdx2"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/wvdbn5e"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/vbmnbmw"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/ZUlLJn3g25uj/"
+    }
+  ]
+}

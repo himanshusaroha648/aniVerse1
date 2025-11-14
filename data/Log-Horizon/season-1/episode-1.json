@@ -1,0 +1,37 @@
+{
+  "series": "Log Horizon",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/vrCAD2KvtGJPwABIPd4z0gChi4g.jpg",
+  "season": 1,
+  "episode": 1,
+  "episode_title": "Episode 1",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/vrCAD2KvtGJPwABIPd4z0gChi4g.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/qBMIWMhOL7NRzLkPRQUyz3g1vhE.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/qBMIWMhOL7NRzLkPRQUyz3g1vhE.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/0A9Wka3Xzpo6/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/j146pr2zjay9.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://multimovies.cloud/e/juleao34sz52"
+    },
+    {
+      "option": 4,
+      "real_video": "https://filemoon.to/e/o1feb4l9gzzy/Toonhub4u_Log_Horizon_S01E01_BDRip_480p_Multi_Audio_ESub"
+    },
+    {
+      "option": 5,
+      "real_video": "https://filelions.online/v/1t1eoc52ds3w"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/d7a84628c025d30f7b2c52c958767e76"
+    }
+  ]
+}

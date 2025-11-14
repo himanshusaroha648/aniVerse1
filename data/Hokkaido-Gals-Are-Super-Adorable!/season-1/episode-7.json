@@ -1,0 +1,53 @@
+{
+  "series": "Hokkaido Gals Are Super Adorable!",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/nCJKNJ3rtgLDAhAN5S881z8PHKU.jpg",
+  "season": 1,
+  "episode": 7,
+  "episode_title": "Episode 7",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/nCJKNJ3rtgLDAhAN5S881z8PHKU.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/3DTp4fHhR27k2c5ce1Ws2dSrXQY.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/3DTp4fHhR27k2c5ce1Ws2dSrXQY.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/3USvCwYqQI"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/eltydrnz7ryk.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#85mkxj"
+    },
+    {
+      "option": 4,
+      "real_video": "https://strmup.to/yI7V8bKnhxzZd"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/gxvsm4c"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/am6m962"
+    },
+    {
+      "option": 7,
+      "real_video": "https://gdmirrorbot.nl/embed/nmyt7vw"
+    },
+    {
+      "option": 8,
+      "real_video": "https://emturbovid.com/t/6887a5f2c1d3a"
+    },
+    {
+      "option": 9,
+      "real_video": "https://vidmoly.net/embed-6312dh3nblry.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/8fecb20817b3847419bb3de39a609afe"
+    }
+  ]
+}

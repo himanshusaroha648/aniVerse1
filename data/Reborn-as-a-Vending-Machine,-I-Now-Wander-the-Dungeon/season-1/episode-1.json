@@ -1,0 +1,45 @@
+{
+  "series": "Reborn as a Vending Machine, I Now Wander the Dungeon",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/902JIF49zAyUdDyh1DNH0ZhSdBj.jpg",
+  "season": 1,
+  "episode": 1,
+  "episode_title": "Episode 1",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/902JIF49zAyUdDyh1DNH0ZhSdBj.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/ruHd27xIc5rvipM5YdIiVHM2yI8.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/ruHd27xIc5rvipM5YdIiVHM2yI8.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/aU4oZA4eRcBv/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://filemoon.to/e/tm36wgsb1t7c/_Toonhub4u__Reborn_as_a_Vending_Machine__I_Now_Wander_the_Dungeon_-_S01E01__Multi-Audio_720p_AAC___Multi-Subs_"
+    },
+    {
+      "option": 3,
+      "real_video": "https://filelions.online/v/mqsc9hs8g5nh"
+    },
+    {
+      "option": 4,
+      "real_video": "https://embedwish.com/e/kdskkpmqlvf8"
+    },
+    {
+      "option": 5,
+      "real_video": "https://embedwish.com/e/940k3eh1u74o"
+    },
+    {
+      "option": 6,
+      "real_video": "https://filemoon.to/e/9wr3x7s5y86x/_Toonhub4u__Reborn_as_a_Vending_Machine__I_Now_Wander_the_Dungeon_-_S01E01__Multi-Audio_480p_AAC___Multi-Subs_"
+    },
+    {
+      "option": 7,
+      "real_video": "https://filelions.online/v/c3ygmy6dkuec"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/439d8c975f26e5005dcdbf41b0d84161"
+    }
+  ]
+}

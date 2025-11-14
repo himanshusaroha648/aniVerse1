@@ -1,0 +1,37 @@
+{
+  "series": "Ronja the Robber's Daughter",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/pTnFZlLettuek3T9nSDQv1MAfjL.jpg",
+  "season": 1,
+  "episode": 21,
+  "episode_title": "Episode 21",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/pTnFZlLettuek3T9nSDQv1MAfjL.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/uFK2HsRpYfoajZTor5ubYFXuBqk.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/uFK2HsRpYfoajZTor5ubYFXuBqk.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://rubystm.com/e/y9paa946jxw1.html"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/lKiJxev5u"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/n7f1eu1"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/cfikywz"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/y6dfgcf"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/Q76y1N9mSR1X/"
+    }
+  ]
+}

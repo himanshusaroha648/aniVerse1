@@ -1,0 +1,41 @@
+{
+  "series": "Dragon Ball Super",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/qEUrbXJ2qt4Rg84Btlx4STOhgte.jpg",
+  "season": 1,
+  "episode": 38,
+  "episode_title": "Episode 38",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/qEUrbXJ2qt4Rg84Btlx4STOhgte.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/2Vxn8cySk6bfQUKc6w6iO0em6mc.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/2Vxn8cySk6bfQUKc6w6iO0em6mc.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/wJY08a6mA"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/70wphkgyg84g.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#cvlcsr"
+    },
+    {
+      "option": 4,
+      "real_video": "https://strmup.to/nNRwmWbq6Sjtc"
+    },
+    {
+      "option": 5,
+      "real_video": "https://turbovidhls.com/t/68b58ab021f72"
+    },
+    {
+      "option": 6,
+      "real_video": "https://vidmoly.net/embed-lk5957uhbg1p.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/ed77eab0b8ff85d0a6a8365df1846978"
+    }
+  ]
+}

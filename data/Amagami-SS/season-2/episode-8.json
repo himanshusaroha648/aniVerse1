@@ -1,0 +1,17 @@
+{
+  "series": "Amagami SS",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/fpMyFbUqu3eFl5Xm4sgGNEamrdE.jpg",
+  "season": 2,
+  "episode": 8,
+  "episode_title": "Episode 8",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/fpMyFbUqu3eFl5Xm4sgGNEamrdE.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/wQ6FPAS3njXRZEHuVB9HBz6Hgg3.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/wQ6FPAS3njXRZEHuVB9HBz6Hgg3.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/tHWXctgBJ6qV/"
+    }
+  ]
+}

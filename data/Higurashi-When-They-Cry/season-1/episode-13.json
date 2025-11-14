@@ -1,0 +1,25 @@
+{
+  "series": "Higurashi: When They Cry",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/z6GrUoKte5lzPxR7HWyiSLVieUC.jpg",
+  "season": 1,
+  "episode": 13,
+  "episode_title": "Episode 13",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/z6GrUoKte5lzPxR7HWyiSLVieUC.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/d2LeV8XSj2FqGvbma6aUfb7JAtH.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/d2LeV8XSj2FqGvbma6aUfb7JAtH.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/jLhzqMieU"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/wi7sw28"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/luEhTAiFR9Ig/"
+    }
+  ]
+}

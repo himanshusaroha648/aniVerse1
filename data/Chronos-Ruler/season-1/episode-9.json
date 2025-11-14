@@ -1,0 +1,17 @@
+{
+  "series": "Chronos Ruler",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/eU0CaUJk4q1Ms81SrF90EP9bbEK.jpg",
+  "season": 1,
+  "episode": 9,
+  "episode_title": "Episode 9",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/eU0CaUJk4q1Ms81SrF90EP9bbEK.jpg",
+  "episode_card_thumbnail": "https://toonstream.love/wp-content/themes/torofilm/public/img/cnt/noimg-episode.png",
+  "episode_list_thumbnail": "https://toonstream.love/wp-content/themes/torofilm/public/img/cnt/noimg-episode.png",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/I3BerdydUYgy/"
+    }
+  ]
+}

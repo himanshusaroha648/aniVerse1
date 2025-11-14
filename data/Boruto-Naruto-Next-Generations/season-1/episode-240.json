@@ -1,0 +1,25 @@
+{
+  "series": "Boruto: Naruto Next Generations",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/e0B6i48kxdRkMcK4tR4YNfXGWOc.jpg",
+  "season": 1,
+  "episode": 240,
+  "episode_title": "Episode 240",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/e0B6i48kxdRkMcK4tR4YNfXGWOc.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/rfxnFvt04eidbEHiijHHXXgKlM9.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/rfxnFvt04eidbEHiijHHXXgKlM9.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/Cmnbc0VSzjde/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/xAOxOwyCb"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/aXg6XZ06hbTm/"
+    }
+  ]
+}

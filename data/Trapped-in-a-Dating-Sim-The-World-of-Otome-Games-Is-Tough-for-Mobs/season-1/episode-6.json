@@ -1,0 +1,41 @@
+{
+  "series": "Trapped in a Dating Sim: The World of Otome Games Is Tough for Mobs",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/zQInUzmgvT4MgysqSiW95YBkz1w.jpg",
+  "season": 1,
+  "episode": 6,
+  "episode_title": "Episode 6",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/zQInUzmgvT4MgysqSiW95YBkz1w.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/i66pPpoSgvOH34x2hj6ntpKIB5v.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/i66pPpoSgvOH34x2hj6ntpKIB5v.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/Sh3Hm3UWzKRx/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/v166mfwipq4w.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://short.icu/BaAsgAxUV"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/c4oddr6"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/ulggifb"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/qquj4qk"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/35adf1ae7eb5734122c84b7a9ea5cc13"
+    }
+  ]
+}

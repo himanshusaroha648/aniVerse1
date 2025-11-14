@@ -1,0 +1,33 @@
+{
+  "series": "Yo-kai Watch",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/k8EM9rl22UAGtR2YUHNHsnMWggn.jpg",
+  "season": 1,
+  "episode": 4,
+  "episode_title": "Episode 4",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/k8EM9rl22UAGtR2YUHNHsnMWggn.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/jxBCEKpiReJR4xW5pSBewPwkTSW.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/jxBCEKpiReJR4xW5pSBewPwkTSW.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/9VRHZB81U"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/wgafb22"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/u1ccyks"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/eke3d23"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/NBdKQnVm9d4B/"
+    }
+  ]
+}

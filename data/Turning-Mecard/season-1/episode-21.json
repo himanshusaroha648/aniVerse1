@@ -1,0 +1,45 @@
+{
+  "series": "Turning Mecard",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/jCB2LIAChvAFyWe19U48H0uMrFb.jpg",
+  "season": 1,
+  "episode": 21,
+  "episode_title": "Episode 21",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/jCB2LIAChvAFyWe19U48H0uMrFb.jpg",
+  "episode_card_thumbnail": "https://toonstream.love/wp-content/themes/torofilm/public/img/cnt/noimg-episode.png",
+  "episode_list_thumbnail": "https://toonstream.love/wp-content/themes/torofilm/public/img/cnt/noimg-episode.png",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/ff22or4Om"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/5xp4q1lqkt6q.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#61sjf"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/nx5du6b"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/ukkbb0i"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/ohep789"
+    },
+    {
+      "option": 7,
+      "real_video": "https://emturbovid.com/t/6791fa8c1b4c6"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/7kIapWKuEydB/"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "series": "Kaiju No. 8",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/83yDUQVpdhv8ePy3nbTRzFaKYuQ.jpg",
+  "season": 2,
+  "episode": 9,
+  "episode_title": "Episode 9",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/83yDUQVpdhv8ePy3nbTRzFaKYuQ.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/h8nQPTHLDhDnAJXHROKGs14um2R.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/h8nQPTHLDhDnAJXHROKGs14um2R.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/XGieILsSa"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/ct4eu3299d93.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#j3lmwc"
+    },
+    {
+      "option": 4,
+      "real_video": "https://strmup.to/7Oti8p0W4L2xu"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/eoqlwel"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/fqsokra"
+    },
+    {
+      "option": 7,
+      "real_video": "https://gdmirrorbot.nl/embed/ksyqcz6"
+    },
+    {
+      "option": 8,
+      "real_video": "https://emturbovid.com/t/68c58e60038a6"
+    },
+    {
+      "option": 9,
+      "real_video": "https://vidmoly.net/embed-tsz2s69hiru8.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/698a2826fe9b85734ee6f3d543d73a80"
+    }
+  ]
+}

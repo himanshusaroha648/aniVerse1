@@ -1,0 +1,37 @@
+{
+  "series": "BLUE LOCK Multi Audio",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/sTDTy73OYmKY51EK94Mc6AxogzR.jpg",
+  "season": 1,
+  "episode": 3,
+  "episode_title": "Episode 3",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/sTDTy73OYmKY51EK94Mc6AxogzR.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/fqRdy7JwdDz7prYdSPRgkIh9VAe.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/fqRdy7JwdDz7prYdSPRgkIh9VAe.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/bjp38Pq7zaJ4/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/e6QwZF75N"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/ef3yytw"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/qp83jly"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/dn6bppo"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/5f93f983524def3dca464469d2cf9f3e"
+    }
+  ]
+}

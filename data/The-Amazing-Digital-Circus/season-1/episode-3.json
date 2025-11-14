@@ -1,0 +1,33 @@
+{
+  "series": "The Amazing Digital Circus",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/DP3elz7gDEkZbYnDyZk60CX7AA.jpg",
+  "season": 1,
+  "episode": 3,
+  "episode_title": "Episode 3",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/DP3elz7gDEkZbYnDyZk60CX7AA.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/1K5ZTet6GnJiDke7tOEcEDTzN6j.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/1K5ZTet6GnJiDke7tOEcEDTzN6j.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/X2qyAc6Ag"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/6q1hwdhj2tq5.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/l8equr0"
+    },
+    {
+      "option": 4,
+      "real_video": "https://animedekho.net/moly.php?url=kmm0jwlfxne6"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/cVIheaVYiOa1/"
+    }
+  ]
+}

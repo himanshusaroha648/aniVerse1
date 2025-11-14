@@ -1,0 +1,41 @@
+{
+  "series": "Reign of the Seven Spellblades",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/kqjLHtt539Sm6aasMvlJ7tuBr4i.jpg",
+  "season": 1,
+  "episode": 15,
+  "episode_title": "Episode 15",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/kqjLHtt539Sm6aasMvlJ7tuBr4i.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/4NnIP7L5VVTg7ilyS1G3sV9vhoZ.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/4NnIP7L5VVTg7ilyS1G3sV9vhoZ.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/Ih2xIZZqenUy/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/d2uis6ky3ipu.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://short.icu/HJBZ8FT7K"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/gobw6m5"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/pvlabjh"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/z208feh"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/4e0ccd2b894f717df5ebc12f4282ee70"
+    }
+  ]
+}

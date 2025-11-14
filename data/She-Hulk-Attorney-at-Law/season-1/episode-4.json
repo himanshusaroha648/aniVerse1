@@ -1,0 +1,25 @@
+{
+  "series": "She-Hulk: Attorney at Law",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/hJfI6AGrmr4uSHRccfJuSsapvOb.jpg",
+  "season": 1,
+  "episode": 4,
+  "episode_title": "Episode 4",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/hJfI6AGrmr4uSHRccfJuSsapvOb.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/tEgjEkcoA7JQyMec0Lpa4SaTKYC.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/tEgjEkcoA7JQyMec0Lpa4SaTKYC.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://filemoon.to/e/fgxn67ywo58u/_Toonhub4u__She_Hulk_Attorney_at_Law_Season_1_Episode_4_Multi_Audio__40_Hindi-Tam-Tel-Mal-Eng_41__Download_720p.mp4"
+    },
+    {
+      "option": 2,
+      "real_video": "https://watchsb.com/e/h3ywirg343wo.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/YZP4vEaahcHP/"
+    }
+  ]
+}

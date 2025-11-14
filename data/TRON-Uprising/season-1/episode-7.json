@@ -1,0 +1,29 @@
+{
+  "series": "TRON: Uprising",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/9KuIDiBuWQ5VjezynTZ8YJCPBsL.jpg",
+  "season": 1,
+  "episode": 7,
+  "episode_title": "Episode 7",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/9KuIDiBuWQ5VjezynTZ8YJCPBsL.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/jAyugtPg42xREkEjdzQLZFi9CDG.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/jAyugtPg42xREkEjdzQLZFi9CDG.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://filemoon.to/e/mg64lzpqflfo/_Toonhub4u__Tron_Uprising_Episode_7_in_Multi_Audio_720p_HD.mp4"
+    },
+    {
+      "option": 2,
+      "real_video": "https://watchsb.com/e/ac4z64yrq0ft.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://filepress.lol/video/63a3516d87dd61bedb246a72"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/l6npScJF8pvc/"
+    }
+  ]
+}

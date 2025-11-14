@@ -1,0 +1,53 @@
+{
+  "series": "Wolf King",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/dpZz6AFayW9wjHKbswvAKpa8tVr.jpg",
+  "season": 1,
+  "episode": 5,
+  "episode_title": "Episode 5",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/dpZz6AFayW9wjHKbswvAKpa8tVr.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/6sFOZSkqhPbcTqfrm4BSJZ3lBiE.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/6sFOZSkqhPbcTqfrm4BSJZ3lBiE.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/TY7q7oDn-"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/fceffalhd4zg.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#8tzfke"
+    },
+    {
+      "option": 4,
+      "real_video": "https://strmup.to/3EtdN7WXzuD6b"
+    },
+    {
+      "option": 5,
+      "real_video": "https://turbovidhls.com/t/67dc261fe01a2"
+    },
+    {
+      "option": 6,
+      "real_video": "https://vidmoly.net/embed-lafh8gvnmc1p.html"
+    },
+    {
+      "option": 7,
+      "real_video": "https://gdmirrorbot.nl/embed/r3f8ool"
+    },
+    {
+      "option": 8,
+      "real_video": "https://gdmirrorbot.nl/embed/hag0exf"
+    },
+    {
+      "option": 9,
+      "real_video": "https://gdmirrorbot.nl/embed/necpxje"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/e702100aa47b752bd7099ed3c9d9ea33"
+    }
+  ]
+}

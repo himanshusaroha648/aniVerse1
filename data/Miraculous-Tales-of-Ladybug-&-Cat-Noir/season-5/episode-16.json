@@ -1,0 +1,37 @@
+{
+  "series": "Miraculous: Tales of Ladybug & Cat Noir",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/psDcRgUX38cIeGeADwLRPyO7SYC.jpg",
+  "season": 5,
+  "episode": 16,
+  "episode_title": "Episode 16",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/psDcRgUX38cIeGeADwLRPyO7SYC.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/wW0ky8LvhNK56O6VXqjBWeQX4St.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/wW0ky8LvhNK56O6VXqjBWeQX4St.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://rubystm.com/e/m1zlgkwol8mi.html"
+    },
+    {
+      "option": 2,
+      "real_video": "https://cloudy.upns.one/#gh8kqv"
+    },
+    {
+      "option": 3,
+      "real_video": "https://strmup.to/3PaQ4deou6WOj"
+    },
+    {
+      "option": 4,
+      "real_video": "https://emturbovid.com/t/689a0042e6a78"
+    },
+    {
+      "option": 5,
+      "real_video": "https://vidmoly.net/embed-fhwy63bpa6mq.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://short.icu/O9DAftm8x"
+    }
+  ]
+}

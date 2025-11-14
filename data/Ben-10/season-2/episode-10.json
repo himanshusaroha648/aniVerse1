@@ -1,0 +1,25 @@
+{
+  "series": "Ben 10",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/pT0NlYVIkwM2zAw9oUkePwrOlxW.jpg",
+  "season": 2,
+  "episode": 10,
+  "episode_title": "Episode 10",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/pT0NlYVIkwM2zAw9oUkePwrOlxW.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/kJuDRvstgPilITQmYmKn1Ma3mGT.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/kJuDRvstgPilITQmYmKn1Ma3mGT.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://filemoon.to/e/r7ya8kfdy2ty/_Toonhub4u__Ben_10_Classic_S02E10_Tough_Luck_-_x264_-_AAC_Tamil-Telugu-Hindi-Eng_-_296_MB.mkv"
+    },
+    {
+      "option": 2,
+      "real_video": "https://streamsb.net/e/vf63o4y3uzcv.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/bSvcyZOBI7pq/"
+    }
+  ]
+}

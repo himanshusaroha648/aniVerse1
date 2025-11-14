@@ -1,0 +1,45 @@
+{
+  "series": "My Happy Marriage",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/gPqp4ux7rPETtjmjkW8Q2wXT1va.jpg",
+  "season": 1,
+  "episode": 6,
+  "episode_title": "Episode 6",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/gPqp4ux7rPETtjmjkW8Q2wXT1va.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/hsEzuzDmI1rESaAAedbe0GwHLEY.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/hsEzuzDmI1rESaAAedbe0GwHLEY.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/H8tjKp0iN"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/spfym40q5atz.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#uzcff"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/tnf1oxq"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/j84wcxx"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/za85xf2"
+    },
+    {
+      "option": 7,
+      "real_video": "https://emturbovid.com/t/675a58dceed9a"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/672cf3025399742b1a047c8dc6b1e992"
+    }
+  ]
+}

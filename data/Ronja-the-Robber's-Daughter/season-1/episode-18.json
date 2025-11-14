@@ -1,0 +1,33 @@
+{
+  "series": "Ronja the Robber's Daughter",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/pTnFZlLettuek3T9nSDQv1MAfjL.jpg",
+  "season": 1,
+  "episode": 18,
+  "episode_title": "Episode 18",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/pTnFZlLettuek3T9nSDQv1MAfjL.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/ffogWhhbfG9q8g47HiZt9WMLf2w.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/ffogWhhbfG9q8g47HiZt9WMLf2w.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://rubystm.com/e/j23ad855ntkh.html"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/vq36abh"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/xw9o1uc"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/wusba3w"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/rtg4XEoRAzuV/"
+    }
+  ]
+}

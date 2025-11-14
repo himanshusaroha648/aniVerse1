@@ -1,0 +1,49 @@
+{
+  "series": "Berserk of Gluttony",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/9PUje9mf3eqmUKWAkma8YtjT7a5.jpg",
+  "season": 1,
+  "episode": 6,
+  "episode_title": "Episode 6",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/9PUje9mf3eqmUKWAkma8YtjT7a5.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/3zCR7yG8DkAxwuAzrvfa7R4kOs2.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/3zCR7yG8DkAxwuAzrvfa7R4kOs2.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/Yn2UUJMaBcig/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/LuWY3YDvJ"
+    },
+    {
+      "option": 3,
+      "real_video": "https://rubystm.com/embed-kvj5uajd7pfk.html"
+    },
+    {
+      "option": 4,
+      "real_video": "https://cloudy.upns.one/#5osmg"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/n1la9qn"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/g2yjbiz"
+    },
+    {
+      "option": 7,
+      "real_video": "https://gdmirrorbot.nl/embed/d2p71gr"
+    },
+    {
+      "option": 8,
+      "real_video": "https://emturbovid.com/t/6788e036d65d3"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/9c36b930df0e0e8b05d4e1fcb4cdef27"
+    }
+  ]
+}

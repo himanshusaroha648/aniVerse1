@@ -1,0 +1,41 @@
+{
+  "series": "Viral Hit",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/hHATuuAZTZxlkwK2fEk7y42cKFT.jpg",
+  "season": 1,
+  "episode": 7,
+  "episode_title": "Episode 7",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/hHATuuAZTZxlkwK2fEk7y42cKFT.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/xYGbuqpmYmuzYbHYIP1jQ55n1oL.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/xYGbuqpmYmuzYbHYIP1jQ55n1oL.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/uaVgTKfvPOAE/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/z92wx4nnfyjg.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://short.icu/0cnCXeUlN"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/um18djy"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/d7twhc5"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/vx4tlti"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/5f0f5e5f33945135b874349cfbed4fb9"
+    }
+  ]
+}

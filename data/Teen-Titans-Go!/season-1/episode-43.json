@@ -1,0 +1,33 @@
+{
+  "series": "Teen Titans Go!",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/mTMAxrRaDp0TFpdFVinD3grrqr9.jpg",
+  "season": 1,
+  "episode": 43,
+  "episode_title": "Episode 43",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/mTMAxrRaDp0TFpdFVinD3grrqr9.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/1H0mOJAbT197zK1E37mzfd1HbKR.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/1H0mOJAbT197zK1E37mzfd1HbKR.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/QNMm3xWfv"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/mztdscu"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/b9fd3iv"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/tsmh79v"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/5ZTMfDq9fjGx/"
+    }
+  ]
+}

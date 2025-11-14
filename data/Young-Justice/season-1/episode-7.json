@@ -1,0 +1,29 @@
+{
+  "series": "Young Justice",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/y6oejQ0RGFZYILobsvze8F0xWEY.jpg",
+  "season": 1,
+  "episode": 7,
+  "episode_title": "Episode 7",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/y6oejQ0RGFZYILobsvze8F0xWEY.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/vvnsHCID7u6XoVUmcs7y7VBhG0f.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/vvnsHCID7u6XoVUmcs7y7VBhG0f.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/9Mn1x6TbAtSG/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://streamsb.net/e/jvvm6lbcaan5.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://filemoon.to/e/01ekxgngayhl/_Toonhub4u__Young_Justice_Season_1_Episode_7_in_Multi_Audio_480p.mp4"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/a9df2255ad642b923d95503b9a7958d8"
+    }
+  ]
+}

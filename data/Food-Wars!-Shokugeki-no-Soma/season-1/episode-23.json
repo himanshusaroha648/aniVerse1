@@ -1,0 +1,53 @@
+{
+  "series": "Food Wars! Shokugeki no Soma",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/drteIrKPh0qaTYitGkxAOKoidsR.jpg",
+  "season": 1,
+  "episode": 23,
+  "episode_title": "Episode 23",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/drteIrKPh0qaTYitGkxAOKoidsR.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/oP1ZjGl0t0wj7XgOFa7NCl2y8lG.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/oP1ZjGl0t0wj7XgOFa7NCl2y8lG.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/hn_SrHZSo"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/yz1jpspojmth.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#6psx8d"
+    },
+    {
+      "option": 4,
+      "real_video": "https://strmup.to/C7wo4pDxgHIkG"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/ktielmq"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/rf1heky"
+    },
+    {
+      "option": 7,
+      "real_video": "https://gdmirrorbot.nl/embed/lznusy1"
+    },
+    {
+      "option": 8,
+      "real_video": "https://emturbovid.com/t/68f63b87f34d4"
+    },
+    {
+      "option": 9,
+      "real_video": "https://vidmoly.net/embed-kqwqgy9mehzr.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/af4161293572560283efc7a6ee751f1b"
+    }
+  ]
+}

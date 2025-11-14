@@ -1,0 +1,25 @@
+{
+  "series": "Cyberpunk: Edgerunners",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/7jSWOc6jWSw5hZ78HB8Hw3pJxuk.jpg",
+  "season": 1,
+  "episode": 4,
+  "episode_title": "Episode 4",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/7jSWOc6jWSw5hZ78HB8Hw3pJxuk.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/xLIU1uJtwWe1jCTrTLZNjAReOZr.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/xLIU1uJtwWe1jCTrTLZNjAReOZr.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/Z1sEyNYw6"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/2o5pzn9tr4dz.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/8OcfLBg9T7R1/"
+    }
+  ]
+}

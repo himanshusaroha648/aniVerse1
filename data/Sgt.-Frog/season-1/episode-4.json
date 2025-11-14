@@ -1,0 +1,29 @@
+{
+  "series": "Sgt. Frog",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/irBnC4N8XcVTnvKs8BqBmwyYBxC.jpg",
+  "season": 1,
+  "episode": 4,
+  "episode_title": "Episode 4",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/irBnC4N8XcVTnvKs8BqBmwyYBxC.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/2VqIKQ1SZs1btvt8R87mPRgCMPV.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/2VqIKQ1SZs1btvt8R87mPRgCMPV.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://rubystm.com/e/yj9qfvvmr0k1.html"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/XzSQ4Rw7e"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/ilwekhv"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/pkKBWJ9D9eew/"
+    }
+  ]
+}

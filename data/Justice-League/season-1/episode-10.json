@@ -1,0 +1,33 @@
+{
+  "series": "Justice League",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/caIAQIoM9NLZofT8fz8t47W1gYe.jpg",
+  "season": 1,
+  "episode": 10,
+  "episode_title": "Episode 10",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/caIAQIoM9NLZofT8fz8t47W1gYe.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/tco3Ok9wrndma4yVjnUJFfGkWLX.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/tco3Ok9wrndma4yVjnUJFfGkWLX.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/tvM4G5YsG"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/r4rchew"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/hz5hj00"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/miu2k4z"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/L6ZfTiRzaOHB/"
+    }
+  ]
+}

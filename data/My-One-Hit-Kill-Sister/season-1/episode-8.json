@@ -1,0 +1,25 @@
+{
+  "series": "My One-Hit Kill Sister",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/hQEgYVrTUxV0yXqLxdwdXIaofGt.jpg",
+  "season": 1,
+  "episode": 8,
+  "episode_title": "Episode 8",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/hQEgYVrTUxV0yXqLxdwdXIaofGt.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/rfgVWUN718vgGSl4VyRzJfSwB1V.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/rfgVWUN718vgGSl4VyRzJfSwB1V.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/DuJmKUj98t1N/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://filemoon.to/e/ey58eifpdu3c/_Toonhub4u__My_One_Hit_Kill_Sister_Season_1_Episode_8_in_Hindi.mp4"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/b87039703fe79778e9f140b78621d7fb"
+    }
+  ]
+}

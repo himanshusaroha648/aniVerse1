@@ -1,0 +1,37 @@
+{
+  "series": "JoJo's Bizarre Adventure",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/kX9noqY0YpOPKwXpRXYg1hEIqmM.jpg",
+  "season": 2,
+  "episode": 19,
+  "episode_title": "Episode 19",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/kX9noqY0YpOPKwXpRXYg1hEIqmM.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/4r3BvItPiJr4MrfzMoSRSGhRp1z.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/4r3BvItPiJr4MrfzMoSRSGhRp1z.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/Vy0ixmJhGBoD/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/So7QN778S"
+    },
+    {
+      "option": 3,
+      "real_video": "https://rubystm.com/e/k57sut91aece.html"
+    },
+    {
+      "option": 4,
+      "real_video": "https://cloudy.upns.one/#8tsn6t"
+    },
+    {
+      "option": 5,
+      "real_video": "https://emturbovid.com/t/683415a7395f6"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/2aa99900aa004f52980b7c2cad7ed31a"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "series": "Castlevania: Nocturne",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/u29JxmpccPx040LReImilgUo6j7.jpg",
+  "season": 1,
+  "episode": 6,
+  "episode_title": "Episode 6",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/u29JxmpccPx040LReImilgUo6j7.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/wLSenC11V8f5cKi9D8rE9IjaGFG.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/wLSenC11V8f5cKi9D8rE9IjaGFG.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/uaJCUhbdc5ar/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/lt4sh2j0f8rj.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://multimovies.cloud/e/byh1lfhe5gza"
+    },
+    {
+      "option": 4,
+      "real_video": "https://filemoon.to/e/ztkue5f798qv/Toonhub4u_Castlevania_Nocturne_S01E06_480p_NF_WEB-DL_Hindi-Eng_ESub"
+    },
+    {
+      "option": 5,
+      "real_video": "https://filelions.online/v/t67oddxznezo"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/1b554caad50131478083eb6e4f7845d6"
+    }
+  ]
+}

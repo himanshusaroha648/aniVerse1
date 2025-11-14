@@ -1,0 +1,33 @@
+{
+  "series": "Loki",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/oJdVHUYrjdS2IqiNztVIP4GPB1p.jpg",
+  "season": 2,
+  "episode": 1,
+  "episode_title": "Episode 1",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/oJdVHUYrjdS2IqiNztVIP4GPB1p.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/1OJCuWOI2Rr8k4EF1VKVVYTPPwM.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/1OJCuWOI2Rr8k4EF1VKVVYTPPwM.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://rubystm.com/e/u8nfvqdw8g0m.html"
+    },
+    {
+      "option": 2,
+      "real_video": "https://multimovies.cloud/e/j4roas7d17d7"
+    },
+    {
+      "option": 3,
+      "real_video": "https://filemoon.to/e/qmk669cach33/Toonhub4u_Loki_S02E01_Ouroboros_in_Multi_Audio_Hindi-Tamil-Telugu-English_480p_HQ_DSNP_WEB.DL.mkv"
+    },
+    {
+      "option": 4,
+      "real_video": "https://filelions.online/v/zgc0z2oi5mxh"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/nLTt9CaXKa6k/"
+    }
+  ]
+}

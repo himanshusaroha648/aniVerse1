@@ -1,0 +1,49 @@
+{
+  "series": "Love, Death & Robots",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/vvRpJJxAw1sB4w4r0hsOdqa9eJc.jpg",
+  "season": 4,
+  "episode": 4,
+  "episode_title": "Episode 4",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/vvRpJJxAw1sB4w4r0hsOdqa9eJc.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/m5jU2Jp3i2orNph3SmdjKc9QYnz.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/m5jU2Jp3i2orNph3SmdjKc9QYnz.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/3v7IDSwo8Bld/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/_Is0dcwoh"
+    },
+    {
+      "option": 3,
+      "real_video": "https://rubystm.com/e/xkns1hmr8k7f.html"
+    },
+    {
+      "option": 4,
+      "real_video": "https://cloudy.upns.one/#talyfo"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/m2klb3y"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/b4hb98x"
+    },
+    {
+      "option": 7,
+      "real_video": "https://gdmirrorbot.nl/embed/lno70q3"
+    },
+    {
+      "option": 8,
+      "real_video": "https://emturbovid.com/t/6826b157684d1"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/842efe847039f0f979d17167a42f1acd"
+    }
+  ]
+}

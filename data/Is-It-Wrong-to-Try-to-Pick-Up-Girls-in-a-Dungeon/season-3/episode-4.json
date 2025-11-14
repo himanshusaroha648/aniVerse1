@@ -1,0 +1,25 @@
+{
+  "series": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/h97iHupymkJXBv0gyr4qlePhKAk.jpg",
+  "season": 3,
+  "episode": 4,
+  "episode_title": "Episode 4",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/h97iHupymkJXBv0gyr4qlePhKAk.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/vNXmi4gZ6HhEwEhp24Rz9vT6APG.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/vNXmi4gZ6HhEwEhp24Rz9vT6APG.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/iwk8ouyZYa"
+    },
+    {
+      "option": 2,
+      "real_video": "https://vidmoly.net/embed-cerodfq53gny.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/LIJ3YALMhCTO/"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "series": "The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/kBiPU7I7TEJdDXu8tHgVrgL5zAU.jpg",
+  "season": 1,
+  "episode": 2,
+  "episode_title": "Episode 2",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/kBiPU7I7TEJdDXu8tHgVrgL5zAU.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/8OhHXcb7HJw1Z2BANJGZW1vJN98.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/8OhHXcb7HJw1Z2BANJGZW1vJN98.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/N6ABCWbwy"
+    },
+    {
+      "option": 2,
+      "real_video": "https://cloudy.upns.one/#n8lan3"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/gvpx6py"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/zLw6niFFAt0J/"
+    }
+  ]
+}

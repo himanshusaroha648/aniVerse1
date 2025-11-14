@@ -1,0 +1,37 @@
+{
+  "series": "Aoashi",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/jz0agPanYP6MsjYSeGpZoAfUPjp.jpg",
+  "season": 1,
+  "episode": 12,
+  "episode_title": "Episode 12",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/jz0agPanYP6MsjYSeGpZoAfUPjp.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/jN5bHSSteiDbzduRNibov86tGGk.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/jN5bHSSteiDbzduRNibov86tGGk.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/knwn5X3F_"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/ev697r2rg0c4.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#h9pcql"
+    },
+    {
+      "option": 4,
+      "real_video": "https://strmup.to/AgLOVxGyQubi2"
+    },
+    {
+      "option": 5,
+      "real_video": "https://emturbovid.com/t/6852cb75bfb40"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/4542d2e436ceac357ad7d9073a2c1665"
+    }
+  ]
+}

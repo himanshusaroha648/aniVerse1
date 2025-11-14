@@ -1,0 +1,49 @@
+{
+  "series": "WIND BREAKER",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/gZfLoXRNCtZO0PuQ989xEPLkWWr.jpg",
+  "season": 1,
+  "episode": 13,
+  "episode_title": "Episode 13",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/gZfLoXRNCtZO0PuQ989xEPLkWWr.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/rNIv35v842nTpwUiOSHePaCRwOO.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/rNIv35v842nTpwUiOSHePaCRwOO.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/DHoIUe3yK"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/woieitjzo1rq.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#skyq5u"
+    },
+    {
+      "option": 4,
+      "real_video": "https://strmup.to/czmKfkJ0u3TEZ"
+    },
+    {
+      "option": 5,
+      "real_video": "https://blakiteapi.xyz/embed/223500/1-13"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/yhp0ovh"
+    },
+    {
+      "option": 7,
+      "real_video": "https://gdmirrorbot.nl/embed/wmbo27r"
+    },
+    {
+      "option": 8,
+      "real_video": "https://gdmirrorbot.nl/embed/i4twp2k"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/88250d62de314beb6755c137ec4e4933"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "series": "Fate/stay night",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/7lRjtl3ZsMwLsp72Cou1TfR7B8Z.jpg",
+  "season": 1,
+  "episode": 16,
+  "episode_title": "Episode 16",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/7lRjtl3ZsMwLsp72Cou1TfR7B8Z.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/bwLQ1MH1zWuznXXQgx72LBAJlC2.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/bwLQ1MH1zWuznXXQgx72LBAJlC2.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/1235ggeNo"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/q7x2596"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/EdLfCiJfvMll/"
+    }
+  ]
+}

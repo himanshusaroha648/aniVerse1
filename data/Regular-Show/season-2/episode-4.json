@@ -1,0 +1,33 @@
+{
+  "series": "Regular Show",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/mS5SLxMYcKfUxA0utBSR5MOAWWr.jpg",
+  "season": 2,
+  "episode": 4,
+  "episode_title": "Episode 4",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/mS5SLxMYcKfUxA0utBSR5MOAWWr.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/4GNBbJI2gXG5utwJ1tF7CqNCymo.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/4GNBbJI2gXG5utwJ1tF7CqNCymo.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/1i3oYG5d4"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/h7mknwo"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/devcq3y"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/djtvnb9"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/ruN99RtygjSi/"
+    }
+  ]
+}

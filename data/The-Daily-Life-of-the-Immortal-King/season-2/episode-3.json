@@ -1,0 +1,37 @@
+{
+  "series": "The Daily Life of the Immortal King",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/yYcLpRqEZtfUpQCUqm1DGfl47d6.jpg",
+  "season": 2,
+  "episode": 3,
+  "episode_title": "Episode 3",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/yYcLpRqEZtfUpQCUqm1DGfl47d6.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/3zwtgbOGFUbLhfwN5XbTnc1K1oq.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/3zwtgbOGFUbLhfwN5XbTnc1K1oq.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/ktvYLIPSKdAQ/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/VhcIfARi7"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/eittjsr"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/q131yqe"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/a9elr0t"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/fba9d88164f3e2d9109ee770223212a0"
+    }
+  ]
+}

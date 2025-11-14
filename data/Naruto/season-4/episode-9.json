@@ -1,0 +1,57 @@
+{
+  "series": "Naruto",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/vauCEnR7CiyBDzRCeElKkCaXIYu.jpg",
+  "season": 4,
+  "episode": 9,
+  "episode_title": "Episode 9",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/vauCEnR7CiyBDzRCeElKkCaXIYu.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/fWk5QbjzyhQZwr8Ukm4aCUtgaSZ.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/fWk5QbjzyhQZwr8Ukm4aCUtgaSZ.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/kHrfQpGCaxya/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/CqI9I0OSQ"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/stbsbks"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/kch3ma8"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/r8szeub"
+    },
+    {
+      "option": 6,
+      "real_video": "https://rubystm.com/e/cgq44cvmcwzb.html"
+    },
+    {
+      "option": 7,
+      "real_video": "https://cloudy.upns.one/#el68uy"
+    },
+    {
+      "option": 8,
+      "real_video": "https://strmup.to/4NnIrMfQeaDcZ"
+    },
+    {
+      "option": 9,
+      "real_video": "https://emturbovid.com/t/68e2a980b6f7d"
+    },
+    {
+      "option": 10,
+      "real_video": "https://vidmoly.net/embed-cd6023m4u6xi.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/42e7aaa88b48137a16a1acd04ed91125"
+    }
+  ]
+}

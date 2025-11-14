@@ -1,0 +1,25 @@
+{
+  "series": "One Piece",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/dum1wnm6kJOUos0XJqjB8s2UWi9.jpg",
+  "season": 14,
+  "episode": 27,
+  "episode_title": "Episode 27",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/dum1wnm6kJOUos0XJqjB8s2UWi9.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/dKLs7dUfgnszJst3U6j7elp97Bt.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/dKLs7dUfgnszJst3U6j7elp97Bt.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://rubystm.com/e/gvl6g0v02yf4.html"
+    },
+    {
+      "option": 2,
+      "real_video": "https://strmup.to/QXUxiAP5rLc7"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/CFcUnN5g5UnU/"
+    }
+  ]
+}

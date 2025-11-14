@@ -1,0 +1,45 @@
+{
+  "series": "Darling In The Franxx",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/yyUxeNpQoD23XWEdPXLJRGQEtHT.jpg",
+  "season": 1,
+  "episode": 22,
+  "episode_title": "Episode 22",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/yyUxeNpQoD23XWEdPXLJRGQEtHT.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/u9t4dWGsKbROoZflb5pTikwVngQ.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/u9t4dWGsKbROoZflb5pTikwVngQ.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/AHaKYS3QpZT7/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/znefe8tb3gv5.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://short.icu/DM1jddTdB"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/gwghhtk"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/nig803v"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/mizymn2"
+    },
+    {
+      "option": 7,
+      "real_video": "https://animeworld.site/embed/76121/1-22"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/df12ecd077efc8c23881028604dbb8cc"
+    }
+  ]
+}

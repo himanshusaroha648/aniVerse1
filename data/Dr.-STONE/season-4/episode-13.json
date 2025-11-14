@@ -1,0 +1,49 @@
+{
+  "series": "Dr. STONE",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/x96E9mxxQf5KzXOzIu0ldsfc3QK.jpg",
+  "season": 4,
+  "episode": 13,
+  "episode_title": "Episode 13",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/x96E9mxxQf5KzXOzIu0ldsfc3QK.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/x9Q7jNLYl1vYQrKHLGjrkplL3lc.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/x9Q7jNLYl1vYQrKHLGjrkplL3lc.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/VT8h5WeqF"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/rz2aynpcfhrc.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#cvbugp"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/qvj9d3j"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/d41kdn1"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/xbuoc2r"
+    },
+    {
+      "option": 7,
+      "real_video": "https://emturbovid.com/t/68709470a4bd7"
+    },
+    {
+      "option": 8,
+      "real_video": "https://vidmoly.net/embed-47h5nqowg75j.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/ca6037b5974c5b0dac440bcdfb299bce"
+    }
+  ]
+}

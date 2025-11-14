@@ -1,0 +1,25 @@
+{
+  "series": "Phineas and Ferb",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/oSLwJMOOQGAsyJNMi4Y3MO44iAJ.jpg",
+  "season": 1,
+  "episode": 23,
+  "episode_title": "Episode 23",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/oSLwJMOOQGAsyJNMi4Y3MO44iAJ.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/efNE7txmzEDhqKCSWYaD3Nz5fjj.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/efNE7txmzEDhqKCSWYaD3Nz5fjj.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/LGy4LWDufEDX/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/SO6kY_6No"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/53c5b2affa12eed84dfec9bfd83550b1"
+    }
+  ]
+}

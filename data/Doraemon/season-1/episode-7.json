@@ -1,0 +1,21 @@
+{
+  "series": "Doraemon",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/bHMqPDsW7Lb71CVHXq4PuEvQ4NY.jpg",
+  "season": 1,
+  "episode": 7,
+  "episode_title": "Episode 7",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/bHMqPDsW7Lb71CVHXq4PuEvQ4NY.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/8ZxAuAr1w9QOPefQd7vYph3LRxQ.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/8ZxAuAr1w9QOPefQd7vYph3LRxQ.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/1hdvCpR5vYYC/"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/f5a14d4963acf488e3a24780a84ac96c"
+    }
+  ]
+}

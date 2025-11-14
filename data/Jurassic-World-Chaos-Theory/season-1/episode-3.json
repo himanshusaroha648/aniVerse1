@@ -1,0 +1,41 @@
+{
+  "series": "Jurassic World: Chaos Theory",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/c2Od0cY2IeayDj5osUxZSAD1QK.jpg",
+  "season": 1,
+  "episode": 3,
+  "episode_title": "Episode 3",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/c2Od0cY2IeayDj5osUxZSAD1QK.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/eNs3K92SD95QA3MpPniNI7mskIq.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/eNs3K92SD95QA3MpPniNI7mskIq.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/fr4i9xBdQPve/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/39ojtck813y3.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://short.icu/Vr6XZE41x"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/d2vqxo1"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/tvdxrgo"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/uav8rle"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/6c015f9b69e6a50c3d30b75ee796bc46"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "series": "Aoashi",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/jz0agPanYP6MsjYSeGpZoAfUPjp.jpg",
+  "season": 1,
+  "episode": 22,
+  "episode_title": "Episode 22",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/jz0agPanYP6MsjYSeGpZoAfUPjp.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/wAyVco6WmNNwNUEuQokSb7mY6Zj.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/wAyVco6WmNNwNUEuQokSb7mY6Zj.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/BbDlzy5KV"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/yu3ip0thy91c.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#xigdoz"
+    },
+    {
+      "option": 4,
+      "real_video": "https://strmup.to/kt9Q60zDHiExR"
+    },
+    {
+      "option": 5,
+      "real_video": "https://emturbovid.com/t/6852cb7c7ed2a"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/afd53be629a8800e6447030f2e0961f7"
+    }
+  ]
+}

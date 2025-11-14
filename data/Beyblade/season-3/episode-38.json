@@ -1,0 +1,25 @@
+{
+  "series": "Beyblade",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/l6ZQhEHjtOd9t6lOvVGzs5YEHcG.jpg",
+  "season": 3,
+  "episode": 38,
+  "episode_title": "Episode 38",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/l6ZQhEHjtOd9t6lOvVGzs5YEHcG.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/pbpot0CRo55xqjZW5YWQQEftX3o.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/pbpot0CRo55xqjZW5YWQQEftX3o.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/oHBHTtURr"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/q8z6fdc"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/juonFIiN7ySS/"
+    }
+  ]
+}

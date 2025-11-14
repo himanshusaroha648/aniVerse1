@@ -1,0 +1,25 @@
+{
+  "series": "Our Dating Story: The Experienced You and the Inexperienced Me (ESub)",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/ylz5RxpOCWkxIBiCCmNAlJcxYLn.jpg",
+  "season": 1,
+  "episode": 2,
+  "episode_title": "Episode 2",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/ylz5RxpOCWkxIBiCCmNAlJcxYLn.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/hgisv1LTizJ2Fo3HVroW1eneFFP.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/hgisv1LTizJ2Fo3HVroW1eneFFP.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/t3ukii5bV"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/pb4bwfz"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/V5ETv8CdGw6g/"
+    }
+  ]
+}

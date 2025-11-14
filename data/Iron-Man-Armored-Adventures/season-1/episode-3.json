@@ -1,0 +1,21 @@
+{
+  "series": "Iron Man: Armored Adventures",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/uwMIL8PR1jHpHQksIq7kzdeqg2A.jpg",
+  "season": 1,
+  "episode": 3,
+  "episode_title": "Episode 3",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/uwMIL8PR1jHpHQksIq7kzdeqg2A.jpg",
+  "episode_card_thumbnail": "https://toonstream.love/wp-content/themes/torofilm/public/img/cnt/noimg-episode.png",
+  "episode_list_thumbnail": "https://toonstream.love/wp-content/themes/torofilm/public/img/cnt/noimg-episode.png",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/Ftz51S5DCy3N/"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/e8432fb72c61c9066957124e5a420a05"
+    }
+  ]
+}

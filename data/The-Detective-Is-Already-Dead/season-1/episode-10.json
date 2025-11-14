@@ -1,0 +1,37 @@
+{
+  "series": "The Detective Is Already Dead",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/8gCOlj0bXa2cQnXSl4wRX5tVIA0.jpg",
+  "season": 1,
+  "episode": 10,
+  "episode_title": "Episode 10",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/8gCOlj0bXa2cQnXSl4wRX5tVIA0.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/c6e7gDgzPNzri2rz0Ao08vBae7c.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/c6e7gDgzPNzri2rz0Ao08vBae7c.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/aemL07gLjhLx/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/7nyt149x5cqd.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://multimovies.cloud/e/71uis85hby89"
+    },
+    {
+      "option": 4,
+      "real_video": "https://filemoon.to/e/l9h77kuhufoj/Toonhub4u_The_Detective_Is_Already_Dead_-_S01E10_Multi-Audio_720p_AAC_Multi-Subs"
+    },
+    {
+      "option": 5,
+      "real_video": "https://filelions.online/v/lnvyvk14790z"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/c35bc9eaa4a930e006ab98bf3ef90408"
+    }
+  ]
+}

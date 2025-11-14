@@ -1,0 +1,33 @@
+{
+  "series": "One Piece",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/dum1wnm6kJOUos0XJqjB8s2UWi9.jpg",
+  "season": 22,
+  "episode": 14,
+  "episode_title": "Episode 14",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/dum1wnm6kJOUos0XJqjB8s2UWi9.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/xH6ivywyYUseKcEWjxQcG25e8pb.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/xH6ivywyYUseKcEWjxQcG25e8pb.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/Wc8abRIjO"
+    },
+    {
+      "option": 2,
+      "real_video": "https://vidstreaming.xyz/v/z0IrUnNmc5GE/"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#x6anj3"
+    },
+    {
+      "option": 4,
+      "real_video": "https://rubystm.com/e/4ndgnknfyliv.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/oFAtPYY6PXp2/"
+    }
+  ]
+}

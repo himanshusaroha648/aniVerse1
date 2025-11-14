@@ -1,0 +1,41 @@
+{
+  "series": "Viral Hit",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/hHATuuAZTZxlkwK2fEk7y42cKFT.jpg",
+  "season": 1,
+  "episode": 9,
+  "episode_title": "Episode 9",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/hHATuuAZTZxlkwK2fEk7y42cKFT.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/uS28JLpgUsG983eCkJBEm3nj4an.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/uS28JLpgUsG983eCkJBEm3nj4an.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/gfax9DCK0rcM/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/jygssv6yewhl.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://short.icu/2HMqed4Jo"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/yodfkuq"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/sz1ipk9"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/jibo1uc"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/5c572eca050594c7bc3c36e7e8ab9550"
+    }
+  ]
+}

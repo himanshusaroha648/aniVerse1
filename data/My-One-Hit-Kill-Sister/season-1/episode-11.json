@@ -1,0 +1,37 @@
+{
+  "series": "My One-Hit Kill Sister",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/hQEgYVrTUxV0yXqLxdwdXIaofGt.jpg",
+  "season": 1,
+  "episode": 11,
+  "episode_title": "Episode 11",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/hQEgYVrTUxV0yXqLxdwdXIaofGt.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/oonadxEPsK9p1H25WjkbOcPMbUp.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/oonadxEPsK9p1H25WjkbOcPMbUp.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/yKxELRmdqQCo/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://filelions.online/v/xz7wnew2l56f"
+    },
+    {
+      "option": 3,
+      "real_video": "https://streamsb.net/e/3kqhqj62pg17.html"
+    },
+    {
+      "option": 4,
+      "real_video": "https://rubystm.com/e/z7cxrdtxuj7p.html"
+    },
+    {
+      "option": 5,
+      "real_video": "https://filemoon.to/e/79ilkkl10ahz/_Toonhub4u__My_One_Hit_Kill_Sister_Season_1_Episode_11_in_Hindi_Dub.mp4"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/81baadacf39a11c56ee30acd5455fced"
+    }
+  ]
+}

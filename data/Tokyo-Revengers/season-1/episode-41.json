@@ -1,0 +1,33 @@
+{
+  "series": "Tokyo Revengers",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/arB3L9pZZBSzUPSC8BEv8c3X0bF.jpg",
+  "season": 1,
+  "episode": 41,
+  "episode_title": "Episode 41",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/arB3L9pZZBSzUPSC8BEv8c3X0bF.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/xCUYd0DcuaXEBu7kG2bqJLuZHeQ.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/xCUYd0DcuaXEBu7kG2bqJLuZHeQ.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/fk57Q9yO6"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/v5nsrs347wgq.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://strmup.to/El6gD1NLRahY"
+    },
+    {
+      "option": 4,
+      "real_video": "https://cloudy.upns.one/#xijoxq"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/Gd74OHA0SIRW/"
+    }
+  ]
+}

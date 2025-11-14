@@ -1,0 +1,25 @@
+{
+  "series": "Re:ZERO -Starting Life in Another World-English Dub",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/yh3Md7RDxSPLRzIZZBQJU7txEeU.jpg",
+  "season": 1,
+  "episode": 15,
+  "episode_title": "Episode 15",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/yh3Md7RDxSPLRzIZZBQJU7txEeU.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/mDlns63SqNj8t9ol5616c3ZjH2c.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/mDlns63SqNj8t9ol5616c3ZjH2c.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/rMc_0fw409"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/jb2xtrk"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/V5Mb6bpFeg4e/"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "series": "Aoashi",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/jz0agPanYP6MsjYSeGpZoAfUPjp.jpg",
+  "season": 1,
+  "episode": 10,
+  "episode_title": "Episode 10",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/jz0agPanYP6MsjYSeGpZoAfUPjp.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/mYPkJ78I6APMABsionXmTnVqVi5.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/mYPkJ78I6APMABsionXmTnVqVi5.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/Any1XYnGj"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/pjv69w6w0tpr.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#pu9tqg"
+    },
+    {
+      "option": 4,
+      "real_video": "https://strmup.to/acQxKSIdRpwkU"
+    },
+    {
+      "option": 5,
+      "real_video": "https://emturbovid.com/t/6852cb758c667"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/9dbc59f98f5e213ac6967df00e1e1e06"
+    }
+  ]
+}

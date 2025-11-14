@@ -1,0 +1,53 @@
+{
+  "series": "Hunter x Hunter Hindi Dub",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/9dubj2UQ2xJkzT1AEng6DaGRvLa.jpg",
+  "season": 2,
+  "episode": 97,
+  "episode_title": "Hunter x Hunter Hindi Dub 2x97 - Toonstream",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/9dubj2UQ2xJkzT1AEng6DaGRvLa.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/4AGTtajnR0pfB8tuHBvjaAn8LSm.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/4AGTtajnR0pfB8tuHBvjaAn8LSm.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/ZO4T_xdox"
+    },
+    {
+      "option": 4,
+      "real_video": "https://strmup.to/qGOwLKEaoJZWS"
+    },
+    {
+      "option": 9,
+      "real_video": "https://vidmoly.net/embed-w7f21phts55t.html"
+    },
+    {
+      "option": 8,
+      "real_video": "https://emturbovid.com/t/68f264400961f"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/hggso8f"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/ptww4hz"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/gym1vp8jmaax.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#6pspcq"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/65ef909bda8e30e4e2bc3ce828ed870e"
+    },
+    {
+      "option": 7,
+      "real_video": "https://gdmirrorbot.nl/embed/mbt7khn"
+    }
+  ]
+}

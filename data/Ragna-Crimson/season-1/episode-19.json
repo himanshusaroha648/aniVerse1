@@ -1,0 +1,33 @@
+{
+  "series": "Ragna Crimson",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/oGmNWwV3wgp1DZXTOLSAYZZgh3X.jpg",
+  "season": 1,
+  "episode": 19,
+  "episode_title": "Episode 19",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/oGmNWwV3wgp1DZXTOLSAYZZgh3X.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/jViLlcN9z8WW3iiqfrxiKg1SkoL.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/jViLlcN9z8WW3iiqfrxiKg1SkoL.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidcloud.upns.ink/#ld8ijr"
+    },
+    {
+      "option": 2,
+      "real_video": "https://turbovidhls.com/t/69100bc720684"
+    },
+    {
+      "option": 3,
+      "real_video": "https://vidmoly.net/embed-c8pyl73yiyzk.html"
+    },
+    {
+      "option": 4,
+      "real_video": "https://play.zephyrflick.top/video/67ed992a321bccb166b8c25ad190f33c"
+    },
+    {
+      "option": null,
+      "real_video": "https://short.icu/NJMfUCmLN"
+    }
+  ]
+}

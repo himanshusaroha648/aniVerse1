@@ -1,0 +1,29 @@
+{
+  "series": "ERASED",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/i7ehsbNLpOtccSdlcKnGxTCJqAI.jpg",
+  "season": 1,
+  "episode": 10,
+  "episode_title": "Episode 10",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/i7ehsbNLpOtccSdlcKnGxTCJqAI.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/lwxy5UW6VeKrTkfohC1YpVrGglX.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/lwxy5UW6VeKrTkfohC1YpVrGglX.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://rubystm.com/e/co8qscytrrt0.html"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/XUh8ZJ5Xh"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/lj3erp0"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/eLRK5JHJIx68/"
+    }
+  ]
+}

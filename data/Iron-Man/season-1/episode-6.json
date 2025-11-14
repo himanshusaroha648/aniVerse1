@@ -1,0 +1,29 @@
+{
+  "series": "Iron Man",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/zOTJT7JbzSrMBX2OCGPqUnkQA4y.jpg",
+  "season": 1,
+  "episode": 6,
+  "episode_title": "Episode 6",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/zOTJT7JbzSrMBX2OCGPqUnkQA4y.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/vm4LjAUjE3e1CQhmWfjRujaxaOE.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/vm4LjAUjE3e1CQhmWfjRujaxaOE.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://streamsb.net/e/g8bdac9z5lw5.html"
+    },
+    {
+      "option": 2,
+      "real_video": "https://filemoon.to/e/5vhnml66o8tj/_Toonhub4u__Marvel_Anime__Iron_Man_Episode_6_in_Multi_Audio_480p.mp4"
+    },
+    {
+      "option": 3,
+      "real_video": "https://filepress.lol/video/63a94d46556fb84564a76b23"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/8KtCglo6AnNH/"
+    }
+  ]
+}

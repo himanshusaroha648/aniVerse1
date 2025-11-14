@@ -1,0 +1,25 @@
+{
+  "series": "Myriad Colors Phantom World English Dub",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/3ky8gx87AIsrx54AN7k6eolPHK2.jpg",
+  "season": 1,
+  "episode": 9,
+  "episode_title": "Episode 9",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/3ky8gx87AIsrx54AN7k6eolPHK2.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/ht1JxGCD4jO8T4c1tzq4La3ZhuM.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/ht1JxGCD4jO8T4c1tzq4La3ZhuM.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/K_NEzb6oF"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/t6382lj"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/7Ue8b5BOTAnz/"
+    }
+  ]
+}

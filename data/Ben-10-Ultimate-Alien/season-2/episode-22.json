@@ -1,0 +1,33 @@
+{
+  "series": "Ben 10: Ultimate Alien",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/n4KwrlUKO9S4GvOdZzmnz4zOxx7.jpg",
+  "season": 2,
+  "episode": 22,
+  "episode_title": "Episode 22",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/n4KwrlUKO9S4GvOdZzmnz4zOxx7.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/xJ5gh5qMHIDldHXsymnh9j3M4cm.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/xJ5gh5qMHIDldHXsymnh9j3M4cm.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/T6mT_5yUO"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/embed-ky7j92wn3jhp.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/igjnctm"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/uao2bju"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/fnVDg4VIlp4j/"
+    }
+  ]
+}

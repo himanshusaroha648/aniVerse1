@@ -1,0 +1,53 @@
+{
+  "series": "Hunter x Hunter Hindi Dub",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/9dubj2UQ2xJkzT1AEng6DaGRvLa.jpg",
+  "season": 2,
+  "episode": 98,
+  "episode_title": "Hunter x Hunter Hindi Dub 2x98 - Toonstream",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/9dubj2UQ2xJkzT1AEng6DaGRvLa.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/57nfHf1LkeQfeApFz3vaDBrYZeJ.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/57nfHf1LkeQfeApFz3vaDBrYZeJ.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 4,
+      "real_video": "https://strmup.to/WGx0Jb6XV49sF"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/437389b63ca307f2500b8b031957a824"
+    },
+    {
+      "option": 1,
+      "real_video": "https://short.icu/VAV5Xv5nA"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/t0gtch3"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/f1nd2o8"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/xcal43rvz6kx.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#51ziz9"
+    },
+    {
+      "option": 8,
+      "real_video": "https://emturbovid.com/t/68f3b43582102"
+    },
+    {
+      "option": 9,
+      "real_video": "https://vidmoly.net/embed-go0iazt0474p.html"
+    },
+    {
+      "option": 7,
+      "real_video": "https://gdmirrorbot.nl/embed/x1gd0ot"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "series": "One Piece Wano Arc",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/uiIB9ctqZFbfRXXimtpmZb5dusi.jpg",
+  "season": 1,
+  "episode": 16,
+  "episode_title": "Episode 16",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/uiIB9ctqZFbfRXXimtpmZb5dusi.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/bx1Edb8ItY1B7SaDT9yS3VugOzh.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/bx1Edb8ItY1B7SaDT9yS3VugOzh.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/54A9uR8Ig"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/5vfy9yg68x3x.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#v9msj"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/fttoqer"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/n3dw9xj"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/ip4gp1i"
+    },
+    {
+      "option": 7,
+      "real_video": "https://emturbovid.com/t/677119c855cfc"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/KnxE9zbx77dc/"
+    }
+  ]
+}

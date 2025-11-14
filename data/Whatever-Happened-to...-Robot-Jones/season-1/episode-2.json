@@ -1,0 +1,33 @@
+{
+  "series": "Whatever Happened to... Robot Jones?",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/pLl9mC1Kkb0VLAmsJqJletKexv.jpg",
+  "season": 1,
+  "episode": 2,
+  "episode_title": "Episode 2",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/pLl9mC1Kkb0VLAmsJqJletKexv.jpg",
+  "episode_card_thumbnail": "https://toonstream.love/wp-content/themes/torofilm/public/img/cnt/noimg-episode.png",
+  "episode_list_thumbnail": "https://toonstream.love/wp-content/themes/torofilm/public/img/cnt/noimg-episode.png",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/9kdDD9i5y"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/h7p924v"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/vghz15c"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/dw4mw1y"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/ToZnFeSoYCrj/"
+    }
+  ]
+}

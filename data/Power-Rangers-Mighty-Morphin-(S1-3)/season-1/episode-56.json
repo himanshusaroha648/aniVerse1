@@ -1,0 +1,41 @@
+{
+  "series": "Power Rangers Mighty Morphin (S1-3)",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/8lnX8RWeGBdEQPOvf2IKoRtKfZO.jpg",
+  "season": 1,
+  "episode": 56,
+  "episode_title": "Episode 56",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/8lnX8RWeGBdEQPOvf2IKoRtKfZO.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/8CWLOMjial2Rcqw2dlRxSGTwm8A.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/8CWLOMjial2Rcqw2dlRxSGTwm8A.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/U0UOnio9q"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/r6sszalxkgxa.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#tw8nbh"
+    },
+    {
+      "option": 4,
+      "real_video": "https://strmup.to/IuSXWUF10ZPTq"
+    },
+    {
+      "option": 5,
+      "real_video": "https://turbovidhls.com/t/68df77f26bb5d"
+    },
+    {
+      "option": 6,
+      "real_video": "https://vidmoly.net/embed-1r168ofyw5j1.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/CTm9HadYCqiE/"
+    }
+  ]
+}

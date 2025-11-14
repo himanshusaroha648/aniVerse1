@@ -1,0 +1,33 @@
+{
+  "series": "Ragna Crimson",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/oGmNWwV3wgp1DZXTOLSAYZZgh3X.jpg",
+  "season": 1,
+  "episode": 16,
+  "episode_title": "Episode 16",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/oGmNWwV3wgp1DZXTOLSAYZZgh3X.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/sQgqad29S1LHymYjTTewVut6W4C.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/sQgqad29S1LHymYjTTewVut6W4C.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidcloud.upns.ink/#d8vltj"
+    },
+    {
+      "option": 2,
+      "real_video": "https://turbovidhls.com/t/69100bc2b880e"
+    },
+    {
+      "option": 3,
+      "real_video": "https://vidmoly.net/embed-dbyarz4p17e1.html"
+    },
+    {
+      "option": 4,
+      "real_video": "https://play.zephyrflick.top/video/a813dd53b48d27057751934eb852c345"
+    },
+    {
+      "option": null,
+      "real_video": "https://short.icu/L4G-IoCUM"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "series": "Haikyu!!",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/ecQ84z2sR0XapZu435MnFuEBzD8.jpg",
+  "season": 2,
+  "episode": 8,
+  "episode_title": "Episode 8",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/ecQ84z2sR0XapZu435MnFuEBzD8.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/wIR8o20mk8U5Lr3sKzBuDtjGO0C.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/wIR8o20mk8U5Lr3sKzBuDtjGO0C.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/8_ysit9nT"
+    },
+    {
+      "option": 2,
+      "real_video": "https://vidmoly.net/embed-biuo5nrbomzj.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://vidstreaming.xyz/v/m2hXVEkfQ4e5/"
+    },
+    {
+      "option": 4,
+      "real_video": "https://short.icu/O20d9ndg5"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/GaioBXVdQnRz/"
+    }
+  ]
+}

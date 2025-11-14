@@ -1,0 +1,29 @@
+{
+  "series": "Young Justice",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/y6oejQ0RGFZYILobsvze8F0xWEY.jpg",
+  "season": 1,
+  "episode": 2,
+  "episode_title": "Episode 2",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/y6oejQ0RGFZYILobsvze8F0xWEY.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/l0it1ftVsJHP4N34A865Z0E95fS.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/l0it1ftVsJHP4N34A865Z0E95fS.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/opQOKtClARFF/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://streamsb.net/e/mf9r81wca37o.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://louishide.com/e/l4x70vnzgzon"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/a6197a578fe7778e8d49a95ac425bcfc"
+    }
+  ]
+}

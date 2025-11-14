@@ -1,0 +1,37 @@
+{
+  "series": "Hunter x Hunter",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/ucpgmUR1h5Te1BYegKItoPjOeF7.jpg",
+  "season": 1,
+  "episode": 30,
+  "episode_title": "Episode 30",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/ucpgmUR1h5Te1BYegKItoPjOeF7.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/wITa0jIlz1OPaEwDQAbnYw4Ydw.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/wITa0jIlz1OPaEwDQAbnYw4Ydw.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://rubystm.com/e/rh5ubz7w8jg5.html"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/YIEX9ZHuR"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/p82wjcf"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/zq5gvx0"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/pi08x8t"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/aJmm7U849pwi/"
+    }
+  ]
+}

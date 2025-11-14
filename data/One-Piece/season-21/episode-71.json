@@ -1,0 +1,21 @@
+{
+  "series": "One Piece",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/dum1wnm6kJOUos0XJqjB8s2UWi9.jpg",
+  "season": 21,
+  "episode": 71,
+  "episode_title": "Episode 71",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/dum1wnm6kJOUos0XJqjB8s2UWi9.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/pEr90qCGsYFVq4jivBd7bmMPYlQ.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/pEr90qCGsYFVq4jivBd7bmMPYlQ.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://rubystm.com/e/0cpufajp7cj3.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/bFv9v2TyaBAk/"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "series": "No Longer Allowed in Another World",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/mKOeQuH7BRrd6Fu4Exx2r0rJF5b.jpg",
+  "season": 1,
+  "episode": 3,
+  "episode_title": "Episode 3",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/mKOeQuH7BRrd6Fu4Exx2r0rJF5b.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/4wl6xBoMjNayFzZXtfvuzA4xbhU.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/4wl6xBoMjNayFzZXtfvuzA4xbhU.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/uv4hwDE2oIjB/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/olo1i8oypfdg.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://short.icu/bEG6mUIYG"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/nff8y5v"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/t5n5duf"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/fiff6ws"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/9978b7063e297d84bb2ac8e46c1c845f"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "series": "Phineas and Ferb",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/oSLwJMOOQGAsyJNMi4Y3MO44iAJ.jpg",
+  "season": 3,
+  "episode": 26,
+  "episode_title": "Episode 26",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/oSLwJMOOQGAsyJNMi4Y3MO44iAJ.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/sj7zqX8kUqt0IJ050hPSH65KU3D.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/sj7zqX8kUqt0IJ050hPSH65KU3D.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/qNDTHhevfrB9/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/LUtlAAl9l"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/99296ad1eb8cd89661d163ddea3f16f1"
+    }
+  ]
+}

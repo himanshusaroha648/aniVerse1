@@ -1,0 +1,25 @@
+{
+  "series": "Ben 10",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/pT0NlYVIkwM2zAw9oUkePwrOlxW.jpg",
+  "season": 3,
+  "episode": 13,
+  "episode_title": "Episode 13",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/pT0NlYVIkwM2zAw9oUkePwrOlxW.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/bC03Du0SpaxAMSWsztqD1ro0dLd.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/bC03Du0SpaxAMSWsztqD1ro0dLd.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://filemoon.to/e/61xiz2uofg3f/_Toonhub4u__S03E13-_Ben_10_-_The_Visitor_Multi_Audio_720p.mkv"
+    },
+    {
+      "option": 2,
+      "real_video": "https://streamsb.net/e/gnti3chssgnr.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/OqCJQT8FIXAc/"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "series": "Sgt. Frog",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/irBnC4N8XcVTnvKs8BqBmwyYBxC.jpg",
+  "season": 1,
+  "episode": 8,
+  "episode_title": "Episode 8",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/irBnC4N8XcVTnvKs8BqBmwyYBxC.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/zi7rCBA0ec97yq9qCfixwkPKoad.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/zi7rCBA0ec97yq9qCfixwkPKoad.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://rubystm.com/e/i2qdq2nsedsw.html"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/h7EgDgtdf"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/vya847z"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/IVnkEIabjD6J/"
+    }
+  ]
+}

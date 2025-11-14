@@ -1,0 +1,53 @@
+{
+  "series": "Fairy Tail",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/inIVJlVRcE0sui79vFvWAeV0NGU.jpg",
+  "season": 2,
+  "episode": 7,
+  "episode_title": "Episode 7",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/inIVJlVRcE0sui79vFvWAeV0NGU.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/kmyTIIuOJuGgLR4vACLOJXKqwGx.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/kmyTIIuOJuGgLR4vACLOJXKqwGx.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/QiFsE6FCF"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/dn6mslym0505.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#isbmgg"
+    },
+    {
+      "option": 4,
+      "real_video": "https://strmup.to/0JpeW4By9Xl2v"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/u6h8r8p"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/mwt03zt"
+    },
+    {
+      "option": 7,
+      "real_video": "https://gdmirrorbot.nl/embed/hdj8e2x"
+    },
+    {
+      "option": 8,
+      "real_video": "https://emturbovid.com/t/68650c76c9790"
+    },
+    {
+      "option": 9,
+      "real_video": "https://vidmoly.net/embed-8ynk6td7lmuw.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://animeworld.site/embed/46261/2-7"
+    }
+  ]
+}

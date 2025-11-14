@@ -1,0 +1,21 @@
+{
+  "series": "Komi Can't Communicate",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/rOEaKS6jdZacivHnM56NQ4yhccW.jpg",
+  "season": 1,
+  "episode": 10,
+  "episode_title": "Episode 10",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/rOEaKS6jdZacivHnM56NQ4yhccW.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/mG7lK0Pcpaww6RDwqc66fsgfp2E.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/mG7lK0Pcpaww6RDwqc66fsgfp2E.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/b7Ia6qIlIoKn/"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/Ie9qYZi1RAYA/"
+    }
+  ]
+}

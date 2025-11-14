@@ -1,0 +1,41 @@
+{
+  "series": "One Piece",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/dum1wnm6kJOUos0XJqjB8s2UWi9.jpg",
+  "season": 22,
+  "episode": 47,
+  "episode_title": "Episode 47",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/dum1wnm6kJOUos0XJqjB8s2UWi9.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/n0qgDDFqr3caUmahReG7MRcgFjb.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/n0qgDDFqr3caUmahReG7MRcgFjb.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://rubystm.com/e/w49ys38ed1i9.html"
+    },
+    {
+      "option": 2,
+      "real_video": "https://cloudy.upns.one/#gsuiil"
+    },
+    {
+      "option": 3,
+      "real_video": "https://strmup.to/Do7XACxyck5ip"
+    },
+    {
+      "option": 4,
+      "real_video": "https://turbovidhls.com/t/690c3ced61090"
+    },
+    {
+      "option": 5,
+      "real_video": "https://turbovidhls.com/t/690c3ced61090"
+    },
+    {
+      "option": 6,
+      "real_video": "https://vidmoly.net/embed-myswso59f73k.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://short.icu/s1Juq6boe"
+    }
+  ]
+}

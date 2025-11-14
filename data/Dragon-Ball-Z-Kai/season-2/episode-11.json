@@ -1,0 +1,41 @@
+{
+  "series": "Dragon Ball Z Kai",
+  "thumbnail": "https://i.imgur.com/zZzbUql.jpg",
+  "season": 2,
+  "episode": 11,
+  "episode_title": "Episode 11",
+  "episode_main_poster": "https://i.imgur.com/zZzbUql.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/3Jzl8M7W76bzBRKV1Ax9L12a08a.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/3Jzl8M7W76bzBRKV1Ax9L12a08a.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/cMl4Rm0Kg"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/vwu5ikl9s3uf.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#j3hlfu"
+    },
+    {
+      "option": 4,
+      "real_video": "https://strmup.to/EaPeFz63CYM2G"
+    },
+    {
+      "option": 5,
+      "real_video": "https://turbovidhls.com/t/68b1b14c61ea2"
+    },
+    {
+      "option": 6,
+      "real_video": "https://vidmoly.net/embed-la2a7f1v38fv.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/24e27b869b66e9e62724bd7725d5d9c1"
+    }
+  ]
+}

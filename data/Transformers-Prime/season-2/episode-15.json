@@ -1,0 +1,21 @@
+{
+  "series": "Transformers: Prime",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/ilOKsGRHYc78R2tSMusAd3xGJWq.jpg",
+  "season": 2,
+  "episode": 15,
+  "episode_title": "Episode 15",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/ilOKsGRHYc78R2tSMusAd3xGJWq.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/oFHmRw9kHxmHcmrqcyJy0ppt34a.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/oFHmRw9kHxmHcmrqcyJy0ppt34a.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/JNZtyBSTjebp/"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/6c530aae768250b8d9c3c908a13ee287"
+    }
+  ]
+}

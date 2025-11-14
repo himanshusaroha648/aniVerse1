@@ -1,0 +1,33 @@
+{
+  "series": "Ragna Crimson",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/oGmNWwV3wgp1DZXTOLSAYZZgh3X.jpg",
+  "season": 1,
+  "episode": 5,
+  "episode_title": "Episode 5",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/oGmNWwV3wgp1DZXTOLSAYZZgh3X.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/vHGp7gfc01CRdsbG0nwea3p9D68.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/vHGp7gfc01CRdsbG0nwea3p9D68.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidcloud.upns.ink/#gsufl3"
+    },
+    {
+      "option": 2,
+      "real_video": "https://turbovidhls.com/t/69100bafe548a"
+    },
+    {
+      "option": 3,
+      "real_video": "https://vidmoly.net/embed-gn40my8h59ef.html"
+    },
+    {
+      "option": 4,
+      "real_video": "https://play.zephyrflick.top/video/5d5bbd55157f38a19f155390f2dc7430"
+    },
+    {
+      "option": null,
+      "real_video": "https://short.icu/T5d6uWCM0"
+    }
+  ]
+}

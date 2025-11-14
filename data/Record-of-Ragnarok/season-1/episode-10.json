@@ -1,0 +1,41 @@
+{
+  "series": "Record of Ragnarok",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/kTs2WNZOukpWdNhoRlH94pSJ3xf.jpg",
+  "season": 1,
+  "episode": 10,
+  "episode_title": "Episode 10",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/kTs2WNZOukpWdNhoRlH94pSJ3xf.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/dE6LmylAd2RT7ozn2yMY2lUgCtk.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/dE6LmylAd2RT7ozn2yMY2lUgCtk.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://rubystm.com/e/r88ieadqt5i0.html"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/7ZVrLzyug"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#ipcpnp"
+    },
+    {
+      "option": 4,
+      "real_video": "https://strmup.to/p4XBr0D1QFuK9"
+    },
+    {
+      "option": 5,
+      "real_video": "https://emturbovid.com/t/6891e2849766a"
+    },
+    {
+      "option": 6,
+      "real_video": "https://vidmoly.net/embed-wklf5vyfnbs6.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/aAX3bG7VFzj6/"
+    }
+  ]
+}

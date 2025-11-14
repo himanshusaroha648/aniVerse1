@@ -1,0 +1,37 @@
+{
+  "series": "Avatar: The Last Airbender [Live Action]",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/lzZpWEaqzP0qVA5nkCc5ASbNcSy.jpg",
+  "season": 1,
+  "episode": 2,
+  "episode_title": "Episode 2",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/lzZpWEaqzP0qVA5nkCc5ASbNcSy.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/fBg3ih6klXw61XGMAhaXucHhomo.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/fBg3ih6klXw61XGMAhaXucHhomo.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://rubystm.com/embed-5nrxba8fpn6e.html"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/Vx5RlvD91"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/p9xt1bv"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/ieir66w"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/jeo8gk5"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/NnXBcEwyTwMg/"
+    }
+  ]
+}

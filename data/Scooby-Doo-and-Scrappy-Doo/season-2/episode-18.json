@@ -1,0 +1,45 @@
+{
+  "series": "Scooby-Doo and Scrappy-Doo",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/ctxdYzdqSlrfKrqEo3bLSrrMLSP.jpg",
+  "season": 2,
+  "episode": 18,
+  "episode_title": "Episode 18",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/ctxdYzdqSlrfKrqEo3bLSrrMLSP.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/67WUiPkXmhp8CVRFZOmA7r16GDG.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/67WUiPkXmhp8CVRFZOmA7r16GDG.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/jCZU_M_pg"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/hwu4xzgcwi81.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#iskbgn"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/afpgeun"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/hjeyynn"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/z2e9e7x"
+    },
+    {
+      "option": 7,
+      "real_video": "https://emturbovid.com/t/67d9a1608709a"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/lgxSiPwOdknR/"
+    }
+  ]
+}

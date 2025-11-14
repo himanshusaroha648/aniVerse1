@@ -1,0 +1,37 @@
+{
+  "series": "Castlevania: Nocturne",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/u29JxmpccPx040LReImilgUo6j7.jpg",
+  "season": 1,
+  "episode": 4,
+  "episode_title": "Episode 4",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/u29JxmpccPx040LReImilgUo6j7.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/k2HwlIh6txqesGGFe28ecO465xp.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/k2HwlIh6txqesGGFe28ecO465xp.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/ZwmBHQoAz2SA/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/2lnroaw37j6c.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://multimovies.cloud/e/2cb6tx73ml1h"
+    },
+    {
+      "option": 4,
+      "real_video": "https://filemoon.to/e/a553gdije66t/Toonhub4u_Castlevania_Nocturne_S01E04_480p_NF_WEB-DL_Hindi-Eng_ESub"
+    },
+    {
+      "option": 5,
+      "real_video": "https://filelions.online/v/9dv751m6frat"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/20cbb9b2641e10b0a2a103a85e066b89"
+    }
+  ]
+}

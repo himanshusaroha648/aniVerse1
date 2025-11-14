@@ -1,0 +1,25 @@
+{
+  "series": "Our Dating Story: The Experienced You and the Inexperienced Me (ESub)",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/ylz5RxpOCWkxIBiCCmNAlJcxYLn.jpg",
+  "season": 1,
+  "episode": 8,
+  "episode_title": "Episode 8",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/ylz5RxpOCWkxIBiCCmNAlJcxYLn.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/sZkNIKWhD9AH1U4vdu5xT4uU359.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/sZkNIKWhD9AH1U4vdu5xT4uU359.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/2fqj0DXjh"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/yj6y755"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/umNg9p6OtIuS/"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "series": "One Piece",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/dum1wnm6kJOUos0XJqjB8s2UWi9.jpg",
+  "season": 21,
+  "episode": 170,
+  "episode_title": "Episode 170",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/dum1wnm6kJOUos0XJqjB8s2UWi9.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/o7sWNBRtVdQ3l6LRwKttZM49uk9.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/o7sWNBRtVdQ3l6LRwKttZM49uk9.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/aZI2oPXfaGLE/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/d-W-XctUO"
+    },
+    {
+      "option": 3,
+      "real_video": "https://rubystm.com/e/z7w4pt9h5ojo.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/Hh892Q8QzRLV/"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "series": "ReLIFE",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/aRK64bB8hMsuZZnitebPyKqOR5d.jpg",
+  "season": 1,
+  "episode": 1,
+  "episode_title": "Episode 1",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/aRK64bB8hMsuZZnitebPyKqOR5d.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/ciwImWg65Dxtd2Jf5vaQld93qNY.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/ciwImWg65Dxtd2Jf5vaQld93qNY.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/1adjniFog"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/4j08lus62yyg.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#ojzn9i"
+    },
+    {
+      "option": 4,
+      "real_video": "https://strmup.to/iVyMRpzmENtOB"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/t4t12fk"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/hq320kt"
+    },
+    {
+      "option": 7,
+      "real_video": "https://gdmirrorbot.nl/embed/f2q5a6v"
+    },
+    {
+      "option": 8,
+      "real_video": "https://emturbovid.com/t/68834b3c33fd3"
+    },
+    {
+      "option": 9,
+      "real_video": "https://vidmoly.net/embed-fmuorjwfrptf.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/eba55fca4575e35eec8587f10ba60a43"
+    }
+  ]
+}

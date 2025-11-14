@@ -1,0 +1,41 @@
+{
+  "series": "Mission: Yozakura Family (Eng-Jap)",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/dTtXbR0DenriganfBidZxFLk4Xx.jpg",
+  "season": 1,
+  "episode": 9,
+  "episode_title": "Episode 9",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/dTtXbR0DenriganfBidZxFLk4Xx.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/zHRDrHWGUpL5E0ORAelCnWXSSV4.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/zHRDrHWGUpL5E0ORAelCnWXSSV4.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://rubystm.com/e/nm8wfizgnszu.html"
+    },
+    {
+      "option": 2,
+      "real_video": "https://strmup.to//WCb2lF0pcxmdt"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/to7qqr6"
+    },
+    {
+      "option": 4,
+      "real_video": "https://turbovidhls.com/t/68a6b4b4d40f8"
+    },
+    {
+      "option": 5,
+      "real_video": "https://vidmoly.net/embed-rohrzcr4kg66.html"
+    },
+    {
+      "option": 6,
+      "real_video": "https://cloudy.upns.one/#skw8fo"
+    },
+    {
+      "option": null,
+      "real_video": "https://short.icu/gB1W5ncA_H"
+    }
+  ]
+}

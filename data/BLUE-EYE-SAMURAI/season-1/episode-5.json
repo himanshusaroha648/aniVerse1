@@ -1,0 +1,25 @@
+{
+  "series": "BLUE EYE SAMURAI",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/fXm3JT4WLQVnwukdvghtAblc1wc.jpg",
+  "season": 1,
+  "episode": 5,
+  "episode_title": "Episode 5",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/fXm3JT4WLQVnwukdvghtAblc1wc.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/6e9kBSfqzFKCScHY1ai5mF84YLk.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/6e9kBSfqzFKCScHY1ai5mF84YLk.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/1MvqLNlzypmI/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/y6b3r84t56h4.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/80e49ec0903f1e8fa1a81df33841d6b1"
+    }
+  ]
+}

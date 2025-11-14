@@ -1,0 +1,29 @@
+{
+  "series": "TRON: Uprising",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/9KuIDiBuWQ5VjezynTZ8YJCPBsL.jpg",
+  "season": 1,
+  "episode": 14,
+  "episode_title": "Episode 14",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/9KuIDiBuWQ5VjezynTZ8YJCPBsL.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/svArQEpmduSQ2kterN8r94RYiZL.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/svArQEpmduSQ2kterN8r94RYiZL.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://filemoon.to/e/356dbgjgc8zj/_Toonhub4u__Tron_Uprising_Episode_14_in_Multi_Audio_720p_HD.mp4"
+    },
+    {
+      "option": 2,
+      "real_video": "https://watchsb.com/e/3vc50t6fw267.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://filepress.lol/video/63a3517c87dd61bedb247019"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/StDMawaT5ID9/"
+    }
+  ]
+}

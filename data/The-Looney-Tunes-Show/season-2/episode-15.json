@@ -1,0 +1,33 @@
+{
+  "series": "The Looney Tunes Show",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/zZuQ4RHiy52r6EyXOT4AwmBroZQ.jpg",
+  "season": 2,
+  "episode": 15,
+  "episode_title": "Episode 15",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/zZuQ4RHiy52r6EyXOT4AwmBroZQ.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/wyGsiQT7ddkX6ob4KlOUn1EDRcM.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/wyGsiQT7ddkX6ob4KlOUn1EDRcM.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/FqD6OJ89_R"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/me55y39"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/yo6njgg"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/rzx3jso"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/SaWWSwyefenK/"
+    }
+  ]
+}

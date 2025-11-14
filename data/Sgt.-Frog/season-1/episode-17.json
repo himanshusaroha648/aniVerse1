@@ -1,0 +1,29 @@
+{
+  "series": "Sgt. Frog",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/irBnC4N8XcVTnvKs8BqBmwyYBxC.jpg",
+  "season": 1,
+  "episode": 17,
+  "episode_title": "Episode 17",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/irBnC4N8XcVTnvKs8BqBmwyYBxC.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/5nIkyOkQ8NrhP2hZHLcHO1p6IjW.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/5nIkyOkQ8NrhP2hZHLcHO1p6IjW.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://rubystm.com/e/45kx3t29qc8v.html"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/s_HE5vpLB"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/digjyzj"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/6qBQprT4PbxU/"
+    }
+  ]
+}

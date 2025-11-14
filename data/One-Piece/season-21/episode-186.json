@@ -1,0 +1,33 @@
+{
+  "series": "One Piece",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/dum1wnm6kJOUos0XJqjB8s2UWi9.jpg",
+  "season": 21,
+  "episode": 186,
+  "episode_title": "Episode 186",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/dum1wnm6kJOUos0XJqjB8s2UWi9.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/3w6YJMvwVaXYAJsOwpZyEBOOEJq.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/3w6YJMvwVaXYAJsOwpZyEBOOEJq.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://cloudy.upns.one/#68d58"
+    },
+    {
+      "option": 2,
+      "real_video": "https://emturbovid.com/t/6764019081d52"
+    },
+    {
+      "option": 3,
+      "real_video": "https://short.icu/tqE0oosPp"
+    },
+    {
+      "option": 4,
+      "real_video": "https://vidstreaming.xyz/v/fWjFZTNPZWLi/"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/2V60uzWUEH38/"
+    }
+  ]
+}

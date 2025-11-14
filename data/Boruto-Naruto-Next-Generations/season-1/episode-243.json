@@ -1,0 +1,25 @@
+{
+  "series": "Boruto: Naruto Next Generations",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/e0B6i48kxdRkMcK4tR4YNfXGWOc.jpg",
+  "season": 1,
+  "episode": 243,
+  "episode_title": "Episode 243",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/e0B6i48kxdRkMcK4tR4YNfXGWOc.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/csVbxdmBc4WXhyLc5TB23tQQCJV.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/csVbxdmBc4WXhyLc5TB23tQQCJV.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/TpHnDzOqaHmB/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/Esp39PKNH"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/NUhNSmNLmnoi/"
+    }
+  ]
+}

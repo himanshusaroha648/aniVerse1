@@ -1,0 +1,41 @@
+{
+  "series": "Reign of the Seven Spellblades",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/kqjLHtt539Sm6aasMvlJ7tuBr4i.jpg",
+  "season": 1,
+  "episode": 10,
+  "episode_title": "Episode 10",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/kqjLHtt539Sm6aasMvlJ7tuBr4i.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/i31z3F0Wx2uMeRpyXgOB05Vi1FW.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/i31z3F0Wx2uMeRpyXgOB05Vi1FW.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/877Vom53hBbj/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/rej4kbrm3asu.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://short.icu/ohcAv6szK"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/nkqrdhq"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/uccevt4"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/kyunc0w"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/e22c686bc771d5872150738b15f3e533"
+    }
+  ]
+}

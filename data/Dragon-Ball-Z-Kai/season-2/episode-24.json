@@ -1,0 +1,41 @@
+{
+  "series": "Dragon Ball Z Kai",
+  "thumbnail": "https://i.imgur.com/zZzbUql.jpg",
+  "season": 2,
+  "episode": 24,
+  "episode_title": "Episode 24",
+  "episode_main_poster": "https://i.imgur.com/zZzbUql.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/6EH0pZ4T6jkc19112RQ6azCa4t7.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/6EH0pZ4T6jkc19112RQ6azCa4t7.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/3CAMxTL3w"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/bch271jfq5os.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#krx6vf"
+    },
+    {
+      "option": 4,
+      "real_video": "https://strmup.to/dr8wjPipLAETv"
+    },
+    {
+      "option": 5,
+      "real_video": "https://turbovidhls.com/t/68b1b1988fbf9"
+    },
+    {
+      "option": 6,
+      "real_video": "https://vidmoly.net/embed-ch2qlichl46t.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/7cf64379eb6f29a4d25c4b6a2df713e4"
+    }
+  ]
+}

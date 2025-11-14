@@ -1,0 +1,25 @@
+{
+  "series": "Zatch Bell!",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/1JaCkXXU7gB8tHmvuzpu36CgGr1.jpg",
+  "season": 1,
+  "episode": 89,
+  "episode_title": "Episode 89",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/1JaCkXXU7gB8tHmvuzpu36CgGr1.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/jVCfiXLCTa5TvLSVqziMeX4h5yp.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/jVCfiXLCTa5TvLSVqziMeX4h5yp.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/mRWX3YXeK"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/dzz13dw"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/2n6ugG7Qar9z/"
+    }
+  ]
+}

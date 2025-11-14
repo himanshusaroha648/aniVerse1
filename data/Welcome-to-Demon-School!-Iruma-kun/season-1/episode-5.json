@@ -1,0 +1,45 @@
+{
+  "series": "Welcome to Demon School! Iruma-kun",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/aed6I1EMR4Lbk8bdikWrndbn5Og.jpg",
+  "season": 1,
+  "episode": 5,
+  "episode_title": "Episode 5",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/aed6I1EMR4Lbk8bdikWrndbn5Og.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/5Jp3lwqLHAjRFaerbRAwnC8Gqsk.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/5Jp3lwqLHAjRFaerbRAwnC8Gqsk.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/cbIJ3Vrh4uvN/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/K0VJNohpd"
+    },
+    {
+      "option": 3,
+      "real_video": "https://rubystm.com/e/y32o80wgx02j.html"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/dfunzn3"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/qweds0t"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/v0xc1xb"
+    },
+    {
+      "option": 7,
+      "real_video": "https://emturbovid.com/t/674d71b511d56"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/b20fa060328b0cdf51b464ee37efe182"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "series": "Log Horizon",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/vrCAD2KvtGJPwABIPd4z0gChi4g.jpg",
+  "season": 2,
+  "episode": 17,
+  "episode_title": "Episode 17",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/vrCAD2KvtGJPwABIPd4z0gChi4g.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/ceNcPOp3nj9pCSklUOnaJvV459u.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/ceNcPOp3nj9pCSklUOnaJvV459u.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/W4fch9Zw71cl/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/TnLXdcnic"
+    },
+    {
+      "option": 3,
+      "real_video": "https://rubystm.com/e/82y2i1bzuxzl.html"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/rfx0ovw"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/rcfwvpc"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/x25odvm"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/a00e5eb0973d24649a4a920fc53d9564"
+    }
+  ]
+}

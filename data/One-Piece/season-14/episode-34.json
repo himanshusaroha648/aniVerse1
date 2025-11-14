@@ -1,0 +1,25 @@
+{
+  "series": "One Piece",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/dum1wnm6kJOUos0XJqjB8s2UWi9.jpg",
+  "season": 14,
+  "episode": 34,
+  "episode_title": "Episode 34",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/dum1wnm6kJOUos0XJqjB8s2UWi9.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/2Bjw2Lmuep8nrk6OTRzgOjBsqS6.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/2Bjw2Lmuep8nrk6OTRzgOjBsqS6.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://rubystm.com/e/zds4fgwr69jf.html"
+    },
+    {
+      "option": 2,
+      "real_video": "https://strmup.to/Z4V3cvwF0xyb"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/iTiNbUfUl1vS/"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "series": "Loki",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/oJdVHUYrjdS2IqiNztVIP4GPB1p.jpg",
+  "season": 1,
+  "episode": 4,
+  "episode_title": "Episode 4",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/oJdVHUYrjdS2IqiNztVIP4GPB1p.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/aTjfWml9Prd8cUB9cfk8yOAEh7v.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/aTjfWml9Prd8cUB9cfk8yOAEh7v.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://filelions.online/v/5pc0j536dz6u"
+    },
+    {
+      "option": 2,
+      "real_video": "https://filemoon.to/e/okf37vrs2u1v/Loki_S01E03_480p_WEB-DL_Hindi-English_ESub-Vegamovies_NL"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/8ok2Tp2QB9Eu/"
+    }
+  ]
+}

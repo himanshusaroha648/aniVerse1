@@ -1,0 +1,49 @@
+{
+  "series": "You are Ms. Servant",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/2cy3OBNvkcdJD2r7h7DxeLXbmrh.jpg",
+  "season": 1,
+  "episode": 5,
+  "episode_title": "Episode 5",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/2cy3OBNvkcdJD2r7h7DxeLXbmrh.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/7CBrjgt18eYDjzZU6APBhvnZ50G.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/7CBrjgt18eYDjzZU6APBhvnZ50G.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/ZRMGu2qpe2Lf/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/L6uZo2KC-"
+    },
+    {
+      "option": 3,
+      "real_video": "https://rubystm.com/e/xjpu1p462bj4.html"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/z76sqy8"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/wj2u7pg"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/zgi8hb3"
+    },
+    {
+      "option": 7,
+      "real_video": "https://emturbovid.com/t/6742949d1743e"
+    },
+    {
+      "option": 8,
+      "real_video": "https://animedekho.net/moly.php?url=vwb07td5nbtt"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/1f50893f80d6830d62765ffad7721742"
+    }
+  ]
+}

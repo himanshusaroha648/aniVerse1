@@ -1,0 +1,25 @@
+{
+  "series": "My One-Hit Kill Sister",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/hQEgYVrTUxV0yXqLxdwdXIaofGt.jpg",
+  "season": 1,
+  "episode": 7,
+  "episode_title": "Episode 7",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/hQEgYVrTUxV0yXqLxdwdXIaofGt.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/fRwwlL2drevo2askFj5DqSFxPY6.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/fRwwlL2drevo2askFj5DqSFxPY6.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/6KmL1Ml8aHdM/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://filemoon.to/e/90bqc0zt5ain/_Toonhub4u__My_One_Hit_Kill_Sister_Season_1_Episode_7_in_Hindi.mp4"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/212ab20dbdf4191cbcdcf015511783f4"
+    }
+  ]
+}

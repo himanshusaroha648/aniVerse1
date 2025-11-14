@@ -1,0 +1,33 @@
+{
+  "series": "Teen Titans Go!",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/mTMAxrRaDp0TFpdFVinD3grrqr9.jpg",
+  "season": 1,
+  "episode": 36,
+  "episode_title": "Episode 36",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/mTMAxrRaDp0TFpdFVinD3grrqr9.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/a1chQHZe90rVF8Hek9kpP4URlMq.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/a1chQHZe90rVF8Hek9kpP4URlMq.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/9opcptE_t"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/d0ts8ho"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/ty8ubis"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/l6n1ax6"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/mM6hWDhhdVi7/"
+    }
+  ]
+}

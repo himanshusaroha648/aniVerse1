@@ -1,0 +1,33 @@
+{
+  "series": "Green Lantern: The Animated Series",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/qSSFP3va0q2WL2a2DzcdcjVe463.jpg",
+  "season": 1,
+  "episode": 26,
+  "episode_title": "Episode 26",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/qSSFP3va0q2WL2a2DzcdcjVe463.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/7uwN9LdCL5Ta9S3WBo1PTjfek9L.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/7uwN9LdCL5Ta9S3WBo1PTjfek9L.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/qVROgZsL6v"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/kc6n59c"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/zl06h2f"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/t116t74"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/UzUaqbNUPUNj/"
+    }
+  ]
+}

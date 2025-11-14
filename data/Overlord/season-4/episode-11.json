@@ -1,0 +1,33 @@
+{
+  "series": "Overlord",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/zjSAukWORQxJAJjpR1KBk5X77PP.jpg",
+  "season": 4,
+  "episode": 11,
+  "episode_title": "Episode 11",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/zjSAukWORQxJAJjpR1KBk5X77PP.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/t73YTLD7Wm7gD5ZgKjt5Xvavyne.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/t73YTLD7Wm7gD5ZgKjt5Xvavyne.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://rubystm.com/e/eiztegjo6ww6.html"
+    },
+    {
+      "option": 2,
+      "real_video": "https://cloudy.upns.one/#luechp"
+    },
+    {
+      "option": 3,
+      "real_video": "https://strmup.to/QWBlaSzGdrnH9"
+    },
+    {
+      "option": 4,
+      "real_video": "https://animeworld.site/embed/64196/4-11"
+    },
+    {
+      "option": null,
+      "real_video": "https://short.icu/yv5HZszTo"
+    }
+  ]
+}

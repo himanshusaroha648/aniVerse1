@@ -1,0 +1,21 @@
+{
+  "series": "Boruto: Naruto Next Generations",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/e0B6i48kxdRkMcK4tR4YNfXGWOc.jpg",
+  "season": 1,
+  "episode": 291,
+  "episode_title": "Episode 291",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/e0B6i48kxdRkMcK4tR4YNfXGWOc.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/AwzRQlIKMyWSAI9aI9CO5zl0GHx.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/AwzRQlIKMyWSAI9aI9CO5zl0GHx.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/3XsgrBKqJ"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/5kFY0EGx3IV6/"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "series": "Sword Art Online",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/kuXL3UDa5TqCRat0az62hCJDeYE.jpg",
+  "season": 1,
+  "episode": 8,
+  "episode_title": "Episode 8",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/kuXL3UDa5TqCRat0az62hCJDeYE.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/cmajeWlA7OCpIT2H6JPXIo9Lwdw.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/cmajeWlA7OCpIT2H6JPXIo9Lwdw.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/AgISobHwAmE6/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/PHXNknOyF"
+    },
+    {
+      "option": 3,
+      "real_video": "https://rubystm.com/e/850g2qnxbafr.html"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/kna47nq"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/hfmju1y"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/lhnt324"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/b1d3a8fba2c3b1a07da18922ec3d5664"
+    }
+  ]
+}

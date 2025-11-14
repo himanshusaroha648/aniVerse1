@@ -1,0 +1,25 @@
+{
+  "series": "Loki",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/oJdVHUYrjdS2IqiNztVIP4GPB1p.jpg",
+  "season": 1,
+  "episode": 5,
+  "episode_title": "Episode 5",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/oJdVHUYrjdS2IqiNztVIP4GPB1p.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/niIXLqEr98mnQuYuMuEvq9Y6OQa.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/niIXLqEr98mnQuYuMuEvq9Y6OQa.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://filelions.online/v/rj1xein3gi5p"
+    },
+    {
+      "option": 2,
+      "real_video": "https://filemoon.to/e/9aqrhfb9ve65/Loki_S01E04_480p_WEB-DL_Hindi-English_ESub-Vegamovies_NL"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/dzuhe1ZlPBPi/"
+    }
+  ]
+}

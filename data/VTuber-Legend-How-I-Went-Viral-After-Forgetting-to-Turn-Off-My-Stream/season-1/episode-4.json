@@ -1,0 +1,41 @@
+{
+  "series": "VTuber Legend: How I Went Viral After Forgetting to Turn Off My Stream",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/c6eB42kmJWGZgKecme6jhDeNMQr.jpg",
+  "season": 1,
+  "episode": 4,
+  "episode_title": "Episode 4",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/c6eB42kmJWGZgKecme6jhDeNMQr.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/i4xmnF0BXu3KxjEhwQN7oGRblAk.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/i4xmnF0BXu3KxjEhwQN7oGRblAk.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/QPXO0EOkRlfr/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/pc7ojxfp311s.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://short.icu/7eO8Hj7hF"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/hn9t5y5"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/o8tphva"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/kt4q4a3"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/ddd9dda6bfaf0bb1525a8a27c3ee6131"
+    }
+  ]
+}

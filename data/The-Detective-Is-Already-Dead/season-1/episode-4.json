@@ -1,0 +1,37 @@
+{
+  "series": "The Detective Is Already Dead",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/8gCOlj0bXa2cQnXSl4wRX5tVIA0.jpg",
+  "season": 1,
+  "episode": 4,
+  "episode_title": "Episode 4",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/8gCOlj0bXa2cQnXSl4wRX5tVIA0.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/jsY7YEYEgkG82CkWiAjJ3f7jQZB.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/jsY7YEYEgkG82CkWiAjJ3f7jQZB.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/rc8oaaPpcUyg/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/m533irs24929.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://wishfast.top/e/c4sdrv6kkqmo"
+    },
+    {
+      "option": 4,
+      "real_video": "https://filemoon.to/e/5qg23arqqpsh/Toonhub4u_The_Detective_Is_Already_Dead_S01E04_BDRip_480p_x264_Multi_Audio_ESub.mkv"
+    },
+    {
+      "option": 5,
+      "real_video": "https://filelions.online/v/m5ffs0didyj8"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/d4ca950da1d6fd954520c45ab19fef1c"
+    }
+  ]
+}

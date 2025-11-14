@@ -1,0 +1,29 @@
+{
+  "series": "One Piece",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/dum1wnm6kJOUos0XJqjB8s2UWi9.jpg",
+  "season": 21,
+  "episode": 150,
+  "episode_title": "Episode 150",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/dum1wnm6kJOUos0XJqjB8s2UWi9.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/3KOhU9P4C2d6h1jhrwGAHunv8Zt.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/3KOhU9P4C2d6h1jhrwGAHunv8Zt.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/HEgvKm8kJVVP/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/FkBQ2DZrs"
+    },
+    {
+      "option": 3,
+      "real_video": "https://rubystm.com/e/9y32x0fw6g2p.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/b83VMoza8z2U/"
+    }
+  ]
+}

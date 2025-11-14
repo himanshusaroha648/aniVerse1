@@ -1,0 +1,33 @@
+{
+  "series": "Oshi no Ko",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/rFp74PFpz14AHrtlVPrLyrSng47.jpg",
+  "season": 1,
+  "episode": 6,
+  "episode_title": "Episode 6",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/rFp74PFpz14AHrtlVPrLyrSng47.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/dTnNfowpkkjSG8fxDprhHxJD465.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/dTnNfowpkkjSG8fxDprhHxJD465.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/TCbhKr_uuM"
+    },
+    {
+      "option": 2,
+      "real_video": "https://vidmoly.me/w/xun7qkhybos4"
+    },
+    {
+      "option": 3,
+      "real_video": "https://vidstreaming.xyz/v/P2yfpwowAuiP/"
+    },
+    {
+      "option": 4,
+      "real_video": "https://short.icu/kRP8Wvzvv"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/aLu6iYBhRSOJ/"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "series": "Hunter x Hunter",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/ucpgmUR1h5Te1BYegKItoPjOeF7.jpg",
+  "season": 1,
+  "episode": 41,
+  "episode_title": "Episode 41",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/ucpgmUR1h5Te1BYegKItoPjOeF7.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/5hnXRLR2G4HxNlFVjmaQicx1FYQ.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/5hnXRLR2G4HxNlFVjmaQicx1FYQ.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://rubystm.com/e/edfnskfuj16o.html"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/7GmCdRc4B"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/em9aehf"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/an9hgro"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/lt5neex"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/RQID2uNVJ0F8/"
+    }
+  ]
+}

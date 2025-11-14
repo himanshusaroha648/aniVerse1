@@ -1,0 +1,21 @@
+{
+  "series": "The Misfit of Demon King Academy",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/6VjUfaGkt3DJPLlNmnm1ALEhSfv.jpg",
+  "season": 1,
+  "episode": 12,
+  "episode_title": "Episode 12",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/6VjUfaGkt3DJPLlNmnm1ALEhSfv.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/m3D8kiRM7lGZMyCkpTD6PBgc6Sa.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/m3D8kiRM7lGZMyCkpTD6PBgc6Sa.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/II6aC4Vuc"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/QHa1OLlc0adC/"
+    }
+  ]
+}

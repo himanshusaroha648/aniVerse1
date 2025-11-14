@@ -1,0 +1,25 @@
+{
+  "series": "Ben 10",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/pT0NlYVIkwM2zAw9oUkePwrOlxW.jpg",
+  "season": 4,
+  "episode": 7,
+  "episode_title": "Episode 7",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/pT0NlYVIkwM2zAw9oUkePwrOlxW.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/m0e88uquem6hSnGsBhZKpwZ67K4.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/m0e88uquem6hSnGsBhZKpwZ67K4.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://filemoon.to/e/imd9ktwa0lwj/_Toonhub4u__Ben_10__2005__S04E07_720p_HD_WEB-DL_Dual_Audio_ESub.mkv"
+    },
+    {
+      "option": 2,
+      "real_video": "https://streamsb.net/e/e4ug6wxhn0sd.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/EREU43y5xzxH/"
+    }
+  ]
+}

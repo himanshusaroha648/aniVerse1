@@ -1,0 +1,45 @@
+{
+  "series": "Teogonia",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/zGHrnnFc0p5Pf25qUaAv95JpnJC.jpg",
+  "season": 1,
+  "episode": 4,
+  "episode_title": "Episode 4",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/zGHrnnFc0p5Pf25qUaAv95JpnJC.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/c13gHLRTp6UOHeVeuoviqqZPed3.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/c13gHLRTp6UOHeVeuoviqqZPed3.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/F8b4ykgRf"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/83atzzhkq8z2.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#ta9dfy"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/z4720cr"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/he53ed5"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/mcbpj1o"
+    },
+    {
+      "option": 7,
+      "real_video": "https://emturbovid.com/t/683225984192c"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/f675d8aec99e98b4e62c6aae5fb12fb6"
+    }
+  ]
+}

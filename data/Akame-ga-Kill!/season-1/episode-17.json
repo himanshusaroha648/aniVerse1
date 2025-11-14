@@ -1,0 +1,21 @@
+{
+  "series": "Akame ga Kill!",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/3c5BIEfAhTCWrIi4C8WMuwOl6bX.jpg",
+  "season": 1,
+  "episode": 17,
+  "episode_title": "Episode 17",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/3c5BIEfAhTCWrIi4C8WMuwOl6bX.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/3UZFMhDHBGH8BmUVejWrTTFNnnS.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/3UZFMhDHBGH8BmUVejWrTTFNnnS.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/Pj3briheV"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/9UzzQS4JJf5h/"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "series": "Ranking of Kings",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/pU3PK0yG5cMWNwvkJcEljDndGrd.jpg",
+  "season": 1,
+  "episode": 22,
+  "episode_title": "Episode 22",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/pU3PK0yG5cMWNwvkJcEljDndGrd.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/9eC8z2eKzWi3Ftl7qxf3Ps9kaMi.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/9eC8z2eKzWi3Ftl7qxf3Ps9kaMi.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/d1EVKGaZp"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/3ugm4w05a7bf.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#r8owz3"
+    },
+    {
+      "option": 4,
+      "real_video": "https://strmup.to/IORGt0uehj6nN"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/c2cbygt"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/oeqmgo4"
+    },
+    {
+      "option": 7,
+      "real_video": "https://gdmirrorbot.nl/embed/yh1mvpp"
+    },
+    {
+      "option": 8,
+      "real_video": "https://vidmoly.net/embed-11s4s8anijfu.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/138aab288c363726990120413c62acee"
+    }
+  ]
+}

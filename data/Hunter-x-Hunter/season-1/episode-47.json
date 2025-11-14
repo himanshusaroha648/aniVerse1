@@ -1,0 +1,37 @@
+{
+  "series": "Hunter x Hunter",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/ucpgmUR1h5Te1BYegKItoPjOeF7.jpg",
+  "season": 1,
+  "episode": 47,
+  "episode_title": "Episode 47",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/ucpgmUR1h5Te1BYegKItoPjOeF7.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/2DSHHAuP0cI9A9LzCZf8hkY3HGl.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/2DSHHAuP0cI9A9LzCZf8hkY3HGl.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://rubystm.com/e/gk45yjlpatnl.html"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/irZejmZ07L"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/rfpfmc5"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/oq3youh"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/vbb544j"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/kFqk1FA8Q9If/"
+    }
+  ]
+}

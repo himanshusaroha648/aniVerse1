@@ -1,0 +1,33 @@
+{
+  "series": "Ragna Crimson",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/oGmNWwV3wgp1DZXTOLSAYZZgh3X.jpg",
+  "season": 1,
+  "episode": 18,
+  "episode_title": "Episode 18",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/oGmNWwV3wgp1DZXTOLSAYZZgh3X.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/rkJqo3ouvFzL3HJ9q55K12p50FQ.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/rkJqo3ouvFzL3HJ9q55K12p50FQ.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidcloud.upns.ink/#oq5p3q"
+    },
+    {
+      "option": 2,
+      "real_video": "https://turbovidhls.com/t/69100bc72d70f"
+    },
+    {
+      "option": 3,
+      "real_video": "https://vidmoly.net/embed-foko35kesifu.html"
+    },
+    {
+      "option": 4,
+      "real_video": "https://play.zephyrflick.top/video/52c64c72294407663e6f654f467bef53"
+    },
+    {
+      "option": null,
+      "real_video": "https://short.icu/tWT49zFLj"
+    }
+  ]
+}

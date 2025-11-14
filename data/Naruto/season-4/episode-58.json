@@ -1,0 +1,53 @@
+{
+  "series": "Naruto",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/vauCEnR7CiyBDzRCeElKkCaXIYu.jpg",
+  "season": 4,
+  "episode": 58,
+  "episode_title": "Episode 58",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/vauCEnR7CiyBDzRCeElKkCaXIYu.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/sEautcEwXpAMABpDD2MaeOqKhpE.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/sEautcEwXpAMABpDD2MaeOqKhpE.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/9HnXniktw"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/ocovvma"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/ovd3ldg"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/s8vs2et"
+    },
+    {
+      "option": 5,
+      "real_video": "https://rubystm.com/e/15gkwgx0hhku.html"
+    },
+    {
+      "option": 6,
+      "real_video": "https://cloudy.upns.one/#r8ofvr"
+    },
+    {
+      "option": 7,
+      "real_video": "https://strmup.to/jO6bmoMtTSyHG"
+    },
+    {
+      "option": 8,
+      "real_video": "https://emturbovid.com/t/68e2aae7b75a3"
+    },
+    {
+      "option": 9,
+      "real_video": "https://vidmoly.net/embed-rbgbhiyvi7hk.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/67f7fb873eaf29526a11a9b7ac33bfac"
+    }
+  ]
+}

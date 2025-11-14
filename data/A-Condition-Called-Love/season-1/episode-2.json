@@ -1,0 +1,45 @@
+{
+  "series": "A Condition Called Love",
+  "thumbnail": "https://i.ibb.co/Jv1YyC0/image.png",
+  "season": 1,
+  "episode": 2,
+  "episode_title": "Episode 2",
+  "episode_main_poster": "https://i.ibb.co/Jv1YyC0/image.png",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/uyvLVACop7ISHBzJGcwgWkZkrrX.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/uyvLVACop7ISHBzJGcwgWkZkrrX.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/OwuSp0JgPqAu/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/embed-j4wlolqlamyl.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://short.icu/riM6XdXX7"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/l8c1hcb"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/uhd9x19"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/eytbe0w"
+    },
+    {
+      "option": 7,
+      "real_video": "https://play.zephyrflick.top/video/df46e19efffe9c4cd3e8808359aa8c8a"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/1bcef5d8bd566084523bf65b7e1a245d"
+    }
+  ]
+}

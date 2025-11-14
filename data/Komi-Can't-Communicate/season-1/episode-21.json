@@ -1,0 +1,21 @@
+{
+  "series": "Komi Can't Communicate",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/rOEaKS6jdZacivHnM56NQ4yhccW.jpg",
+  "season": 1,
+  "episode": 21,
+  "episode_title": "Episode 21",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/rOEaKS6jdZacivHnM56NQ4yhccW.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/nLrVe2VBkArYDlvabfRHRwtAzU3.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/nLrVe2VBkArYDlvabfRHRwtAzU3.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/vEf0VQ1wCyiQ/"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/H6FfMJrLynNG/"
+    }
+  ]
+}

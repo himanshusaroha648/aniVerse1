@@ -1,0 +1,25 @@
+{
+  "series": "Chivalry of a Failed Knight (Eng-Jap)",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/g2DoS2AwOtaRlJStUNlcTsm3pmS.jpg",
+  "season": 1,
+  "episode": 2,
+  "episode_title": "Episode 2",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/g2DoS2AwOtaRlJStUNlcTsm3pmS.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/qTi3bD3J6hW7fJKaB6sj77yUUu0.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/qTi3bD3J6hW7fJKaB6sj77yUUu0.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/DwciwRaHd"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/sla2e0d"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/kfQ7XbGg3HAF/"
+    }
+  ]
+}

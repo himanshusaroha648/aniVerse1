@@ -1,0 +1,37 @@
+{
+  "series": "The Case Study of Vanitas",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/fvqoSfyfQG0hH9nJAvubq730ymR.jpg",
+  "season": 1,
+  "episode": 5,
+  "episode_title": "Episode 5",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/fvqoSfyfQG0hH9nJAvubq730ymR.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/rafH7Pdv4IK5Jg64cpEzhB6OMgu.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/rafH7Pdv4IK5Jg64cpEzhB6OMgu.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/nzChcoYkxIAh/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/SFs_aLCbp"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/ndolq4z"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/sjsef94"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/k1dtnzd"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/b0928f2d4ba7ea33b05024f21d937f48"
+    }
+  ]
+}

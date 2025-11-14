@@ -1,0 +1,53 @@
+{
+  "series": "TSUKIMICHI -Moonlit Fantasy-Multi",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/kkWkdoB5GbVALlmNfsALh9OdsPl.jpg",
+  "season": 2,
+  "episode": 19,
+  "episode_title": "Episode 19",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/kkWkdoB5GbVALlmNfsALh9OdsPl.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/hwgDnAd2Y6wyd7fwkXoj52TFeGK.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/hwgDnAd2Y6wyd7fwkXoj52TFeGK.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/Y46SiTkjQ"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/eyzvtmik41t0.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#ldneiy"
+    },
+    {
+      "option": 4,
+      "real_video": "https://strmup.to/nES4VNLb93w60"
+    },
+    {
+      "option": 5,
+      "real_video": "https://turbovidhls.com/t/69047263e5dea"
+    },
+    {
+      "option": 6,
+      "real_video": "https://vidmoly.net/embed-250rpmm8rgfh.html"
+    },
+    {
+      "option": 7,
+      "real_video": "https://gdmirrorbot.nl/embed/vy0756x"
+    },
+    {
+      "option": 8,
+      "real_video": "https://gdmirrorbot.nl/embed/dai9rh7"
+    },
+    {
+      "option": 9,
+      "real_video": "https://gdmirrorbot.nl/embed/j8xekkx"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/2a2d16a741cf3a7738ce320021a5e661"
+    }
+  ]
+}

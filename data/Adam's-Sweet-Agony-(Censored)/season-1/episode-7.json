@@ -1,0 +1,37 @@
+{
+  "series": "Adam's Sweet Agony (Censored)",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/1n1ZP0KHXUSvVxZG63x7aOzmO4M.jpg",
+  "season": 1,
+  "episode": 7,
+  "episode_title": "Episode 7",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/1n1ZP0KHXUSvVxZG63x7aOzmO4M.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/tTq2KEqgunWQTnARBVmry3oYXWc.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/tTq2KEqgunWQTnARBVmry3oYXWc.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/A3qbUTPFc"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/embed-qmui451pznv9.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#geptmq"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/wo0l561"
+    },
+    {
+      "option": 5,
+      "real_video": "https://emturbovid.com/t/67d31a3a4b399"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/eRRKt1Or64H0/"
+    }
+  ]
+}

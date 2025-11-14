@@ -1,0 +1,25 @@
+{
+  "series": "Masamune-kun's Revenge",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/50jjmuwSwMxlXAP1jQ48kr1xrcN.jpg",
+  "season": 1,
+  "episode": 10,
+  "episode_title": "Episode 10",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/50jjmuwSwMxlXAP1jQ48kr1xrcN.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/ueWvu7ptwAhK1Ex7ihye5G8hie9.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/ueWvu7ptwAhK1Ex7ihye5G8hie9.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/p87XzjJSw"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/dimaziu"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/gLfNN0yaiP2u/"
+    }
+  ]
+}

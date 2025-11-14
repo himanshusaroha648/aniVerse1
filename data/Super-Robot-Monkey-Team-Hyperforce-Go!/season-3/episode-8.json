@@ -1,0 +1,17 @@
+{
+  "series": "Super Robot Monkey Team Hyperforce Go!",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/gcTY3iHLC1wm9wB4pKn2vvCxCfK.jpg",
+  "season": 3,
+  "episode": 8,
+  "episode_title": "Episode 8",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/gcTY3iHLC1wm9wB4pKn2vvCxCfK.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/euF5HtfdiQItqMIVdcMma8JmX9F.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/euF5HtfdiQItqMIVdcMma8JmX9F.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/8qeGRaxOTO11/"
+    }
+  ]
+}

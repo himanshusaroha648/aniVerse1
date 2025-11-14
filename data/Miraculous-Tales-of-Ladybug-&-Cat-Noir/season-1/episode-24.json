@@ -1,0 +1,41 @@
+{
+  "series": "Miraculous: Tales of Ladybug & Cat Noir",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/psDcRgUX38cIeGeADwLRPyO7SYC.jpg",
+  "season": 1,
+  "episode": 24,
+  "episode_title": "Episode 24",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/psDcRgUX38cIeGeADwLRPyO7SYC.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/wW5AGcURScfyJulDrLiPo79CH6.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/wW5AGcURScfyJulDrLiPo79CH6.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/9O_xYLsMs"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/8td3cvulgrom.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://cloudy.upns.one/#6scjhy"
+    },
+    {
+      "option": 4,
+      "real_video": "https://strmup.to/MbBLS8k5pY4iA"
+    },
+    {
+      "option": 5,
+      "real_video": "https://vidmoly.net/embed-22iogrnrt2s2.html"
+    },
+    {
+      "option": 6,
+      "real_video": "https://turbovidhls.com/t/67f27e080a841"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/8e2cfdc275761edc592f73a076197c33"
+    }
+  ]
+}

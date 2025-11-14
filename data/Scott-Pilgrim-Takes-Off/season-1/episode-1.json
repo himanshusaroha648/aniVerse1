@@ -1,0 +1,25 @@
+{
+  "series": "Scott Pilgrim Takes Off",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/nHROk2C6bv8LqtvyYd0tCMURbxC.jpg",
+  "season": 1,
+  "episode": 1,
+  "episode_title": "Episode 1",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/nHROk2C6bv8LqtvyYd0tCMURbxC.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/q3eIJSxZO2zXig4Ni3oo8md6mWS.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/q3eIJSxZO2zXig4Ni3oo8md6mWS.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/Rc6mLBhK1nWT/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/qipsyfobxlv1.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/cbaca3167c8aa7c3352f2e7be9300285"
+    }
+  ]
+}

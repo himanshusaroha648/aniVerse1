@@ -1,0 +1,53 @@
+{
+  "series": "Attack on Titan",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/hTP1DtLGFamjfu8WqjnuQdP1n4i.jpg",
+  "season": 4,
+  "episode": 10,
+  "episode_title": "Episode 10",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/hTP1DtLGFamjfu8WqjnuQdP1n4i.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/mLsWWQs5zrFju6iMNLOkSBf0Jg2.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/mLsWWQs5zrFju6iMNLOkSBf0Jg2.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/1fYJbtfAOmAP/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/WTcXzHNFM"
+    },
+    {
+      "option": 3,
+      "real_video": "https://rubystm.com/embed-5871cpln8e4m.html"
+    },
+    {
+      "option": 4,
+      "real_video": "https://cloudy.upns.one/#rqa9ck"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/bil5en5"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/fqwspkq"
+    },
+    {
+      "option": 7,
+      "real_video": "https://gdmirrorbot.nl/embed/jvrciik"
+    },
+    {
+      "option": 8,
+      "real_video": "https://emturbovid.com/t/67da742433ee8"
+    },
+    {
+      "option": 9,
+      "real_video": "https://raretoonsindia.co/ex/lir5AgnkG9IuGiV"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/366c97caa1e66d39a0c21edb8fdc9caf"
+    }
+  ]
+}

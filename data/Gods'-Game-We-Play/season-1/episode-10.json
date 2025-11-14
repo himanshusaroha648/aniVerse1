@@ -1,0 +1,41 @@
+{
+  "series": "Gods' Game We Play",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/m47Ziq5bcYcOiaiIpFEnoQhySYY.jpg",
+  "season": 1,
+  "episode": 10,
+  "episode_title": "Episode 10",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/m47Ziq5bcYcOiaiIpFEnoQhySYY.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/8F8sbGzoDqZTVrToO0Q7wfeFS80.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/8F8sbGzoDqZTVrToO0Q7wfeFS80.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/a90qQvBMJgkC/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/tdkf1x1xx9l3.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://short.icu/_sPfmH6pH"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/x3akhzg"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/akh8vxs"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/bth4osj"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/10907813b97e249163587e6246612e21"
+    }
+  ]
+}

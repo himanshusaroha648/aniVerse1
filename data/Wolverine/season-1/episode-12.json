@@ -1,0 +1,29 @@
+{
+  "series": "Wolverine",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/cXPQEgUEbDz5NERfBJxeKFqUGwa.jpg",
+  "season": 1,
+  "episode": 12,
+  "episode_title": "Episode 12",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/cXPQEgUEbDz5NERfBJxeKFqUGwa.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/ae8nS8sKqtoJjLtYZo5f1pyoxPQ.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/ae8nS8sKqtoJjLtYZo5f1pyoxPQ.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://bullstream.xyz/watch?v=MSU1IORH"
+    },
+    {
+      "option": 2,
+      "real_video": "https://streamsb.net/e/7lgvf14j8pjx.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://filemoon.to/e/ssrfhpyigfcg/_Toonhub4u__Marvel_Anime__Wolverine_Episode_12_in_Multi_Audio_480p.mp4"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/9A3UGtW9jJSj/"
+    }
+  ]
+}

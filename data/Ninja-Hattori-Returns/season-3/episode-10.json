@@ -1,0 +1,25 @@
+{
+  "series": "Ninja Hattori Returns",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/gt0jlGyGW11Q1HQ7AtFAvioKOV9.jpg",
+  "season": 3,
+  "episode": 10,
+  "episode_title": "Episode 10",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/gt0jlGyGW11Q1HQ7AtFAvioKOV9.jpg",
+  "episode_card_thumbnail": "https://akamai-images-content.com/1g7p07yjnxtz_t.jpg?nocache=1&r=r8lnoe",
+  "episode_list_thumbnail": "https://akamai-images-content.com/1g7p07yjnxtz_t.jpg?nocache=1&r=r8lnoe",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://watchsb.com/e/1g7p07yjnxtz.html"
+    },
+    {
+      "option": 2,
+      "real_video": "https://filepress.online/video/6358a50e7cb0d53a1de86110"
+    },
+    {
+      "option": null,
+      "real_video": "https://filemoon.to/e/tdyt44wtq778/_Toonhub4u__Ninja_Hattori_Returns__40_2012_41__Season_1_Episode_10_Multi_Audio_720p_HD.mp4"
+    }
+  ]
+}

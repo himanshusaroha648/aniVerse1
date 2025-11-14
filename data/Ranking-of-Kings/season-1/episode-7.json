@@ -1,0 +1,49 @@
+{
+  "series": "Ranking of Kings",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/pU3PK0yG5cMWNwvkJcEljDndGrd.jpg",
+  "season": 1,
+  "episode": 7,
+  "episode_title": "Episode 7",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/pU3PK0yG5cMWNwvkJcEljDndGrd.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/cpyBuPlZEv60zWSZbDV53uqU5Y3.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/cpyBuPlZEv60zWSZbDV53uqU5Y3.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://rubystm.com/e/y7790bb3p9au.html"
+    },
+    {
+      "option": 2,
+      "real_video": "https://cloudy.upns.one/#3a8xb1"
+    },
+    {
+      "option": 3,
+      "real_video": "https://strmup.to/V1oBTafWMZ3Ek"
+    },
+    {
+      "option": 4,
+      "real_video": "https://turbovidhls.com/t/680a4a2658036"
+    },
+    {
+      "option": 5,
+      "real_video": "https://vidmoly.net/embed-4y86a6bgt1e1.html"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/vsh5qo6"
+    },
+    {
+      "option": 7,
+      "real_video": "https://gdmirrorbot.nl/embed/er6esew"
+    },
+    {
+      "option": 8,
+      "real_video": "https://gdmirrorbot.nl/embed/qus2ddh"
+    },
+    {
+      "option": null,
+      "real_video": "https://short.icu/oGdsR19yk"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "series": "Gods' Game We Play",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/m47Ziq5bcYcOiaiIpFEnoQhySYY.jpg",
+  "season": 1,
+  "episode": 13,
+  "episode_title": "Episode 13",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/m47Ziq5bcYcOiaiIpFEnoQhySYY.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/wegOlJCw6MbHGHpYOe4LH1bqvW7.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/wegOlJCw6MbHGHpYOe4LH1bqvW7.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/HyIy7MkaMWce/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/hzxb3c6bno1f.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://short.icu/sD91sLtsf"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/i6zo66e"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/air6w0m"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/ygxwqgb"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/be6c7b094f88532b6c6b35bbcd525ee8"
+    }
+  ]
+}

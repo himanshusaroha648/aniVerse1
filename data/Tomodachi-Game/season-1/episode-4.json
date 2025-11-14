@@ -1,0 +1,25 @@
+{
+  "series": "Tomodachi Game",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/l9wfsCpH5Zot8PSskCShqiQc9I4.jpg",
+  "season": 1,
+  "episode": 4,
+  "episode_title": "Episode 4",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/l9wfsCpH5Zot8PSskCShqiQc9I4.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/mbLBELYhMbD4cL4GSoPdMfEGRW6.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/mbLBELYhMbD4cL4GSoPdMfEGRW6.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/FjLU9K1pS"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/wn6ewvm"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/RjY1GiZyC9gB/"
+    }
+  ]
+}

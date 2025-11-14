@@ -1,0 +1,45 @@
+{
+  "series": "Buddy Daddies",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/qjRWZ1Ak9Ag6EvcA5LNhphqX8oV.jpg",
+  "season": 1,
+  "episode": 9,
+  "episode_title": "Episode 9",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/qjRWZ1Ak9Ag6EvcA5LNhphqX8oV.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/3hYu8kNwErNTEIyqug7R4wihqUd.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/3hYu8kNwErNTEIyqug7R4wihqUd.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/JZmBGNmg8wWJ/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/dco4orq22jx5.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://short.icu/Vr7LqyF0t"
+    },
+    {
+      "option": 4,
+      "real_video": "https://vidmoly.me/w/v87ogtfumn28"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/das2gtt"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/eazgaik"
+    },
+    {
+      "option": 7,
+      "real_video": "https://gdmirrorbot.nl/embed/zh5ypk4"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/d04eb5de4d99080be674f159197a514a"
+    }
+  ]
+}

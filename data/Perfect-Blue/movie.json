@@ -1,0 +1,37 @@
+{
+  "title": "Perfect Blue",
+  "description": "Watch Perfect Blue online for free in HD on ToonStream. Available in Hindi, Tamil, Telugu & More dubbed versions. Stream or Download now! Encouraged by",
+  "release_year": 1998,
+  "genres": [
+    "Animation",
+    "English",
+    "Hindi",
+    "Horror",
+    "Japaneses",
+    "Thriller"
+  ],
+  "thumbnail": "https://image.tmdb.org/t/p/w185/n9ulcEuKw7eo4YJUfTDfFVC3ywu.jpg",
+  "movie_poster": "https://image.tmdb.org/t/p/w185/n9ulcEuKw7eo4YJUfTDfFVC3ywu.jpg",
+  "tmdb_id": null,
+  "tvdb_id": null,
+  "languages": [],
+  "url": "https://toonstream.love/movies/perfect-blue/",
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/63kbuAny86uG/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/embed-rhdohwpq2kra.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://short.icu/afhOkI2pk"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/dy2qrgc"
+    }
+  ]
+}

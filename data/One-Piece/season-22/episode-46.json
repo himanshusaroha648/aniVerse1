@@ -1,0 +1,37 @@
+{
+  "series": "One Piece",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/dum1wnm6kJOUos0XJqjB8s2UWi9.jpg",
+  "season": 22,
+  "episode": 46,
+  "episode_title": "Episode 46",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/dum1wnm6kJOUos0XJqjB8s2UWi9.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/9gMX88GU7ohYmYrTkXJB8tfZuQc.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/9gMX88GU7ohYmYrTkXJB8tfZuQc.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://rubystm.com/e/60q7mhclkxqy.html"
+    },
+    {
+      "option": 2,
+      "real_video": "https://cloudy.upns.one/#poq99o"
+    },
+    {
+      "option": 3,
+      "real_video": "https://strmup.to/PjCK1vZ8bUsAY"
+    },
+    {
+      "option": 4,
+      "real_video": "https://turbovidhls.com/t/690c3cebb7ec5"
+    },
+    {
+      "option": 5,
+      "real_video": "https://vidmoly.net/embed-57vhsv35jkdl.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://short.icu/5GzYsselE"
+    }
+  ]
+}

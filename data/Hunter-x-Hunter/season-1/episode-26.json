@@ -1,0 +1,37 @@
+{
+  "series": "Hunter x Hunter",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/ucpgmUR1h5Te1BYegKItoPjOeF7.jpg",
+  "season": 1,
+  "episode": 26,
+  "episode_title": "Episode 26",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/ucpgmUR1h5Te1BYegKItoPjOeF7.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/6ALbyCGQjoYTTTiPOeAANpkXyI.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/6ALbyCGQjoYTTTiPOeAANpkXyI.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://rubystm.com/e/ej8esj0xj0zc.html"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/cAl0uKYo0"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/rv90uih"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/fk7fb2p"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/dcmnbwt"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/atYyQw85Ibnp/"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "series": "One Piece",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/dum1wnm6kJOUos0XJqjB8s2UWi9.jpg",
+  "season": 19,
+  "episode": 55,
+  "episode_title": "Episode 55",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/dum1wnm6kJOUos0XJqjB8s2UWi9.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/63wIY5jV1XzQCegGN44hg9zeUEg.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/63wIY5jV1XzQCegGN44hg9zeUEg.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://rubystm.com/e/rfygavpd65ig.html"
+    },
+    {
+      "option": 2,
+      "real_video": "https://strmup.to/Ln8daFl7QbxY"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/6wUbhCFkGcde/"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "series": "Sword Art Online",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/kuXL3UDa5TqCRat0az62hCJDeYE.jpg",
+  "season": 1,
+  "episode": 20,
+  "episode_title": "Episode 20",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/kuXL3UDa5TqCRat0az62hCJDeYE.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/cOpNhZSFZv2ocUaGfZajDlHz7NK.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/cOpNhZSFZv2ocUaGfZajDlHz7NK.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/WRS4WFNqt9wm/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/lF8aq56I_"
+    },
+    {
+      "option": 3,
+      "real_video": "https://rubystm.com/e/x00gypsshaoh.html"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/qoie9u3"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/aujqrm3"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/eo3mqvy"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/aaf662be6cd123f4c54c4d90d24b1373"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "series": "Fate/stay night",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/7lRjtl3ZsMwLsp72Cou1TfR7B8Z.jpg",
+  "season": 1,
+  "episode": 17,
+  "episode_title": "Episode 17",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/7lRjtl3ZsMwLsp72Cou1TfR7B8Z.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/zDQDB6MImYINbc2shyH5ZliFIvz.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/zDQDB6MImYINbc2shyH5ZliFIvz.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/HaAh4qSV5"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/lms7w4v"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/VZiYn5J4uf23/"
+    }
+  ]
+}

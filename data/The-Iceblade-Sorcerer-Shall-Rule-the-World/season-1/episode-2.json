@@ -1,0 +1,41 @@
+{
+  "series": "The Iceblade Sorcerer Shall Rule the World",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/xBlJYF8ROyYppm6RbZ1Ga8nERWs.jpg",
+  "season": 1,
+  "episode": 2,
+  "episode_title": "Episode 2",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/xBlJYF8ROyYppm6RbZ1Ga8nERWs.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/zaMyy0AeDxagVU5qomQ9d2rfzE8.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/zaMyy0AeDxagVU5qomQ9d2rfzE8.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/j10KYR9nhma4/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/thxqhrfuxy97.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://short.icu/6YHu2O2xlw"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/xv7uulp"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/hjlcabe"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/kv4vry0"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/9c82c7143c102b71c593d98d96093fde"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "series": "Regular Show",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/mS5SLxMYcKfUxA0utBSR5MOAWWr.jpg",
+  "season": 3,
+  "episode": 38,
+  "episode_title": "Episode 38",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/mS5SLxMYcKfUxA0utBSR5MOAWWr.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/31TZBcLNVN5mmIgijr4znyDZytm.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/31TZBcLNVN5mmIgijr4znyDZytm.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/Z5Kc5_xvi"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/d85y431"
+    },
+    {
+      "option": 3,
+      "real_video": "https://gdmirrorbot.nl/embed/eueo5wt"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/oq3myq3"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/9HGSqviMJ0oq/"
+    }
+  ]
+}

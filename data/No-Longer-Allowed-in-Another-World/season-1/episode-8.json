@@ -1,0 +1,41 @@
+{
+  "series": "No Longer Allowed in Another World",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/mKOeQuH7BRrd6Fu4Exx2r0rJF5b.jpg",
+  "season": 1,
+  "episode": 8,
+  "episode_title": "Episode 8",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/mKOeQuH7BRrd6Fu4Exx2r0rJF5b.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/wMVPbrq4ok7Bx5MkCxHvk26U2vC.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/wMVPbrq4ok7Bx5MkCxHvk26U2vC.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/laDQRaXcIQXE/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://rubystm.com/e/1p7kktr12hdo.html"
+    },
+    {
+      "option": 3,
+      "real_video": "https://short.icu/lNSyLEYzx"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/b3gbe4v"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/xo9zu3w"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/pkb766s"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/b571ecea16a9824023ee1af16897a582"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "series": "Higurashi: When They Cry",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/z6GrUoKte5lzPxR7HWyiSLVieUC.jpg",
+  "season": 2,
+  "episode": 17,
+  "episode_title": "Episode 17",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/z6GrUoKte5lzPxR7HWyiSLVieUC.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/boNNmYg0fm3khmIP3oq3Pzj2nf2.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/boNNmYg0fm3khmIP3oq3Pzj2nf2.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/JzYmZO91Y"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/kd3q13k"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/vvzqYIV099Tf/"
+    }
+  ]
+}

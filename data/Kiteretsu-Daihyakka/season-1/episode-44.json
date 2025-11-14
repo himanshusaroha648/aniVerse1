@@ -1,0 +1,37 @@
+{
+  "series": "Kiteretsu Daihyakka",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/icTY9mQcyjzinblLnkdQR7CWgPa.jpg",
+  "season": 1,
+  "episode": 44,
+  "episode_title": "Episode 44",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/icTY9mQcyjzinblLnkdQR7CWgPa.jpg",
+  "episode_card_thumbnail": "https://toonstream.love/wp-content/themes/torofilm/public/img/cnt/noimg-episode.png",
+  "episode_list_thumbnail": "https://toonstream.love/wp-content/themes/torofilm/public/img/cnt/noimg-episode.png",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://rubystm.com/e/hf7p0ty4tuxs.html"
+    },
+    {
+      "option": 2,
+      "real_video": "https://cloudy.upns.one/#ncl6cd"
+    },
+    {
+      "option": 3,
+      "real_video": "https://strmup.to/0uIQsbJNhefXo"
+    },
+    {
+      "option": 4,
+      "real_video": "https://turbovidhls.com/t/68c5a8e680af5"
+    },
+    {
+      "option": 5,
+      "real_video": "https://vidmoly.net/embed-q0yymxatn6dl.html"
+    },
+    {
+      "option": null,
+      "real_video": "https://short.icu/cusM48hYN"
+    }
+  ]
+}

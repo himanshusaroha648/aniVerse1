@@ -1,0 +1,25 @@
+{
+  "series": "Yosuga no Sora",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/9F80WGUD6WYfoEDMImf988NlXhC.jpg",
+  "season": 1,
+  "episode": 8,
+  "episode_title": "Episode 8",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/9F80WGUD6WYfoEDMImf988NlXhC.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/fVcor4mipc7H6Wmvg80hoRSxuIk.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/fVcor4mipc7H6Wmvg80hoRSxuIk.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://short.icu/lBqHHJFl7"
+    },
+    {
+      "option": 2,
+      "real_video": "https://gdmirrorbot.nl/embed/yqte2da"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/zChgQFy4q5pQ/"
+    }
+  ]
+}

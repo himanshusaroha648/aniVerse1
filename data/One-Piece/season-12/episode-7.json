@@ -1,0 +1,25 @@
+{
+  "series": "One Piece",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/dum1wnm6kJOUos0XJqjB8s2UWi9.jpg",
+  "season": 12,
+  "episode": 7,
+  "episode_title": "Episode 7",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/dum1wnm6kJOUos0XJqjB8s2UWi9.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/bOGjqWon426rNsZcadMTWFz5ezD.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/bOGjqWon426rNsZcadMTWFz5ezD.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://rubystm.com/e/fuybai85rc7r.html"
+    },
+    {
+      "option": 2,
+      "real_video": "https://strmup.to/LHWaDG50LQ3u"
+    },
+    {
+      "option": null,
+      "real_video": "https://vidstreaming.xyz/v/TbnDFAgb1MBj/"
+    }
+  ]
+}

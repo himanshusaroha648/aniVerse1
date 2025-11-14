@@ -1,0 +1,33 @@
+{
+  "series": "Ragna Crimson",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/oGmNWwV3wgp1DZXTOLSAYZZgh3X.jpg",
+  "season": 1,
+  "episode": 23,
+  "episode_title": "Episode 23",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/oGmNWwV3wgp1DZXTOLSAYZZgh3X.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/iQeSJvTSXIqMBlGAdsqLEY3Jzgl.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/iQeSJvTSXIqMBlGAdsqLEY3Jzgl.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidcloud.upns.ink/#n3wkvw"
+    },
+    {
+      "option": 2,
+      "real_video": "https://turbovidhls.com/t/69100bd0a009f"
+    },
+    {
+      "option": 3,
+      "real_video": "https://vidmoly.net/embed-yrhjnadxvv5m.html"
+    },
+    {
+      "option": 4,
+      "real_video": "https://play.zephyrflick.top/video/e6e97acfea8d0d3b34ffd456ab9f665c"
+    },
+    {
+      "option": null,
+      "real_video": "https://short.icu/8q1lKDq7L"
+    }
+  ]
+}

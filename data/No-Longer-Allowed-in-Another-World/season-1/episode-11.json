@@ -1,0 +1,41 @@
+{
+  "series": "No Longer Allowed in Another World",
+  "thumbnail": "https://image.tmdb.org/t/p/w185/mKOeQuH7BRrd6Fu4Exx2r0rJF5b.jpg",
+  "season": 1,
+  "episode": 11,
+  "episode_title": "Episode 11",
+  "episode_main_poster": "https://image.tmdb.org/t/p/w185/mKOeQuH7BRrd6Fu4Exx2r0rJF5b.jpg",
+  "episode_card_thumbnail": "https://image.tmdb.org/t/p/w185/cYTHaLxIQcReIFGCJSmsagoWD9N.jpg",
+  "episode_list_thumbnail": "https://image.tmdb.org/t/p/w185/cYTHaLxIQcReIFGCJSmsagoWD9N.jpg",
+  "video_player_thumbnail": null,
+  "servers": [
+    {
+      "option": 1,
+      "real_video": "https://vidstreaming.xyz/v/nTkcIYz0Fo3S/"
+    },
+    {
+      "option": 2,
+      "real_video": "https://short.icu/UaDto24ys"
+    },
+    {
+      "option": 3,
+      "real_video": "https://rubystm.com/e/7gudpaohv8pg.html"
+    },
+    {
+      "option": 4,
+      "real_video": "https://gdmirrorbot.nl/embed/z1km04j"
+    },
+    {
+      "option": 5,
+      "real_video": "https://gdmirrorbot.nl/embed/k1u4lew"
+    },
+    {
+      "option": 6,
+      "real_video": "https://gdmirrorbot.nl/embed/fwifym2"
+    },
+    {
+      "option": null,
+      "real_video": "https://play.zephyrflick.top/video/bb1662b7c5f22a0f905fd59e718ca05e"
+    }
+  ]
+}
