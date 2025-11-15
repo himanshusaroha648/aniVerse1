@@ -32,7 +32,7 @@ app.get('/', (req, res) => {
                         movieDetail: '/api/movies/:slug',
                         episode: '/api/series/:slug/episode/:season-:episode'
                 },
-                note: 'Frontend is available at http://localhost:5000'
+                note: 'Frontend is available at https://aniverse1.onrender.com/api/'
         });
 });
 
