@@ -1,26 +1,51 @@
+import { Github, Twitter } from 'lucide-react';
 import { Link } from 'react-router-dom';
 
-function EpisodeCard({ episode, seriesSlug }) {
+function Footer() {
   return (
-    <Link
-      to={`/series/${seriesSlug}/episode/${episode.id}`}
-      className="card-hover group relative block overflow-hidden rounded-2xl bg-card"
-    >
-      <img
-        src={episode.thumbnail || '/placeholder.jpg'}
-        alt={`${episode.title} thumbnail`}
-        loading="lazy"
-        className="w-full aspect-video object-cover transition duration-300 group-hover:scale-105"
-      />
-      <span className="absolute left-3 top-3 rounded-full bg-black/70 px-3 py-1 text-xs font-semibold text-white">
-        EP {episode.number}
-      </span>
-      <div className="p-4">
-        <p className="text-sm text-muted">{episode.duration}</p>
-        <h4 className="mt-1 text-base font-semibold text-white">{episode.title}</h4>
+    <footer className="border-t border-white/5 bg-[rgba(6,10,18,0.8)] backdrop-blur-lg">
+      <div className="mx-auto flex max-w-7xl flex-col gap-6 px-4 py-8 text-sm text-muted md:flex-row md:items-center md:justify-between">
+        <nav className="flex gap-5">
+          <Link className="hover:text-primary focus-visible:text-primary" to="/about">
+            About
+          </Link>
+          <Link className="hover:text-primary focus-visible:text-primary" to="/privacy">
+            Privacy
+          </Link>
+          <Link className="hover:text-primary focus-visible:text-primary" to="/contact">
+            Contact
+          </Link>
+        </nav>
+        <div className="flex flex-col items-center gap-3 md:items-end">
+          <div className="flex items-center gap-3">
+            <a
+              href="https://github.com/himanshusaroha648"
+              target="_blank"
+              rel="noopener noreferrer"
+              aria-label="GitHub"
+              className="rounded-full border border-white/10 bg-card/60 p-2 text-muted transition hover:text-primary"
+            >
+              <Github size={18} />
+            </a>
+            <a
+              href="https://x.com/himanshusa4020"
+              target="_blank"
+              rel="noopener noreferrer"
+              aria-label="X / Twitter"
+              className="rounded-full border border-white/10 bg-card/60 p-2 text-muted transition hover:text-primary"
+            >
+              <Twitter size={18} />
+            </a>
+          </div>
+          <p className="text-xs text-center md:text-right">
+            <span className="text-muted/70">© {new Date().getFullYear()} AniVerse · Concept UI</span>
+            <br />
+            <span className="text-primary/80 font-semibold">⚠️ Project in Development</span>
+          </p>
+        </div>
       </div>
-    </Link>
+    </footer>
   );
 }
 
-export default EpisodeCard;
+export default Footer;
